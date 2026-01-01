@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "01-01-2026 06:04",
+  "last_updated": "01-01-2026 06:24",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -105,6 +105,113 @@
                 "file_saved": "success",
                 "Status_code": 200,
                 "file_path": "UPLOAD/hls/live/2005445/DAI06ME-BOS/master.m3u8"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "contentId": 1090498560,
+      "video_info": {
+        "title": "Super Smash 2025/26 Women's",
+        "shortDescription": "Canterbury Magicians face Central Hinds for their upcoming Super Smash 2025 battle at Hagley Oval. With both sides still searching for their first victory, this contest promises fireworks. Will Canterbury capitalize on home advantage, or will the Hinds snatch their breakthrough win away? Find out who comes on top as we bring you all the action from the Super Smash 2025/26 Women's, LIVE on Sony LIV.",
+        "longDescription": "Canterbury Magicians face Central Hinds for their upcoming Super Smash 2025 battle at Hagley Oval. With both sides still searching for their first victory, this contest promises fireworks. Will Canterbury capitalize on home advantage, or will the Hinds snatch their breakthrough win away? Find out who comes on top as we bring you all the action from the Super Smash 2025/26 Women's, LIVE on Sony LIV.",
+        "genres": [
+          "Cricket"
+        ],
+        "episodeTitle": "Canterbury Magicians vs Central Hinds - 1 Jan 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "01 Jan 2026, 06:10 AM",
+        "contractEndDate": "01 Jan 2026, 02:40 PM",
+        "originalAirDate": "01 Jan 2026, 06:40 AM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012742/1766776314788152_SuperSmash2526_womens_Canterbury_Magicians_vs_Central_Hinds_26dec_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012742/1766776394511152_SuperSmash2526_womens_Canterbury_Magicians_vs_Central_Hinds_26dec_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012735/1766743164000853_SuperSmash2526_masthead_mobile_v2_984x1182_Canterbury_Magicians_vs_Central_Hinds.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012746/1766821217629882_SuperSmash2526_Masthead_logo_Canterbury_Magicians_vs_Central_Hinds_Live.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012742/1766776394511152_SuperSmash2526_womens_Canterbury_Magicians_vs_Central_Hinds_26dec_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "PRO_MAX",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2105080/DAI24ME-V3/master.m3u8",
+              "ORG_videoURL": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2105080/DAI24ME-V3/std_lrh-800300010.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "unavailable",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1767228848833,
+              "JITENDRA_TIME": 1767228849,
+              "additionalDataJson": {
+                "ad_stack": "MT-SSB",
+                "audioCodec": "AAC",
+                "audio_quality": "STEREO",
+                "enc_format": "HLS",
+                "fps": 50,
+                "isDaiKey": false,
+                "partners": [
+                  "ALL"
+                ],
+                "resolution": "FULL_HD",
+                "videoCodec": "H264",
+                "video_quality": "SDR"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Thursday 1st of January 2026 06:24:09 AM",
+              "extra_data": {
+                "directory_created": "success",
+                "file_saved": "success",
+                "Status_code": 200,
+                "file_path": "UPLOAD/hls/live/2105080/DAI24ME-V3/master.m3u8"
               }
             }
           }
