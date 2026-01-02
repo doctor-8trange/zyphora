@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "02-01-2026 08:24",
+  "last_updated": "02-01-2026 08:44",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -117,6 +117,112 @@
                 "file_saved": "success",
                 "Status_code": 200,
                 "file_path": "UPLOAD/hls/live/2022320/DAI16ME-V3/master.m3u8"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "contentId": 1090498575,
+      "video_info": {
+        "title": "Super Smash 2025/26 Men's",
+        "shortDescription": "The stage is set for an epic T20 showdown as Auckland Aces collide with Wellington Firebirds on 2nd Jan 2025. Expect fireworks with the bat, relentless pace attacks, and game-changing moments under pressure. Every ball counts, every run matters, who will seize the glory in this high-stakes clash? Find out who comes on top as we bring you all the action from the Super Smash 2025/26 Men's, LIVE on Sony LIV.",
+        "longDescription": "The stage is set for an epic T20 showdown as Auckland Aces collide with Wellington Firebirds on 2nd Jan 2025. Expect fireworks with the bat, relentless pace attacks, and game-changing moments under pressure. Every ball counts, every run matters, who will seize the glory in this high-stakes clash? Find out who comes on top as we bring you all the action from the Super Smash 2025/26 Men's, LIVE on Sony LIV.",
+        "genres": [
+          "Cricket"
+        ],
+        "episodeTitle": "Auckland Aces vs Wellington Firebirds - 2 Jan 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/rRLzcNhORV-XPz4zV6jVrQ/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "02 Jan 2026, 08:25 AM",
+        "contractEndDate": "02 Jan 2026, 05:40 PM",
+        "originalAirDate": "02 Jan 2026, 08:55 AM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012742/1766777041935152_SuperSmash2526_mens_Auckland_Aces_vs_Wellington_Firebirds_26dec_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012742/1766777112102152_SuperSmash2526_mens_Auckland_Aces_vs_Wellington_Firebirds_26dec_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012736/1766743156000454_SuperSmash2526_masthead_mobile_v2_984x1182_Auckland_Aces_vs_Wellington_Firebirds.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012746/1766821217595881_SuperSmash2526_Masthead_logo_Auckland_Aces_vs_Wellington_Firebirds_Live.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012742/1766777112102152_SuperSmash2526_mens_Auckland_Aces_vs_Wellington_Firebirds_26dec_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "PRO_MAX",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2005444/DAI07ME-V3/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "unavailable",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1767323647845,
+              "JITENDRA_TIME": 1767323648,
+              "additionalDataJson": {
+                "ad_stack": "MT-SSB",
+                "audioCodec": "AAC",
+                "audio_quality": "STEREO",
+                "enc_format": "HLS",
+                "fps": 50,
+                "isDaiKey": false,
+                "partners": [
+                  "ALL"
+                ],
+                "resolution": "FULL_HD",
+                "videoCodec": "H264",
+                "video_quality": "SDR"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Friday 2nd of January 2026 08:44:08 AM",
+              "extra_data": {
+                "directory_created": "success",
+                "file_saved": "success",
+                "Status_code": 200,
+                "file_path": "UPLOAD/hls/live/2005444/DAI07ME-V3/master.m3u8"
               }
             }
           }
