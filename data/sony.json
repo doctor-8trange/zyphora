@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "03-01-2026 11:20",
+  "last_updated": "03-01-2026 11:40",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -380,6 +380,64 @@
       },
       "air_dates": {
         "contractStartDate": "08 Dec 2025, 10:00 PM",
+        "contractEndDate": "01 Feb 2026, 11:59 PM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012163/1765282108294383_AO25_9dec_dated_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012163/1765283050147383_AO25_9dec_dated_landscape_thumb.jpg",
+        "masthead_mobile_v1": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012161/1765281264995569_AO2026_GOB_masthead_mobile_v1.jpg",
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012161/1765281265001569_AO2026_GOB_masthead_mobile_v2_984x1182.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012161/1765281265216569_AO2026_GOB_Masthead_logo_Dated.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012163/1765283050147383_AO25_9dec_dated_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": []
+    },
+    {
+      "contentId": 1090498827,
+      "video_info": {
+        "title": "Upcoming - Australian Open 2026",
+        "shortDescription": "Tune in to catch all the action from the Australian Open 2026, exclusively on Sony LIV.",
+        "longDescription": "Tune in to catch all the action from the Australian Open 2026, exclusively on Sony LIV.",
+        "genres": [
+          "Tennis"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/022a7b03efb84cdda1cc80c82401a4e9/1767416262/baseline-std-v4/PROMO_AO_PROMO_50_SEC_HOR_DATED_APP_eng_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "03 Jan 2026, 10:00 AM",
         "contractEndDate": "01 Feb 2026, 11:59 PM",
         "originalAirDate": null
       },
