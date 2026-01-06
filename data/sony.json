@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "06-01-2026 08:40",
+  "last_updated": "06-01-2026 09:00",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -199,8 +199,8 @@
               "Maximum_Video_Quality": "SDR",
               "Maximum_Resolution": "FULL_HD",
               "trailer_url": "",
-              "systemTime": 1767654611588,
-              "JITENDRA_TIME": 1767654614,
+              "systemTime": 1767670212528,
+              "JITENDRA_TIME": 1767670213,
               "additionalDataJson": {
                 "ad_stack": "MT-SSB",
                 "audioCodec": "AAC",
@@ -217,12 +217,118 @@
               },
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
-              "Date": "Tuesday 6th of January 2026 04:40:14 AM",
+              "Date": "Tuesday 6th of January 2026 09:00:13 AM",
               "extra_data": {
                 "directory_created": "success",
                 "file_saved": "success",
                 "Status_code": 200,
                 "file_path": "UPLOAD/hls/live/2022320/DAI16ME-V3/master.m3u8"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "contentId": 1090498832,
+      "video_info": {
+        "title": "Super Smash 2025/26 Women's",
+        "shortDescription": "Auckland Hearts take the field with Otago Sparks at Eden Park Outer Oval. With strong batting, disciplined bowling, and home conditions in play, every over will matter. Expect a competitive contest as pride and crucial points are on the line. Find out who comes on top as we bring you all the action from the Super Smash 2025/26 Women's, LIVE on Sony LIV.",
+        "longDescription": "Auckland Hearts take the field with Otago Sparks at Eden Park Outer Oval. With strong batting, disciplined bowling, and home conditions in play, every over will matter. Expect a competitive contest as pride and crucial points are on the line. Find out who comes on top as we bring you all the action from the Super Smash 2025/26 Women's, LIVE on Sony LIV.",
+        "genres": [
+          "Cricket"
+        ],
+        "episodeTitle": "Auckland Hearts vs Otago Sparks - 6 Jan 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/9oYDt_BNSAGuLRwKC7wddQ/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "06 Jan 2026, 08:50 AM",
+        "contractEndDate": "06 Jan 2026, 05:20 PM",
+        "originalAirDate": "06 Jan 2026, 09:20 AM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012758/1766819082019385_SuperSmash2526_womens_Auckland-Hearts-vs-Otago-Sparks_27dec_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012758/1766819124741385_SuperSmash2526_womens_Auckland-Hearts-vs-Otago-Sparks_27dec_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012850/1767247650000239_SuperSmash2526_masthead_mobile_v2_984x1182_Auckland_Hearts_vs_Otago_Sparks.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012849/1767247650000703_SuperSmash2526_Masthead_logo_Auckland_Hearts_vs_Otago_Sparks_Live.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012758/1766819124741385_SuperSmash2526_womens_Auckland-Hearts-vs-Otago-Sparks_27dec_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "PRO_MAX",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2105080/DAI24ME-V3/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "unavailable",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1767670214196,
+              "JITENDRA_TIME": 1767670214,
+              "additionalDataJson": {
+                "ad_stack": "MT-SSB",
+                "audioCodec": "AAC",
+                "audio_quality": "STEREO",
+                "enc_format": "HLS",
+                "fps": 50,
+                "isDaiKey": false,
+                "partners": [
+                  "ALL"
+                ],
+                "resolution": "FULL_HD",
+                "videoCodec": "H264",
+                "video_quality": "SDR"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Tuesday 6th of January 2026 09:00:14 AM",
+              "extra_data": {
+                "directory_created": "success",
+                "file_saved": "success",
+                "Status_code": 200,
+                "file_path": "UPLOAD/hls/live/2105080/DAI24ME-V3/master.m3u8"
               }
             }
           }
