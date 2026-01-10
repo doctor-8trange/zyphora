@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "10-01-2026 21:20",
+  "last_updated": "10-01-2026 21:40",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -117,113 +117,6 @@
                 "file_saved": "success",
                 "Status_code": 200,
                 "file_path": "UPLOAD/hls/live/2037140/DAI20ME-V3/master.m3u8"
-              }
-            }
-          }
-        }
-      ]
-    },
-    {
-      "contentId": 1090492547,
-      "video_info": {
-        "title": "Indian Idol",
-        "shortDescription": "Indian Idol 16 – “Yaadon Ki Playlist” celebrates music that brings back cherished memories and emotions. For the first time ever, auditions go outdoors, traveling across India to discover raw talent, hosted by the legendary Udit Narayan, while Aditya Narayan returns as the main host. The judges - Vishal Dadlani, Shreya Ghoshal, and Badshah - search for voices that touch hearts. A season where every song is a memory, and every melody tells a story.",
-        "longDescription": "Indian Idol 16 – “Yaadon Ki Playlist” celebrates music that brings back cherished memories and emotions. For the first time ever, auditions go outdoors, traveling across India to discover raw talent, hosted by the legendary Udit Narayan, while Aditya Narayan returns as the main host. The judges - Vishal Dadlani, Shreya Ghoshal, and Badshah - search for voices that touch hearts. A season where every song is a memory, and every melody tells a story.",
-        "genres": [
-          "Reality",
-          "Music"
-        ],
-        "episodeTitle": "Indian Idol"
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": "https://dai.google.com/ssai/event/g1cPcUIdSQC_3FXsrgV5iA/master.m3u8",
-        "broadcast_channel": "SET",
-        "audio_language_list": [
-          {
-            "lang_code": "HIN",
-            "lang_label": "Hindi"
-          }
-        ],
-        "emfAttributes__audio_languages": "HIN",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD",
-          "videoType": "FULL_HD",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "HIN",
-              "isPreferred": true,
-              "audioLanguageLabel": "Hindi"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA"
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "10 Jan 2026, 07:40 PM",
-        "contractEndDate": "10 Jan 2026, 09:47 PM",
-        "originalAirDate": "10 Jan 2026, 07:40 PM"
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013216/1768047182043206_II26_GEN_10jan_Live_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013216/1768047145024206_II26_GEN_10jan26_Live_landscape_thumb.jpg",
-        "masthead_mobile_v1": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1700001014/mastheadMobileV1/1762772443560_./IndianIdol_2025_26_masthead_mobile_v1_1.jpg",
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1700001014/mastheadMobileV2/1762772464800_./IndianIdol_2025_26_masthead_mobile_v2_984x1182_1.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012922/1767437553240554_IDOL26_3dec_Masthead_Logo_SN.png",
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013216/1768047145024206_II26_GEN_10jan26_Live_landscape_thumb.jpg"
-      },
-      "MULTIPLE_AUDIO_LINKS": [
-        {
-          "LANGUAGE": "Hindi",
-          "LANG_CODE": "HIN",
-          "DATA": {
-            "JITENDRAUNATTI": {
-              "Device_Type": "PRO_MAX",
-              "message": "success",
-              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-II/master.m3u8",
-              "WIDEVINE": null,
-              "STREAMING_TYPE": true,
-              "audioLanguages": [
-                {
-                  "audioId": 1,
-                  "audioLanguageName": "HIN",
-                  "isPreferred": true,
-                  "audioLanguageLabel": "Hindi"
-                }
-              ],
-              "dai_asset_key": "unavailable",
-              "Maximum_Video_Quality": "SDR",
-              "Maximum_Resolution": "FULL_HD",
-              "trailer_url": "",
-              "systemTime": 1768055409915,
-              "JITENDRA_TIME": 1768055410,
-              "additionalDataJson": {
-                "ad_stack": "MT-SSB",
-                "audioCodec": "AAC",
-                "audio_quality": "STEREO",
-                "enc_format": "HLS",
-                "fps": 50,
-                "isDaiKey": false,
-                "partners": [
-                  "ALL"
-                ],
-                "resolution": "FULL_HD",
-                "videoCodec": "H264",
-                "video_quality": "SDR"
-              },
-              "Status_code": 200,
-              "content_type": "application/json; charset=utf-8",
-              "Date": "Saturday 10th of January 2026 08:00:10 PM",
-              "extra_data": {
-                "directory_created": "success",
-                "file_saved": "success",
-                "Status_code": 200,
-                "file_path": "UPLOAD/hls/live/2094590/DAI25ME-II/master.m3u8"
               }
             }
           }
