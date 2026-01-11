@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "11-01-2026 19:20",
+  "last_updated": "11-01-2026 19:40",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -124,6 +124,113 @@
       ]
     },
     {
+      "contentId": 1090492547,
+      "video_info": {
+        "title": "Indian Idol",
+        "shortDescription": "Indian Idol 16 – “Yaadon Ki Playlist” celebrates music that brings back cherished memories and emotions. For the first time ever, auditions go outdoors, traveling across India to discover raw talent, hosted by the legendary Udit Narayan, while Aditya Narayan returns as the main host. The judges - Vishal Dadlani, Shreya Ghoshal, and Badshah - search for voices that touch hearts. A season where every song is a memory, and every melody tells a story.",
+        "longDescription": "Indian Idol 16 – “Yaadon Ki Playlist” celebrates music that brings back cherished memories and emotions. For the first time ever, auditions go outdoors, traveling across India to discover raw talent, hosted by the legendary Udit Narayan, while Aditya Narayan returns as the main host. The judges - Vishal Dadlani, Shreya Ghoshal, and Badshah - search for voices that touch hearts. A season where every song is a memory, and every melody tells a story.",
+        "genres": [
+          "Reality",
+          "Music"
+        ],
+        "episodeTitle": "Indian Idol"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/g1cPcUIdSQC_3FXsrgV5iA/master.m3u8",
+        "broadcast_channel": "SET",
+        "audio_language_list": [
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          }
+        ],
+        "emfAttributes__audio_languages": "HIN",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "HIN",
+              "isPreferred": true,
+              "audioLanguageLabel": "Hindi"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "11 Jan 2026, 07:40 PM",
+        "contractEndDate": "11 Jan 2026, 09:45 PM",
+        "originalAirDate": "11 Jan 2026, 07:40 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013216/1768047182043206_II26_GEN_10jan_Live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013216/1768047145024206_II26_GEN_10jan26_Live_landscape_thumb.jpg",
+        "masthead_mobile_v1": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1700001014/mastheadMobileV1/1762772443560_./IndianIdol_2025_26_masthead_mobile_v1_1.jpg",
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1700001014/mastheadMobileV2/1762772464800_./IndianIdol_2025_26_masthead_mobile_v2_984x1182_1.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012922/1767437553240554_IDOL26_3dec_Masthead_Logo_SN.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013216/1768047145024206_II26_GEN_10jan26_Live_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "Hindi",
+          "LANG_CODE": "HIN",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "PRO_MAX",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-II/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "HIN",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "Hindi"
+                }
+              ],
+              "dai_asset_key": "unavailable",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1768140608728,
+              "JITENDRA_TIME": 1768140609,
+              "additionalDataJson": {
+                "ad_stack": "MT-SSB",
+                "audioCodec": "AAC",
+                "audio_quality": "STEREO",
+                "enc_format": "HLS",
+                "fps": 50,
+                "isDaiKey": false,
+                "partners": [
+                  "ALL"
+                ],
+                "resolution": "FULL_HD",
+                "videoCodec": "H264",
+                "video_quality": "SDR"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Sunday 11th of January 2026 07:40:09 PM",
+              "extra_data": {
+                "directory_created": "success",
+                "file_saved": "success",
+                "Status_code": 200,
+                "file_path": "UPLOAD/hls/live/2094590/DAI25ME-II/master.m3u8"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
       "contentId": 1090499226,
       "video_info": {
         "title": "Pakistan Tour of Sri Lanka 2026",
@@ -223,112 +330,6 @@
                 "file_saved": "success",
                 "Status_code": 200,
                 "file_path": "UPLOAD/hls/live/2018457/DAI35-criclive/master.m3u8"
-              }
-            }
-          }
-        }
-      ]
-    },
-    {
-      "contentId": 1090499183,
-      "video_info": {
-        "title": "The Emirates FA Cup 2025-26",
-        "shortDescription": "Derby County face Leeds United in a fixture steeped in rivalry. Leeds arrive as favorites, yet Derby will be eager to make Pride Park a difficult venue. Who will come out on top? Find out as we bring you all the action from The Emirates FA Cup 2025-26, LIVE on Sony LIV.",
-        "longDescription": "Derby County face Leeds United in a fixture steeped in rivalry. Leeds arrive as favorites, yet Derby will be eager to make Pride Park a difficult venue. Who will come out on top? Find out as we bring you all the action from The Emirates FA Cup 2025-26, LIVE on Sony LIV.",
-        "genres": [
-          "Football"
-        ],
-        "episodeTitle": "Derby County vs Leeds United - Round 3 - 11 Jan 2026"
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": "https://dai.google.com/ssai/event/j9BYvbuJQkWV13Zs1CrHUw/master.m3u8",
-        "broadcast_channel": "Sony Sports Ten 2",
-        "audio_language_list": [
-          {
-            "lang_code": "ENG",
-            "lang_label": "English"
-          }
-        ],
-        "emfAttributes__audio_languages": "ENG",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD",
-          "videoType": "FULL_HD",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "ENG",
-              "isPreferred": true,
-              "audioLanguageLabel": "English"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA"
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "11 Jan 2026, 04:50 PM",
-        "contractEndDate": "11 Jan 2026, 09:50 PM",
-        "originalAirDate": "11 Jan 2026, 05:20 PM"
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013167/1767949502862145_FA_CUP_26_RD3_Derby-County-vs-Leeds-Utd_9jan_live_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013167/1767949530498145_FA_CUP_26_RD3_Derby-County-vs-Leeds-Utd_9jan_Landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": null,
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006849/1755855925877711_Bundesliga2025_26_Match_Masthead_logo_LIVE.png",
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013167/1767949530498145_FA_CUP_26_RD3_Derby-County-vs-Leeds-Utd_9jan_Landscape_thumb.jpg"
-      },
-      "MULTIPLE_AUDIO_LINKS": [
-        {
-          "LANGUAGE": "English",
-          "LANG_CODE": "ENG",
-          "DATA": {
-            "JITENDRAUNATTI": {
-              "Device_Type": "PRO_MAX",
-              "message": "success",
-              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8",
-              "WIDEVINE": null,
-              "STREAMING_TYPE": true,
-              "audioLanguages": [
-                {
-                  "audioId": 1,
-                  "audioLanguageName": "ENG",
-                  "isPreferred": true,
-                  "audioLanguageLabel": "English"
-                }
-              ],
-              "dai_asset_key": "unavailable",
-              "Maximum_Video_Quality": "SDR",
-              "Maximum_Resolution": "FULL_HD",
-              "trailer_url": "",
-              "systemTime": 1768131012736,
-              "JITENDRA_TIME": 1768131022,
-              "additionalDataJson": {
-                "ad_stack": "MT-SSB",
-                "audioCodec": "AAC",
-                "audio_quality": "STEREO",
-                "enc_format": "HLS",
-                "fps": 50,
-                "isDaiKey": false,
-                "partners": [
-                  "ALL"
-                ],
-                "resolution": "FULL_HD",
-                "videoCodec": "H264",
-                "video_quality": "SDR"
-              },
-              "Status_code": 200,
-              "content_type": "application/json; charset=utf-8",
-              "Date": "Sunday 11th of January 2026 05:00:22 PM",
-              "extra_data": {
-                "directory_created": "success",
-                "file_saved": "failed",
-                "Status_code": 0,
-                "file_path": "UPLOAD/hls/live/2094587/DAI03ME-V3/master.m3u8"
               }
             }
           }
