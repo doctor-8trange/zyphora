@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "14-01-2026 10:40",
+  "last_updated": "14-01-2026 11:00",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "TN",
@@ -17,6 +17,112 @@
     "USAGE_GUIDE": []
   },
   "data": [
+    {
+      "contentId": 1090499540,
+      "video_info": {
+        "title": "Australian Open 2026",
+        "shortDescription": "Svitolina faces Anisimova in an exciting Australian Open Opening Week exhibition clash. Their clash promises high-intensity rallies and a battle of contrasting styles on the Melbourne hard courts. Watch all the action from the Australian Open 2026, only on Sony LIV. ",
+        "longDescription": "Svitolina faces Anisimova in an exciting Australian Open Opening Week exhibition clash. Their clash promises high-intensity rallies and a battle of contrasting styles on the Melbourne hard courts. Watch all the action from the Australian Open 2026, only on Sony LIV. ",
+        "genres": [
+          "Tennis"
+        ],
+        "episodeTitle": "Svitolina vs Anisimova - 14 Jan 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/XpIbI0pTQX-9mvR458k9aw/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "14 Jan 2026, 11:00 AM",
+        "contractEndDate": "14 Jan 2026, 08:30 PM",
+        "originalAirDate": "14 Jan 2026, 11:30 AM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013332/1768304688660693_AO26_Opening_week_Svitolina_vs_Anisimova_13jan_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013332/1768305435222693_AO26_Opening_week_Svitolina_vs_Anisimova_13jan_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013325/1768296742924833_AO2026_Match_Friendly_masthead_mobile_v2_984x1182_Svitolina_vs_Anisimova1.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013325/1768296743062833_AO2026_Match_Friendly_Masthead_logo_Svitolina_vs_Anisimova_Live.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013332/1768305435222693_AO26_Opening_week_Svitolina_vs_Anisimova_13jan_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-V3/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/XpIbI0pTQX-9mvR458k9aw/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1768368613581,
+              "DOCTOR_STRANGE": 1768368614,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Wednesday 14th of January 2026 11:00:14 AM",
+              "extra_data": {
+                "directory_created": "success",
+                "file_saved": "success",
+                "Status_code": 200,
+                "file_path": "UPLOAD/hls/live/2022316/DAI12ME-V3/master.m3u8"
+              }
+            }
+          }
+        }
+      ]
+    },
     {
       "contentId": 1090498898,
       "video_info": {
