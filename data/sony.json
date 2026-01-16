@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "16-01-2026 20:20",
+  "last_updated": "16-01-2026 20:40",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -17,6 +17,113 @@
     "USAGE_GUIDE": []
   },
   "data": [
+    {
+      "contentId": 1090498703,
+      "video_info": {
+        "title": "MasterChef India - Hindi",
+        "shortDescription": "MasterChef India returns with a landmark season that celebrates the soul of Indian cuisine. From elevated micro-cuisines to forgotten regional recipes, India takes centre stage like never before. For the first time ever, jodis compete together - bringing family legacies, emotion, and partnership into the kitchen. With iconinc judges Vikas Khanna, Ranveer Brar, and Kunal Kapur back together, the hunt begins for India's first MasterChef Jodi.",
+        "longDescription": "MasterChef India returns with a landmark season that celebrates the soul of Indian cuisine. From elevated micro-cuisines to forgotten regional recipes, India takes centre stage like never before. For the first time ever, jodis compete together - bringing family legacies, emotion, and partnership into the kitchen. With iconinc judges Vikas Khanna, Ranveer Brar, and Kunal Kapur back together, the hunt begins for India's first MasterChef Jodi.",
+        "genres": [
+          "Reality",
+          "Cookery"
+        ],
+        "episodeTitle": "MasterChef India - Hindi"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/820xr_9-QzGd_B1fhMg8ig/master.m3u8",
+        "broadcast_channel": "SET",
+        "audio_language_list": [
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          }
+        ],
+        "emfAttributes__audio_languages": "HIN",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "HIN",
+              "isPreferred": true,
+              "audioLanguageLabel": "Hindi"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "16 Jan 2026, 08:30 PM",
+        "contractEndDate": "16 Jan 2026, 10:18 PM",
+        "originalAirDate": "16 Jan 2026, 08:30 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012988/1767619108084530_MCI_S4_5jan_simulcast_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012988/1767619329396530_MCI_S4_5jan_simulcast_landscape_thumb.jpg",
+        "masthead_mobile_v1": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1700001090/mastheadMobileV1/1766567652406_./MCIS4_3_masthead_mobile_v1.jpg",
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013487/1768570910191320_MC_episodic_16jan26_masthead_mobile_v2.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013027/1767690629559510_MCI_S4_streaming_latest_EP_6jan_masthead_logo.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012988/1767619329396530_MCI_S4_5jan_simulcast_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "Hindi",
+          "LANG_CODE": "HIN",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2037142/DAI22ME-MCI/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "HIN",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "Hindi"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/820xr_9-QzGd_B1fhMg8ig/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1768576210495,
+              "DOCTOR_STRANGE": 1768576211,
+              "additionalDataJson": {
+                "audio_quality": "STEREO",
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "video_quality": "SDR",
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "fps": 50,
+                "isDaiKey": false,
+                "partners": [
+                  "ALL"
+                ],
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Friday 16th of January 2026 08:40:11 PM",
+              "extra_data": {
+                "directory_created": "success",
+                "file_saved": "success",
+                "Status_code": 200,
+                "file_path": "UPLOAD/hls/live/2037142/DAI22ME-MCI/master.m3u8"
+              }
+            }
+          }
+        }
+      ]
+    },
     {
       "contentId": 1090498688,
       "video_info": {
@@ -272,6 +379,166 @@
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
               "Date": "Friday 16th of January 2026 05:40:12 PM",
+              "extra_data": {
+                "directory_created": "success",
+                "file_saved": "success",
+                "Status_code": 200,
+                "file_path": "UPLOAD/hls/live/2037139/DAI19ME-V3/master.m3u8"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "contentId": 1090499624,
+      "video_info": {
+        "title": "Pro Wrestling League 2026",
+        "shortDescription": "Punjab Royals are set to battle Haryana Thunders in the Pro Wrestling League 2026, promising a clash of power and strategy. With pride and points on the line, fans can expect an electrifying showdown on the mat. Tune in to catch all the action from Pro Wrestling League 2026, LIVE on Sony LIV.",
+        "longDescription": "Punjab Royals are set to battle Haryana Thunders in the Pro Wrestling League 2026, promising a clash of power and strategy. With pride and points on the line, fans can expect an electrifying showdown on the mat. Tune in to catch all the action from Pro Wrestling League 2026, LIVE on Sony LIV.",
+        "genres": [
+          "Wrestling"
+        ],
+        "episodeTitle": "Punjab Royals vs Haryana Thunders - 16 Jan 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/Jh7uKPjJT5ew26R51u2hLg/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          },
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG,HIN",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "16 Jan 2026, 08:30 PM",
+        "contractEndDate": "17 Jan 2026, 02:30 AM",
+        "originalAirDate": "16 Jan 2026, 09:00 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013429/176847403420889_PWL_26_Punjab-Royals-vs-Haryana-Thunders_15jan_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013429/176847408542089_PWL_26_Punjab-Royals-vs-Haryana-Thunders_15jan_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013474/1768546345639587_PWL2026_MATCH_masthead_mobile_v2_984x1182_Punjab_Royals_VS_Haryana_Thunders.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013474/1768546345674587_PWL2026_MATCH_Masthead_logo_Punjab_Royals_VS_Haryana_Thunders_LIVE.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013429/176847408542089_PWL_26_Punjab-Royals-vs-Haryana-Thunders_15jan_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/Jh7uKPjJT5ew26R51u2hLg/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1768576212560,
+              "DOCTOR_STRANGE": 1768576212,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Friday 16th of January 2026 08:40:12 PM",
+              "extra_data": {
+                "directory_created": "success",
+                "file_saved": "success",
+                "Status_code": 200,
+                "file_path": "UPLOAD/hls/live/2022320/DAI16ME-V3/master.m3u8"
+              }
+            }
+          }
+        },
+        {
+          "LANGUAGE": "Hindi",
+          "LANG_CODE": "HIN",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/jOHc0xjyQUWiTpMoswilcg/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1768576213886,
+              "DOCTOR_STRANGE": 1768576213,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Friday 16th of January 2026 08:40:13 PM",
               "extra_data": {
                 "directory_created": "success",
                 "file_saved": "success",
