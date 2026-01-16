@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "16-01-2026 19:20",
+  "last_updated": "16-01-2026 19:40",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -17,6 +17,112 @@
     "USAGE_GUIDE": []
   },
   "data": [
+    {
+      "contentId": 1090498688,
+      "video_info": {
+        "title": "Shark Tank India",
+        "shortDescription": "New season. New Sharks. Bigger dreams. Shark Tank India returns with Season 5! India's boldest entrepreneurs step into the Tank to pitch groundbreaking ideas and secure investments from an expanded panel of Sharks – Aman Gupta, Anupam Mittal, Namita Thapar, Vineeta Singh, Ritesh Agarwal, Kunal Bahl, Amit Jain, Mohit Yadav, Varun Alagh, Kanika Tekriwal, Viraj Bahl, Shaily Mehrotra, and Hardik Kothiya. The stakes have never been higher!",
+        "longDescription": "New season. New Sharks. Bigger dreams. Shark Tank India returns with Season 5! India's boldest entrepreneurs step into the Tank to pitch groundbreaking ideas and secure investments from an expanded panel of Sharks – Aman Gupta, Anupam Mittal, Namita Thapar, Vineeta Singh, Ritesh Agarwal, Kunal Bahl, Amit Jain, Mohit Yadav, Varun Alagh, Kanika Tekriwal, Viraj Bahl, Shaily Mehrotra, and Hardik Kothiya. The stakes have never been higher!",
+        "genres": [
+          "Reality"
+        ],
+        "episodeTitle": "Shark Tank India"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/-9b6XJc7R-6Qneau7JKlJg/master.m3u8",
+        "broadcast_channel": "SET",
+        "audio_language_list": [
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          }
+        ],
+        "emfAttributes__audio_languages": "HIN",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "HIN",
+              "isPreferred": true,
+              "audioLanguageLabel": "Hindi"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "16 Jan 2026, 07:30 PM",
+        "contractEndDate": "17 Jan 2026, 12:11 AM",
+        "originalAirDate": "16 Jan 2026, 07:30 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012990/1767619815434921_sti26_simulcast_5jan26_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012990/1767619918818921_sti26_simulcast_5jan26_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013485/1768570491824998_STIS5_episodic_16jan26_masthead_mobile_v2.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013027/1767690556411510_STI_S5_streaming_latest_EP_6jan_masthead_logo.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012990/1767619918818921_sti26_simulcast_5jan26_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "Hindi",
+          "LANG_CODE": "HIN",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "HIN",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "Hindi"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/-9b6XJc7R-6Qneau7JKlJg/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1768572608907,
+              "DOCTOR_STRANGE": 1768572609,
+              "additionalDataJson": {
+                "audio_quality": "STEREO",
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "video_quality": "SDR",
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "fps": 50,
+                "isDaiKey": false,
+                "partners": [
+                  "ALL"
+                ],
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Friday 16th of January 2026 07:40:09 PM",
+              "extra_data": {
+                "directory_created": "success",
+                "file_saved": "success",
+                "Status_code": 200,
+                "file_path": "UPLOAD/hls/live/2094590/DAI25ME-STI/master.m3u8"
+              }
+            }
+          }
+        }
+      ]
+    },
     {
       "contentId": 1090499623,
       "video_info": {
