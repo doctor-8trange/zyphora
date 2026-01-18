@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "18-01-2026 18:40",
+  "last_updated": "18-01-2026 19:20",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -18,39 +18,27 @@
   },
   "data": [
     {
-      "contentId": 1090499148,
+      "contentId": 1090499868,
       "video_info": {
-        "title": "Australian Open 2026",
-        "shortDescription": "Watch all the action from the season's first Grand Slam as Australian Open 2026 brings the world's finest players to the hard courts of Melbourne, LIVE on Sony LIV.",
-        "longDescription": "Watch all the action from the season's first Grand Slam as Australian Open 2026 brings the world's finest players to the hard courts of Melbourne, LIVE on Sony LIV.",
+        "title": "Bundesliga 2025-26",
+        "shortDescription": "VfB Stuttgart hosts Union Berlin Stuttgart sit in the top four with 32 points from 17 games, pushing hard for Champions League. Union are ninth on 23 points, hovering around the European-chasing pack but lacking consistency in results. Find out as we bring you all the action, LIVE on Sony LIV. ",
+        "longDescription": "VfB Stuttgart hosts Union Berlin Stuttgart sit in the top four with 32 points from 17 games, pushing hard for Champions League. Union are ninth on 23 points, hovering around the European-chasing pack but lacking consistency in results. Find out as we bring you all the action, LIVE on Sony LIV. ",
         "genres": [
-          "Tennis"
+          "Football"
         ],
-        "episodeTitle": "Stream 1 - 18 Jan 2026"
+        "episodeTitle": "VfB Stuttgart vs Union Berlin - MD 18 - 18 Jan 2026"
       },
       "stream_info": {
         "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": "https://dai.google.com/ssai/event/Vrn2Itc7TFm6YzQYNzhDzg/master.m3u8",
-        "broadcast_channel": "Sony Sports Ten 5",
+        "dai_asset_key": "https://dai.google.com/ssai/event/FMNZr97pRseeuxxa24Tu6A/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 2",
         "audio_language_list": [
           {
             "lang_code": "ENG",
             "lang_label": "English"
-          },
-          {
-            "lang_code": "HIN",
-            "lang_label": "Hindi"
-          },
-          {
-            "lang_code": "TAM",
-            "lang_label": "Tamil"
-          },
-          {
-            "lang_code": "TEL",
-            "lang_label": "Telugu"
           }
         ],
-        "emfAttributes__audio_languages": "ENG,HIN,TAM,TEL",
+        "emfAttributes__audio_languages": "ENG",
         "platformVariants": {
           "assetType": "MASTER",
           "assetName": "VOD_FULL_HD",
@@ -68,21 +56,72 @@
         }
       },
       "air_dates": {
-        "contractStartDate": "18 Jan 2026, 05:00 AM",
-        "contractEndDate": "18 Jan 2026, 11:00 PM",
-        "originalAirDate": "18 Jan 2026, 05:00 AM"
+        "contractStartDate": "18 Jan 2026, 07:20 PM",
+        "contractEndDate": "19 Jan 2026, 12:20 AM",
+        "originalAirDate": "18 Jan 2026, 07:50 PM"
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013574/1768705667926787_AO26_studio_show_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013574/1768705392270787_AO26_studio_show_landscape_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013455/1768496853113550_bliga26_MD18_Stuttgart_vs_Union_Berlin_15jan_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013455/1768496908613550_bliga26_MD18_Stuttgart_vs_Union_Berlin_15jan_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013574/1768705290147787_AO26_studio_show_Masthead_mobile_v2_.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013591/176872982955368_AO26_Generic_live_Masthead_logo.png",
+        "masthead_mobile_v2": null,
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009146/1758606495748941_UEL25_26_GENERIC_Masthead_logo_LIVE1.png",
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013574/1768705392270787_AO26_studio_show_landscape_thumb.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013455/1768496908613550_bliga26_MD18_Stuttgart_vs_Union_Berlin_15jan_landscape_thumb.jpg"
       },
-      "MULTIPLE_AUDIO_LINKS": []
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/FMNZr97pRseeuxxa24Tu6A/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1768744207703,
+              "DOCTOR_STRANGE": 1768744214,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Sunday 18th of January 2026 07:20:14 PM",
+              "extra_data": {
+                "directory_created": "success",
+                "file_saved": "success",
+                "Status_code": 200,
+                "file_path": "UPLOAD/hls/live/2094588/DAI04ME-V3/master.m3u8"
+              }
+            }
+          }
+        }
+      ]
     }
   ],
   "upcoming": [
