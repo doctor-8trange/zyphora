@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "19-01-2026 08:20",
+  "last_updated": "19-01-2026 08:40",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -83,6 +83,112 @@
         "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013628/1768726800000812_AO2026_Landscape_Thumb_Medvedev_vs_De_Jong_SP.jpg"
       },
       "MULTIPLE_AUDIO_LINKS": []
+    },
+    {
+      "contentId": 1090499956,
+      "video_info": {
+        "title": "Super Smash 2025/26 Men's",
+        "shortDescription": "Wellington Firebirds take on Canterbury Kings for their Super Smash clash at the Basin Reserve, Wellington. With both sides reeling from defeats in their previous outings, each will be desperate to bounce back and gain momentum. Can the hosts finally end their winless run, or will the visitors seize a crucial victory on the road? Find out who comes on top as we bring you all the action from the Super Smash 2025/26 Men's, LIVE on Sony LIV.",
+        "longDescription": "Wellington Firebirds take on Canterbury Kings for their Super Smash clash at the Basin Reserve, Wellington. With both sides reeling from defeats in their previous outings, each will be desperate to bounce back and gain momentum. Can the hosts finally end their winless run, or will the visitors seize a crucial victory on the road? Find out who comes on top as we bring you all the action from the Super Smash 2025/26 Men's, LIVE on Sony LIV.",
+        "genres": [
+          "Cricket"
+        ],
+        "episodeTitle": "Wellington Firebirds vs Canterbury Kings - 19 Jan 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/dSaLCByHRviH63QVPouVgA/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "19 Jan 2026, 08:25 AM",
+        "contractEndDate": "19 Jan 2026, 05:10 PM",
+        "originalAirDate": "19 Jan 2026, 08:55 AM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012968/176759907443811_SuperSmash2526_mens_Wellington_Firebirds_vs_Canterbury_Kings_5jan_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012968/176759890452311_SuperSmash2526_mens_Wellington_Firebirds_vs_Canterbury_Kings_5jan_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013298/1768210800000312_SuperSmash2526_masthead_mobile_v2_984x1182_Wellington_Firebirds_vs_Canterbury_Kings.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013298/1768210800000312_SuperSmash2526_Masthead_logo_Wellington_Firebirds_vs_Canterbury_Kings_Live.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012968/176759890452311_SuperSmash2526_mens_Wellington_Firebirds_vs_Canterbury_Kings_5jan_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2105080/DAI24ME-V3/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/dSaLCByHRviH63QVPouVgA/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1768792208285,
+              "DOCTOR_STRANGE": 1768792208,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Monday 19th of January 2026 08:40:08 AM",
+              "extra_data": {
+                "directory_created": "success",
+                "file_saved": "success",
+                "Status_code": 200,
+                "file_path": "UPLOAD/hls/live/2105080/DAI24ME-V3/master.m3u8"
+              }
+            }
+          }
+        }
+      ]
     }
   ],
   "upcoming": [
