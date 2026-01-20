@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "20-01-2026 20:20",
+  "last_updated": "20-01-2026 20:40",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -124,6 +124,113 @@
       ]
     },
     {
+      "contentId": 1090498703,
+      "video_info": {
+        "title": "MasterChef India - Hindi",
+        "shortDescription": "MasterChef India returns with a landmark season that celebrates the soul of Indian cuisine. From elevated micro-cuisines to forgotten regional recipes, India takes centre stage like never before. For the first time ever, jodis compete together - bringing family legacies, emotion, and partnership into the kitchen. With iconinc judges Vikas Khanna, Ranveer Brar, and Kunal Kapur back together, the hunt begins for India's first MasterChef Jodi.",
+        "longDescription": "MasterChef India returns with a landmark season that celebrates the soul of Indian cuisine. From elevated micro-cuisines to forgotten regional recipes, India takes centre stage like never before. For the first time ever, jodis compete together - bringing family legacies, emotion, and partnership into the kitchen. With iconinc judges Vikas Khanna, Ranveer Brar, and Kunal Kapur back together, the hunt begins for India's first MasterChef Jodi.",
+        "genres": [
+          "Reality",
+          "Cookery"
+        ],
+        "episodeTitle": "MasterChef India - Hindi"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/820xr_9-QzGd_B1fhMg8ig/master.m3u8",
+        "broadcast_channel": "SET",
+        "audio_language_list": [
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          }
+        ],
+        "emfAttributes__audio_languages": "HIN",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "HIN",
+              "isPreferred": true,
+              "audioLanguageLabel": "Hindi"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "20 Jan 2026, 08:30 PM",
+        "contractEndDate": "20 Jan 2026, 10:11 PM",
+        "originalAirDate": "20 Jan 2026, 08:30 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012988/1767619108084530_MCI_S4_5jan_simulcast_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012988/1767619329396530_MCI_S4_5jan_simulcast_landscape_thumb.jpg",
+        "masthead_mobile_v1": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1700001090/mastheadMobileV1/1766567652406_./MCIS4_3_masthead_mobile_v1.jpg",
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1700001090/mastheadMobileV2/1767626300763_./MCIS4_3_masthead_mobile_v2_984x1182_SP_2_1.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013027/1767690629559510_MCI_S4_streaming_latest_EP_6jan_masthead_logo.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012988/1767619329396530_MCI_S4_5jan_simulcast_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "Hindi",
+          "LANG_CODE": "HIN",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2037142/DAI22ME-MCI/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "HIN",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "Hindi"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/820xr_9-QzGd_B1fhMg8ig/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1768921807249,
+              "DOCTOR_STRANGE": 1768921810,
+              "additionalDataJson": {
+                "audio_quality": "STEREO",
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "video_quality": "SDR",
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "fps": 50,
+                "isDaiKey": false,
+                "partners": [
+                  "ALL"
+                ],
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Tuesday 20th of January 2026 08:40:10 PM",
+              "extra_data": {
+                "directory_created": "success",
+                "file_saved": "success",
+                "Status_code": 200,
+                "file_path": "UPLOAD/hls/live/2037142/DAI22ME-MCI/master.m3u8"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
       "contentId": 1090500152,
       "video_info": {
         "title": "Pro Wrestling League 2026",
@@ -181,6 +288,112 @@
         "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013442/1768477064284666_PWL_26_Punjab-Royals-vs-Tiigers-Of-Mumbai-Dangal_15jan_landscape_thumb.jpg"
       },
       "MULTIPLE_AUDIO_LINKS": []
+    },
+    {
+      "contentId": 1090499750,
+      "video_info": {
+        "title": "UEFA Champions League 2025-26",
+        "shortDescription": "Kairat Almaty welcomes Belgian powerhouse Club Brugge for a crucial Matchday 7 showdown as both sides battle to strengthen their European standing. The hosts aim to spring a surprise in front of their home fans, while Brugge look to assert their dominance with the knockout rounds approaching. With high stakes on the line and momentum up for grabs, this clash promises intensity, ambition, and a pivotal result for both teams. Tune in to catch all the action from UEFA Champions League 2025-26, LIVE & exclusively on Sony LIV.",
+        "longDescription": "Kairat Almaty welcomes Belgian powerhouse Club Brugge for a crucial Matchday 7 showdown as both sides battle to strengthen their European standing. The hosts aim to spring a surprise in front of their home fans, while Brugge look to assert their dominance with the knockout rounds approaching. With high stakes on the line and momentum up for grabs, this clash promises intensity, ambition, and a pivotal result for both teams. Tune in to catch all the action from UEFA Champions League 2025-26, LIVE & exclusively on Sony LIV.",
+        "genres": [
+          "Football"
+        ],
+        "episodeTitle": "Kairat Almaty vs Club Brugge - MD 7 - 20 Jan 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/hLD1ztoKQDSyQ8w2fAJPrg/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 2",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "20 Jan 2026, 08:25 PM",
+        "contractEndDate": "21 Jan 2026, 01:25 AM",
+        "originalAirDate": "20 Jan 2026, 08:55 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013411/1768374055732129_UCL_26_MD7_Kairat-Almaty-vs-Club-Brugge_14jan_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013411/1768374097033129_UCL_26_MD7_Kairat-Almaty-vs-Club-Brugge_14jan_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": null,
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009146/1758606495748941_UEL25_26_GENERIC_Masthead_logo_LIVE1.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013411/1768374097033129_UCL_26_MD7_Kairat-Almaty-vs-Club-Brugge_14jan_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2018458/DAI10ME-V3/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/hLD1ztoKQDSyQ8w2fAJPrg/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1768921814026,
+              "DOCTOR_STRANGE": 1768921814,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Tuesday 20th of January 2026 08:40:14 PM",
+              "extra_data": {
+                "directory_created": "success",
+                "file_saved": "success",
+                "Status_code": 200,
+                "file_path": "UPLOAD/hls/live/2018458/DAI10ME-V3/master.m3u8"
+              }
+            }
+          }
+        }
+      ]
     }
   ],
   "upcoming": [
