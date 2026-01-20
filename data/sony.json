@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "21-01-2026 02:20",
+  "last_updated": "21-01-2026 02:40",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -993,6 +993,64 @@
         "circular_image": null,
         "image_600x900_clean": null,
         "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013675/1768825513539216_UEL-MD-7_Promo-thumbs_landscape.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": []
+    },
+    {
+      "contentId": 1090500480,
+      "video_info": {
+        "title": "UFC 324 - Gaethje vs Pimblett ",
+        "shortDescription": "Catch all the action from UFC 324 - Gaethje vs Pimblett, only on Sony LIV.",
+        "longDescription": "Catch all the action from UFC 324 - Gaethje vs Pimblett, only on Sony LIV.",
+        "genres": [
+          "Fight Sports"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "Sony Sports Ten 2",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/7015f0fe31fc4fc6b7efb85db4c868a8/1768935517/baseline-std-v4/PROMO_UFC_324_PROMO_30SEC_HOR_DATED_APP_eng_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "21 Jan 2026, 12:15 AM",
+        "contractEndDate": "25 Jan 2026, 05:00 AM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013805/1768941120418486_UFC_21jan_Landscape_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013805/1768941120418486_UFC_21jan_Landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": null,
+        "masthead_logo": null,
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013805/1768941120418486_UFC_21jan_Landscape_thumb.jpg"
       },
       "MULTIPLE_AUDIO_LINKS": []
     }
