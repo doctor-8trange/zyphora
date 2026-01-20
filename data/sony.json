@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "20-01-2026 10:20",
+  "last_updated": "20-01-2026 10:40",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -604,6 +604,112 @@
       ]
     },
     {
+      "contentId": 1090498788,
+      "video_info": {
+        "title": "Australian Open 2026",
+        "shortDescription": "Catch all the exciting tennis action from the Australian Open 2026  live on Sony LIV.",
+        "longDescription": "Catch all the exciting tennis action from the Australian Open 2026  live on Sony LIV.",
+        "genres": [
+          "Tennis"
+        ],
+        "episodeTitle": "Court 14 - 20 Jan 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/4J4_-svnTLaJXtLb7utedw/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "20 Jan 2026, 05:00 AM",
+        "contractEndDate": "20 Jan 2026, 11:00 PM",
+        "originalAirDate": "20 Jan 2026, 05:30 AM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013734/176888424328962_AO26_ISARO_POONACHA_vs_MARTINEZ_MUNAR_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013734/176888462615162_AO26_ISARO_POONACHA_vs_MARTINEZ_MUNAR_landscape_thumb_SP.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": null,
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013570/1768700528616955_AO26_round1_Masthead_logo.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013734/176888462615162_AO26_ISARO_POONACHA_vs_MARTINEZ_MUNAR_landscape_thumb_SP.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2037140/DAI20ME-AO/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/4J4_-svnTLaJXtLb7utedw/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1768881025435,
+              "DOCTOR_STRANGE": 1768881026,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Tuesday 20th of January 2026 09:20:26 AM",
+              "extra_data": {
+                "directory_created": "success",
+                "file_saved": "success",
+                "Status_code": 200,
+                "file_path": "UPLOAD/hls/live/2037140/DAI20ME-AO/master.m3u8"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
       "contentId": 1090498783,
       "video_info": {
         "title": "Australian Open 2026",
@@ -925,12 +1031,12 @@
       "contentId": 1090498787,
       "video_info": {
         "title": "Australian Open 2026",
-        "shortDescription": "Watch all the exclusive action from the Australian Open as Alexandrova/Williams takes on Arango/Jacquemot in the Round of 64, LIVE on Sony LIV.",
-        "longDescription": "Watch all the exclusive action from the Australian Open as Alexandrova/Williams takes on Arango/Jacquemot in the Round of 64, LIVE on Sony LIV.",
+        "shortDescription": "Catch all the exciting tennis action from the Australian Open 2026  live on Sony LIV.",
+        "longDescription": "Catch all the exciting tennis action from the Australian Open 2026  live on Sony LIV.",
         "genres": [
           "Tennis"
         ],
-        "episodeTitle": "Alexandrova/Williams vs Arango/Jacquemot - Women's Doubles - 20 Jan 2026"
+        "episodeTitle": "Court 8 - 20 Jan 2026"
       },
       "stream_info": {
         "Maximum_Video_Quality": "SDR",
@@ -1189,112 +1295,6 @@
       ]
     },
     {
-      "contentId": 1090498788,
-      "video_info": {
-        "title": "Australian Open 2026",
-        "shortDescription": "Watch all the exclusive action from the Australian Open as Eikeri/Neel takes on Jovic/Mboko in the Round of 64, LIVE on Sony LIV.",
-        "longDescription": "Watch all the exclusive action from the Australian Open as Eikeri/Neel takes on Jovic/Mboko in the Round of 64, LIVE on Sony LIV.",
-        "genres": [
-          "Tennis"
-        ],
-        "episodeTitle": "Eikeri/Neel vs Jovic/Mboko - Women's Doubles - 20 Jan 2026"
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": "https://dai.google.com/ssai/event/4J4_-svnTLaJXtLb7utedw/master.m3u8",
-        "broadcast_channel": "Sony Sports Ten 5",
-        "audio_language_list": [
-          {
-            "lang_code": "ENG",
-            "lang_label": "English"
-          }
-        ],
-        "emfAttributes__audio_languages": "ENG",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD",
-          "videoType": "FULL_HD",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "ENG",
-              "isPreferred": true,
-              "audioLanguageLabel": "English"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA"
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "20 Jan 2026, 05:00 AM",
-        "contractEndDate": "20 Jan 2026, 11:00 PM",
-        "originalAirDate": "20 Jan 2026, 05:30 AM"
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013517/1768635899364986_AO26_Court14_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013517/1768636878706986_AO26_Court14_r1_landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": null,
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013570/1768700528616955_AO26_round1_Masthead_logo.png",
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013517/1768636878706986_AO26_Court14_r1_landscape_thumb.jpg"
-      },
-      "MULTIPLE_AUDIO_LINKS": [
-        {
-          "LANGUAGE": "English",
-          "LANG_CODE": "ENG",
-          "DATA": {
-            "JITENDRAUNATTI": {
-              "Device_Type": "LITE",
-              "message": "success",
-              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2037140/DAI20ME-AO/master.m3u8",
-              "WIDEVINE": null,
-              "STREAMING_TYPE": true,
-              "audioLanguages": [
-                {
-                  "audioId": 1,
-                  "audioLanguageName": "ENG",
-                  "isPreferred": true,
-                  "audioLanguageLabel": "English"
-                }
-              ],
-              "dai_asset_key": "https://dai.google.com/ssai/event/4J4_-svnTLaJXtLb7utedw/master.m3u8",
-              "Maximum_Video_Quality": "SDR",
-              "Maximum_Resolution": "FULL_HD",
-              "trailer_url": "",
-              "systemTime": 1768881025435,
-              "DOCTOR_STRANGE": 1768881026,
-              "additionalDataJson": {
-                "enc_format": "HLS",
-                "resolution": "FULL_HD",
-                "audio_quality": "STEREO",
-                "video_quality": "SDR",
-                "fps": 25,
-                "videoCodec": "H264",
-                "audioCodec": "AAC",
-                "partners": [
-                  "ALL"
-                ],
-                "isDaiKey": false,
-                "ad_stack": "MT-SSB"
-              },
-              "Status_code": 200,
-              "content_type": "application/json; charset=utf-8",
-              "Date": "Tuesday 20th of January 2026 09:20:26 AM",
-              "extra_data": {
-                "directory_created": "success",
-                "file_saved": "success",
-                "Status_code": 200,
-                "file_path": "UPLOAD/hls/live/2037140/DAI20ME-AO/master.m3u8"
-              }
-            }
-          }
-        }
-      ]
-    },
-    {
       "contentId": 1090499146,
       "video_info": {
         "title": "Australian Open 2026",
@@ -1510,12 +1510,12 @@
       "contentId": 1090498784,
       "video_info": {
         "title": "Australian Open 2026",
-        "shortDescription": "Watch all the exclusive action from the Australian Open as Giovanni Mpetshi Perricard takes on Sebastian Baez in the Round of 128, LIVE on Sony LIV.",
-        "longDescription": "Watch all the exclusive action from the Australian Open as Giovanni Mpetshi Perricard takes on Sebastian Baez in the Round of 128, LIVE on Sony LIV.",
+        "shortDescription": "Catch all the exciting tennis action from the Australian Open 2026  live on Sony LIV.",
+        "longDescription": "Catch all the exciting tennis action from the Australian Open 2026  live on Sony LIV.",
         "genres": [
           "Tennis"
         ],
-        "episodeTitle": "Giovanni Mpetshi Perricard vs Sebastian Baez - Men's Singles - 20 Jan 2026"
+        "episodeTitle": "Court 5 - 20 Jan 2026"
       },
       "stream_info": {
         "Maximum_Video_Quality": "SDR",
@@ -2163,14 +2163,14 @@
         "originalAirDate": null
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013733/1768882978819358_UCL_SportingSP_vs_PSG_Portrait_thumb_ddt.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013733/1768883043652358_UCL_SportingSP_vs_PSG1_landscape_thumb_ddt.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013738/176888517651842_UCL_SlaviaPrague_vs_Barcelona_rev_Portrait_thumb_ddt.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013738/176888522766842_UCL_SlaviaPrague_vs_Barcelona_rev_Landscape_thumb_ddt.jpg",
         "masthead_mobile_v1": null,
         "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013490/1768569754589211_UCL26_MD7_liverpool_and_barcelona_16jan_dated_combo_masthead_mobile_v2.jpg",
         "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012133/1757599136000607_ucl2526_8dec_Masthead_logo.png",
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013733/1768883043652358_UCL_SportingSP_vs_PSG1_landscape_thumb_ddt.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013738/176888522766842_UCL_SlaviaPrague_vs_Barcelona_rev_Landscape_thumb_ddt.jpg"
       },
       "MULTIPLE_AUDIO_LINKS": []
     },
