@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "20-01-2026 16:20",
+  "last_updated": "20-01-2026 16:40",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -556,12 +556,12 @@
       "contentId": 1090498785,
       "video_info": {
         "title": "Australian Open 2026",
-        "shortDescription": "Watch all the exclusive action from the Australian Open as James Duckworth takes on Dino Prizmic in the Round of 128, LIVE on Sony LIV.",
-        "longDescription": "Watch all the exclusive action from the Australian Open as James Duckworth takes on Dino Prizmic in the Round of 128, LIVE on Sony LIV.",
+        "shortDescription": "Catch all the exciting tennis action from the Australian Open 2026  live on Sony LIV.",
+        "longDescription": "Catch all the exciting tennis action from the Australian Open 2026  live on Sony LIV.",
         "genres": [
           "Tennis"
         ],
-        "episodeTitle": "James Duckworth vs Dino Prizmic - Men's Singles - 20 Jan 2026"
+        "episodeTitle": "Court 6 - 20 Jan 2026"
       },
       "stream_info": {
         "Maximum_Video_Quality": "SDR",
@@ -652,112 +652,6 @@
                 "file_saved": "success",
                 "Status_code": 200,
                 "file_path": "UPLOAD/hls/live/2022319/DAI15ME-AO/master.m3u8"
-              }
-            }
-          }
-        }
-      ]
-    },
-    {
-      "contentId": 1090498790,
-      "video_info": {
-        "title": "Australian Open 2026",
-        "shortDescription": "Watch all the exclusive action from the Australian Open as Hijikata/Schoolkate takes on Johnson/Zielinski in the Round of 64, LIVE on Sony LIV.",
-        "longDescription": "Watch all the exclusive action from the Australian Open as Hijikata/Schoolkate takes on Johnson/Zielinski in the Round of 64, LIVE on Sony LIV.",
-        "genres": [
-          "Tennis"
-        ],
-        "episodeTitle": "Hijikata/Schoolkate vs Johnson/Zielinski - Men's Doubles - 20 Jan 2026"
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": "https://dai.google.com/ssai/event/Jh7uKPjJT5ew26R51u2hLg/master.m3u8",
-        "broadcast_channel": "Sony Sports Ten 5",
-        "audio_language_list": [
-          {
-            "lang_code": "ENG",
-            "lang_label": "English"
-          }
-        ],
-        "emfAttributes__audio_languages": "ENG",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD",
-          "videoType": "FULL_HD",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "ENG",
-              "isPreferred": true,
-              "audioLanguageLabel": "English"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA"
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "20 Jan 2026, 05:00 AM",
-        "contractEndDate": "20 Jan 2026, 11:00 PM",
-        "originalAirDate": "20 Jan 2026, 05:30 AM"
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013517/1768635885424986_AO26_Court13_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013517/1768636905506986_AO26_Court13_r1_landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": null,
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009146/1758606495748941_UEL25_26_GENERIC_Masthead_logo_LIVE1.png",
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013517/1768636905506986_AO26_Court13_r1_landscape_thumb.jpg"
-      },
-      "MULTIPLE_AUDIO_LINKS": [
-        {
-          "LANGUAGE": "English",
-          "LANG_CODE": "ENG",
-          "DATA": {
-            "JITENDRAUNATTI": {
-              "Device_Type": "LITE",
-              "message": "success",
-              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI30ME-AO/master.m3u8",
-              "WIDEVINE": null,
-              "STREAMING_TYPE": true,
-              "audioLanguages": [
-                {
-                  "audioId": 1,
-                  "audioLanguageName": "ENG",
-                  "isPreferred": true,
-                  "audioLanguageLabel": "English"
-                }
-              ],
-              "dai_asset_key": "https://dai.google.com/ssai/event/Jh7uKPjJT5ew26R51u2hLg/master.m3u8",
-              "Maximum_Video_Quality": "SDR",
-              "Maximum_Resolution": "FULL_HD",
-              "trailer_url": "",
-              "systemTime": 1768896620225,
-              "DOCTOR_STRANGE": 1768896620,
-              "additionalDataJson": {
-                "enc_format": "HLS",
-                "resolution": "FULL_HD",
-                "audio_quality": "STEREO",
-                "video_quality": "SDR",
-                "fps": 25,
-                "videoCodec": "H264",
-                "audioCodec": "AAC",
-                "partners": [
-                  "ALL"
-                ],
-                "isDaiKey": false,
-                "ad_stack": "MT-SSB"
-              },
-              "Status_code": 200,
-              "content_type": "application/json; charset=utf-8",
-              "Date": "Tuesday 20th of January 2026 01:40:20 PM",
-              "extra_data": {
-                "directory_created": "success",
-                "file_saved": "success",
-                "Status_code": 200,
-                "file_path": "UPLOAD/hls/live/2037139/DAI30ME-AO/master.m3u8"
               }
             }
           }
@@ -1257,13 +1151,13 @@
       },
       "image_cdn": {
         "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013498/1768579174894211_AO2026_GOB_Portrait_Thumb_SP_2.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013498/1768579174592211_AO2026_GOB_Landscape_Thumb_SP_2.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013754/1768902642374692_AO_schedule_day4_tomorrow_landscape_thumb.jpg",
         "masthead_mobile_v1": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012161/1765281264995569_AO2026_GOB_masthead_mobile_v1.jpg",
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013666/1768818594222774_AO26_day3_schedule_masthead_mobile_v2_today.jpg",
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013753/1768900893603712_AO_schedule_day4_tomorrow_masthead_mobile_v2.jpg",
         "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013498/1768579174755211_AO2026_GOB_Masthead_logo_SP_1.png",
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013498/1768579174592211_AO2026_GOB_Landscape_Thumb_SP_2.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013754/1768902642374692_AO_schedule_day4_tomorrow_landscape_thumb.jpg"
       },
       "MULTIPLE_AUDIO_LINKS": []
     },
