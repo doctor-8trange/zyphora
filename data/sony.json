@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "20-01-2026 06:40",
+  "last_updated": "20-01-2026 07:00",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -77,7 +77,7 @@
         "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013716/176884367152860_AO2026_Landscape_Thumb_Oliynykova_vs_Keys_SP.jpg",
         "masthead_mobile_v1": null,
         "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013716/176884367160760_AO2026_Match_Masthead_mobile_v2_984x1182_Oliynykova_vs_Keys_SP.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013529/1768648565994550_AO26_stream1_Live_Masthead_logo.png",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013690/1768828194537988_AO26_RLA_set1_Masthead_logo_Live.png",
         "circular_image": null,
         "image_600x900_clean": null,
         "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013716/176884367152860_AO2026_Landscape_Thumb_Oliynykova_vs_Keys_SP.jpg"
@@ -333,7 +333,7 @@
         "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013715/1768843671322446_AO2026_Landscape_Thumb_Musetti_vs_Collignon_SP.jpg",
         "masthead_mobile_v1": null,
         "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013715/1768843671406446_AO2026_Match_Masthead_mobile_v2_984x1182_Musetti_vs_Collignon_SP.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013529/1768648545200550_AO26_Margaret_Court_Arena_Live_Masthead_logo.png",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013690/1768831322725988_AO26_MCA_set1_Masthead_logo_Live.png",
         "circular_image": null,
         "image_600x900_clean": null,
         "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013715/1768843671322446_AO2026_Landscape_Thumb_Musetti_vs_Collignon_SP.jpg"
@@ -922,6 +922,112 @@
       ]
     },
     {
+      "contentId": 1090498787,
+      "video_info": {
+        "title": "Australian Open 2026",
+        "shortDescription": "Catch all the exciting tennis action from the Australian Open 2026  live on Sony LIV.",
+        "longDescription": "Catch all the exciting tennis action from the Australian Open 2026  live on Sony LIV.",
+        "genres": [
+          "Tennis"
+        ],
+        "episodeTitle": "Court 8 - 20 Jan 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/zgMw2ZulRlmZGCHomPXCNg/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "20 Jan 2026, 07:00 AM",
+        "contractEndDate": "21 Jan 2026, 01:00 AM",
+        "originalAirDate": "20 Jan 2026, 07:30 AM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013517/1768635709265986_AO26_Court8_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013517/1768636947181986_AO26_Court8_r1_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": null,
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009146/1758606495748941_UEL25_26_GENERIC_Masthead_logo_LIVE1.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013517/1768636947181986_AO26_Court8_r1_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-AO/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/zgMw2ZulRlmZGCHomPXCNg/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1768872608600,
+              "DOCTOR_STRANGE": 1768872609,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Tuesday 20th of January 2026 07:00:09 AM",
+              "extra_data": {
+                "directory_created": "success",
+                "file_saved": "success",
+                "Status_code": 200,
+                "file_path": "UPLOAD/hls/live/2022320/DAI16ME-AO/master.m3u8"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
       "contentId": 1090498786,
       "video_info": {
         "title": "Australian Open 2026",
@@ -1086,12 +1192,12 @@
       "contentId": 1090498788,
       "video_info": {
         "title": "Australian Open 2026",
-        "shortDescription": "Watch all the exclusive action from the Australian Open as Panna Udvardy takes on Katerina Siniakova in the Round of 128, LIVE on Sony LIV.",
-        "longDescription": "Watch all the exclusive action from the Australian Open as Panna Udvardy takes on Katerina Siniakova in the Round of 128, LIVE on Sony LIV.",
+        "shortDescription": "Catch all the exciting tennis action from the Australian Open 2026  live on Sony LIV.",
+        "longDescription": "Catch all the exciting tennis action from the Australian Open 2026  live on Sony LIV.",
         "genres": [
           "Tennis"
         ],
-        "episodeTitle": "Panna Udvardy vs Katerina Siniakova - Women's Singles - 20 Jan 2026"
+        "episodeTitle": "Court 14 - 20 Jan 2026"
       },
       "stream_info": {
         "Maximum_Video_Quality": "SDR",
@@ -1192,12 +1298,12 @@
       "contentId": 1090499146,
       "video_info": {
         "title": "Australian Open 2026",
-        "shortDescription": "Watch all the exclusive action from the Australian Open as Golubev/Nedovyesov takes on Martin/Ugo in the Round of 64, LIVE on Sony LIV.",
-        "longDescription": "Watch all the exclusive action from the Australian Open as Golubev/Nedovyesov takes on Martin/Ugo in the Round of 64, LIVE on Sony LIV.",
+        "shortDescription": "Catch all the exciting tennis action from the Australian Open 2026  live on Sony LIV.",
+        "longDescription": "Catch all the exciting tennis action from the Australian Open 2026  live on Sony LIV.",
         "genres": [
           "Tennis"
         ],
-        "episodeTitle": "Golubev/Nedovyesov vs Martin/Ugo - Men's Doubles - 20 Jan 2026"
+        "episodeTitle": "Court 15 - 20 Jan 2026"
       },
       "stream_info": {
         "Maximum_Video_Quality": "SDR",
@@ -1613,118 +1719,6 @@
       ]
     },
     {
-      "contentId": 1090498773,
-      "video_info": {
-        "title": "Australian Open 2026",
-        "shortDescription": "Watch all the action from the season's first Grand Slam as Australian Open 2026 brings the world's finest players to the hard courts of Melbourne, LIVE on Sony LIV.",
-        "longDescription": "Watch all the action from the season's first Grand Slam as Australian Open 2026 brings the world's finest players to the hard courts of Melbourne, LIVE on Sony LIV.",
-        "genres": [
-          "Tennis"
-        ],
-        "episodeTitle": "Stream 2 - 20 Jan 2026"
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": "https://dai.google.com/ssai/event/X3j0O-G-QEaPSp8yNcP9Jg/master.m3u8",
-        "broadcast_channel": "Sony Sports Ten 5",
-        "audio_language_list": [
-          {
-            "lang_code": "ENG",
-            "lang_label": "English"
-          }
-        ],
-        "emfAttributes__audio_languages": "ENG",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD",
-          "videoType": "FULL_HD",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "ENG",
-              "isPreferred": true,
-              "audioLanguageLabel": "English"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "",
-          "promotionUrl": "",
-          "promotionRating": "",
-          "trailerRating": "",
-          "trailerContentId": "",
-          "promotionContentId": ""
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "20 Jan 2026, 05:00 AM",
-        "contractEndDate": "20 Jan 2026, 11:00 PM",
-        "originalAirDate": "20 Jan 2026, 05:30 AM"
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013518/1768636084314535_AO26_stream2_R1_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013518/1768638146227535_AO26_stream2_R1_landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013088/1767779988000824_AO2026_GOB_masthead_mobile_v2_984x1182.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013591/176872982955368_AO26_Generic_live_Masthead_logo.png",
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013518/1768638146227535_AO26_stream2_R1_landscape_thumb.jpg"
-      },
-      "MULTIPLE_AUDIO_LINKS": [
-        {
-          "LANGUAGE": "English",
-          "LANG_CODE": "ENG",
-          "DATA": {
-            "JITENDRAUNATTI": {
-              "Device_Type": "LITE",
-              "message": "success",
-              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2094587/DAI03ME-AO/master.m3u8",
-              "WIDEVINE": null,
-              "STREAMING_TYPE": true,
-              "audioLanguages": [
-                {
-                  "audioId": 1,
-                  "audioLanguageName": "ENG",
-                  "isPreferred": true,
-                  "audioLanguageLabel": "English"
-                }
-              ],
-              "dai_asset_key": "https://dai.google.com/ssai/event/X3j0O-G-QEaPSp8yNcP9Jg/master.m3u8",
-              "Maximum_Video_Quality": "SDR",
-              "Maximum_Resolution": "FULL_HD",
-              "trailer_url": "",
-              "systemTime": 1768865466126,
-              "DOCTOR_STRANGE": 1768865467,
-              "additionalDataJson": {
-                "enc_format": "HLS",
-                "resolution": "FULL_HD",
-                "audio_quality": "STEREO",
-                "video_quality": "SDR",
-                "fps": 25,
-                "videoCodec": "H264",
-                "audioCodec": "AAC",
-                "partners": [
-                  "ALL"
-                ],
-                "isDaiKey": false,
-                "ad_stack": "MT-SSB"
-              },
-              "Status_code": 200,
-              "content_type": "application/json; charset=utf-8",
-              "Date": "Tuesday 20th of January 2026 05:01:07 AM",
-              "extra_data": {
-                "directory_created": "success",
-                "file_saved": "success",
-                "Status_code": 200,
-                "file_path": "UPLOAD/hls/live/2094587/DAI03ME-AO/master.m3u8"
-              }
-            }
-          }
-        }
-      ]
-    },
-    {
       "contentId": 1090500142,
       "video_info": {
         "title": "Super Smash 2025/26 Women's",
@@ -2111,14 +2105,14 @@
         "originalAirDate": null
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013453/1768492176529434_UCL26_Bodo_Glimt_vs_Man_City_dated_15jan_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013453/1768492437672434_UCL26_Bodo_Glimt_vs_Man_City_dated_15jan_landscape_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013453/1768492210831434_UCL26_Bodo_Glimt_vs_Man_City_tonight_15jan_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013453/1768492408010434_UCL26_Bodo_Glimt_vs_Man_City_tonight_15jan_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013481/1768565370760895_UCL26_MD7_man_city_and_arsenal_16jan_dated_combo_masthead_mobile_v2.jpg",
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013481/1768565598354895_UCL26_MD7_man_city_and_arsenal_16jan_tonight_combo_masthead_mobile_v2.jpg",
         "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012133/1757599136000607_ucl2526_8dec_Masthead_logo.png",
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013453/1768492437672434_UCL26_Bodo_Glimt_vs_Man_City_dated_15jan_landscape_thumb.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013453/1768492408010434_UCL26_Bodo_Glimt_vs_Man_City_tonight_15jan_landscape_thumb.jpg"
       },
       "MULTIPLE_AUDIO_LINKS": []
     },
@@ -2343,14 +2337,14 @@
         "originalAirDate": null
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013453/1768486147733434_UCL26_inter_vs_arsenal_dated_15jan_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013453/1768488992379434_UCL26_inter_vs_arsenal_dated_15jan_landscape_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013453/1768488719470434_UCL26_inter_vs_arsenal_15jan_tonight_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013453/1768489018748434_UCL26_inter_vs_arsenal_15jan_tonight_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
         "masthead_mobile_v2": null,
         "masthead_logo": null,
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013453/1768488992379434_UCL26_inter_vs_arsenal_dated_15jan_landscape_thumb.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013453/1768489018748434_UCL26_inter_vs_arsenal_15jan_tonight_landscape_thumb.jpg"
       },
       "MULTIPLE_AUDIO_LINKS": []
     },
@@ -2459,7 +2453,7 @@
         "originalAirDate": null
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013453/1768490597339434_UCL26_real_madrid_vs_monaco_dated_15jan_portrait_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013453/1768490740904434_UCL26_real_madrid_vs_monaco_tonight_15jan_portrait_thumb.jpg",
         "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013352/1768331535063720_UCL26_MD7_promo_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
         "masthead_mobile_v2": null,
