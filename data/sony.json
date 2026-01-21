@@ -1,15 +1,15 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "21-01-2026 09:29",
+  "last_updated": "21-01-2026 10:00",
   "app_settings": {
-    "PROXY": "OFF",
+    "PROXY": "ON",
     "state_code": "MH",
     "MULTI_CDN": "OFF",
     "Debugging": "OFF",
     "SUB_TYPE": "FREEMIUM",
     "RECIVER": "OFF",
-    "REALTIME": "ON",
+    "REALTIME": "OFF",
     "REPLACEMENT": "OFF",
     "FREEPREVIEW": "AUTO",
     "ALL_IN_ONE": "ON",
@@ -123,13 +123,7 @@
               },
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
-              "Date": "Wednesday 21st of January 2026 09:28:54 AM",
-              "extra_data": {
-                "directory_created": "success",
-                "file_saved": "success",
-                "Status_code": 200,
-                "file_path": "UPLOAD/hls/live/2005445/DAI06ME-AO/master.m3u8"
-              }
+              "Date": "Wednesday 21st of January 2026 09:28:54 AM"
             }
           }
         },
@@ -173,13 +167,7 @@
               },
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
-              "Date": "Wednesday 21st of January 2026 09:28:56 AM",
-              "extra_data": {
-                "directory_created": "success",
-                "file_saved": "success",
-                "Status_code": 200,
-                "file_path": "UPLOAD/hls/live/2037141/DAI21ME-AO/master.m3u8"
-              }
+              "Date": "Wednesday 21st of January 2026 09:28:56 AM"
             }
           }
         },
@@ -223,13 +211,7 @@
               },
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
-              "Date": "Wednesday 21st of January 2026 09:28:58 AM",
-              "extra_data": {
-                "directory_created": "success",
-                "file_saved": "success",
-                "Status_code": 200,
-                "file_path": "UPLOAD/hls/live/2037143/DAI23ME-AO/master.m3u8"
-              }
+              "Date": "Wednesday 21st of January 2026 09:28:58 AM"
             }
           }
         },
@@ -273,13 +255,7 @@
               },
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
-              "Date": "Wednesday 21st of January 2026 09:28:59 AM",
-              "extra_data": {
-                "directory_created": "success",
-                "file_saved": "success",
-                "Status_code": 200,
-                "file_path": "UPLOAD/hls/live/2105080/DAI24ME-AO/master.m3u8"
-              }
+              "Date": "Wednesday 21st of January 2026 09:28:59 AM"
             }
           }
         }
@@ -379,13 +355,107 @@
               },
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
-              "Date": "Wednesday 21st of January 2026 09:29:01 AM",
-              "extra_data": {
-                "directory_created": "success",
-                "file_saved": "success",
-                "Status_code": 200,
-                "file_path": "UPLOAD/hls/live/2018458/DAI10ME-AO/master.m3u8"
-              }
+              "Date": "Wednesday 21st of January 2026 09:29:01 AM"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "contentId": 1090498790,
+      "video_info": {
+        "title": "Australian Open 2026",
+        "shortDescription": "Watch all the exclusive action from the Australian Open as Duckworth/Hewitt takes on Bhambri/Goransson in the Round of 64, LIVE on Sony LIV.",
+        "longDescription": "Watch all the exclusive action from the Australian Open as Duckworth/Hewitt takes on Bhambri/Goransson in the Round of 64, LIVE on Sony LIV.",
+        "genres": [
+          "Tennis"
+        ],
+        "episodeTitle": "Duckworth/Hewitt vs Bhambri/Goransson - Men's Doubles - 21 Jan 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/u5QstzpKTJGWhEZbsA_7Ng/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "21 Jan 2026, 05:00 AM",
+        "contractEndDate": "21 Jan 2026, 11:00 PM",
+        "originalAirDate": "21 Jan 2026, 05:30 AM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013826/1768960489863817_AO26_portrait_thumb_Duckworth_Hewitt_v_Bhambri_Goransson.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013833/1768969358776845_AO2026_Landscape_Thumb_Duckworth_Hewitt_v_Bhambri_Goransson_SP.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013826/1768960728195817_AO2026_Match_Masthead_mobile_v2_984x1182_Duckworth_Hewitt_v_Bhambri_Goransson_SP.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013769/1768916528920257_AO26_Round_2_Live_Masthead_logo.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013833/1768969358776845_AO2026_Landscape_Thumb_Duckworth_Hewitt_v_Bhambri_Goransson_SP.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI30ME-AO/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/DgeLzKxsSMuwfRa8znq4RQ/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1768967949812,
+              "DOCTOR_STRANGE": 1768967950,
+              "additionalDataJson": {
+                "ad_stack": "DAI-IMA",
+                "audioCodec": "AAC",
+                "audio_quality": "STEREO",
+                "enc_format": "HLS",
+                "fps": 25,
+                "isDaiKey": true,
+                "partners": [
+                  "ALL"
+                ],
+                "resolution": "HD",
+                "videoCodec": "H264",
+                "video_quality": "SDR"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Wednesday 21st of January 2026 09:29:10 AM"
             }
           }
         }
@@ -485,13 +555,7 @@
               },
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
-              "Date": "Wednesday 21st of January 2026 09:29:02 AM",
-              "extra_data": {
-                "directory_created": "success",
-                "file_saved": "success",
-                "Status_code": 200,
-                "file_path": "UPLOAD/hls/live/2018457/DAI09ME-AO/master.m3u8"
-              }
+              "Date": "Wednesday 21st of January 2026 09:29:02 AM"
             }
           }
         }
@@ -591,13 +655,7 @@
               },
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
-              "Date": "Wednesday 21st of January 2026 09:29:03 AM",
-              "extra_data": {
-                "directory_created": "success",
-                "file_saved": "success",
-                "Status_code": 200,
-                "file_path": "UPLOAD/hls/live/2022315/DAI11ME-AO/master.m3u8"
-              }
+              "Date": "Wednesday 21st of January 2026 09:29:03 AM"
             }
           }
         }
@@ -697,13 +755,7 @@
               },
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
-              "Date": "Wednesday 21st of January 2026 09:29:04 AM",
-              "extra_data": {
-                "directory_created": "success",
-                "file_saved": "success",
-                "Status_code": 200,
-                "file_path": "UPLOAD/hls/live/2022317/DAI13ME-AO/master.m3u8"
-              }
+              "Date": "Wednesday 21st of January 2026 09:29:04 AM"
             }
           }
         }
@@ -713,12 +765,12 @@
       "contentId": 1090498782,
       "video_info": {
         "title": "Australian Open 2026",
-        "shortDescription": "Watch all the exclusive action from the Australian Open as Victoria Mboko takes on Caty McNally in the Round of 64, LIVE on Sony LIV.",
-        "longDescription": "Watch all the exclusive action from the Australian Open as Victoria Mboko takes on Caty McNally in the Round of 64, LIVE on Sony LIV.",
+        "shortDescription": "Watch all the exclusive action from the Australian Open as Jordan Thompson takes on Nuno Borges in the Round of 64, LIVE on Sony LIV.",
+        "longDescription": "Watch all the exclusive action from the Australian Open as Jordan Thompson takes on Nuno Borges in the Round of 64, LIVE on Sony LIV.",
         "genres": [
           "Tennis"
         ],
-        "episodeTitle": "Victoria Mboko vs Caty McNally - Women's Singles - 21 Jan 2026"
+        "episodeTitle": "Jordan Thompson vs Nuno Borges - Men's Singles - 21 Jan 2026"
       },
       "stream_info": {
         "Maximum_Video_Quality": "SDR",
@@ -803,13 +855,7 @@
               },
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
-              "Date": "Wednesday 21st of January 2026 09:29:06 AM",
-              "extra_data": {
-                "directory_created": "success",
-                "file_saved": "success",
-                "Status_code": 200,
-                "file_path": "UPLOAD/hls/live/2022316/DAI12ME-AO/master.m3u8"
-              }
+              "Date": "Wednesday 21st of January 2026 09:29:06 AM"
             }
           }
         }
@@ -909,13 +955,7 @@
               },
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
-              "Date": "Wednesday 21st of January 2026 09:29:07 AM",
-              "extra_data": {
-                "directory_created": "success",
-                "file_saved": "success",
-                "Status_code": 200,
-                "file_path": "UPLOAD/hls/live/2022319/DAI15ME-AO/master.m3u8"
-              }
+              "Date": "Wednesday 21st of January 2026 09:29:07 AM"
             }
           }
         }
@@ -1015,13 +1055,7 @@
               },
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
-              "Date": "Wednesday 21st of January 2026 09:29:08 AM",
-              "extra_data": {
-                "directory_created": "success",
-                "file_saved": "success",
-                "Status_code": 200,
-                "file_path": "UPLOAD/hls/live/2022320/DAI16ME-AO/master.m3u8"
-              }
+              "Date": "Wednesday 21st of January 2026 09:29:08 AM"
             }
           }
         }
@@ -1121,119 +1155,7 @@
               },
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
-              "Date": "Wednesday 21st of January 2026 09:29:08 AM",
-              "extra_data": {
-                "directory_created": "success",
-                "file_saved": "success",
-                "Status_code": 200,
-                "file_path": "UPLOAD/hls/live/2022319/DAI28ME-AO/master.m3u8"
-              }
-            }
-          }
-        }
-      ]
-    },
-    {
-      "contentId": 1090498790,
-      "video_info": {
-        "title": "Australian Open 2026",
-        "shortDescription": "Watch all the exclusive action from the Australian Open as Bucsa/Melichar takes on Babos/Annie in the Round of 64, LIVE on Sony LIV.",
-        "longDescription": "Watch all the exclusive action from the Australian Open as Bucsa/Melichar takes on Babos/Annie in the Round of 64, LIVE on Sony LIV.",
-        "genres": [
-          "Tennis"
-        ],
-        "episodeTitle": "Bucsa/Melichar vs Babos/Annie - Women's Doubles - 21 Jan 2026"
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": "https://dai.google.com/ssai/event/u5QstzpKTJGWhEZbsA_7Ng/master.m3u8",
-        "broadcast_channel": "Sony Sports Ten 5",
-        "audio_language_list": [
-          {
-            "lang_code": "ENG",
-            "lang_label": "English"
-          }
-        ],
-        "emfAttributes__audio_languages": "ENG",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD",
-          "videoType": "FULL_HD",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "ENG",
-              "isPreferred": true,
-              "audioLanguageLabel": "English"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA"
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "21 Jan 2026, 05:00 AM",
-        "contractEndDate": "21 Jan 2026, 11:00 PM",
-        "originalAirDate": "21 Jan 2026, 05:30 AM"
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013762/1768912301004613_AO26_R2_Court13_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013762/1768912558308613_AO26_R2_Court13_landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": null,
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013769/1768916528920257_AO26_Round_2_Live_Masthead_logo.png",
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013762/1768912558308613_AO26_R2_Court13_landscape_thumb.jpg"
-      },
-      "MULTIPLE_AUDIO_LINKS": [
-        {
-          "LANGUAGE": "English",
-          "LANG_CODE": "ENG",
-          "DATA": {
-            "JITENDRAUNATTI": {
-              "Device_Type": "LITE",
-              "message": "success",
-              "Playback_videoURL": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI30ME-AO/master.m3u8",
-              "WIDEVINE": null,
-              "STREAMING_TYPE": true,
-              "audioLanguages": [
-                {
-                  "audioId": 1,
-                  "audioLanguageName": "ENG",
-                  "isPreferred": true,
-                  "audioLanguageLabel": "English"
-                }
-              ],
-              "dai_asset_key": "https://dai.google.com/ssai/event/DgeLzKxsSMuwfRa8znq4RQ/master.m3u8",
-              "Maximum_Video_Quality": "SDR",
-              "Maximum_Resolution": "FULL_HD",
-              "trailer_url": "",
-              "systemTime": 1768967949812,
-              "DOCTOR_STRANGE": 1768967950,
-              "additionalDataJson": {
-                "ad_stack": "DAI-IMA",
-                "audioCodec": "AAC",
-                "audio_quality": "STEREO",
-                "enc_format": "HLS",
-                "fps": 25,
-                "isDaiKey": true,
-                "partners": [
-                  "ALL"
-                ],
-                "resolution": "HD",
-                "videoCodec": "H264",
-                "video_quality": "SDR"
-              },
-              "Status_code": 200,
-              "content_type": "application/json; charset=utf-8",
-              "Date": "Wednesday 21st of January 2026 09:29:10 AM",
-              "extra_data": {
-                "directory_created": "success",
-                "file_saved": "success",
-                "Status_code": 200,
-                "file_path": "UPLOAD/hls/live/2037139/DAI30ME-AO/master.m3u8"
-              }
+              "Date": "Wednesday 21st of January 2026 09:29:08 AM"
             }
           }
         }
@@ -1243,12 +1165,12 @@
       "contentId": 1090499146,
       "video_info": {
         "title": "Australian Open 2026",
-        "shortDescription": "Watch all the exclusive action from the Australian Open as Griekspoor/van takes on Andreozzi/Guinard in the Round of 64, LIVE on Sony LIV.",
-        "longDescription": "Watch all the exclusive action from the Australian Open as Griekspoor/van takes on Andreozzi/Guinard in the Round of 64, LIVE on Sony LIV.",
+        "shortDescription": "Watch all the exclusive action from the Australian Open as Perez/Schuurs takes on Haverlag/Kartal in the Round of 64, LIVE on Sony LIV.",
+        "longDescription": "Watch all the exclusive action from the Australian Open as Perez/Schuurs takes on Haverlag/Kartal in the Round of 64, LIVE on Sony LIV.",
         "genres": [
           "Tennis"
         ],
-        "episodeTitle": "Griekspoor/van vs Andreozzi/Guinard - Men's Doubles - 21 Jan 2026"
+        "episodeTitle": "Perez/Schuurs vs Haverlag/Kartal - Women's Doubles - 21 Jan 2026"
       },
       "stream_info": {
         "Maximum_Video_Quality": "SDR",
@@ -1333,13 +1255,7 @@
               },
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
-              "Date": "Wednesday 21st of January 2026 09:29:12 AM",
-              "extra_data": {
-                "directory_created": "success",
-                "file_saved": "success",
-                "Status_code": 200,
-                "file_path": "UPLOAD/hls/live/2037140/DAI29ME-AO/master.m3u8"
-              }
+              "Date": "Wednesday 21st of January 2026 09:29:12 AM"
             }
           }
         }
@@ -1349,12 +1265,12 @@
       "contentId": 1090498789,
       "video_info": {
         "title": "Australian Open 2026",
-        "shortDescription": "Watch all the exclusive action from the Australian Open as Darderi/Garin takes on Krajicek/Mektic in the Round of 64, LIVE on Sony LIV.",
-        "longDescription": "Watch all the exclusive action from the Australian Open as Darderi/Garin takes on Krajicek/Mektic in the Round of 64, LIVE on Sony LIV.",
+        "shortDescription": "Watch all the exclusive action from the Australian Open as Muhammad/Routliffe takes on Noskova/Sramkova in the Round of 64, LIVE on Sony LIV.",
+        "longDescription": "Watch all the exclusive action from the Australian Open as Muhammad/Routliffe takes on Noskova/Sramkova in the Round of 64, LIVE on Sony LIV.",
         "genres": [
           "Tennis"
         ],
-        "episodeTitle": "Darderi/Garin vs Krajicek/Mektic - Men's Doubles - 21 Jan 2026"
+        "episodeTitle": "Muhammad/Routliffe vs Noskova/Sramkova - Women's Doubles - 21 Jan 2026"
       },
       "stream_info": {
         "Maximum_Video_Quality": "SDR",
@@ -1439,13 +1355,7 @@
               },
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
-              "Date": "Wednesday 21st of January 2026 09:29:13 AM",
-              "extra_data": {
-                "directory_created": "success",
-                "file_saved": "success",
-                "Status_code": 200,
-                "file_path": "UPLOAD/hls/live/2037139/DAI19ME-AO/master.m3u8"
-              }
+              "Date": "Wednesday 21st of January 2026 09:29:13 AM"
             }
           }
         }
@@ -1545,13 +1455,7 @@
               },
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
-              "Date": "Wednesday 21st of January 2026 09:29:14 AM",
-              "extra_data": {
-                "directory_created": "success",
-                "file_saved": "success",
-                "Status_code": 200,
-                "file_path": "UPLOAD/hls/live/2037140/DAI20ME-AO/master.m3u8"
-              }
+              "Date": "Wednesday 21st of January 2026 09:29:14 AM"
             }
           }
         }
@@ -1561,12 +1465,12 @@
       "contentId": 1090498784,
       "video_info": {
         "title": "Australian Open 2026",
-        "shortDescription": "Catch all the exciting tennis action from the Australian Open 2026  live on Sony LIV.",
-        "longDescription": "Catch all the exciting tennis action from the Australian Open 2026  live on Sony LIV.",
+        "shortDescription": "Watch all the exclusive action from the Australian Open as Piter/Tjen takes on Kasatkina/Rodionova in the Round of 64, LIVE on Sony LIV.",
+        "longDescription": "Watch all the exclusive action from the Australian Open as Piter/Tjen takes on Kasatkina/Rodionova in the Round of 64, LIVE on Sony LIV.",
         "genres": [
           "Tennis"
         ],
-        "episodeTitle": "Court 5 - 21 Jan 2026"
+        "episodeTitle": "Piter/Tjen vs Kasatkina/Rodionova - Women's Doubles - 21 Jan 2026"
       },
       "stream_info": {
         "Maximum_Video_Quality": "SDR",
@@ -1651,13 +1555,7 @@
               },
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
-              "Date": "Wednesday 21st of January 2026 09:29:15 AM",
-              "extra_data": {
-                "directory_created": "success",
-                "file_saved": "success",
-                "Status_code": 200,
-                "file_path": "UPLOAD/hls/live/2022318/DAI14ME-AO/master.m3u8"
-              }
+              "Date": "Wednesday 21st of January 2026 09:29:15 AM"
             }
           }
         }
@@ -1757,32 +1655,26 @@
               },
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
-              "Date": "Wednesday 21st of January 2026 09:29:16 AM",
-              "extra_data": {
-                "directory_created": "success",
-                "file_saved": "success",
-                "Status_code": 200,
-                "file_path": "UPLOAD/hls/live/2094589/DAI05ME-AO/master.m3u8"
-              }
+              "Date": "Wednesday 21st of January 2026 09:29:16 AM"
             }
           }
         }
       ]
     },
     {
-      "contentId": 1090500291,
+      "contentId": 1090500295,
       "video_info": {
-        "title": "Super Smash 2025/26 Women's",
-        "shortDescription": "Canterbury Magicians host Otago Sparks in a do-or-die at Hagley Oval with Canterbury desperate to snap a brutal seven-game losing streak. Find out who comes on top as we bring you all the action from the Super Smash 2025/26 Women's, LIVE on Sony LIV.",
-        "longDescription": "Canterbury Magicians host Otago Sparks in a do-or-die at Hagley Oval with Canterbury desperate to snap a brutal seven-game losing streak. Find out who comes on top as we bring you all the action from the Super Smash 2025/26 Women's, LIVE on Sony LIV.",
+        "title": "Super Smash 2025/26 Men's",
+        "shortDescription": "Canterbury Kings face the Otago Volts in a crucial Super Smash 2026 clash at Hagley Oval on January 21, with both sides eager to strengthen their playoff chances. Expect a thrilling contest as Canterbury look to maintain their top-three spot while Otago aim to upset their rivals with aggressive batting. Find out who comes on top as we bring you all the action from the Super Smash 2025/26 Men's, LIVE on Sony LIV.",
+        "longDescription": "Canterbury Kings face the Otago Volts in a crucial Super Smash 2026 clash at Hagley Oval on January 21, with both sides eager to strengthen their playoff chances. Expect a thrilling contest as Canterbury look to maintain their top-three spot while Otago aim to upset their rivals with aggressive batting. Find out who comes on top as we bring you all the action from the Super Smash 2025/26 Men's, LIVE on Sony LIV.",
         "genres": [
           "Cricket"
         ],
-        "episodeTitle": "Canterbury Magicians vs Otago Sparks - 21 Jan 2026"
+        "episodeTitle": "Canterbury Kings vs Otago Volts - 21 Jan 2026"
       },
       "stream_info": {
         "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": "https://dai.google.com/ssai/event/Zj3sNMqySrq9HS7HAIzBrA/master.m3u8",
+        "dai_asset_key": "https://dai.google.com/ssai/event/DD-3j9HWTsyxtaZasjfD6A/master.m3u8",
         "broadcast_channel": "Sony Sports Ten 5",
         "audio_language_list": [
           {
@@ -1808,72 +1700,21 @@
         }
       },
       "air_dates": {
-        "contractStartDate": "21 Jan 2026, 06:10 AM",
-        "contractEndDate": "21 Jan 2026, 02:40 PM",
-        "originalAirDate": "21 Jan 2026, 06:40 AM"
+        "contractStartDate": "21 Jan 2026, 09:55 AM",
+        "contractEndDate": "21 Jan 2026, 06:40 PM",
+        "originalAirDate": "21 Jan 2026, 10:25 AM"
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013020/1767676693257714_SuperSmash2526_womens_Canterbury_Magicians_vs_Otago_Sparks_6jan_live_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013020/1767676469127714_SuperSmash2526_womens_Canterbury_Magicians_vs_Otago_Sparks_6jan_landscape_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012979/1767612176227206_SuperSmash2526_mens_Canterbury_Kings_vs_Otago_Volts_5jan_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012979/1767612262201206_SuperSmash2526_mens_Canterbury_Kings_vs_Otago_Volts_5jan_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013775/1768919307260353_SuperSmash2526_masthead_mobile_v2_984x1182_Canterbury_Magicians_vs_Otago_Sparks.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013775/1768919307324353_SuperSmash2526_Masthead_logo_Canterbury_Magicians_vs_Otago_Sparks_Live.png",
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013775/1768919307228353_SuperSmash2526_masthead_mobile_v2_984x1182_Canterbury_Kings_vs_Otago_Volts.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013775/1768919307307353_SuperSmash2526_Masthead_logo_Canterbury_Kings_vs_Otago_Volts_Live.png",
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013020/1767676469127714_SuperSmash2526_womens_Canterbury_Magicians_vs_Otago_Sparks_6jan_landscape_thumb.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012979/1767612262201206_SuperSmash2526_mens_Canterbury_Kings_vs_Otago_Volts_5jan_landscape_thumb.jpg"
       },
-      "MULTIPLE_AUDIO_LINKS": [
-        {
-          "LANGUAGE": "English",
-          "LANG_CODE": "ENG",
-          "DATA": {
-            "JITENDRAUNATTI": {
-              "Device_Type": "LITE",
-              "message": "success",
-              "Playback_videoURL": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/master.m3u8",
-              "WIDEVINE": null,
-              "STREAMING_TYPE": true,
-              "audioLanguages": [
-                {
-                  "audioId": 1,
-                  "audioLanguageName": "ENG",
-                  "isPreferred": true,
-                  "audioLanguageLabel": "English"
-                }
-              ],
-              "dai_asset_key": "https://dai.google.com/ssai/event/4T5TtiUdQXOqPQMP4xXBgg/master.m3u8",
-              "Maximum_Video_Quality": "SDR",
-              "Maximum_Resolution": "FULL_HD",
-              "trailer_url": "",
-              "systemTime": 1768967958532,
-              "DOCTOR_STRANGE": 1768967958,
-              "additionalDataJson": {
-                "ad_stack": "DAI-IMA",
-                "audioCodec": "AAC",
-                "audio_quality": "STEREO",
-                "enc_format": "HLS",
-                "fps": 25,
-                "isDaiKey": true,
-                "partners": [
-                  "ALL"
-                ],
-                "resolution": "HD",
-                "videoCodec": "H264",
-                "video_quality": "SDR"
-              },
-              "Status_code": 200,
-              "content_type": "application/json; charset=utf-8",
-              "Date": "Wednesday 21st of January 2026 09:29:18 AM",
-              "extra_data": {
-                "directory_created": "success",
-                "file_saved": "success",
-                "Status_code": 200,
-                "file_path": "UPLOAD/hls/live/2105080/DAI24ME-V3/master.m3u8"
-              }
-            }
-          }
-        }
-      ]
+      "MULTIPLE_AUDIO_LINKS": []
     }
   ],
   "upcoming": [
