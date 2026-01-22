@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "22-01-2026 11:40",
+  "last_updated": "22-01-2026 11:58",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -465,12 +465,12 @@
       "contentId": 1090498780,
       "video_info": {
         "title": "Australian Open 2026",
-        "shortDescription": "Catch all the exciting tennis action from the Australian Open 2026  live on Sony LIV.",
-        "longDescription": "Catch all the exciting tennis action from the Australian Open 2026  live on Sony LIV.",
+        "shortDescription": "Watch all the exclusive action from the Australian Open as Marie Bouzkova takes on Iga Swiatek in the Round of 64, LIVE on Sony LIV.",
+        "longDescription": "Watch all the exclusive action from the Australian Open as Marie Bouzkova takes on Iga Swiatek in the Round of 64, LIVE on Sony LIV.",
         "genres": [
           "Tennis"
         ],
-        "episodeTitle": "John Cain Arena - 22 Jan 2026"
+        "episodeTitle": "Marie Bouzkova vs Iga Swiatek - Women's Singles - 22 Jan 2026"
       },
       "stream_info": {
         "Maximum_Video_Quality": "SDR",
@@ -765,12 +765,12 @@
       "contentId": 1090498782,
       "video_info": {
         "title": "Australian Open 2026",
-        "shortDescription": "Catch all the exciting tennis action from the Australian Open 2026  live on Sony LIV.",
-        "longDescription": "Catch all the exciting tennis action from the Australian Open 2026  live on Sony LIV.",
+        "shortDescription": "Watch all the exclusive action from the Australian Open as Denis Shapovalov takes on Marin Cilic in the Round of 64, LIVE on Sony LIV.",
+        "longDescription": "Watch all the exclusive action from the Australian Open as Denis Shapovalov takes on Marin Cilic in the Round of 64, LIVE on Sony LIV.",
         "genres": [
           "Tennis"
         ],
-        "episodeTitle": "1573 Arena - 22 Jan 2026"
+        "episodeTitle": "Denis Shapovalov vs Marin Cilic - Men's Singles - 22 Jan 2026"
       },
       "stream_info": {
         "Maximum_Video_Quality": "SDR",
@@ -1675,7 +1675,52 @@
         "image_600x900_clean": null,
         "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013783/1768924790642400_AO26_stream2_R2_landscape_thumb.jpg"
       },
-      "MULTIPLE_AUDIO_LINKS": []
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-AO/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/009yZ9yLQU2Hu-Axxf6LXQ/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1769063315476,
+              "DOCTOR_STRANGE": 1769063315,
+              "additionalDataJson": {
+                "ad_stack": "DAI-IMA",
+                "audioCodec": "AAC",
+                "audio_quality": "STEREO",
+                "enc_format": "HLS",
+                "fps": 25,
+                "isDaiKey": true,
+                "partners": [
+                  "ALL"
+                ],
+                "resolution": "HD",
+                "videoCodec": "H264",
+                "video_quality": "SDR"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Thursday 22nd of January 2026 11:58:35 AM"
+            }
+          }
+        }
+      ]
     }
   ],
   "upcoming": [
