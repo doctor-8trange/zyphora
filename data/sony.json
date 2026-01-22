@@ -1,15 +1,15 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "22-01-2026 08:24",
+  "last_updated": "22-01-2026 08:40",
   "app_settings": {
-    "PROXY": "OFF",
+    "PROXY": "ON",
     "state_code": "MH",
     "MULTI_CDN": "OFF",
     "Debugging": "OFF",
     "SUB_TYPE": "FREEMIUM",
     "RECIVER": "OFF",
-    "REALTIME": "ON",
+    "REALTIME": "OFF",
     "REPLACEMENT": "OFF",
     "FREEPREVIEW": "AUTO",
     "ALL_IN_ONE": "ON",
@@ -262,6 +262,106 @@
       ]
     },
     {
+      "contentId": 1090500686,
+      "video_info": {
+        "title": "Super Smash 2025/26 Men's",
+        "shortDescription": "Auckland Aces face the Northern Brave in a Super Smash top-of-the-table showdown at Eden Park Outer Oval. With both teams battling to stay at the top, fans can expect a high-stakes thriller so will the hosts make home advantage count, or will the visitors walk away with the win? Find out who comes on top as we bring you all the action from the Super Smash 2025/26 Men's, LIVE on Sony LIV.",
+        "longDescription": "Auckland Aces face the Northern Brave in a Super Smash top-of-the-table showdown at Eden Park Outer Oval. With both teams battling to stay at the top, fans can expect a high-stakes thriller so will the hosts make home advantage count, or will the visitors walk away with the win? Find out who comes on top as we bring you all the action from the Super Smash 2025/26 Men's, LIVE on Sony LIV.",
+        "genres": [
+          "Cricket"
+        ],
+        "episodeTitle": "Auckland Aces vs Northern Brave - 22 Jan 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/CEosGMIGTXu2ka_dIP4EAw/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "22 Jan 2026, 08:25 AM",
+        "contractEndDate": "22 Jan 2026, 05:10 PM",
+        "originalAirDate": "22 Jan 2026, 08:55 AM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012979/1767612524772206_SuperSmash2526_mens_Auckland_Aces_vs_Northern_Brave_5jan_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012979/1767612685284206_SuperSmash2526_mens_Auckland_Aces_vs_Northern_Brave_5jan_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013737/1768835578022796_SuperSmash2526_masthead_mobile_v2_984x1182_Auckland_Aces_vs_Northern_Brave.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013700/1768816888000331_SuperSmash2526_Masthead_logo_Auckland_Aces_vs_Northern_Brave_Live.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012979/1767612685284206_SuperSmash2526_mens_Auckland_Aces_vs_Northern_Brave_5jan_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/RyLJ_PwXTFWClUI4uHJjwA/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1769051410473,
+              "DOCTOR_STRANGE": 1769051411,
+              "additionalDataJson": {
+                "ad_stack": "DAI-IMA",
+                "audioCodec": "AAC",
+                "audio_quality": "STEREO",
+                "enc_format": "HLS",
+                "fps": 25,
+                "isDaiKey": true,
+                "partners": [
+                  "ALL"
+                ],
+                "resolution": "HD",
+                "videoCodec": "H264",
+                "video_quality": "SDR"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Thursday 22nd of January 2026 08:40:11 AM"
+            }
+          }
+        }
+      ]
+    },
+    {
       "contentId": 1090498779,
       "video_info": {
         "title": "Australian Open 2026",
@@ -465,12 +565,12 @@
       "contentId": 1090498784,
       "video_info": {
         "title": "Australian Open 2026",
-        "shortDescription": "Catch all the exciting tennis action from the Australian Open 2026  live on Sony LIV.",
-        "longDescription": "Catch all the exciting tennis action from the Australian Open 2026  live on Sony LIV.",
+        "shortDescription": "Watch all the exclusive action from the Australian Open as Puetz T / Zhang S takes on Bhambri Y / Melichar-Martinez N in the Round of 32, LIVE on Sony LIV.",
+        "longDescription": "Watch all the exclusive action from the Australian Open as Puetz T / Zhang S takes on Bhambri Y / Melichar-Martinez N in the Round of 32, LIVE on Sony LIV.",
         "genres": [
           "Tennis"
         ],
-        "episodeTitle": "Court 5 - 22 Jan 2026"
+        "episodeTitle": "Puetz T / Zhang S vs Bhambri Y / Melichar-Martinez N - Mixed Doubles - 22 Jan 2026"
       },
       "stream_info": {
         "Maximum_Video_Quality": "SDR",
@@ -565,12 +665,12 @@
       "contentId": 1090498781,
       "video_info": {
         "title": "Australian Open 2026",
-        "shortDescription": "Catch all the exciting tennis action from the Australian Open 2026  live on Sony LIV.",
-        "longDescription": "Catch all the exciting tennis action from the Australian Open 2026  live on Sony LIV.",
+        "shortDescription": "Watch all the exclusive action from the Australian Open as Linda Noskova takes on Taylah Preston in the Round of 64, LIVE on Sony LIV.",
+        "longDescription": "Watch all the exclusive action from the Australian Open as Linda Noskova takes on Taylah Preston in the Round of 64, LIVE on Sony LIV.",
         "genres": [
           "Tennis"
         ],
-        "episodeTitle": "Kia Arena - 22 Jan 2026"
+        "episodeTitle": "Linda Noskova vs Taylah Preston - Women's Singles - 22 Jan 2026"
       },
       "stream_info": {
         "Maximum_Video_Quality": "SDR",
@@ -865,12 +965,12 @@
       "contentId": 1090498785,
       "video_info": {
         "title": "Australian Open 2026",
-        "shortDescription": "Catch all the exciting tennis action from the Australian Open 2026  live on Sony LIV.",
-        "longDescription": "Catch all the exciting tennis action from the Australian Open 2026  live on Sony LIV.",
+        "shortDescription": "Watch all the exclusive action from the Australian Open as Xinyu Wang takes on Jelena Ostapenko in the Round of 64, LIVE on Sony LIV.",
+        "longDescription": "Watch all the exclusive action from the Australian Open as Xinyu Wang takes on Jelena Ostapenko in the Round of 64, LIVE on Sony LIV.",
         "genres": [
           "Tennis"
         ],
-        "episodeTitle": "Court 6 - 22 Jan 2026"
+        "episodeTitle": "Xinyu Wang vs Jelena Ostapenko - Women's Singles - 22 Jan 2026"
       },
       "stream_info": {
         "Maximum_Video_Quality": "SDR",
@@ -1565,12 +1665,12 @@
       "contentId": 1090498788,
       "video_info": {
         "title": "Australian Open 2026",
-        "shortDescription": "Watch all the exclusive action from the Australian Open as Chan/Jiang takes on Blinkova/Rakhimova in the Round of 64, LIVE on Sony LIV.",
-        "longDescription": "Watch all the exclusive action from the Australian Open as Chan/Jiang takes on Blinkova/Rakhimova in the Round of 64, LIVE on Sony LIV.",
+        "shortDescription": "Catch all the exciting tennis action from the Australian Open 2026  live on Sony LIV.",
+        "longDescription": "Catch all the exciting tennis action from the Australian Open 2026  live on Sony LIV.",
         "genres": [
           "Tennis"
         ],
-        "episodeTitle": "Chan/Jiang vs Blinkova/Rakhimova - Women's Doubles - 22 Jan 2026"
+        "episodeTitle": "Court 14 - 22 Jan 2026"
       },
       "stream_info": {
         "Maximum_Video_Quality": "SDR",
