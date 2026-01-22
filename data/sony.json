@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "22-01-2026 14:00",
+  "last_updated": "22-01-2026 14:20",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -308,7 +308,7 @@
         "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013858/176898588812343_SLvsENG26_1odi_21jan_live_portrait_thumb.jpg",
         "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013858/176898736563443_SLvsENG26_1odi_21jan_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090500625/mastheadMobileV2/1768986176435_1768979739806460_SL_vs_ENG_2026_GOB_masthead_mobile_v2_984x1182_1stODI.jpg",
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013946/1769071171301394_SL_vs_ENG_2026_masthead_mobile_v2_984x1182_1.jpg",
         "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090500625/mastheadLogo/1768986175244_1768979739741460_SL_vs_ENG_2026_Masthead_logo_1stODI_LIVE.png",
         "circular_image": null,
         "image_600x900_clean": null,
@@ -762,106 +762,6 @@
       ]
     },
     {
-      "contentId": 1090498784,
-      "video_info": {
-        "title": "Australian Open 2026",
-        "shortDescription": "Watch all the exclusive action from the Australian Open as Sriram/Oberleitner takes on Herbert/Thompson in the Round of 64, LIVE on Sony LIV.",
-        "longDescription": "Watch all the exclusive action from the Australian Open as Sriram/Oberleitner takes on Herbert/Thompson in the Round of 64, LIVE on Sony LIV.",
-        "genres": [
-          "Tennis"
-        ],
-        "episodeTitle": "Sriram/Oberleitner vs Herbert/Thompson - Men's Doubles - 22 Jan 2026"
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": "https://dai.google.com/ssai/event/3NAOVwTJSc6oymRMVAHvBA/master.m3u8",
-        "broadcast_channel": "Sony Sports Ten 5",
-        "audio_language_list": [
-          {
-            "lang_code": "ENG",
-            "lang_label": "English"
-          }
-        ],
-        "emfAttributes__audio_languages": "ENG",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD",
-          "videoType": "FULL_HD",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "ENG",
-              "isPreferred": true,
-              "audioLanguageLabel": "English"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA"
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "22 Jan 2026, 05:00 AM",
-        "contractEndDate": "22 Jan 2026, 11:00 PM",
-        "originalAirDate": "22 Jan 2026, 05:30 AM"
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013899/1769024838064253_AO2026_portrait_thumb_MensDoublesRound1_Balaji_Oberleitner_V_Herbert_Thompson.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013899/1769024837935253_AO2026_Landscape_Thumb_MensDoublesRound1_BalajiOberleitner_V_HerbertThompson_SP.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013899/1769024838020253_AO2026_Match_Masthead_mobile_v2_984x1182_MensDoublesRound1_BalajiOberleitner_V_HerbertThompson_SP.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013570/1768700528616955_AO26_round1_Masthead_logo.png",
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013899/1769024837935253_AO2026_Landscape_Thumb_MensDoublesRound1_BalajiOberleitner_V_HerbertThompson_SP.jpg"
-      },
-      "MULTIPLE_AUDIO_LINKS": [
-        {
-          "LANGUAGE": "English",
-          "LANG_CODE": "ENG",
-          "DATA": {
-            "JITENDRAUNATTI": {
-              "Device_Type": "LITE",
-              "message": "success",
-              "Playback_videoURL": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-AO/master.m3u8",
-              "WIDEVINE": null,
-              "STREAMING_TYPE": true,
-              "audioLanguages": [
-                {
-                  "audioId": 1,
-                  "audioLanguageName": "ENG",
-                  "isPreferred": true,
-                  "audioLanguageLabel": "English"
-                }
-              ],
-              "dai_asset_key": "https://dai.google.com/ssai/event/-6L_H7pxSSqKEWLnC4U5ng/master.m3u8",
-              "Maximum_Video_Quality": "SDR",
-              "Maximum_Resolution": "FULL_HD",
-              "trailer_url": "",
-              "systemTime": 1769065824886,
-              "DOCTOR_STRANGE": 1769065825,
-              "additionalDataJson": {
-                "ad_stack": "DAI-IMA",
-                "audioCodec": "AAC",
-                "audio_quality": "STEREO",
-                "enc_format": "HLS",
-                "fps": 25,
-                "isDaiKey": true,
-                "partners": [
-                  "ALL"
-                ],
-                "resolution": "HD",
-                "videoCodec": "H264",
-                "video_quality": "SDR"
-              },
-              "Status_code": 200,
-              "content_type": "application/json; charset=utf-8",
-              "Date": "Thursday 22nd of January 2026 12:40:25 PM"
-            }
-          }
-        }
-      ]
-    },
-    {
       "contentId": 1090498783,
       "video_info": {
         "title": "Australian Open 2026",
@@ -1265,12 +1165,12 @@
       "contentId": 1090498786,
       "video_info": {
         "title": "Australian Open 2026",
-        "shortDescription": "Watch all the exclusive action from the Australian Open as Linda Fruhvirtova takes on Tereza Valentova in the Round of 64, LIVE on Sony LIV.",
-        "longDescription": "Watch all the exclusive action from the Australian Open as Linda Fruhvirtova takes on Tereza Valentova in the Round of 64, LIVE on Sony LIV.",
+        "shortDescription": "Catch all the exciting tennis action from the Australian Open 2026  live on Sony LIV.",
+        "longDescription": "Catch all the exciting tennis action from the Australian Open 2026  live on Sony LIV.",
         "genres": [
           "Tennis"
         ],
-        "episodeTitle": "Linda Fruhvirtova vs Tereza Valentova - Women's Singles - 22 Jan 2026"
+        "episodeTitle": "Court 7 - 22 Jan 2026"
       },
       "stream_info": {
         "Maximum_Video_Quality": "SDR",
