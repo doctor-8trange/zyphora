@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "23-01-2026 12:40",
+  "last_updated": "23-01-2026 13:00",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -26,7 +26,7 @@
         "genres": [
           "Tennis"
         ],
-        "episodeTitle": "Jovic vs Paolini - Round 3 - 23 Jan 2026\t"
+        "episodeTitle": "Stream 1 - 23 Jan 2026\t"
       },
       "stream_info": {
         "Maximum_Video_Quality": "SDR",
@@ -73,14 +73,14 @@
         "originalAirDate": "23 Jan 2026, 05:30 AM"
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013925/1769052655905613_AO26_Round3_stream1_22jan_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013925/1769053129247613_AO26_Round3_stream1_22jan_landscape_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013679/1768827831016245_AO26_studio_show_19jan_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013680/1768828154505610_studio_show_19jan_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013992/1769110083947967_AO2026_Match_Masthead_mobile_v2_984x1182_Jovic_V_Paolini_SP.jpg",
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013679/1768827486344245_AO26_studio_show_19jan_masthead_mobile_v2.jpg",
         "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013983/1769099586434651_AO26_stream1_SET3_Andreeva_and_zverev_22jan_Live_Masthead_logo.png",
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013925/1769053129247613_AO26_Round3_stream1_22jan_landscape_thumb.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013680/1768828154505610_studio_show_19jan_landscape_thumb.jpg"
       },
       "MULTIPLE_AUDIO_LINKS": [
         {
@@ -656,6 +656,206 @@
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
               "Date": "Friday 23rd of January 2026 09:20:26 AM"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "contentId": 1090498778,
+      "video_info": {
+        "title": "Australian Open 2026",
+        "shortDescription": "Catch all the exciting tennis action from the Australian Open 2026  live on Sony LIV.",
+        "longDescription": "Catch all the exciting tennis action from the Australian Open 2026  live on Sony LIV.",
+        "genres": [
+          "Tennis"
+        ],
+        "episodeTitle": "Rod Laver Arena - 23 Jan 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/DD-3j9HWTsyxtaZasjfD6A/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "23 Jan 2026, 05:30 AM",
+        "contractEndDate": "23 Jan 2026, 11:30 PM",
+        "originalAirDate": "23 Jan 2026, 06:00 AM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013922/1769051060647997_AO26_Round3_Rod_Laver_Arena_22jan_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013922/1769051265892997_AO26_Round3_Rod_Laver_Arena_22jan_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013836/1768920770461350_AO2026_Match_Masthead_mobile_v2_984x1182_Round3_SP.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013529/1768648577991550_AO26_rod_Laver_Arena_Live_Masthead_logo.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013922/1769051265892997_AO26_Round3_Rod_Laver_Arena_22jan_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-AO/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/AniN2Q6kTeGcsh3vD1SuEA/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1769142611571,
+              "DOCTOR_STRANGE": 1769142611,
+              "additionalDataJson": {
+                "ad_stack": "DAI-IMA",
+                "audioCodec": "AAC",
+                "audio_quality": "STEREO",
+                "enc_format": "HLS",
+                "fps": 25,
+                "isDaiKey": true,
+                "partners": [
+                  "ALL"
+                ],
+                "resolution": "HD",
+                "videoCodec": "H264",
+                "video_quality": "SDR"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Friday 23rd of January 2026 10:00:11 AM"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "contentId": 1090498779,
+      "video_info": {
+        "title": "Australian Open 2026",
+        "shortDescription": "Catch all the exciting tennis action from the Australian Open 2026  live on Sony LIV.",
+        "longDescription": "Catch all the exciting tennis action from the Australian Open 2026  live on Sony LIV.",
+        "genres": [
+          "Tennis"
+        ],
+        "episodeTitle": "Margaret Court Arena - 23 Jan 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/Myr-ILIeTBy_ZpY8gtoaRQ/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "23 Jan 2026, 05:30 AM",
+        "contractEndDate": "23 Jan 2026, 11:30 PM",
+        "originalAirDate": "23 Jan 2026, 06:00 AM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013993/1769110084786443_AO26_portrait_thumb_Svitolina_v_Shnaider.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013993/1769110084650443_AO2026_Landscape_Thumb_Svitolina_v_Shnaider_SP.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013993/1769110084723443_AO2026_Match_Masthead_mobile_v2_984x1182_Svitolina_v_Shnaider_SP.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013983/1769099520313651_AO26_MCA_SET3_Bublik_vs_Etcheverry_22jan_Live_Masthead_logo.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013993/1769110084650443_AO2026_Landscape_Thumb_Svitolina_v_Shnaider_SP.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-AO/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/pDPKygd_RaSSQPzp4X14vA/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1769142610113,
+              "DOCTOR_STRANGE": 1769142609,
+              "additionalDataJson": {
+                "ad_stack": "DAI-IMA",
+                "audioCodec": "AAC",
+                "audio_quality": "STEREO",
+                "enc_format": "HLS",
+                "fps": 25,
+                "isDaiKey": true,
+                "partners": [
+                  "ALL"
+                ],
+                "resolution": "HD",
+                "videoCodec": "H264",
+                "video_quality": "SDR"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Friday 23rd of January 2026 10:00:09 AM"
             }
           }
         }
