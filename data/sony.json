@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "24-01-2026 13:40",
+  "last_updated": "24-01-2026 14:00",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -260,6 +260,106 @@
           }
         }
       ]
+    },
+    {
+      "contentId": 1090501185,
+      "video_info": {
+        "title": "England Tour of Sri Lanka 2026",
+        "shortDescription": " Sri Lanka and England meet for the 2nd ODI at the R. Premadasa Stadium. After being bowled out for 252 in the opening game, England will be eager to bounce back and level the series. Sri Lanka, buoyed by their victory, will look to seal the series with another win. Will Asalanka’s men clinch it, or can the lions roar back to make it 1-1? Find out as we bring you all the action from the 2nd ODI of Sri Lanka Tour of England 2026, LIVE on Sony LIV.",
+        "longDescription": " Sri Lanka and England meet for the 2nd ODI at the R. Premadasa Stadium. After being bowled out for 252 in the opening game, England will be eager to bounce back and level the series. Sri Lanka, buoyed by their victory, will look to seal the series with another win. Will Asalanka’s men clinch it, or can the lions roar back to make it 1-1? Find out as we bring you all the action from the 2nd ODI of Sri Lanka Tour of England 2026, LIVE on Sony LIV.",
+        "genres": [
+          "Cricket"
+        ],
+        "episodeTitle": "2nd ODI - 24 Jan 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/oIVwubfSTSKbOcRtPXiF7w/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "24 Jan 2026, 01:50 PM",
+        "contractEndDate": "25 Jan 2026, 02:50 AM",
+        "originalAirDate": "24 Jan 2026, 02:20 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013962/1769076786741110_SLvsENG26_2odi_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013962/1769076592969110_SLvsENG26_2odi_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013946/1769071171301394_SL_vs_ENG_2026_masthead_mobile_v2_984x1182_1.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014012/176915073275171_SL_vs_ENG_2026_Masthead_logo_2ndODI_LIVE.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013962/1769076592969110_SLvsENG26_2odi_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/CexBo8mzQyCIGyttVeOZRA/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1769243408303,
+              "DOCTOR_STRANGE": 1769243409,
+              "additionalDataJson": {
+                "ad_stack": "DAI-IMA",
+                "audioCodec": "AAC",
+                "audio_quality": "STEREO",
+                "enc_format": "HLS",
+                "fps": 25,
+                "isDaiKey": true,
+                "partners": [
+                  "ALL"
+                ],
+                "resolution": "HD",
+                "videoCodec": "H264",
+                "video_quality": "SDR"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Saturday 24th of January 2026 02:00:09 PM"
+            }
+          }
+        }
+      ]
     }
   ],
   "upcoming": [
@@ -426,14 +526,14 @@
         "originalAirDate": null
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013966/176908511897236_SLvsENG26_2odi_Today_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013966/176908548919536_SLvsENG26_2odi_Today__landscape_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013966/176908514984836_SLvsENG26_3odi_DDT_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013966/176908557014736_SLvsENG26_3odi_DDT_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
         "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013946/1769071171301394_SL_vs_ENG_2026_masthead_mobile_v2_984x1182_1.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014012/176915073281871_SL_vs_ENG_2026_Masthead_logo_2ndODI_TODAY.png",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014012/176915073284171_SL_vs_ENG_2026_Masthead_logo_3rdODI_Dated.png",
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013966/176908548919536_SLvsENG26_2odi_Today__landscape_thumb.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013966/176908557014736_SLvsENG26_3odi_DDT_landscape_thumb.jpg"
       },
       "MULTIPLE_AUDIO_LINKS": []
     },
