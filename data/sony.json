@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "26-01-2026 18:20",
+  "last_updated": "26-01-2026 18:40",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -90,7 +90,7 @@
             "JITENDRAUNATTI": {
               "Device_Type": "LITE",
               "message": "success",
-              "Playback_videoURL": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_mdh-800300010.m3u8",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-AO/master.m3u8",
               "WIDEVINE": null,
               "STREAMING_TYPE": true,
               "audioLanguages": [
@@ -101,29 +101,29 @@
                   "audioLanguageLabel": "English"
                 }
               ],
-              "dai_asset_key": "https://dai.google.com/ssai/event/yOv8jcNHS6eUGkWefaYBFQ/master.m3u8",
+              "dai_asset_key": "https://dai.google.com/ssai/event/-sPJl_4PQO-Xld0TN6nxkw/master.m3u8",
               "Maximum_Video_Quality": "SDR",
               "Maximum_Resolution": "FULL_HD",
               "trailer_url": "",
-              "systemTime": 1769417413085,
-              "DOCTOR_STRANGE": 1769417422,
+              "systemTime": 1769433008267,
+              "DOCTOR_STRANGE": 1769433008,
               "additionalDataJson": {
-                "ad_stack": "DAI-IMA",
-                "audioCodec": "AAC",
-                "audio_quality": "STEREO",
                 "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
                 "fps": 25,
-                "isDaiKey": true,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
                 "partners": [
                   "ALL"
                 ],
-                "resolution": "HD",
-                "videoCodec": "H264",
-                "video_quality": "SDR"
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
               },
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
-              "Date": "Monday 26th of January 2026 02:20:22 PM"
+              "Date": "Monday 26th of January 2026 06:40:08 PM"
             }
           }
         },
@@ -134,7 +134,7 @@
             "JITENDRAUNATTI": {
               "Device_Type": "LITE",
               "message": "success",
-              "Playback_videoURL": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_mdh-800300010.m3u8",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21ME-AO/master.m3u8",
               "WIDEVINE": null,
               "STREAMING_TYPE": true,
               "audioLanguages": [
@@ -145,29 +145,29 @@
                   "audioLanguageLabel": "English"
                 }
               ],
-              "dai_asset_key": "https://dai.google.com/ssai/event/69AgMVn0SBCTixLhMXYSYg/master.m3u8",
+              "dai_asset_key": "https://dai.google.com/ssai/event/yeDoxYs3Q9uN1D6JCpyKAg/master.m3u8",
               "Maximum_Video_Quality": "SDR",
               "Maximum_Resolution": "FULL_HD",
               "trailer_url": "",
-              "systemTime": 1769417433865,
-              "DOCTOR_STRANGE": 1769417443,
+              "systemTime": 1769433010022,
+              "DOCTOR_STRANGE": 1769433010,
               "additionalDataJson": {
-                "ad_stack": "DAI-IMA",
-                "audioCodec": "AAC",
-                "audio_quality": "STEREO",
                 "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
                 "fps": 25,
-                "isDaiKey": true,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
                 "partners": [
                   "ALL"
                 ],
-                "resolution": "HD",
-                "videoCodec": "H264",
-                "video_quality": "SDR"
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
               },
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
-              "Date": "Monday 26th of January 2026 02:20:43 PM"
+              "Date": "Monday 26th of January 2026 06:40:10 PM"
             }
           }
         },
@@ -193,8 +193,8 @@
               "Maximum_Video_Quality": "SDR",
               "Maximum_Resolution": "FULL_HD",
               "trailer_url": "",
-              "systemTime": 1769417451908,
-              "DOCTOR_STRANGE": 1769417451,
+              "systemTime": 1769433012936,
+              "DOCTOR_STRANGE": 1769433012,
               "additionalDataJson": {
                 "enc_format": "HLS",
                 "resolution": "FULL_HD",
@@ -211,7 +211,7 @@
               },
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
-              "Date": "Monday 26th of January 2026 02:20:51 PM"
+              "Date": "Monday 26th of January 2026 06:40:12 PM"
             }
           }
         },
@@ -237,8 +237,8 @@
               "Maximum_Video_Quality": "SDR",
               "Maximum_Resolution": "FULL_HD",
               "trailer_url": "",
-              "systemTime": 1769417453031,
-              "DOCTOR_STRANGE": 1769417452,
+              "systemTime": 1769433014505,
+              "DOCTOR_STRANGE": 1769433014,
               "additionalDataJson": {
                 "enc_format": "HLS",
                 "resolution": "FULL_HD",
@@ -255,7 +255,107 @@
               },
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
-              "Date": "Monday 26th of January 2026 02:20:52 PM"
+              "Date": "Monday 26th of January 2026 06:40:14 PM"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "contentId": 1090501598,
+      "video_info": {
+        "title": "World Legends Pro T20 League 2026",
+        "shortDescription": "Watch all the live action from World Legends Pro T20 League 2026 as Delhi Warriors take on Dubai Royals in the inaugural season opener of the World Legends Pro T20 League 2026, exclusively on Sony LIV.",
+        "longDescription": "Watch all the live action from World Legends Pro T20 League 2026 as Delhi Warriors take on Dubai Royals in the inaugural season opener of the World Legends Pro T20 League 2026, exclusively on Sony LIV.",
+        "genres": [
+          "Cricket"
+        ],
+        "episodeTitle": "Delhi Warriors vs Dubai Royals - 26 Jan 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/lCPZumh6RS6mpyQCA0ZOyA/master.m3u8",
+        "broadcast_channel": "LIV",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "26 Jan 2026, 06:30 PM",
+        "contractEndDate": "27 Jan 2026, 03:00 AM",
+        "originalAirDate": "26 Jan 2026, 07:00 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014166/1769326693835276_WLPT20L26_delhi_vs_dubai_25jan_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014166/1769329348071276_WLPT20L26_delhi_vs_dubai_25jan_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014145/1769290908000546_WorldLegendsProT20League2026_Match_masthead_mobile_v2_984x1182_DelhiWarriors_vs_DubaiRoyals.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014145/1769290908000546_WorldLegendsProT20League2026_Match_Masthead_logo_DelhiWarriors_vs_DubaiRoyals_LIVE.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014166/1769329348071276_WLPT20L26_delhi_vs_dubai_25jan_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2022318/DAI14ME-V3/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/lCPZumh6RS6mpyQCA0ZOyA/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1769433016074,
+              "DOCTOR_STRANGE": 1769433016,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Monday 26th of January 2026 06:40:16 PM"
             }
           }
         }
