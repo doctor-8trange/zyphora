@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "27-01-2026 13:40",
+  "last_updated": "27-01-2026 14:00",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -17,6 +17,106 @@
     "USAGE_GUIDE": []
   },
   "data": [
+    {
+      "contentId": 1090501673,
+      "video_info": {
+        "title": "England Tour of Sri Lanka 2026",
+        "shortDescription": "England and Sri Lanka gear up for a high-stakes 3rd ODI decider on January 27 at R. Premadasa Stadium, Colombo, with the series locked at 1-1 after SL's narrow 1st ODI win and ENG's spin-led chase in the 2nd. Will the hosts be able to save the series? Find out as we bring you all the action from the 3rd ODI of Sri Lanka Tour of England 2026, LIVE on Sony LIV.",
+        "longDescription": "England and Sri Lanka gear up for a high-stakes 3rd ODI decider on January 27 at R. Premadasa Stadium, Colombo, with the series locked at 1-1 after SL's narrow 1st ODI win and ENG's spin-led chase in the 2nd. Will the hosts be able to save the series? Find out as we bring you all the action from the 3rd ODI of Sri Lanka Tour of England 2026, LIVE on Sony LIV.",
+        "genres": [
+          "Cricket"
+        ],
+        "episodeTitle": "3rd ODI - 27 Jan 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/ik9hvNsSRdW1q6su6Tysyg/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "27 Jan 2026, 01:50 PM",
+        "contractEndDate": "28 Jan 2026, 02:50 AM",
+        "originalAirDate": "27 Jan 2026, 02:20 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013962/1769077499899110_SLvsENG26_3odi_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013962/1769077443147110_SLvsENG26_3odi_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013946/1769071171301394_SL_vs_ENG_2026_masthead_mobile_v2_984x1182_1.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014012/176915073288071_SL_vs_ENG_2026_Masthead_logo_3rdODI_LIVE.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013962/1769077443147110_SLvsENG26_3odi_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2018457/DAI35-criclive/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/ik9hvNsSRdW1q6su6Tysyg/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1769502608626,
+              "DOCTOR_STRANGE": 1769502609,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Tuesday 27th of January 2026 02:00:09 PM"
+            }
+          }
+        }
+      ]
+    },
     {
       "contentId": 1090499148,
       "video_info": {
@@ -105,8 +205,8 @@
               "Maximum_Video_Quality": "SDR",
               "Maximum_Resolution": "FULL_HD",
               "trailer_url": "",
-              "systemTime": 1769487009699,
-              "DOCTOR_STRANGE": 1769487009,
+              "systemTime": 1769502610469,
+              "DOCTOR_STRANGE": 1769502610,
               "additionalDataJson": {
                 "enc_format": "HLS",
                 "resolution": "FULL_HD",
@@ -123,7 +223,7 @@
               },
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
-              "Date": "Tuesday 27th of January 2026 09:40:09 AM"
+              "Date": "Tuesday 27th of January 2026 02:00:10 PM"
             }
           }
         },
@@ -149,8 +249,8 @@
               "Maximum_Video_Quality": "SDR",
               "Maximum_Resolution": "FULL_HD",
               "trailer_url": "",
-              "systemTime": 1769487010958,
-              "DOCTOR_STRANGE": 1769487010,
+              "systemTime": 1769502611984,
+              "DOCTOR_STRANGE": 1769502612,
               "additionalDataJson": {
                 "enc_format": "HLS",
                 "resolution": "FULL_HD",
@@ -167,7 +267,7 @@
               },
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
-              "Date": "Tuesday 27th of January 2026 09:40:10 AM"
+              "Date": "Tuesday 27th of January 2026 02:00:12 PM"
             }
           }
         },
@@ -193,8 +293,8 @@
               "Maximum_Video_Quality": "SDR",
               "Maximum_Resolution": "FULL_HD",
               "trailer_url": "",
-              "systemTime": 1769488206491,
-              "DOCTOR_STRANGE": 1769488207,
+              "systemTime": 1769502617316,
+              "DOCTOR_STRANGE": 1769502620,
               "additionalDataJson": {
                 "enc_format": "HLS",
                 "resolution": "FULL_HD",
@@ -211,7 +311,7 @@
               },
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
-              "Date": "Tuesday 27th of January 2026 10:00:07 AM"
+              "Date": "Tuesday 27th of January 2026 02:00:20 PM"
             }
           }
         },
@@ -237,8 +337,8 @@
               "Maximum_Video_Quality": "SDR",
               "Maximum_Resolution": "FULL_HD",
               "trailer_url": "",
-              "systemTime": 1769488209613,
-              "DOCTOR_STRANGE": 1769488209,
+              "systemTime": 1769502621357,
+              "DOCTOR_STRANGE": 1769502622,
               "additionalDataJson": {
                 "enc_format": "HLS",
                 "resolution": "FULL_HD",
@@ -255,7 +355,7 @@
               },
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
-              "Date": "Tuesday 27th of January 2026 10:00:09 AM"
+              "Date": "Tuesday 27th of January 2026 02:00:22 PM"
             }
           }
         }
@@ -365,12 +465,12 @@
       "contentId": 1090498779,
       "video_info": {
         "title": "Australian Open 2026",
-        "shortDescription": "Watch all the exclusive action from the Australian Open as Kubler/Polmans takes on Doumbia/Reboul in the Quarter Final, LIVE on Sony LIV.",
-        "longDescription": "Watch all the exclusive action from the Australian Open as Kubler/Polmans takes on Doumbia/Reboul in the Quarter Final, LIVE on Sony LIV.",
+        "shortDescription": "Catch all the exciting tennis action from the Australian Open 2026  live on Sony LIV.",
+        "longDescription": "Catch all the exciting tennis action from the Australian Open 2026  live on Sony LIV.",
         "genres": [
           "Tennis"
         ],
-        "episodeTitle": "Kubler/Polmans vs Doumbia/Reboul - Men's Doubles - 27 Jan 2026"
+        "episodeTitle": "Margaret Court Arena - 27 Jan 2026"
       },
       "stream_info": {
         "Maximum_Video_Quality": "SDR",
