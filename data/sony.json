@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "29-01-2026 03:40",
+  "last_updated": "29-01-2026 05:00",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -18,39 +18,27 @@
   },
   "data": [
     {
-      "contentId": 1090501773,
+      "contentId": 1090498773,
       "video_info": {
-        "title": "UEFA Champions League 2025-26",
-        "shortDescription": "Benfica host Real Madrid in their UEFA Champions League 2026 Matchday 8 clash at Estádio da Luz. With two wins and a draw in their last three meetings, the Portuguese side hold a slight edge. Will Benfica capitalize on home advantage, or can Madrid flip the script away from home? Tune in to catch all the action from UEFA Champions League 2025-26, LIVE & exclusively on Sony LIV.",
-        "longDescription": "Benfica host Real Madrid in their UEFA Champions League 2026 Matchday 8 clash at Estádio da Luz. With two wins and a draw in their last three meetings, the Portuguese side hold a slight edge. Will Benfica capitalize on home advantage, or can Madrid flip the script away from home? Tune in to catch all the action from UEFA Champions League 2025-26, LIVE & exclusively on Sony LIV.",
+        "title": "Australian Open 2026",
+        "shortDescription": "Watch all the action from the season's first Grand Slam as Australian Open 2026 brings the world's finest players to the hard courts of Melbourne, LIVE on Sony LIV.",
+        "longDescription": "Watch all the action from the season's first Grand Slam as Australian Open 2026 brings the world's finest players to the hard courts of Melbourne, LIVE on Sony LIV.",
         "genres": [
-          "Football"
+          "Tennis"
         ],
-        "episodeTitle": "Benfica vs Real Madrid - MD 8 - 29 Jan 2026"
+        "episodeTitle": "Stream 2 - 29 Jan 2026"
       },
       "stream_info": {
         "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": "https://dai.google.com/ssai/event/HO3Ytbq9QKmX1Fj7BoBH4A/master.m3u8",
-        "broadcast_channel": "Sony Sports Ten 2",
+        "dai_asset_key": "https://dai.google.com/ssai/event/FMNZr97pRseeuxxa24Tu6A/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 5",
         "audio_language_list": [
           {
             "lang_code": "ENG",
             "lang_label": "English"
-          },
-          {
-            "lang_code": "HIN",
-            "lang_label": "Hindi"
-          },
-          {
-            "lang_code": "TAM",
-            "lang_label": "Tamil"
-          },
-          {
-            "lang_code": "TEL",
-            "lang_label": "Telugu"
           }
         ],
-        "emfAttributes__audio_languages": "ENG,HIN,TAM,TEL",
+        "emfAttributes__audio_languages": "ENG",
         "platformVariants": {
           "assetType": "MASTER",
           "assetName": "VOD_FULL_HD",
@@ -64,23 +52,29 @@
             }
           ],
           "subtitlesLanguages": [],
-          "videoUrl": "NA"
+          "videoUrl": "NA",
+          "trailerUrl": "",
+          "promotionUrl": "",
+          "promotionRating": "",
+          "trailerRating": "",
+          "trailerContentId": "",
+          "promotionContentId": ""
         }
       },
       "air_dates": {
-        "contractStartDate": "29 Jan 2026, 12:55 AM",
-        "contractEndDate": "29 Jan 2026, 05:55 AM",
-        "originalAirDate": "29 Jan 2026, 01:25 AM"
+        "contractStartDate": "29 Jan 2026, 05:00 AM",
+        "contractEndDate": "29 Jan 2026, 11:00 PM",
+        "originalAirDate": "29 Jan 2026, 05:30 AM"
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013943/1769065356512186_UCL_26_MD8_Benfica-vs-Real-Madrid_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013943/1769065388328186_UCL_26_MD8_Benfica-vs-Real-Madrid_landscape_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014397/1769621322436417_AO26_SF_stream2_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014397/1769623666708417_AO26_SF_stream2_Landscape_thumb.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014281/1769509171655252_UCL25_26_Match_masthead_mobile_v2_984x1182_Benfica_vs_Real_Madrid.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014280/1769509172010166_UCL25_26_Match_Masthead_logo_Benfica_vs_Real_Madrid_Live.png",
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014246/176943961864747_AO2026_Match_Masthead_mobile_v2_984x1182_SF.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013591/176872982955368_AO26_Generic_live_Masthead_logo.png",
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013943/1769065388328186_UCL_26_MD8_Benfica-vs-Real-Madrid_landscape_thumb.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014397/1769623666708417_AO26_SF_stream2_Landscape_thumb.jpg"
       },
       "MULTIPLE_AUDIO_LINKS": [
         {
@@ -90,7 +84,7 @@
             "JITENDRAUNATTI": {
               "Device_Type": "LITE",
               "message": "success",
-              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2005444/DAI07ME-V3/master.m3u8",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2094587/DAI03ME-AO/master.m3u8",
               "WIDEVINE": null,
               "STREAMING_TYPE": true,
               "audioLanguages": [
@@ -101,12 +95,12 @@
                   "audioLanguageLabel": "English"
                 }
               ],
-              "dai_asset_key": "https://dai.google.com/ssai/event/HO3Ytbq9QKmX1Fj7BoBH4A/master.m3u8",
+              "dai_asset_key": "https://dai.google.com/ssai/event/FMNZr97pRseeuxxa24Tu6A/master.m3u8",
               "Maximum_Video_Quality": "SDR",
               "Maximum_Resolution": "FULL_HD",
               "trailer_url": "",
-              "systemTime": 1769628608150,
-              "DOCTOR_STRANGE": 1769628608,
+              "systemTime": 1769643010887,
+              "DOCTOR_STRANGE": 1769643011,
               "additionalDataJson": {
                 "enc_format": "HLS",
                 "resolution": "FULL_HD",
@@ -123,139 +117,7 @@
               },
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
-              "Date": "Thursday 29th of January 2026 01:00:08 AM"
-            }
-          }
-        },
-        {
-          "LANGUAGE": "Hindi",
-          "LANG_CODE": "HIN",
-          "DATA": {
-            "JITENDRAUNATTI": {
-              "Device_Type": "LITE",
-              "message": "success",
-              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2037140/DAI20ME-V3/master.m3u8",
-              "WIDEVINE": null,
-              "STREAMING_TYPE": true,
-              "audioLanguages": [
-                {
-                  "audioId": 1,
-                  "audioLanguageName": "ENG",
-                  "isPreferred": true,
-                  "audioLanguageLabel": "English"
-                }
-              ],
-              "dai_asset_key": "https://dai.google.com/ssai/event/x1UGIh46R2y6NXA09SUPQw/master.m3u8",
-              "Maximum_Video_Quality": "SDR",
-              "Maximum_Resolution": "FULL_HD",
-              "trailer_url": "",
-              "systemTime": 1769628609698,
-              "DOCTOR_STRANGE": 1769628611,
-              "additionalDataJson": {
-                "enc_format": "HLS",
-                "resolution": "FULL_HD",
-                "audio_quality": "STEREO",
-                "video_quality": "SDR",
-                "fps": 25,
-                "videoCodec": "H264",
-                "audioCodec": "AAC",
-                "partners": [
-                  "ALL"
-                ],
-                "isDaiKey": false,
-                "ad_stack": "MT-SSB"
-              },
-              "Status_code": 200,
-              "content_type": "application/json; charset=utf-8",
-              "Date": "Thursday 29th of January 2026 01:00:11 AM"
-            }
-          }
-        },
-        {
-          "LANGUAGE": "Tamil",
-          "LANG_CODE": "TAM",
-          "DATA": {
-            "JITENDRAUNATTI": {
-              "Device_Type": "LITE",
-              "message": "success",
-              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2037143/DAI23ME-V3/master.m3u8",
-              "WIDEVINE": null,
-              "STREAMING_TYPE": true,
-              "audioLanguages": [
-                {
-                  "audioId": 1,
-                  "audioLanguageName": "ENG",
-                  "isPreferred": true,
-                  "audioLanguageLabel": "English"
-                }
-              ],
-              "dai_asset_key": "https://dai.google.com/ssai/event/-ffKtz7ISVOrU0poHOs2wg/master.m3u8",
-              "Maximum_Video_Quality": "SDR",
-              "Maximum_Resolution": "FULL_HD",
-              "trailer_url": "",
-              "systemTime": 1769628613079,
-              "DOCTOR_STRANGE": 1769628615,
-              "additionalDataJson": {
-                "enc_format": "HLS",
-                "resolution": "FULL_HD",
-                "audio_quality": "STEREO",
-                "video_quality": "SDR",
-                "fps": 25,
-                "videoCodec": "H264",
-                "audioCodec": "AAC",
-                "partners": [
-                  "ALL"
-                ],
-                "isDaiKey": false,
-                "ad_stack": "MT-SSB"
-              },
-              "Status_code": 200,
-              "content_type": "application/json; charset=utf-8",
-              "Date": "Thursday 29th of January 2026 01:00:15 AM"
-            }
-          }
-        },
-        {
-          "LANGUAGE": "Telugu",
-          "LANG_CODE": "TEL",
-          "DATA": {
-            "JITENDRAUNATTI": {
-              "Device_Type": "LITE",
-              "message": "success",
-              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2022317/DAI13ME-V3/master.m3u8",
-              "WIDEVINE": null,
-              "STREAMING_TYPE": true,
-              "audioLanguages": [
-                {
-                  "audioId": 1,
-                  "audioLanguageName": "ENG",
-                  "isPreferred": true,
-                  "audioLanguageLabel": "English"
-                }
-              ],
-              "dai_asset_key": "https://dai.google.com/ssai/event/OmHoNcoVR064pZ1gWNFs_Q/master.m3u8",
-              "Maximum_Video_Quality": "SDR",
-              "Maximum_Resolution": "FULL_HD",
-              "trailer_url": "",
-              "systemTime": 1769628616408,
-              "DOCTOR_STRANGE": 1769628617,
-              "additionalDataJson": {
-                "enc_format": "HLS",
-                "resolution": "FULL_HD",
-                "audio_quality": "STEREO",
-                "video_quality": "SDR",
-                "fps": 25,
-                "videoCodec": "H264",
-                "audioCodec": "AAC",
-                "partners": [
-                  "ALL"
-                ],
-                "isDaiKey": false,
-                "ad_stack": "MT-SSB"
-              },
-              "Status_code": 200,
-              "content_type": "application/json; charset=utf-8",
-              "Date": "Thursday 29th of January 2026 01:00:17 AM"
+              "Date": "Thursday 29th of January 2026 05:00:11 AM"
             }
           }
         }
@@ -263,6 +125,64 @@
     }
   ],
   "upcoming": [
+    {
+      "contentId": 1090502319,
+      "video_info": {
+        "title": "Upcoming - Alcaraz vs Zverev - Australian Open 2026",
+        "shortDescription": "Tune in to catch all the action from the Australian Open 2026, exclusively on Sony LIV.",
+        "longDescription": "Tune in to catch all the action from the Australian Open 2026, exclusively on Sony LIV.",
+        "genres": [
+          "Tennis"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/41ad036796394993aa07bb018af36927/1769635857/baseline-std-v4/PROMO_AO_PROMO_MEN_SEMI_FINAL_20SEC_HOR_DATED_APP_mp4_eng_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "28 Jan 2026, 11:00 PM",
+        "contractEndDate": "30 Jan 2026, 05:00 PM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014404/1769636813077673_AO2026_Alcara_vs_zverev_Landscape_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014404/1769636813077673_AO2026_Alcara_vs_zverev_Landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": null,
+        "masthead_logo": null,
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014404/1769636813077673_AO2026_Alcara_vs_zverev_Landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": []
+    },
     {
       "contentId": 1090502274,
       "video_info": {
@@ -310,14 +230,14 @@
         "originalAirDate": null
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014395/1769625089243641_AO-womens-SF_Landscape_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014395/1769625089243641_AO-womens-SF_Landscape_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014401/1769634328141302_AO26_SF-Sabalenka-vs-Svitolina_ddt_Portrait_Thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014401/1769634959873302_AO26_SF-Sabalenka-vs-Svitolina_ddt_LAndscape_Thumb.jpg",
         "masthead_mobile_v1": null,
         "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014359/1769598433151491_AO26_womens_SF_28jan_today_schedule_masthead_mobile_v2.jpg",
         "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013498/1768579174755211_AO2026_GOB_Masthead_logo_SP_1.png",
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014395/1769625089243641_AO-womens-SF_Landscape_thumb.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014401/1769634959873302_AO26_SF-Sabalenka-vs-Svitolina_ddt_LAndscape_Thumb.jpg"
       },
       "MULTIPLE_AUDIO_LINKS": []
     },
