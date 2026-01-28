@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "28-01-2026 18:00",
+  "last_updated": "28-01-2026 18:20",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -13,402 +13,10 @@
     "REPLACEMENT": "OFF",
     "FREEPREVIEW": "AUTO",
     "ALL_IN_ONE": "ON",
-    "SERVER_STATUS": "CRITICAL WARNING",
+    "SERVER_STATUS": "NORMAL",
     "USAGE_GUIDE": []
   },
   "data": [
-    {
-      "contentId": 1090499148,
-      "video_info": {
-        "title": "Australian Open 2026",
-        "shortDescription": "Watch all the action from the season's first Grand Slam as Australian Open 2026 brings the world's finest players to the hard courts of Melbourne, LIVE on Sony LIV.",
-        "longDescription": "Watch all the action from the season's first Grand Slam as Australian Open 2026 brings the world's finest players to the hard courts of Melbourne, LIVE on Sony LIV.",
-        "genres": [
-          "Tennis"
-        ],
-        "episodeTitle": "Stream 1 - 28 Jan 2026\t"
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": "https://dai.google.com/ssai/event/H51kS5XGQ5qSSs2hPgRGgA/master.m3u8",
-        "broadcast_channel": "Sony Sports Ten 5",
-        "audio_language_list": [
-          {
-            "lang_code": "ENG",
-            "lang_label": "English"
-          },
-          {
-            "lang_code": "HIN",
-            "lang_label": "Hindi"
-          },
-          {
-            "lang_code": "TAM",
-            "lang_label": "Tamil"
-          },
-          {
-            "lang_code": "TEL",
-            "lang_label": "Telugu"
-          }
-        ],
-        "emfAttributes__audio_languages": "ENG,HIN,TAM,TEL",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD",
-          "videoType": "FULL_HD",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "ENG",
-              "isPreferred": true,
-              "audioLanguageLabel": "English"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA"
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "28 Jan 2026, 05:30 AM",
-        "contractEndDate": "28 Jan 2026, 11:30 PM",
-        "originalAirDate": "28 Jan 2026, 06:00 AM"
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013679/1768827831016245_AO26_studio_show_19jan_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013680/1768828154505610_studio_show_19jan_landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013679/1768827486344245_AO26_studio_show_19jan_masthead_mobile_v2.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013591/176872982955368_AO26_Generic_live_Masthead_logo.png",
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013680/1768828154505610_studio_show_19jan_landscape_thumb.jpg"
-      },
-      "MULTIPLE_AUDIO_LINKS": [
-        {
-          "LANGUAGE": "English",
-          "LANG_CODE": "ENG",
-          "DATA": {
-            "JITENDRAUNATTI": {
-              "Device_Type": "LITE",
-              "message": "success",
-              "Playback_videoURL": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/master.m3u8",
-              "WIDEVINE": null,
-              "STREAMING_TYPE": true,
-              "audioLanguages": [
-                {
-                  "audioId": 1,
-                  "audioLanguageName": "ENG",
-                  "isPreferred": true,
-                  "audioLanguageLabel": "English"
-                }
-              ],
-              "dai_asset_key": "https://dai.google.com/ssai/event/-UEZ_0KNSiyvQzCkYeA5Rw/master.m3u8",
-              "Maximum_Video_Quality": "SDR",
-              "Maximum_Resolution": "FULL_HD",
-              "trailer_url": "",
-              "systemTime": 1769590216065,
-              "DOCTOR_STRANGE": 1769590215,
-              "additionalDataJson": {
-                "ad_stack": "DAI-IMA",
-                "audioCodec": "AAC",
-                "audio_quality": "STEREO",
-                "enc_format": "HLS",
-                "fps": 25,
-                "isDaiKey": true,
-                "partners": [
-                  "ALL"
-                ],
-                "resolution": "HD",
-                "videoCodec": "H264",
-                "video_quality": "SDR"
-              },
-              "Status_code": 200,
-              "content_type": "application/json; charset=utf-8",
-              "Date": "Wednesday 28th of January 2026 02:20:15 PM"
-            }
-          }
-        },
-        {
-          "LANGUAGE": "Hindi",
-          "LANG_CODE": "HIN",
-          "DATA": {
-            "JITENDRAUNATTI": {
-              "Device_Type": "LITE",
-              "message": "success",
-              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21ME-AO/master.m3u8",
-              "WIDEVINE": null,
-              "STREAMING_TYPE": true,
-              "audioLanguages": [
-                {
-                  "audioId": 1,
-                  "audioLanguageName": "ENG",
-                  "isPreferred": true,
-                  "audioLanguageLabel": "English"
-                }
-              ],
-              "dai_asset_key": "https://dai.google.com/ssai/event/urJiNdAfTz-oUiy1vWzIhw/master.m3u8",
-              "Maximum_Video_Quality": "SDR",
-              "Maximum_Resolution": "FULL_HD",
-              "trailer_url": "",
-              "systemTime": 1769590217366,
-              "DOCTOR_STRANGE": 1769590218,
-              "additionalDataJson": {
-                "enc_format": "HLS",
-                "resolution": "FULL_HD",
-                "audio_quality": "STEREO",
-                "video_quality": "SDR",
-                "fps": 25,
-                "videoCodec": "H264",
-                "audioCodec": "AAC",
-                "partners": [
-                  "ALL"
-                ],
-                "isDaiKey": false,
-                "ad_stack": "MT-SSB"
-              },
-              "Status_code": 200,
-              "content_type": "application/json; charset=utf-8",
-              "Date": "Wednesday 28th of January 2026 02:20:18 PM"
-            }
-          }
-        },
-        {
-          "LANGUAGE": "Tamil",
-          "LANG_CODE": "TAM",
-          "DATA": {
-            "JITENDRAUNATTI": {
-              "Device_Type": "LITE",
-              "message": "success",
-              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2037143/DAI23ME-AO/master.m3u8",
-              "WIDEVINE": null,
-              "STREAMING_TYPE": true,
-              "audioLanguages": [
-                {
-                  "audioId": 1,
-                  "audioLanguageName": "ENG",
-                  "isPreferred": true,
-                  "audioLanguageLabel": "English"
-                }
-              ],
-              "dai_asset_key": "https://dai.google.com/ssai/event/9IQ8sp3pTamM6sPXOtXnKw/master.m3u8",
-              "Maximum_Video_Quality": "SDR",
-              "Maximum_Resolution": "FULL_HD",
-              "trailer_url": "",
-              "systemTime": 1769590219730,
-              "DOCTOR_STRANGE": 1769590219,
-              "additionalDataJson": {
-                "enc_format": "HLS",
-                "resolution": "FULL_HD",
-                "audio_quality": "STEREO",
-                "video_quality": "SDR",
-                "fps": 25,
-                "videoCodec": "H264",
-                "audioCodec": "AAC",
-                "partners": [
-                  "ALL"
-                ],
-                "isDaiKey": false,
-                "ad_stack": "MT-SSB"
-              },
-              "Status_code": 200,
-              "content_type": "application/json; charset=utf-8",
-              "Date": "Wednesday 28th of January 2026 02:20:19 PM"
-            }
-          }
-        },
-        {
-          "LANGUAGE": "Telugu",
-          "LANG_CODE": "TEL",
-          "DATA": {
-            "JITENDRAUNATTI": {
-              "Device_Type": "LITE",
-              "message": "success",
-              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2105080/DAI24ME-AO/master.m3u8",
-              "WIDEVINE": null,
-              "STREAMING_TYPE": true,
-              "audioLanguages": [
-                {
-                  "audioId": 1,
-                  "audioLanguageName": "ENG",
-                  "isPreferred": true,
-                  "audioLanguageLabel": "English"
-                }
-              ],
-              "dai_asset_key": "https://dai.google.com/ssai/event/RpCQLLgCS26DWzSio-apSA/master.m3u8",
-              "Maximum_Video_Quality": "SDR",
-              "Maximum_Resolution": "FULL_HD",
-              "trailer_url": "",
-              "systemTime": 1769590221166,
-              "DOCTOR_STRANGE": 1769590225,
-              "additionalDataJson": {
-                "enc_format": "HLS",
-                "resolution": "FULL_HD",
-                "audio_quality": "STEREO",
-                "video_quality": "SDR",
-                "fps": 25,
-                "videoCodec": "H264",
-                "audioCodec": "AAC",
-                "partners": [
-                  "ALL"
-                ],
-                "isDaiKey": false,
-                "ad_stack": "MT-SSB"
-              },
-              "Status_code": 200,
-              "content_type": "application/json; charset=utf-8",
-              "Date": "Wednesday 28th of January 2026 02:20:25 PM"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "contentId": 1090501887,
-      "video_info": {
-        "title": "World Legends Pro T20 League 2026",
-        "shortDescription": "Catch all the action from World Legends Pro T20 League 2026 as Dubai Royals take on Gurugram Thunders, LIVE & exclusively on Sony LIV.",
-        "longDescription": "Catch all the action from World Legends Pro T20 League 2026 as Dubai Royals take on Gurugram Thunders, LIVE & exclusively on Sony LIV.",
-        "genres": [
-          "Cricket"
-        ],
-        "episodeTitle": "Dubai Royals vs Gurugram Thunders - 28 Jan 2026"
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": "https://dai.google.com/ssai/event/FMNZr97pRseeuxxa24Tu6A/master.m3u8",
-        "broadcast_channel": "LIV",
-        "audio_language_list": [
-          {
-            "lang_code": "ENG",
-            "lang_label": "English"
-          },
-          {
-            "lang_code": "HIN",
-            "lang_label": "Hindi"
-          }
-        ],
-        "emfAttributes__audio_languages": "ENG,HIN",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD",
-          "videoType": "FULL_HD",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "ENG",
-              "isPreferred": true,
-              "audioLanguageLabel": "English"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA"
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "28 Jan 2026, 01:30 PM",
-        "contractEndDate": "28 Jan 2026, 10:00 PM",
-        "originalAirDate": "28 Jan 2026, 02:00 PM"
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014269/1769496352779465_World_Legends_Pro_T20_League_2026_Dubai-Royals-vs-Gurugram-Thunders_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014269/1769496328266465_World_Legends_Pro_T20_League_2026_Dubai-Royals-vs-Gurugram-Thunders_landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014318/1769531920457164_WorldLegendsProT20League2026_Match_masthead_mobile_v2_984x1182_DubaiRoyals_vs_GurugramThunders.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014318/1769531920591164_WorldLegendsProT20League2026_Match_Masthead_logo_Dubai_Royals_vs_Gurugram_Thunders_Live.png",
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014269/1769496328266465_World_Legends_Pro_T20_League_2026_Dubai-Royals-vs-Gurugram-Thunders_landscape_thumb.jpg"
-      },
-      "MULTIPLE_AUDIO_LINKS": [
-        {
-          "LANGUAGE": "English",
-          "LANG_CODE": "ENG",
-          "DATA": {
-            "JITENDRAUNATTI": {
-              "Device_Type": "LITE",
-              "message": "success",
-              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2022318/DAI14ME-V3/master.m3u8",
-              "WIDEVINE": null,
-              "STREAMING_TYPE": true,
-              "audioLanguages": [
-                {
-                  "audioId": 1,
-                  "audioLanguageName": "ENG",
-                  "isPreferred": true,
-                  "audioLanguageLabel": "English"
-                }
-              ],
-              "dai_asset_key": "https://dai.google.com/ssai/event/FMNZr97pRseeuxxa24Tu6A/master.m3u8",
-              "Maximum_Video_Quality": "SDR",
-              "Maximum_Resolution": "FULL_HD",
-              "trailer_url": "",
-              "systemTime": 1769587809954,
-              "DOCTOR_STRANGE": 1769587809,
-              "additionalDataJson": {
-                "enc_format": "HLS",
-                "resolution": "FULL_HD",
-                "audio_quality": "STEREO",
-                "video_quality": "SDR",
-                "fps": 25,
-                "videoCodec": "H264",
-                "audioCodec": "AAC",
-                "partners": [
-                  "ALL"
-                ],
-                "isDaiKey": false,
-                "ad_stack": "MT-SSB"
-              },
-              "Status_code": 200,
-              "content_type": "application/json; charset=utf-8",
-              "Date": "Wednesday 28th of January 2026 01:40:09 PM"
-            }
-          }
-        },
-        {
-          "LANGUAGE": "Hindi",
-          "LANG_CODE": "HIN",
-          "DATA": {
-            "JITENDRAUNATTI": {
-              "Device_Type": "LITE",
-              "message": "success",
-              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI37ME-V3/master.m3u8",
-              "WIDEVINE": null,
-              "STREAMING_TYPE": true,
-              "audioLanguages": [
-                {
-                  "audioId": 1,
-                  "audioLanguageName": "ENG",
-                  "isPreferred": true,
-                  "audioLanguageLabel": "English"
-                }
-              ],
-              "dai_asset_key": "https://dai.google.com/ssai/event/mtJJIdT7TfKMRF3G1aon-g/master.m3u8",
-              "Maximum_Video_Quality": "SDR",
-              "Maximum_Resolution": "FULL_HD",
-              "trailer_url": "",
-              "systemTime": 1769587811187,
-              "DOCTOR_STRANGE": 1769587811,
-              "additionalDataJson": {
-                "enc_format": "HLS",
-                "resolution": "FULL_HD",
-                "audio_quality": "STEREO",
-                "video_quality": "SDR",
-                "fps": 25,
-                "videoCodec": "H264",
-                "audioCodec": "AAC",
-                "partners": [
-                  "ALL"
-                ],
-                "isDaiKey": false,
-                "ad_stack": "MT-SSB"
-              },
-              "Status_code": 200,
-              "content_type": "application/json; charset=utf-8",
-              "Date": "Wednesday 28th of January 2026 01:40:11 PM"
-            }
-          }
-        }
-      ]
-    },
     {
       "contentId": 1090501919,
       "video_info": {
@@ -504,106 +112,6 @@
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
               "Date": "Wednesday 28th of January 2026 05:40:09 PM"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "contentId": 1090498778,
-      "video_info": {
-        "title": "Australian Open 2026",
-        "shortDescription": "Catch all the exciting tennis action from the Australian Open 2026  live on Sony LIV.",
-        "longDescription": "Catch all the exciting tennis action from the Australian Open 2026  live on Sony LIV.",
-        "genres": [
-          "Tennis"
-        ],
-        "episodeTitle": "Rod Laver Arena - 28 Jan 2026"
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": "https://dai.google.com/ssai/event/IKKq0XJETWae8zmUt34KmA/master.m3u8",
-        "broadcast_channel": "Sony Sports Ten 5",
-        "audio_language_list": [
-          {
-            "lang_code": "ENG",
-            "lang_label": "English"
-          }
-        ],
-        "emfAttributes__audio_languages": "ENG",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD",
-          "videoType": "FULL_HD",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "ENG",
-              "isPreferred": true,
-              "audioLanguageLabel": "English"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA"
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "28 Jan 2026, 05:30 AM",
-        "contractEndDate": "28 Jan 2026, 11:30 PM",
-        "originalAirDate": "28 Jan 2026, 06:00 AM"
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014197/1769372156634933_AO26_QF_Rod_Laver-_Arena_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014197/1769372815753933_AO26_QF_Rod_Laver-_Arena_Landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014246/176943949581947_AO2026_Match_Masthead_mobile_v2_984x1182_QF_SP.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013529/1768648577991550_AO26_rod_Laver_Arena_Live_Masthead_logo.png",
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014197/1769372815753933_AO26_QF_Rod_Laver-_Arena_Landscape_thumb.jpg"
-      },
-      "MULTIPLE_AUDIO_LINKS": [
-        {
-          "LANGUAGE": "English",
-          "LANG_CODE": "ENG",
-          "DATA": {
-            "JITENDRAUNATTI": {
-              "Device_Type": "LITE",
-              "message": "success",
-              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-AO/master.m3u8",
-              "WIDEVINE": null,
-              "STREAMING_TYPE": true,
-              "audioLanguages": [
-                {
-                  "audioId": 1,
-                  "audioLanguageName": "ENG",
-                  "isPreferred": true,
-                  "audioLanguageLabel": "English"
-                }
-              ],
-              "dai_asset_key": "https://dai.google.com/ssai/event/IKKq0XJETWae8zmUt34KmA/master.m3u8",
-              "Maximum_Video_Quality": "SDR",
-              "Maximum_Resolution": "FULL_HD",
-              "trailer_url": "",
-              "systemTime": 1769590227299,
-              "DOCTOR_STRANGE": 1769590230,
-              "additionalDataJson": {
-                "enc_format": "HLS",
-                "resolution": "FULL_HD",
-                "audio_quality": "STEREO",
-                "video_quality": "SDR",
-                "fps": 25,
-                "videoCodec": "H264",
-                "audioCodec": "AAC",
-                "partners": [
-                  "ALL"
-                ],
-                "isDaiKey": false,
-                "ad_stack": "MT-SSB"
-              },
-              "Status_code": 200,
-              "content_type": "application/json; charset=utf-8",
-              "Date": "Wednesday 28th of January 2026 02:20:30 PM"
             }
           }
         }
@@ -710,6 +218,106 @@
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
               "Date": "Wednesday 28th of January 2026 05:40:10 PM"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "contentId": 1090498778,
+      "video_info": {
+        "title": "Australian Open 2026",
+        "shortDescription": "Catch all the exciting tennis action from the Australian Open 2026  live on Sony LIV.",
+        "longDescription": "Catch all the exciting tennis action from the Australian Open 2026  live on Sony LIV.",
+        "genres": [
+          "Tennis"
+        ],
+        "episodeTitle": "Rod Laver Arena - 28 Jan 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/IKKq0XJETWae8zmUt34KmA/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "28 Jan 2026, 05:30 AM",
+        "contractEndDate": "28 Jan 2026, 11:30 PM",
+        "originalAirDate": "28 Jan 2026, 06:00 AM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014197/1769372156634933_AO26_QF_Rod_Laver-_Arena_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014197/1769372815753933_AO26_QF_Rod_Laver-_Arena_Landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014246/176943949581947_AO2026_Match_Masthead_mobile_v2_984x1182_QF_SP.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013529/1768648577991550_AO26_rod_Laver_Arena_Live_Masthead_logo.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014197/1769372815753933_AO26_QF_Rod_Laver-_Arena_Landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-AO/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/IKKq0XJETWae8zmUt34KmA/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1769590227299,
+              "DOCTOR_STRANGE": 1769590230,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Wednesday 28th of January 2026 02:20:30 PM"
             }
           }
         }
