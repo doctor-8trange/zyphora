@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "28-01-2026 18:20",
+  "last_updated": "28-01-2026 18:40",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -17,6 +17,154 @@
     "USAGE_GUIDE": []
   },
   "data": [
+    {
+      "contentId": 1090501921,
+      "video_info": {
+        "title": "World Legends Pro T20 League 2026",
+        "shortDescription": "Catch all the action from World Legends Pro T20 League 2026 as Delhi Warriors take on Pune Panthers, LIVE & exclusively on Sony LIV.",
+        "longDescription": "Catch all the action from World Legends Pro T20 League 2026 as Delhi Warriors take on Pune Panthers, LIVE & exclusively on Sony LIV.",
+        "genres": [
+          "Cricket"
+        ],
+        "episodeTitle": "Delhi Warriors vs Pune Panthers - 28 Jan 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/CEosGMIGTXu2ka_dIP4EAw/master.m3u8",
+        "broadcast_channel": "LIV",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          },
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG,HIN",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "28 Jan 2026, 06:30 PM",
+        "contractEndDate": "29 Jan 2026, 03:00 AM",
+        "originalAirDate": "28 Jan 2026, 07:00 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014269/1769496398549465_World_Legends_Pro_T20_League_2026_Delhi-Warriors-vs-Pune-Panthers_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014269/1769496463023465_World_Legends_Pro_T20_League_2026_Delhi-Warriors-vs-Pune-Panthers_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014367/1769602174940422_WorldLegendsProT20League2026_Match_masthead_mobile_v2_984x1182_Delhi_Warriors_vs_Pune_Panthers_1.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014318/1769531920569164_WorldLegendsProT20League2026_Match_Masthead_logo_Delhi_Warriors_vs_Pune_Panthers_Live.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014269/1769496463023465_World_Legends_Pro_T20_League_2026_Delhi-Warriors-vs-Pune-Panthers_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2022318/DAI14ME-V3/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/CEosGMIGTXu2ka_dIP4EAw/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1769605812319,
+              "DOCTOR_STRANGE": 1769605814,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Wednesday 28th of January 2026 06:40:14 PM"
+            }
+          }
+        },
+        {
+          "LANGUAGE": "Hindi",
+          "LANG_CODE": "HIN",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI37ME-V3/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/oVq0tVYHRH2IdcXpscfoKw/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1769605815981,
+              "DOCTOR_STRANGE": 1769605816,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Wednesday 28th of January 2026 06:40:16 PM"
+            }
+          }
+        }
+      ]
+    },
     {
       "contentId": 1090501919,
       "video_info": {
@@ -299,8 +447,8 @@
               "Maximum_Video_Quality": "SDR",
               "Maximum_Resolution": "FULL_HD",
               "trailer_url": "",
-              "systemTime": 1769590227299,
-              "DOCTOR_STRANGE": 1769590230,
+              "systemTime": 1769605818301,
+              "DOCTOR_STRANGE": 1769605818,
               "additionalDataJson": {
                 "enc_format": "HLS",
                 "resolution": "FULL_HD",
@@ -317,7 +465,7 @@
               },
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
-              "Date": "Wednesday 28th of January 2026 02:20:30 PM"
+              "Date": "Wednesday 28th of January 2026 06:40:18 PM"
             }
           }
         }
