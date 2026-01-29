@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "29-01-2026 11:40",
+  "last_updated": "29-01-2026 12:00",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -262,6 +262,106 @@
       ]
     },
     {
+      "contentId": 1090498779,
+      "video_info": {
+        "title": "Australian Open 2026",
+        "shortDescription": "Catch all the exciting tennis action from the Roland-Garros 2025 live on Sony LIV.",
+        "longDescription": "Catch all the exciting tennis action from the Roland-Garros 2025 live on Sony LIV.",
+        "genres": [
+          "Tennis"
+        ],
+        "episodeTitle": "Margaret Court Arena - 29 Jan 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/f33XsXydSbagpJMXV4HenQ/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "29 Jan 2026, 08:00 AM",
+        "contractEndDate": "29 Jan 2026, 11:00 PM",
+        "originalAirDate": "29 Jan 2026, 08:30 AM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014390/1769619172317571_AO26_SF_MargaretCourtArena_Portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014390/1769619548402571_AO26_SF_MargaretCourtArena_Landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014246/176943961278047_AO2026_Match_Masthead_mobile_v2_984x1182_SF_SP.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013529/1768648545200550_AO26_Margaret_Court_Arena_Live_Masthead_logo.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014390/1769619548402571_AO26_SF_MargaretCourtArena_Landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2018457/DAI09ME-AO/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/f33XsXydSbagpJMXV4HenQ/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1769653810276,
+              "DOCTOR_STRANGE": 1769653812,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Thursday 29th of January 2026 08:00:12 AM"
+            }
+          }
+        }
+      ]
+    },
+    {
       "contentId": 1090498773,
       "video_info": {
         "title": "Australian Open 2026",
@@ -371,12 +471,12 @@
       "contentId": 1090498778,
       "video_info": {
         "title": "Australian Open 2026",
-        "shortDescription": "Catch all the exciting tennis action from the Roland-Garros 2025 live on Sony LIV.",
-        "longDescription": "Catch all the exciting tennis action from the Roland-Garros 2025 live on Sony LIV.",
+        "shortDescription": "Watch all the exclusive action from the Roland-Garros as Danilina/Krunic takes on Dabrowski/Stefani in the Semi Final, LIVE on Sony LIV.",
+        "longDescription": "Watch all the exclusive action from the Roland-Garros as Danilina/Krunic takes on Dabrowski/Stefani in the Semi Final, LIVE on Sony LIV.",
         "genres": [
           "Tennis"
         ],
-        "episodeTitle": "Rod Laver Arena - 29 Jan 2026"
+        "episodeTitle": "Danilina/Krunic vs Dabrowski/Stefani - Women's Doubles - 29 Jan 2026"
       },
       "stream_info": {
         "Maximum_Video_Quality": "SDR",
