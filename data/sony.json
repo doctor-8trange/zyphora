@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "29-01-2026 10:40",
+  "last_updated": "29-01-2026 11:00",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -77,7 +77,7 @@
         "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014382/1769613836734130_AO26_womens_doubles_SF_Danilina_Krunic_vs_Dabrowski_Stefani_28jan_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
         "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014246/176943961278047_AO2026_Match_Masthead_mobile_v2_984x1182_SF_SP.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013591/176872982955368_AO26_Generic_live_Masthead_logo.png",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014387/1769615945002786_AO26_womens_SF_set1_28jan_Live_Masthead_logo.png",
         "circular_image": null,
         "image_600x900_clean": null,
         "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014382/1769613836734130_AO26_womens_doubles_SF_Danilina_Krunic_vs_Dabrowski_Stefani_28jan_landscape_thumb.jpg"
@@ -256,106 +256,6 @@
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
               "Date": "Thursday 29th of January 2026 07:00:17 AM"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "contentId": 1090498779,
-      "video_info": {
-        "title": "Australian Open 2026",
-        "shortDescription": "Catch all the exciting tennis action from the Roland-Garros 2025 live on Sony LIV.",
-        "longDescription": "Catch all the exciting tennis action from the Roland-Garros 2025 live on Sony LIV.",
-        "genres": [
-          "Tennis"
-        ],
-        "episodeTitle": "Margaret Court Arena - 29 Jan 2026"
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": "https://dai.google.com/ssai/event/f33XsXydSbagpJMXV4HenQ/master.m3u8",
-        "broadcast_channel": "Sony Sports Ten 5",
-        "audio_language_list": [
-          {
-            "lang_code": "ENG",
-            "lang_label": "English"
-          }
-        ],
-        "emfAttributes__audio_languages": "ENG",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD",
-          "videoType": "FULL_HD",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "ENG",
-              "isPreferred": true,
-              "audioLanguageLabel": "English"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA"
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "29 Jan 2026, 08:00 AM",
-        "contractEndDate": "29 Jan 2026, 11:00 PM",
-        "originalAirDate": "29 Jan 2026, 08:30 AM"
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014390/1769619172317571_AO26_SF_MargaretCourtArena_Portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014390/1769619548402571_AO26_SF_MargaretCourtArena_Landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014246/176943961278047_AO2026_Match_Masthead_mobile_v2_984x1182_SF_SP.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013529/1768648545200550_AO26_Margaret_Court_Arena_Live_Masthead_logo.png",
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014390/1769619548402571_AO26_SF_MargaretCourtArena_Landscape_thumb.jpg"
-      },
-      "MULTIPLE_AUDIO_LINKS": [
-        {
-          "LANGUAGE": "English",
-          "LANG_CODE": "ENG",
-          "DATA": {
-            "JITENDRAUNATTI": {
-              "Device_Type": "LITE",
-              "message": "success",
-              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2018457/DAI09ME-AO/master.m3u8",
-              "WIDEVINE": null,
-              "STREAMING_TYPE": true,
-              "audioLanguages": [
-                {
-                  "audioId": 1,
-                  "audioLanguageName": "ENG",
-                  "isPreferred": true,
-                  "audioLanguageLabel": "English"
-                }
-              ],
-              "dai_asset_key": "https://dai.google.com/ssai/event/f33XsXydSbagpJMXV4HenQ/master.m3u8",
-              "Maximum_Video_Quality": "SDR",
-              "Maximum_Resolution": "FULL_HD",
-              "trailer_url": "",
-              "systemTime": 1769653810276,
-              "DOCTOR_STRANGE": 1769653812,
-              "additionalDataJson": {
-                "enc_format": "HLS",
-                "resolution": "FULL_HD",
-                "audio_quality": "STEREO",
-                "video_quality": "SDR",
-                "fps": 25,
-                "videoCodec": "H264",
-                "audioCodec": "AAC",
-                "partners": [
-                  "ALL"
-                ],
-                "isDaiKey": false,
-                "ad_stack": "MT-SSB"
-              },
-              "Status_code": 200,
-              "content_type": "application/json; charset=utf-8",
-              "Date": "Thursday 29th of January 2026 08:00:12 AM"
             }
           }
         }
@@ -569,64 +469,6 @@
     }
   ],
   "upcoming": [
-    {
-      "contentId": 1090502319,
-      "video_info": {
-        "title": "Upcoming - Alcaraz vs Zverev - Australian Open 2026",
-        "shortDescription": "Tune in to catch all the action from the Australian Open 2026, exclusively on Sony LIV.",
-        "longDescription": "Tune in to catch all the action from the Australian Open 2026, exclusively on Sony LIV.",
-        "genres": [
-          "Tennis"
-        ],
-        "episodeTitle": ""
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "Sony Sports Ten 5",
-        "audio_language_list": [
-          {
-            "lang_code": "ENG",
-            "lang_label": "English"
-          }
-        ],
-        "emfAttributes__audio_languages": "ENG",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "ENG",
-              "isPreferred": true,
-              "audioLanguageLabel": "English",
-              "type": "main"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/41ad036796394993aa07bb018af36927/1769635857/baseline-std-v4/PROMO_AO_PROMO_MEN_SEMI_FINAL_20SEC_HOR_DATED_APP_mp4_eng_baseline-800300010.mpd",
-          "hasTrailer": true
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "28 Jan 2026, 11:00 PM",
-        "contractEndDate": "30 Jan 2026, 05:00 PM",
-        "originalAirDate": null
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014416/1769653486884815_AO26_portrait_thumb_Alcaraz_v_Zverev_DDT.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014416/1769654207340815_AO26_landscape_thumb_Alcaraz_v_Zverev_ddt.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": null,
-        "masthead_logo": null,
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014416/1769654207340815_AO26_landscape_thumb_Alcaraz_v_Zverev_ddt.jpg"
-      },
-      "MULTIPLE_AUDIO_LINKS": []
-    },
     {
       "contentId": 1090502274,
       "video_info": {
