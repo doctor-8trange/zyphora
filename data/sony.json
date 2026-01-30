@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "30-01-2026 22:20",
+  "last_updated": "30-01-2026 22:40",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -178,7 +178,7 @@
             "JITENDRAUNATTI": {
               "Device_Type": "LITE",
               "message": "success",
-              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrl-800300010.m3u8",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2018457/DAI35-criclive/master.m3u8",
               "WIDEVINE": null,
               "STREAMING_TYPE": true,
               "audioLanguages": [
@@ -193,8 +193,8 @@
               "Maximum_Video_Quality": "SDR",
               "Maximum_Resolution": "FULL_HD",
               "trailer_url": "",
-              "systemTime": 1769777408751,
-              "DOCTOR_STRANGE": 1769777418,
+              "systemTime": 1769793017701,
+              "DOCTOR_STRANGE": 1769793017,
               "additionalDataJson": {
                 "enc_format": "HLS",
                 "resolution": "FULL_HD",
@@ -211,7 +211,7 @@
               },
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
-              "Date": "Friday 30th of January 2026 06:20:18 PM"
+              "Date": "Friday 30th of January 2026 10:40:17 PM"
             }
           }
         }
@@ -282,7 +282,7 @@
             "JITENDRAUNATTI": {
               "Device_Type": "LITE",
               "message": "success",
-              "Playback_videoURL": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/master.m3u8",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2022318/DAI14ME-V3/master.m3u8",
               "WIDEVINE": null,
               "STREAMING_TYPE": true,
               "audioLanguages": [
@@ -293,29 +293,29 @@
                   "audioLanguageLabel": "English"
                 }
               ],
-              "dai_asset_key": "https://dai.google.com/ssai/event/WuMNGfdPRoW2_F3QZUXNRw/master.m3u8",
+              "dai_asset_key": "https://dai.google.com/ssai/event/KqsXcdR0Ta2-bgmQzgV55A/master.m3u8",
               "Maximum_Video_Quality": "SDR",
               "Maximum_Resolution": "FULL_HD",
               "trailer_url": "",
-              "systemTime": 1769778617692,
-              "DOCTOR_STRANGE": 1769778617,
+              "systemTime": 1769793023186,
+              "DOCTOR_STRANGE": 1769793022,
               "additionalDataJson": {
-                "ad_stack": "DAI-IMA",
-                "audioCodec": "AAC",
-                "audio_quality": "STEREO",
                 "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
                 "fps": 25,
-                "isDaiKey": true,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
                 "partners": [
                   "ALL"
                 ],
-                "resolution": "HD",
-                "videoCodec": "H264",
-                "video_quality": "SDR"
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
               },
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
-              "Date": "Friday 30th of January 2026 06:40:17 PM"
+              "Date": "Friday 30th of January 2026 10:40:22 PM"
             }
           }
         },
@@ -341,8 +341,8 @@
               "Maximum_Video_Quality": "SDR",
               "Maximum_Resolution": "FULL_HD",
               "trailer_url": "",
-              "systemTime": 1769778618723,
-              "DOCTOR_STRANGE": 1769778618,
+              "systemTime": 1769793024050,
+              "DOCTOR_STRANGE": 1769793027,
               "additionalDataJson": {
                 "enc_format": "HLS",
                 "resolution": "FULL_HD",
@@ -359,7 +359,7 @@
               },
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
-              "Date": "Friday 30th of January 2026 06:40:18 PM"
+              "Date": "Friday 30th of January 2026 10:40:27 PM"
             }
           }
         }
@@ -508,106 +508,6 @@
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
               "Date": "Friday 30th of January 2026 07:40:16 PM"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "contentId": 1090502577,
-      "video_info": {
-        "title": "World Pickleball League 2026",
-        "shortDescription": "Bengaluru Jawans take on Dilli Dillwale promising an adrenaline‑charged action and pure sports entertainment. Catch all the action from World Pickleball League 2026, LIVE & exclusively on Sony LIV.",
-        "longDescription": "Bengaluru Jawans take on Dilli Dillwale promising an adrenaline‑charged action and pure sports entertainment. Catch all the action from World Pickleball League 2026, LIVE & exclusively on Sony LIV.",
-        "genres": [
-          "Pickleball"
-        ],
-        "episodeTitle": "Bengaluru Jawans vs Dilli Dillwale - 30 Jan 2026"
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": "https://dai.google.com/ssai/event/O1T1FsBGRG-E3tKfjU-jnw/master.m3u8",
-        "broadcast_channel": "LIV",
-        "audio_language_list": [
-          {
-            "lang_code": "ENG",
-            "lang_label": "English"
-          }
-        ],
-        "emfAttributes__audio_languages": "ENG",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD",
-          "videoType": "FULL_HD",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "ENG",
-              "isPreferred": true,
-              "audioLanguageLabel": "English"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA"
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "30 Jan 2026, 07:30 PM",
-        "contractEndDate": "31 Jan 2026, 01:00 AM",
-        "originalAirDate": "30 Jan 2026, 08:00 PM"
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014355/1769592173046675_WPL26_Bengaluru-vs-Delhi_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014355/1769592214749674_WPL26_Bengaluru-vs-Delhi_landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014117/1769245032000772_WPBL26_Match_masthead_mobile_v2_984x1182_BengaluruJawans_vs_DilliDilwale.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014117/1769245032000772_WPBL26_Match_Masthead_logo_BengaluruJawans_vs_DilliDilwale_LIVE.png",
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014355/1769592214749674_WPL26_Bengaluru-vs-Delhi_landscape_thumb.jpg"
-      },
-      "MULTIPLE_AUDIO_LINKS": [
-        {
-          "LANGUAGE": "English",
-          "LANG_CODE": "ENG",
-          "DATA": {
-            "JITENDRAUNATTI": {
-              "Device_Type": "LITE",
-              "message": "success",
-              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/master.m3u8",
-              "WIDEVINE": null,
-              "STREAMING_TYPE": true,
-              "audioLanguages": [
-                {
-                  "audioId": 1,
-                  "audioLanguageName": "ENG",
-                  "isPreferred": true,
-                  "audioLanguageLabel": "English"
-                }
-              ],
-              "dai_asset_key": "https://dai.google.com/ssai/event/O1T1FsBGRG-E3tKfjU-jnw/master.m3u8",
-              "Maximum_Video_Quality": "SDR",
-              "Maximum_Resolution": "FULL_HD",
-              "trailer_url": "",
-              "systemTime": 1769782218295,
-              "DOCTOR_STRANGE": 1769782220,
-              "additionalDataJson": {
-                "enc_format": "HLS",
-                "resolution": "FULL_HD",
-                "audio_quality": "STEREO",
-                "video_quality": "SDR",
-                "fps": 25,
-                "videoCodec": "H264",
-                "audioCodec": "AAC",
-                "partners": [
-                  "ALL"
-                ],
-                "isDaiKey": false,
-                "ad_stack": "MT-SSB"
-              },
-              "Status_code": 200,
-              "content_type": "application/json; charset=utf-8",
-              "Date": "Friday 30th of January 2026 07:40:20 PM"
             }
           }
         }
