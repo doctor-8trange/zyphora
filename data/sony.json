@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "30-01-2026 18:40",
+  "last_updated": "30-01-2026 19:00",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -105,8 +105,8 @@
               "Maximum_Video_Quality": "SDR",
               "Maximum_Resolution": "FULL_HD",
               "trailer_url": "",
-              "systemTime": 1769764207111,
-              "DOCTOR_STRANGE": 1769764206,
+              "systemTime": 1769779808502,
+              "DOCTOR_STRANGE": 1769779807,
               "additionalDataJson": {
                 "enc_format": "HLS",
                 "resolution": "FULL_HD",
@@ -123,7 +123,7 @@
               },
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
-              "Date": "Friday 30th of January 2026 02:40:06 PM"
+              "Date": "Friday 30th of January 2026 07:00:07 PM"
             }
           }
         },
@@ -149,8 +149,8 @@
               "Maximum_Video_Quality": "SDR",
               "Maximum_Resolution": "FULL_HD",
               "trailer_url": "",
-              "systemTime": 1769764208190,
-              "DOCTOR_STRANGE": 1769764207,
+              "systemTime": 1769779809406,
+              "DOCTOR_STRANGE": 1769779808,
               "additionalDataJson": {
                 "enc_format": "HLS",
                 "resolution": "FULL_HD",
@@ -167,7 +167,7 @@
               },
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
-              "Date": "Friday 30th of January 2026 02:40:07 PM"
+              "Date": "Friday 30th of January 2026 07:00:08 PM"
             }
           }
         },
@@ -193,8 +193,8 @@
               "Maximum_Video_Quality": "SDR",
               "Maximum_Resolution": "FULL_HD",
               "trailer_url": "",
-              "systemTime": 1769764209222,
-              "DOCTOR_STRANGE": 1769764208,
+              "systemTime": 1769779810363,
+              "DOCTOR_STRANGE": 1769779810,
               "additionalDataJson": {
                 "enc_format": "HLS",
                 "resolution": "FULL_HD",
@@ -211,7 +211,7 @@
               },
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
-              "Date": "Friday 30th of January 2026 02:40:08 PM"
+              "Date": "Friday 30th of January 2026 07:00:10 PM"
             }
           }
         },
@@ -237,8 +237,8 @@
               "Maximum_Video_Quality": "SDR",
               "Maximum_Resolution": "FULL_HD",
               "trailer_url": "",
-              "systemTime": 1769764210546,
-              "DOCTOR_STRANGE": 1769764210,
+              "systemTime": 1769779811805,
+              "DOCTOR_STRANGE": 1769779811,
               "additionalDataJson": {
                 "enc_format": "HLS",
                 "resolution": "FULL_HD",
@@ -255,7 +255,7 @@
               },
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
-              "Date": "Friday 30th of January 2026 02:40:10 PM"
+              "Date": "Friday 30th of January 2026 07:00:11 PM"
             }
           }
         }
@@ -818,6 +818,64 @@
   ],
   "upcoming": [
     {
+      "contentId": 1090502662,
+      "video_info": {
+        "title": "Upcoming - Sabalenka vs Rybakina - Australian Open 2026",
+        "shortDescription": "Tune in to catch all the action from the Australian Open 2026, exclusively on Sony LIV.",
+        "longDescription": "Tune in to catch all the action from the Australian Open 2026, exclusively on Sony LIV.",
+        "genres": [
+          "Tennis"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/897c64556e86479cbcc9abf46782d5c1/1769778691/baseline-std-v4/PROMO_AO_PROMO_WOMEN_SEMI_FINAL_SABALENKA_vs_RYBAKINA_20SEC_HOR_APP_eng_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "28 Jan 2026, 11:00 PM",
+        "contractEndDate": "31 Jan 2026, 05:00 PM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014581/1769776089117529_AO26_womens_final_Sabalenka_vs_Rybakina_30jan_dated_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014581/1769776910897529_AO26_womens_final_Sabalenka_vs_Rybakina_30jan_dated_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": null,
+        "masthead_logo": null,
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014581/1769776910897529_AO26_womens_final_Sabalenka_vs_Rybakina_30jan_dated_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": []
+    },
+    {
       "contentId": 1090502653,
       "video_info": {
         "title": "Upcoming - UFC 325 - Volkanovski vs Lopes",
@@ -922,14 +980,14 @@
         "originalAirDate": null
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014535/1769750106621954_SLvsENG26_t20i_30jan_tonight_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014535/1769750174868954_SLvsENG26_t20i_30jan_tonight_landscape_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014551/1769764129895293_SL-VS-ENG-2ND-T20I_DDT_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014551/1769764141739293_SL-VS-ENG-2ND-T20I_DDT_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
         "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014491/1769678888000937_SL_vs_ENG_2026_GOB_masthead_mobile_v2_984x1182.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014550/1769763480000495_SL_vs_ENG_2026_Masthead_logo_1stT20_SL_VS_ENG_Tonight.png",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014550/1769763480000495_SL_vs_ENG_2026_Masthead_logo_2ndT20_SL_VS_ENG_Dated.png",
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014535/1769750174868954_SLvsENG26_t20i_30jan_tonight_landscape_thumb.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014551/1769764141739293_SL-VS-ENG-2ND-T20I_DDT_landscape_thumb.jpg"
       },
       "MULTIPLE_AUDIO_LINKS": []
     },
