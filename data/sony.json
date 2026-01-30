@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "30-01-2026 17:20",
+  "last_updated": "30-01-2026 17:40",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -504,6 +504,106 @@
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
               "Date": "Friday 30th of January 2026 05:00:12 PM"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "contentId": 1090502496,
+      "video_info": {
+        "title": "World Pickleball League 2026",
+        "shortDescription": "Rajasthan Titans take on Chennai Super Champs promising an adrenaline‑charged action and pure sportainment. Catch all the action from World Pickleball League 2026, LIVE & exclusively on Sony LIV.",
+        "longDescription": "Rajasthan Titans take on Chennai Super Champs promising an adrenaline‑charged action and pure sportainment. Catch all the action from World Pickleball League 2026, LIVE & exclusively on Sony LIV.",
+        "genres": [
+          "Pickleball"
+        ],
+        "episodeTitle": "Rajasthan Titans vs Chennai Super Champs - 30 Jan 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8",
+        "broadcast_channel": "LIV",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "30 Jan 2026, 05:30 PM",
+        "contractEndDate": "30 Jan 2026, 10:30 PM",
+        "originalAirDate": "30 Jan 2026, 06:00 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014355/1769591014394675_WPL26_Jaipur-vs-Chennai_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014355/1769591043811675_WPL26_Jaipur-vs-Chennai_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014117/1769245032000772_WPBL26_Match_masthead_mobile_v2_984x1182_RajasthanTitans_vs_ChennaiSuperchamps.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014117/1769245032000772_WPBL26_Match_Masthead_logo_RajasthanTitans_vs_ChennaiSuperchamps_LIVE.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014355/1769591043811675_WPL26_Jaipur-vs-Chennai_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1769775007774,
+              "DOCTOR_STRANGE": 1769775007,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Friday 30th of January 2026 05:40:07 PM"
             }
           }
         }
