@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "30-01-2026 20:40",
+  "last_updated": "30-01-2026 21:00",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -18,39 +18,27 @@
   },
   "data": [
     {
-      "contentId": 1090499148,
+      "contentId": 1090500468,
       "video_info": {
-        "title": "Australian Open 2026",
-        "shortDescription": "Watch all the action from the season's first Grand Slam as Australian Open 2026 brings the world's finest players to the hard courts of Melbourne, LIVE on Sony LIV.",
-        "longDescription": "Watch all the action from the season's first Grand Slam as Australian Open 2026 brings the world's finest players to the hard courts of Melbourne, LIVE on Sony LIV.",
+        "title": "Wheel Of Fortune",
+        "shortDescription": "Recognised by Guinness World Records as the world’s most popular TV game show, Wheel of Fortune arrives in India in spectacular fashion, hosted by Akshay Kumar. Contestants enter a thrilling word game, decoding phrases spanning Bollywood, pop culture and everyday life. Blending entertainment with edge-of-the-seat moments, every alphabet can change the game as players compete for paisa and prizes.",
+        "longDescription": "Recognised by Guinness World Records as the world’s most popular TV game show, Wheel of Fortune arrives in India in spectacular fashion, hosted by Akshay Kumar. Contestants enter a thrilling word game, decoding phrases spanning Bollywood, pop culture and everyday life. Blending entertainment with edge-of-the-seat moments, every alphabet can change the game as players compete for paisa and prizes.",
         "genres": [
-          "Tennis"
+          "Game show"
         ],
-        "episodeTitle": "Stream 1 - 30 Jan 2026"
+        "episodeTitle": "Wheel Of Fortune"
       },
       "stream_info": {
         "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": "https://dai.google.com/ssai/event/H51kS5XGQ5qSSs2hPgRGgA/master.m3u8",
-        "broadcast_channel": "Sony Sports Ten 5",
+        "dai_asset_key": "https://dai.google.com/ssai/event/ywC0TYXoSbOYu7fxpFglFA/master.m3u8",
+        "broadcast_channel": "SET",
         "audio_language_list": [
-          {
-            "lang_code": "ENG",
-            "lang_label": "English"
-          },
           {
             "lang_code": "HIN",
             "lang_label": "Hindi"
-          },
-          {
-            "lang_code": "TAM",
-            "lang_label": "Tamil"
-          },
-          {
-            "lang_code": "TEL",
-            "lang_label": "Telugu"
           }
         ],
-        "emfAttributes__audio_languages": "ENG,HIN,TAM,TEL",
+        "emfAttributes__audio_languages": "HIN",
         "platformVariants": {
           "assetType": "MASTER",
           "assetName": "VOD_FULL_HD",
@@ -58,9 +46,9 @@
           "audioLanguages": [
             {
               "audioId": 1,
-              "audioLanguageName": "ENG",
+              "audioLanguageName": "HIN",
               "isPreferred": true,
-              "audioLanguageLabel": "English"
+              "audioLanguageLabel": "Hindi"
             }
           ],
           "subtitlesLanguages": [],
@@ -68,65 +56,21 @@
         }
       },
       "air_dates": {
-        "contractStartDate": "30 Jan 2026, 06:00 AM",
-        "contractEndDate": "30 Jan 2026, 11:00 PM",
-        "originalAirDate": "30 Jan 2026, 06:30 AM"
+        "contractStartDate": "30 Jan 2026, 08:40 PM",
+        "contractEndDate": "30 Jan 2026, 10:17 PM",
+        "originalAirDate": "30 Jan 2026, 08:40 PM"
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013679/1768827831016245_AO26_studio_show_19jan_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014561/1769771393202979_studio_show_30jan_landscape_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014480/1769695148178107_WOF_29jan_simulcast_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014480/1769695211403107_WOF_29jan_simulcast_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014561/1769771554399979_AO26_studio_show_30jan_masthead_mobile_v2.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013591/176872982955368_AO26_Generic_live_Masthead_logo.png",
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014481/1769695391327862_WOF_29jan_rev_984x1182_masthead_mobile_v2.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014354/176952176347656_WOF_27jan_simulcast_masthead_logo.png",
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014561/1769771393202979_studio_show_30jan_landscape_thumb.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014480/1769695211403107_WOF_29jan_simulcast_landscape_thumb.jpg"
       },
       "MULTIPLE_AUDIO_LINKS": [
-        {
-          "LANGUAGE": "English",
-          "LANG_CODE": "ENG",
-          "DATA": {
-            "JITENDRAUNATTI": {
-              "Device_Type": "LITE",
-              "message": "success",
-              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-AO/master.m3u8",
-              "WIDEVINE": null,
-              "STREAMING_TYPE": true,
-              "audioLanguages": [
-                {
-                  "audioId": 1,
-                  "audioLanguageName": "ENG",
-                  "isPreferred": true,
-                  "audioLanguageLabel": "English"
-                }
-              ],
-              "dai_asset_key": "https://dai.google.com/ssai/event/H51kS5XGQ5qSSs2hPgRGgA/master.m3u8",
-              "Maximum_Video_Quality": "SDR",
-              "Maximum_Resolution": "FULL_HD",
-              "trailer_url": "",
-              "systemTime": 1769779808502,
-              "DOCTOR_STRANGE": 1769779807,
-              "additionalDataJson": {
-                "enc_format": "HLS",
-                "resolution": "FULL_HD",
-                "audio_quality": "STEREO",
-                "video_quality": "SDR",
-                "fps": 25,
-                "videoCodec": "H264",
-                "audioCodec": "AAC",
-                "partners": [
-                  "ALL"
-                ],
-                "isDaiKey": false,
-                "ad_stack": "MT-SSB"
-              },
-              "Status_code": 200,
-              "content_type": "application/json; charset=utf-8",
-              "Date": "Friday 30th of January 2026 07:00:07 PM"
-            }
-          }
-        },
         {
           "LANGUAGE": "Hindi",
           "LANG_CODE": "HIN",
@@ -134,128 +78,40 @@
             "JITENDRAUNATTI": {
               "Device_Type": "LITE",
               "message": "success",
-              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21ME-AO/master.m3u8",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-WOF/master.m3u8",
               "WIDEVINE": null,
               "STREAMING_TYPE": true,
               "audioLanguages": [
                 {
                   "audioId": 1,
-                  "audioLanguageName": "ENG",
+                  "audioLanguageName": "HIN",
                   "isPreferred": true,
-                  "audioLanguageLabel": "English"
+                  "audioLanguageLabel": "Hindi"
                 }
               ],
-              "dai_asset_key": "https://dai.google.com/ssai/event/urJiNdAfTz-oUiy1vWzIhw/master.m3u8",
+              "dai_asset_key": "https://dai.google.com/ssai/event/ywC0TYXoSbOYu7fxpFglFA/master.m3u8",
               "Maximum_Video_Quality": "SDR",
               "Maximum_Resolution": "FULL_HD",
               "trailer_url": "",
-              "systemTime": 1769779809406,
-              "DOCTOR_STRANGE": 1769779808,
+              "systemTime": 1769785807999,
+              "DOCTOR_STRANGE": 1769785808,
               "additionalDataJson": {
+                "audio_quality": "STEREO",
                 "enc_format": "HLS",
                 "resolution": "FULL_HD",
-                "audio_quality": "STEREO",
                 "video_quality": "SDR",
-                "fps": 25,
                 "videoCodec": "H264",
                 "audioCodec": "AAC",
+                "fps": 50,
+                "isDaiKey": false,
                 "partners": [
                   "ALL"
                 ],
-                "isDaiKey": false,
                 "ad_stack": "MT-SSB"
               },
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
-              "Date": "Friday 30th of January 2026 07:00:08 PM"
-            }
-          }
-        },
-        {
-          "LANGUAGE": "Tamil",
-          "LANG_CODE": "TAM",
-          "DATA": {
-            "JITENDRAUNATTI": {
-              "Device_Type": "LITE",
-              "message": "success",
-              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2037143/DAI23ME-AO/master.m3u8",
-              "WIDEVINE": null,
-              "STREAMING_TYPE": true,
-              "audioLanguages": [
-                {
-                  "audioId": 1,
-                  "audioLanguageName": "ENG",
-                  "isPreferred": true,
-                  "audioLanguageLabel": "English"
-                }
-              ],
-              "dai_asset_key": "https://dai.google.com/ssai/event/9IQ8sp3pTamM6sPXOtXnKw/master.m3u8",
-              "Maximum_Video_Quality": "SDR",
-              "Maximum_Resolution": "FULL_HD",
-              "trailer_url": "",
-              "systemTime": 1769779810363,
-              "DOCTOR_STRANGE": 1769779810,
-              "additionalDataJson": {
-                "enc_format": "HLS",
-                "resolution": "FULL_HD",
-                "audio_quality": "STEREO",
-                "video_quality": "SDR",
-                "fps": 25,
-                "videoCodec": "H264",
-                "audioCodec": "AAC",
-                "partners": [
-                  "ALL"
-                ],
-                "isDaiKey": false,
-                "ad_stack": "MT-SSB"
-              },
-              "Status_code": 200,
-              "content_type": "application/json; charset=utf-8",
-              "Date": "Friday 30th of January 2026 07:00:10 PM"
-            }
-          }
-        },
-        {
-          "LANGUAGE": "Telugu",
-          "LANG_CODE": "TEL",
-          "DATA": {
-            "JITENDRAUNATTI": {
-              "Device_Type": "LITE",
-              "message": "success",
-              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2105080/DAI24ME-AO/master.m3u8",
-              "WIDEVINE": null,
-              "STREAMING_TYPE": true,
-              "audioLanguages": [
-                {
-                  "audioId": 1,
-                  "audioLanguageName": "ENG",
-                  "isPreferred": true,
-                  "audioLanguageLabel": "English"
-                }
-              ],
-              "dai_asset_key": "https://dai.google.com/ssai/event/RpCQLLgCS26DWzSio-apSA/master.m3u8",
-              "Maximum_Video_Quality": "SDR",
-              "Maximum_Resolution": "FULL_HD",
-              "trailer_url": "",
-              "systemTime": 1769779811805,
-              "DOCTOR_STRANGE": 1769779811,
-              "additionalDataJson": {
-                "enc_format": "HLS",
-                "resolution": "FULL_HD",
-                "audio_quality": "STEREO",
-                "video_quality": "SDR",
-                "fps": 25,
-                "videoCodec": "H264",
-                "audioCodec": "AAC",
-                "partners": [
-                  "ALL"
-                ],
-                "isDaiKey": false,
-                "ad_stack": "MT-SSB"
-              },
-              "Status_code": 200,
-              "content_type": "application/json; charset=utf-8",
-              "Date": "Friday 30th of January 2026 07:00:11 PM"
+              "Date": "Friday 30th of January 2026 08:40:08 PM"
             }
           }
         }
@@ -362,62 +218,6 @@
       ]
     },
     {
-      "contentId": 1090498703,
-      "video_info": {
-        "title": "MasterChef India - Hindi",
-        "shortDescription": "MasterChef India returns with a landmark season that celebrates the soul of Indian cuisine. From elevated micro-cuisines to forgotten regional recipes, India takes centre stage like never before. For the first time ever, jodis compete together - bringing family legacies, emotion, and partnership into the kitchen. With iconinc judges Vikas Khanna, Ranveer Brar, and Kunal Kapur back together, the hunt begins for India's first MasterChef Jodi.",
-        "longDescription": "MasterChef India returns with a landmark season that celebrates the soul of Indian cuisine. From elevated micro-cuisines to forgotten regional recipes, India takes centre stage like never before. For the first time ever, jodis compete together - bringing family legacies, emotion, and partnership into the kitchen. With iconinc judges Vikas Khanna, Ranveer Brar, and Kunal Kapur back together, the hunt begins for India's first MasterChef Jodi.",
-        "genres": [
-          "Reality",
-          "Cookery"
-        ],
-        "episodeTitle": "MasterChef India - Hindi"
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": "https://dai.google.com/ssai/event/820xr_9-QzGd_B1fhMg8ig/master.m3u8",
-        "broadcast_channel": "SET",
-        "audio_language_list": [
-          {
-            "lang_code": "HIN",
-            "lang_label": "Hindi"
-          }
-        ],
-        "emfAttributes__audio_languages": "HIN",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD",
-          "videoType": "FULL_HD",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "HIN",
-              "isPreferred": true,
-              "audioLanguageLabel": "Hindi"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA"
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "30 Jan 2026, 07:40 PM",
-        "contractEndDate": "30 Jan 2026, 08:58 PM",
-        "originalAirDate": "30 Jan 2026, 07:40 PM"
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014035/1769173638997448_MCI_S4_23jan_simulcast_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014035/1769173700454448_MCI_S4_23jan_simulcast_landscape_thumb.jpg",
-        "masthead_mobile_v1": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1700001090/mastheadMobileV1/1766567652406_./MCIS4_3_masthead_mobile_v1.jpg",
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090498703/mastheadMobileV2/1769777740110_./MC_episodic_masthead_mobile_v2-copy.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013027/1767690629559510_MCI_S4_streaming_latest_EP_6jan_masthead_logo.png",
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014035/1769173700454448_MCI_S4_23jan_simulcast_landscape_thumb.jpg"
-      },
-      "MULTIPLE_AUDIO_LINKS": []
-    },
-    {
       "contentId": 1090502552,
       "video_info": {
         "title": "England Tour of Sri Lanka 2026",
@@ -512,106 +312,6 @@
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
               "Date": "Friday 30th of January 2026 06:20:18 PM"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "contentId": 1090500468,
-      "video_info": {
-        "title": "Wheel Of Fortune",
-        "shortDescription": "Recognised by Guinness World Records as the world’s most popular TV game show, Wheel of Fortune arrives in India in spectacular fashion, hosted by Akshay Kumar. Contestants enter a thrilling word game, decoding phrases spanning Bollywood, pop culture and everyday life. Blending entertainment with edge-of-the-seat moments, every alphabet can change the game as players compete for paisa and prizes.",
-        "longDescription": "Recognised by Guinness World Records as the world’s most popular TV game show, Wheel of Fortune arrives in India in spectacular fashion, hosted by Akshay Kumar. Contestants enter a thrilling word game, decoding phrases spanning Bollywood, pop culture and everyday life. Blending entertainment with edge-of-the-seat moments, every alphabet can change the game as players compete for paisa and prizes.",
-        "genres": [
-          "Game show"
-        ],
-        "episodeTitle": "Wheel Of Fortune"
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": "https://dai.google.com/ssai/event/ywC0TYXoSbOYu7fxpFglFA/master.m3u8",
-        "broadcast_channel": "SET",
-        "audio_language_list": [
-          {
-            "lang_code": "HIN",
-            "lang_label": "Hindi"
-          }
-        ],
-        "emfAttributes__audio_languages": "HIN",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD",
-          "videoType": "FULL_HD",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "HIN",
-              "isPreferred": true,
-              "audioLanguageLabel": "Hindi"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA"
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "30 Jan 2026, 08:40 PM",
-        "contractEndDate": "30 Jan 2026, 10:17 PM",
-        "originalAirDate": "30 Jan 2026, 08:40 PM"
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014480/1769695148178107_WOF_29jan_simulcast_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014480/1769695211403107_WOF_29jan_simulcast_landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014481/1769695391327862_WOF_29jan_rev_984x1182_masthead_mobile_v2.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014354/176952176347656_WOF_27jan_simulcast_masthead_logo.png",
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014480/1769695211403107_WOF_29jan_simulcast_landscape_thumb.jpg"
-      },
-      "MULTIPLE_AUDIO_LINKS": [
-        {
-          "LANGUAGE": "Hindi",
-          "LANG_CODE": "HIN",
-          "DATA": {
-            "JITENDRAUNATTI": {
-              "Device_Type": "LITE",
-              "message": "success",
-              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-WOF/master.m3u8",
-              "WIDEVINE": null,
-              "STREAMING_TYPE": true,
-              "audioLanguages": [
-                {
-                  "audioId": 1,
-                  "audioLanguageName": "HIN",
-                  "isPreferred": true,
-                  "audioLanguageLabel": "Hindi"
-                }
-              ],
-              "dai_asset_key": "https://dai.google.com/ssai/event/ywC0TYXoSbOYu7fxpFglFA/master.m3u8",
-              "Maximum_Video_Quality": "SDR",
-              "Maximum_Resolution": "FULL_HD",
-              "trailer_url": "",
-              "systemTime": 1769785807999,
-              "DOCTOR_STRANGE": 1769785808,
-              "additionalDataJson": {
-                "audio_quality": "STEREO",
-                "enc_format": "HLS",
-                "resolution": "FULL_HD",
-                "video_quality": "SDR",
-                "videoCodec": "H264",
-                "audioCodec": "AAC",
-                "fps": 50,
-                "isDaiKey": false,
-                "partners": [
-                  "ALL"
-                ],
-                "ad_stack": "MT-SSB"
-              },
-              "Status_code": 200,
-              "content_type": "application/json; charset=utf-8",
-              "Date": "Friday 30th of January 2026 08:40:08 PM"
             }
           }
         }
@@ -1008,6 +708,250 @@
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
               "Date": "Friday 30th of January 2026 07:40:20 PM"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "contentId": 1090499148,
+      "video_info": {
+        "title": "Australian Open 2026",
+        "shortDescription": "Watch all the action from the season's first Grand Slam as Australian Open 2026 brings the world's finest players to the hard courts of Melbourne, LIVE on Sony LIV.",
+        "longDescription": "Watch all the action from the season's first Grand Slam as Australian Open 2026 brings the world's finest players to the hard courts of Melbourne, LIVE on Sony LIV.",
+        "genres": [
+          "Tennis"
+        ],
+        "episodeTitle": "Stream 1 - 30 Jan 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/H51kS5XGQ5qSSs2hPgRGgA/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          },
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          },
+          {
+            "lang_code": "TAM",
+            "lang_label": "Tamil"
+          },
+          {
+            "lang_code": "TEL",
+            "lang_label": "Telugu"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG,HIN,TAM,TEL",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "30 Jan 2026, 06:00 AM",
+        "contractEndDate": "30 Jan 2026, 11:00 PM",
+        "originalAirDate": "30 Jan 2026, 06:30 AM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013679/1768827831016245_AO26_studio_show_19jan_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014561/1769771393202979_studio_show_30jan_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014561/1769771554399979_AO26_studio_show_30jan_masthead_mobile_v2.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013591/176872982955368_AO26_Generic_live_Masthead_logo.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014561/1769771393202979_studio_show_30jan_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-AO/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/H51kS5XGQ5qSSs2hPgRGgA/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1769779808502,
+              "DOCTOR_STRANGE": 1769779807,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Friday 30th of January 2026 07:00:07 PM"
+            }
+          }
+        },
+        {
+          "LANGUAGE": "Hindi",
+          "LANG_CODE": "HIN",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21ME-AO/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/urJiNdAfTz-oUiy1vWzIhw/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1769779809406,
+              "DOCTOR_STRANGE": 1769779808,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Friday 30th of January 2026 07:00:08 PM"
+            }
+          }
+        },
+        {
+          "LANGUAGE": "Tamil",
+          "LANG_CODE": "TAM",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2037143/DAI23ME-AO/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/9IQ8sp3pTamM6sPXOtXnKw/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1769779810363,
+              "DOCTOR_STRANGE": 1769779810,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Friday 30th of January 2026 07:00:10 PM"
+            }
+          }
+        },
+        {
+          "LANGUAGE": "Telugu",
+          "LANG_CODE": "TEL",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2105080/DAI24ME-AO/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/RpCQLLgCS26DWzSio-apSA/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1769779811805,
+              "DOCTOR_STRANGE": 1769779811,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Friday 30th of January 2026 07:00:11 PM"
             }
           }
         }
