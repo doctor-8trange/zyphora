@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "31-01-2026 19:20",
+  "last_updated": "31-01-2026 19:40",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -17,6 +17,107 @@
     "USAGE_GUIDE": []
   },
   "data": [
+    {
+      "contentId": 1090492547,
+      "video_info": {
+        "title": "Indian Idol",
+        "shortDescription": "Indian Idol 16 – “Yaadon Ki Playlist” celebrates music that brings back cherished memories and emotions. For the first time ever, auditions go outdoors, traveling across India to discover raw talent, hosted by the legendary Udit Narayan, while Aditya Narayan returns as the main host. The judges - Vishal Dadlani, Shreya Ghoshal, and Badshah - search for voices that touch hearts. A season where every song is a memory, and every melody tells a story.",
+        "longDescription": "Indian Idol 16 – “Yaadon Ki Playlist” celebrates music that brings back cherished memories and emotions. For the first time ever, auditions go outdoors, traveling across India to discover raw talent, hosted by the legendary Udit Narayan, while Aditya Narayan returns as the main host. The judges - Vishal Dadlani, Shreya Ghoshal, and Badshah - search for voices that touch hearts. A season where every song is a memory, and every melody tells a story.",
+        "genres": [
+          "Reality",
+          "Music"
+        ],
+        "episodeTitle": "Indian Idol"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/g1cPcUIdSQC_3FXsrgV5iA/master.m3u8",
+        "broadcast_channel": "SET",
+        "audio_language_list": [
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          }
+        ],
+        "emfAttributes__audio_languages": "HIN",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "HIN",
+              "isPreferred": true,
+              "audioLanguageLabel": "Hindi"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "31 Jan 2026, 07:40 PM",
+        "contractEndDate": "31 Jan 2026, 09:48 PM",
+        "originalAirDate": "31 Jan 2026, 07:40 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014680/1769863017848968_IndianIdol_S16_31jan26_simulcast_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014680/1769862987560968_IndianIdol_S16_31jan26_simulcast_landscape_thumb.jpg",
+        "masthead_mobile_v1": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1700001014/mastheadMobileV1/1762772443560_./IndianIdol_2025_26_masthead_mobile_v1_1.jpg",
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1700001014/mastheadMobileV2/1762772464800_./IndianIdol_2025_26_masthead_mobile_v2_984x1182_1.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014680/1769862660437968_IndianIdol_S16_31jan26_Masthead_logo.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014680/1769862987560968_IndianIdol_S16_31jan26_simulcast_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "Hindi",
+          "LANG_CODE": "HIN",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-II/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "HIN",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "Hindi"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/g1cPcUIdSQC_3FXsrgV5iA/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1769868608570,
+              "DOCTOR_STRANGE": 1769868608,
+              "additionalDataJson": {
+                "audio_quality": "STEREO",
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "video_quality": "SDR",
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "fps": 50,
+                "isDaiKey": false,
+                "partners": [
+                  "ALL"
+                ],
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Saturday 31st of January 2026 07:40:08 PM"
+            }
+          }
+        }
+      ]
+    },
     {
       "contentId": 1090502681,
       "video_info": {
@@ -160,6 +261,154 @@
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
               "Date": "Saturday 31st of January 2026 06:40:11 PM"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "contentId": 1090502791,
+      "video_info": {
+        "title": "Pro Wrestling League 2026",
+        "shortDescription": "Maharashtra Kesari are set to clash with the Delhi Dangal Warriors in the high-stakes semi-final of the Pro Wrestling League 2026. With a spot in the finals up for grabs, both sides are expected to deliver their absolute best, promising fans a gripping and electrifying contest. Tune in to catch all the action from Pro Wrestling League 2026, LIVE on Sony LIV.",
+        "longDescription": "Maharashtra Kesari are set to clash with the Delhi Dangal Warriors in the high-stakes semi-final of the Pro Wrestling League 2026. With a spot in the finals up for grabs, both sides are expected to deliver their absolute best, promising fans a gripping and electrifying contest. Tune in to catch all the action from Pro Wrestling League 2026, LIVE on Sony LIV.",
+        "genres": [
+          "Wrestling"
+        ],
+        "episodeTitle": "Delhi Dangal Warriors vs Maharashtra Kesari - 31 Jan 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/2R1hnuuSSOWkKNyWJpafTQ/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          },
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG,HIN",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "31 Jan 2026, 07:30 PM",
+        "contractEndDate": "01 Feb 2026, 01:30 AM",
+        "originalAirDate": "31 Jan 2026, 08:00 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014520/1769732040516414_pwl_SemiFinal_Semi-Final-2-DelhiDangalWarriors_vs_MaharashtraKesari_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014520/1769732526010414_pwl_SemiFinal_Semi-Final-2-DelhiDangalWarriors_vs_MaharashtraKesari_Landscapet_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014543/1769739256000705_PWL2026_MATCH_masthead_mobile_v2_984x1182_Delhi_Dangal_Warriors_vs_Maharashtra_Kesari.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014543/1769739256000705_PWL2026_MATCH_Masthead_logo_Delhi_Dangal_Warriors_v_Maharashtra_Kesari_Live.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014520/1769732526010414_pwl_SemiFinal_Semi-Final-2-DelhiDangalWarriors_vs_MaharashtraKesari_Landscapet_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/2R1hnuuSSOWkKNyWJpafTQ/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1769868611525,
+              "DOCTOR_STRANGE": 1769868611,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Saturday 31st of January 2026 07:40:11 PM"
+            }
+          }
+        },
+        {
+          "LANGUAGE": "Hindi",
+          "LANG_CODE": "HIN",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/3em__AZLSMqSZ3CaL5KyKg/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1769868613229,
+              "DOCTOR_STRANGE": 1769868613,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Saturday 31st of January 2026 07:40:13 PM"
             }
           }
         }
@@ -766,20 +1015,20 @@
       ]
     },
     {
-      "contentId": 1090502670,
+      "contentId": 1090502758,
       "video_info": {
-        "title": "DP World Tour",
-        "shortDescription": "Watch all the action from Bahrain Championship Day 3, LIVE on Sony LIV.",
-        "longDescription": "Watch all the action from Bahrain Championship Day 3, LIVE on Sony LIV.",
+        "title": "ABB FIA Formula E World Championship",
+        "shortDescription": "Catch all the action from the Miami E-Prix's qualifying race here, only on Sony LIV.",
+        "longDescription": "Catch all the action from the Miami E-Prix's qualifying race here, only on Sony LIV.",
         "genres": [
-          "Golf"
+          "Racing"
         ],
-        "episodeTitle": "Bahrain Championship Day 3 - 31 Jan 2026"
+        "episodeTitle": "Round 3 - Miami E-Prix - Qualifying Race - 31 Jan 2026"
       },
       "stream_info": {
         "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": "https://dai.google.com/ssai/event/FRfpSr3uSzaIu94qoYoyaQ/master.m3u8",
-        "broadcast_channel": "LIV",
+        "dai_asset_key": "https://dai.google.com/ssai/event/uwvnE4CTT2aM0oy0EF-jsw/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 5",
         "audio_language_list": [
           {
             "lang_code": "ENG",
@@ -804,19 +1053,19 @@
         }
       },
       "air_dates": {
-        "contractStartDate": "31 Jan 2026, 02:00 PM",
-        "contractEndDate": "31 Jan 2026, 09:30 PM",
-        "originalAirDate": "31 Jan 2026, 02:30 PM"
+        "contractStartDate": "31 Jan 2026, 07:30 PM",
+        "contractEndDate": "01 Feb 2026, 12:20 AM",
+        "originalAirDate": "31 Jan 2026, 08:00 PM"
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014514/1769720938778157_DPworldtour_Bahrain_Championship_day3_28jan_live_portrait_thumb_re1.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014514/1769721580321157_DPworldtour_Bahrain_Championship_day3_28jan_live_landscape_thumb_re1.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": null,
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013565/1768686425047781_DP_World_Tour_GOB_Masthead_Logo_LIVE.png",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013179/1767969049610690_ABB_FIA_FormulaE_WC2526_Round_3_Miami_EPRIX_Qualifying_Race_9jan_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013179/1767969009718690_ABB_FIA_FormulaE_WC2526_Round_3_Miami_EPRIX_Qualifying_Race_9jan_landscape_thumb.jpg",
+        "masthead_mobile_v1": "https://origin-staticv2.sonyliv.com/videoasset_images/abbformulae2024_gob_masthead_mobile_v1.jpg",
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/formula_e_gob_masthead_mobile_v1.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006849/1755855925877711_Bundesliga2025_26_Match_Masthead_logo_LIVE.png",
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014514/1769721580321157_DPworldtour_Bahrain_Championship_day3_28jan_live_landscape_thumb_re1.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013179/1767969009718690_ABB_FIA_FormulaE_WC2526_Round_3_Miami_EPRIX_Qualifying_Race_9jan_landscape_thumb.jpg"
       },
       "MULTIPLE_AUDIO_LINKS": [
         {
@@ -826,7 +1075,7 @@
             "JITENDRAUNATTI": {
               "Device_Type": "LITE",
               "message": "success",
-              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2094587/DAI03ME-V3/master.m3u8",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2022322/DAI18ME-V3/master.m3u8",
               "WIDEVINE": null,
               "STREAMING_TYPE": true,
               "audioLanguages": [
@@ -837,12 +1086,12 @@
                   "audioLanguageLabel": "English"
                 }
               ],
-              "dai_asset_key": "https://dai.google.com/ssai/event/FRfpSr3uSzaIu94qoYoyaQ/master.m3u8",
+              "dai_asset_key": "https://dai.google.com/ssai/event/uwvnE4CTT2aM0oy0EF-jsw/master.m3u8",
               "Maximum_Video_Quality": "SDR",
               "Maximum_Resolution": "FULL_HD",
               "trailer_url": "",
-              "systemTime": 1769862613134,
-              "DOCTOR_STRANGE": 1769862612,
+              "systemTime": 1769868614881,
+              "DOCTOR_STRANGE": 1769868615,
               "additionalDataJson": {
                 "enc_format": "HLS",
                 "resolution": "FULL_HD",
@@ -859,7 +1108,7 @@
               },
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
-              "Date": "Saturday 31st of January 2026 06:00:12 PM"
+              "Date": "Saturday 31st of January 2026 07:40:15 PM"
             }
           }
         }
