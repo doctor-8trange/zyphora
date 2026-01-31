@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "31-01-2026 22:40",
+  "last_updated": "31-01-2026 23:00",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -13,7 +13,7 @@
     "REPLACEMENT": "OFF",
     "FREEPREVIEW": "AUTO",
     "ALL_IN_ONE": "ON",
-    "SERVER_STATUS": "CRITICAL WARNING",
+    "SERVER_STATUS": "NORMAL",
     "USAGE_GUIDE": []
   },
   "data": [
@@ -197,8 +197,8 @@
               "Maximum_Video_Quality": "SDR",
               "Maximum_Resolution": "FULL_HD",
               "trailer_url": "",
-              "systemTime": 1769865009290,
-              "DOCTOR_STRANGE": 1769865009,
+              "systemTime": 1769880610010,
+              "DOCTOR_STRANGE": 1769880609,
               "additionalDataJson": {
                 "enc_format": "HLS",
                 "resolution": "FULL_HD",
@@ -215,7 +215,7 @@
               },
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
-              "Date": "Saturday 31st of January 2026 06:40:09 PM"
+              "Date": "Saturday 31st of January 2026 11:00:09 PM"
             }
           }
         },
@@ -241,8 +241,8 @@
               "Maximum_Video_Quality": "SDR",
               "Maximum_Resolution": "FULL_HD",
               "trailer_url": "",
-              "systemTime": 1769865011303,
-              "DOCTOR_STRANGE": 1769865011,
+              "systemTime": 1769880611256,
+              "DOCTOR_STRANGE": 1769880610,
               "additionalDataJson": {
                 "enc_format": "HLS",
                 "resolution": "FULL_HD",
@@ -259,7 +259,7 @@
               },
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
-              "Date": "Saturday 31st of January 2026 06:40:11 PM"
+              "Date": "Saturday 31st of January 2026 11:00:10 PM"
             }
           }
         }
@@ -412,6 +412,106 @@
           }
         }
       ]
+    },
+    {
+      "contentId": 1090502759,
+      "video_info": {
+        "title": "ABB FIA Formula E World Championship",
+        "shortDescription": "Catch all the action from the Miami E-Prix's final race here, only on Sony LIV.",
+        "longDescription": "Catch all the action from the Miami E-Prix's final race here, only on Sony LIV.",
+        "genres": [
+          "Racing"
+        ],
+        "episodeTitle": "Round 3 - Miami E-Prix - Final Race - 31 Jan 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/X9tnEM9wQHKUIX6nWcZ4TA/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "31 Jan 2026, 11:00 PM",
+        "contractEndDate": "01 Feb 2026, 04:20 AM",
+        "originalAirDate": "31 Jan 2026, 11:30 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013179/1767969031908690_ABB_FIA_FormulaE_WC2526_Round_3_Miami_EPRIX_final_Race_9jan_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013179/1767969000060690_ABB_FIA_FormulaE_WC2526_Round_3_Miami_EPRIX_final_Race_9jan_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/formula_e_gob_masthead_mobile_v1.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006849/1755855925877711_Bundesliga2025_26_Match_Masthead_logo_LIVE.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013179/1767969000060690_ABB_FIA_FormulaE_WC2526_Round_3_Miami_EPRIX_final_Race_9jan_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2022322/DAI18ME-V3/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/X9tnEM9wQHKUIX6nWcZ4TA/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1769880612157,
+              "DOCTOR_STRANGE": 1769880612,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Saturday 31st of January 2026 11:00:12 PM"
+            }
+          }
+        }
+      ]
     }
   ],
   "upcoming": [
@@ -462,7 +562,7 @@
         "originalAirDate": null
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014648/1769845075354176_AO2026_mens_final_dated_promo_portrait_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014691/1769875655278997_AO_alcaraz_vs_djokovic_final_31jan_promo_portrait_thumb.jpg",
         "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014648/1769845398303176_AO2026_mens_final_dated_promo_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
         "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014684/1769865194270262_AO2026_Match_Masthead_mobile_v2_984x1182_Alcaraz_vs_Djokovic_SP_2.jpg",
