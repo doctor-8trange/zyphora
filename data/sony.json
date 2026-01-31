@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "31-01-2026 18:20",
+  "last_updated": "31-01-2026 18:40",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -17,6 +17,154 @@
     "USAGE_GUIDE": []
   },
   "data": [
+    {
+      "contentId": 1090502681,
+      "video_info": {
+        "title": "World Legends Pro T20 League 2026",
+        "shortDescription": "Catch all the action from World Legends Pro T20 League 2026 as Dubai Royals take on Pune Panthers, LIVE & exclusively on Sony LIV.",
+        "longDescription": "Catch all the action from World Legends Pro T20 League 2026 as Dubai Royals take on Pune Panthers, LIVE & exclusively on Sony LIV.",
+        "genres": [
+          "Cricket"
+        ],
+        "episodeTitle": "Dubai Royals vs Pune Panthers - 31 Jan 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/kTYrWdWAQ4Wn0gtRO8JP6w/master.m3u8",
+        "broadcast_channel": "LIV",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          },
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG,HIN",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "31 Jan 2026, 06:30 PM",
+        "contractEndDate": "01 Feb 2026, 03:00 AM",
+        "originalAirDate": "31 Jan 2026, 07:00 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014664/176985249823491_WLPL26_Dubai-Royals-vs-Pune-Panthers_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014664/176985276588391_WLPL26_Dubai-Royals-vs-Pune-Panthers_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014666/1769849712863662_WorldLegendsProT20League2026_Match_masthead_mobile_v2_984x1182_DubaiRoyals_vs_Pune_Panthers.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014666/1769849713100662_WorldLegendsProT20League2026_Match_Masthead_logo_DubaiRoyals_vs_Pune_Panthers_Live.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014664/176985276588391_WLPL26_Dubai-Royals-vs-Pune-Panthers_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2022318/DAI14ME-V3/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/kTYrWdWAQ4Wn0gtRO8JP6w/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1769865009290,
+              "DOCTOR_STRANGE": 1769865009,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Saturday 31st of January 2026 06:40:09 PM"
+            }
+          }
+        },
+        {
+          "LANGUAGE": "Hindi",
+          "LANG_CODE": "HIN",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI37ME-V3/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/6wNG46gLSFO0WJxvt-BYkA/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1769865011303,
+              "DOCTOR_STRANGE": 1769865011,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Saturday 31st of January 2026 06:40:11 PM"
+            }
+          }
+        }
+      ]
+    },
     {
       "contentId": 1090502761,
       "video_info": {
@@ -390,64 +538,6 @@
         "circular_image": null,
         "image_600x900_clean": null,
         "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014551/1769764141739293_SL-VS-ENG-2ND-T20I_DDT_landscape_thumb.jpg"
-      },
-      "MULTIPLE_AUDIO_LINKS": []
-    },
-    {
-      "contentId": 1090498827,
-      "video_info": {
-        "title": "Upcoming - Australian Open 2026",
-        "shortDescription": "Tune in to catch all the action from the Australian Open 2026, exclusively on Sony LIV.",
-        "longDescription": "Tune in to catch all the action from the Australian Open 2026, exclusively on Sony LIV.",
-        "genres": [
-          "Tennis"
-        ],
-        "episodeTitle": ""
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "Sony Sports Ten 5",
-        "audio_language_list": [
-          {
-            "lang_code": "ENG",
-            "lang_label": "English"
-          }
-        ],
-        "emfAttributes__audio_languages": "ENG",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "ENG",
-              "isPreferred": true,
-              "audioLanguageLabel": "English",
-              "type": "main"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/022a7b03efb84cdda1cc80c82401a4e9/1768476621/baseline-std-v4/PROMO_AO_PROMO_50_SEC_HOR_DATED_APP_eng_baseline-800300010.mpd",
-          "hasTrailer": true
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "03 Jan 2026, 10:00 AM",
-        "contractEndDate": "01 Feb 2026, 11:59 PM",
-        "originalAirDate": null
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014328/176954630555323_AO26_portrait_thumb_Shelton_vs_Sinner_today.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013951/1769076305688640_AO2026_GOB_Landscape_Thumb_SP_2.jpg",
-        "masthead_mobile_v1": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012161/1765281264995569_AO2026_GOB_masthead_mobile_v1.jpg",
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014441/1769675989392581_AO26_SF_MENS_29jan_today_schedule_masthead_mobile_v2.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013498/1768579174755211_AO2026_GOB_Masthead_logo_SP_1.png",
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013951/1769076305688640_AO2026_GOB_Landscape_Thumb_SP_2.jpg"
       },
       "MULTIPLE_AUDIO_LINKS": []
     },
