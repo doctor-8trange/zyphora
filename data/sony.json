@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "31-01-2026 09:40",
+  "last_updated": "31-01-2026 10:00",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -256,6 +256,106 @@
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
               "Date": "Saturday 31st of January 2026 06:00:17 AM"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "contentId": 1090502632,
+      "video_info": {
+        "title": "Super Smash 2025/26 Men's",
+        "shortDescription": "Northern Brave clash with Canterbury Kings in the Men’s Super Smash 2026 Final at Hagley Oval, Christchurch, with the championship at stake. Both sides are set to deliver their very best, ensuring fans witness a gripping battle for the crown. Find out who comes on top as we bring you all the action from the Super Smash 2025/26 Men's, LIVE on Sony LIV.",
+        "longDescription": "Northern Brave clash with Canterbury Kings in the Men’s Super Smash 2026 Final at Hagley Oval, Christchurch, with the championship at stake. Both sides are set to deliver their very best, ensuring fans witness a gripping battle for the crown. Find out who comes on top as we bring you all the action from the Super Smash 2025/26 Men's, LIVE on Sony LIV.",
+        "genres": [
+          "Cricket"
+        ],
+        "episodeTitle": "Northen Brave vs Canterbury Kings - Final - 31 Jan 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/GB-SxkbkTWCj5JOrO3-E7g/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "31 Jan 2026, 09:55 AM",
+        "contractEndDate": "31 Jan 2026, 06:40 PM",
+        "originalAirDate": "31 Jan 2026, 10:25 AM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014576/1769774376839465_SS_mens_FINAL_Northen-Districts-V-Canterbury-Kings_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014576/1769774559819465_SS_mens_FINAL_Northen-Districts-V-Canterbury-Kings__landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014589/1769779405451817_SuperSmash2526_masthead_mobile_v2_984x1182_Northen_Brave_vs_Canterbury_Kings.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014589/1769779405375817_SuperSmash2526_Masthead_logo_Northen_Brave_V_Canterbury_Kings_Live.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014576/1769774559819465_SS_mens_FINAL_Northen-Districts-V-Canterbury-Kings__landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2105080/DAI24ME-V3/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/GB-SxkbkTWCj5JOrO3-E7g/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1769833811434,
+              "DOCTOR_STRANGE": 1769833811,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Saturday 31st of January 2026 10:00:11 AM"
             }
           }
         }
