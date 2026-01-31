@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "31-01-2026 13:40",
+  "last_updated": "31-01-2026 14:00",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -714,24 +714,22 @@
           }
         }
       ]
-    }
-  ],
-  "upcoming": [
+    },
     {
-      "contentId": 1090502662,
+      "contentId": 1090502670,
       "video_info": {
-        "title": "Upcoming - Sabalenka vs Rybakina - Australian Open 2026",
-        "shortDescription": "Tune in to catch all the action from the Australian Open 2026, exclusively on Sony LIV.",
-        "longDescription": "Tune in to catch all the action from the Australian Open 2026, exclusively on Sony LIV.",
+        "title": "DP World Tour",
+        "shortDescription": "Watch all the action from Bahrain Championship Day 3, LIVE on Sony LIV.",
+        "longDescription": "Watch all the action from Bahrain Championship Day 3, LIVE on Sony LIV.",
         "genres": [
-          "Tennis"
+          "Golf"
         ],
-        "episodeTitle": ""
+        "episodeTitle": "Bahrain Championship Day 3 - 31 Jan 2026"
       },
       "stream_info": {
         "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "Sony Sports Ten 5",
+        "dai_asset_key": "https://dai.google.com/ssai/event/FRfpSr3uSzaIu94qoYoyaQ/master.m3u8",
+        "broadcast_channel": "LIV",
         "audio_language_list": [
           {
             "lang_code": "ENG",
@@ -741,40 +739,84 @@
         "emfAttributes__audio_languages": "ENG",
         "platformVariants": {
           "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
           "audioLanguages": [
             {
               "audioId": 1,
               "audioLanguageName": "ENG",
               "isPreferred": true,
-              "audioLanguageLabel": "English",
-              "type": "main"
+              "audioLanguageLabel": "English"
             }
           ],
           "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/897c64556e86479cbcc9abf46782d5c1/1769778691/baseline-std-v4/PROMO_AO_PROMO_WOMEN_SEMI_FINAL_SABALENKA_vs_RYBAKINA_20SEC_HOR_APP_eng_baseline-800300010.mpd",
-          "hasTrailer": true
+          "videoUrl": "NA"
         }
       },
       "air_dates": {
-        "contractStartDate": "28 Jan 2026, 11:00 PM",
-        "contractEndDate": "31 Jan 2026, 05:00 PM",
-        "originalAirDate": null
+        "contractStartDate": "31 Jan 2026, 02:00 PM",
+        "contractEndDate": "31 Jan 2026, 09:30 PM",
+        "originalAirDate": "31 Jan 2026, 02:30 PM"
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014581/1769776116154529_AO26_womens_final_Sabalenka_vs_Rybakina_30jan_today_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014581/1769776955244529_AO26_womens_final_Sabalenka_vs_Rybakina_30jan_today_landscape_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014514/1769720938778157_DPworldtour_Bahrain_Championship_day3_28jan_live_portrait_thumb_re1.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014514/1769721580321157_DPworldtour_Bahrain_Championship_day3_28jan_live_landscape_thumb_re1.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014588/1769778727419462_AO2026_Match_Masthead_mobile_v2_984x1182_Sabalenka_vs_Rybakina_SP.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014593/1769780719856977_AO26_womens_final_Sabalenka_vs_Rybakina_30jan_today_masthead_logo.png",
+        "masthead_mobile_v2": null,
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013565/1768686425047781_DP_World_Tour_GOB_Masthead_Logo_LIVE.png",
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014581/1769776955244529_AO26_womens_final_Sabalenka_vs_Rybakina_30jan_today_landscape_thumb.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014514/1769721580321157_DPworldtour_Bahrain_Championship_day3_28jan_live_landscape_thumb_re1.jpg"
       },
-      "MULTIPLE_AUDIO_LINKS": []
-    },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2094587/DAI03ME-V3/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/FRfpSr3uSzaIu94qoYoyaQ/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1769848208233,
+              "DOCTOR_STRANGE": 1769848207,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Saturday 31st of January 2026 02:00:07 PM"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "upcoming": [
     {
       "contentId": 1090502760,
       "video_info": {
