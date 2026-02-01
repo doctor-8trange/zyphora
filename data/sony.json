@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "01-02-2026 13:40",
+  "last_updated": "01-02-2026 14:00",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -262,6 +262,154 @@
       ]
     },
     {
+      "contentId": 1090502884,
+      "video_info": {
+        "title": "World Legends Pro T20 League 2026",
+        "shortDescription": "Catch all the action from World Legends Pro T20 League 2026 as Pune Panthers take on Maharashtra Tycoons, LIVE & exclusively on Sony LIV.",
+        "longDescription": "Catch all the action from World Legends Pro T20 League 2026 as Pune Panthers take on Maharashtra Tycoons, LIVE & exclusively on Sony LIV.",
+        "genres": [
+          "Cricket"
+        ],
+        "episodeTitle": "Pune Panthers vs Maharashtra Tycoons - 1 Feb 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/XpIbI0pTQX-9mvR458k9aw/master.m3u8",
+        "broadcast_channel": "LIV",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          },
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG,HIN",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "01 Feb 2026, 02:00 PM",
+        "contractEndDate": "01 Feb 2026, 10:30 PM",
+        "originalAirDate": "01 Feb 2026, 02:30 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014710/1769900428691948_WLP26_PunePanthers_vs_MaharashtraTycoons_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014710/1769904626246948_WLP26_PunePanthers_vs_MaharashtraTycoonsLLandscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014666/1769849712961662_WorldLegendsProT20League2026_Match_masthead_mobile_v2_984x1182_Pune_Panthers_vs_Maharashtra_Tycoons.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014666/1769849713134662_WorldLegendsProT20League2026_Match_Masthead_logo_Pune_Panthers_vs_Maharashtra_Tycoons_Live.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014710/1769904626246948_WLP26_PunePanthers_vs_MaharashtraTycoonsLLandscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2022318/DAI14ME-V3/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/XpIbI0pTQX-9mvR458k9aw/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1769934608902,
+              "DOCTOR_STRANGE": 1769934608,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Sunday 1st of February 2026 02:00:08 PM"
+            }
+          }
+        },
+        {
+          "LANGUAGE": "Hindi",
+          "LANG_CODE": "HIN",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI37ME-V3/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/6XQmX_6eS2CU62zY9X1Q3w/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1769934610249,
+              "DOCTOR_STRANGE": 1769934610,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Sunday 1st of February 2026 02:00:10 PM"
+            }
+          }
+        }
+      ]
+    },
+    {
       "contentId": 1090498773,
       "video_info": {
         "title": "Australian Open 2026",
@@ -270,7 +418,7 @@
         "genres": [
           "Tennis"
         ],
-        "episodeTitle": "Stream 2 - 1 Feb 2026"
+        "episodeTitle": "Carlos Alcaraz vs Novak Djokovic - Final - 1 Feb 2026"
       },
       "stream_info": {
         "Maximum_Video_Quality": "SDR",
@@ -314,7 +462,7 @@
         "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014573/1769773820215989_AO26_final_stream2_30jan_portrait_thumb.jpg",
         "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014573/1769774281955989_AO26_final_stream2_30jan_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014246/176943971897747_AO2026_Match_Masthead_mobile_v2_984x1182_final.jpg",
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014721/1769926491121691_AO26_mens_final_1feb_masthead_mobile_v2.jpg",
         "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013591/176872982955368_AO26_Generic_live_Masthead_logo.png",
         "circular_image": null,
         "image_600x900_clean": null,
@@ -469,64 +617,6 @@
     }
   ],
   "upcoming": [
-    {
-      "contentId": 1090502760,
-      "video_info": {
-        "title": "Upcoming - Alcaraz vs Djokovic - Australian Open 2026",
-        "shortDescription": "Tune in to catch all the action from the Australian Open 2026, exclusively on Sony LIV.",
-        "longDescription": "Tune in to catch all the action from the Australian Open 2026, exclusively on Sony LIV.",
-        "genres": [
-          "Tennis"
-        ],
-        "episodeTitle": ""
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "Sony Sports Ten 5",
-        "audio_language_list": [
-          {
-            "lang_code": "ENG",
-            "lang_label": "English"
-          }
-        ],
-        "emfAttributes__audio_languages": "ENG",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "ENG",
-              "isPreferred": true,
-              "audioLanguageLabel": "English",
-              "type": "main"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/478e449423684ec3849cf368ca8b3238/1769822077/baseline-std-v4/PROMO_AO_PROMO_MEN_FINAL_ALCARAZ_VS_DJOKOVIC_20SEC_HOR_DATED_APP_eng_baseline-800300010.mpd",
-          "hasTrailer": true
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "31 Jan 2026, 05:00 AM",
-        "contractEndDate": "01 Feb 2026, 05:00 PM",
-        "originalAirDate": null
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014696/1769880111242634_AO_alcaraz_vs_djokovic_final_31jan_promo_portrait_thumb_today.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014651/1769846260087521_AO2026_mens_final_today_promo_rev_landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014721/1769926473041691_AO26_mens_final_1feb_masthead_mobile_v2_SP.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014671/1769856812543581_AO2026_mens_final_today_promo_masthead_logo.png",
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014651/1769846260087521_AO2026_mens_final_today_promo_rev_landscape_thumb.jpg"
-      },
-      "MULTIPLE_AUDIO_LINKS": []
-    },
     {
       "contentId": 1090499792,
       "video_info": {
