@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "01-02-2026 20:00",
+  "last_updated": "01-02-2026 20:20",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -13,10 +13,111 @@
     "REPLACEMENT": "OFF",
     "FREEPREVIEW": "AUTO",
     "ALL_IN_ONE": "ON",
-    "SERVER_STATUS": "CRITICAL WARNING",
+    "SERVER_STATUS": "NORMAL",
     "USAGE_GUIDE": []
   },
   "data": [
+    {
+      "contentId": 1090492547,
+      "video_info": {
+        "title": "Indian Idol",
+        "shortDescription": "Indian Idol 16 – “Yaadon Ki Playlist” celebrates music that brings back cherished memories and emotions. For the first time ever, auditions go outdoors, traveling across India to discover raw talent, hosted by the legendary Udit Narayan, while Aditya Narayan returns as the main host. The judges - Vishal Dadlani, Shreya Ghoshal, and Badshah - search for voices that touch hearts. A season where every song is a memory, and every melody tells a story.",
+        "longDescription": "Indian Idol 16 – “Yaadon Ki Playlist” celebrates music that brings back cherished memories and emotions. For the first time ever, auditions go outdoors, traveling across India to discover raw talent, hosted by the legendary Udit Narayan, while Aditya Narayan returns as the main host. The judges - Vishal Dadlani, Shreya Ghoshal, and Badshah - search for voices that touch hearts. A season where every song is a memory, and every melody tells a story.",
+        "genres": [
+          "Reality",
+          "Music"
+        ],
+        "episodeTitle": "Indian Idol"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/g1cPcUIdSQC_3FXsrgV5iA/master.m3u8",
+        "broadcast_channel": "SET",
+        "audio_language_list": [
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          }
+        ],
+        "emfAttributes__audio_languages": "HIN",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "HIN",
+              "isPreferred": true,
+              "audioLanguageLabel": "Hindi"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "01 Feb 2026, 07:40 PM",
+        "contractEndDate": "01 Feb 2026, 09:45 PM",
+        "originalAirDate": "01 Feb 2026, 07:40 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014680/1769863017848968_IndianIdol_S16_31jan26_simulcast_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014680/1769862987560968_IndianIdol_S16_31jan26_simulcast_landscape_thumb.jpg",
+        "masthead_mobile_v1": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1700001014/mastheadMobileV1/1762772443560_./IndianIdol_2025_26_masthead_mobile_v1_1.jpg",
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1700001014/mastheadMobileV2/1762772464800_./IndianIdol_2025_26_masthead_mobile_v2_984x1182_1.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014680/1769862660437968_IndianIdol_S16_31jan26_Masthead_logo.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014680/1769862987560968_IndianIdol_S16_31jan26_simulcast_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "Hindi",
+          "LANG_CODE": "HIN",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-II/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "HIN",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "Hindi"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/g1cPcUIdSQC_3FXsrgV5iA/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1769957409481,
+              "DOCTOR_STRANGE": 1769957409,
+              "additionalDataJson": {
+                "audio_quality": "STEREO",
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "video_quality": "SDR",
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "fps": 50,
+                "isDaiKey": false,
+                "partners": [
+                  "ALL"
+                ],
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Sunday 1st of February 2026 08:20:09 PM"
+            }
+          }
+        }
+      ]
+    },
     {
       "contentId": 1090502887,
       "video_info": {
@@ -266,19 +367,19 @@
       ]
     },
     {
-      "contentId": 1090499148,
+      "contentId": 1090502891,
       "video_info": {
-        "title": "Australian Open 2026",
-        "shortDescription": "The prodigy versus the master. Carlos Alcaraz, the youngest man to reach finals at all four Grand Slams, against Novak Djokovic, the oldest Australian Open finalist of the Open Era. Rising dominance meets unmatched legacy: Alcaraz chasing his first Australian Open and a historic career Grand Slam, Djokovic pursuing an 11th Melbourne crown and a record‑extending 25th major. It doesn’t get bigger than this. Tune in to catch all the action, LIVE & exclusively on Sony LIV.",
-        "longDescription": "The prodigy versus the master. Carlos Alcaraz, the youngest man to reach finals at all four Grand Slams, against Novak Djokovic, the oldest Australian Open finalist of the Open Era. Rising dominance meets unmatched legacy: Alcaraz chasing his first Australian Open and a historic career Grand Slam, Djokovic pursuing an 11th Melbourne crown and a record‑extending 25th major. It doesn’t get bigger than this. Tune in to catch all the action, LIVE & exclusively on Sony LIV.",
+        "title": "Pro Wrestling League 2026",
+        "shortDescription": "The stage is set for a blockbuster showdown as the Delhi Dangal Warriors face off against the Haryana Thunders in the Pro Wrestling League 2026 finals. Fans can expect high-octane action, fierce rivalries, and a battle for ultimate supremacy. Tune in to catch all the action from Pro Wrestling League 2026, LIVE on Sony LIV.",
+        "longDescription": "The stage is set for a blockbuster showdown as the Delhi Dangal Warriors face off against the Haryana Thunders in the Pro Wrestling League 2026 finals. Fans can expect high-octane action, fierce rivalries, and a battle for ultimate supremacy. Tune in to catch all the action from Pro Wrestling League 2026, LIVE on Sony LIV.",
         "genres": [
-          "Tennis"
+          "Wrestling"
         ],
-        "episodeTitle": "Stream 1 - 1 Feb 2026"
+        "episodeTitle": "Haryana Thunders vs Delhi Dangal Warriors - Final - 1 Feb 2026"
       },
       "stream_info": {
         "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": "https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8",
+        "dai_asset_key": "https://dai.google.com/ssai/event/wpnMSLxCRxGlRNjj2CnEew/master.m3u8",
         "broadcast_channel": "Sony Sports Ten 5",
         "audio_language_list": [
           {
@@ -288,17 +389,9 @@
           {
             "lang_code": "HIN",
             "lang_label": "Hindi"
-          },
-          {
-            "lang_code": "TAM",
-            "lang_label": "Tamil"
-          },
-          {
-            "lang_code": "TEL",
-            "lang_label": "Telugu"
           }
         ],
-        "emfAttributes__audio_languages": "ENG,HIN,TAM,TEL",
+        "emfAttributes__audio_languages": "ENG,HIN",
         "platformVariants": {
           "assetType": "MASTER",
           "assetName": "VOD_FULL_HD",
@@ -316,19 +409,19 @@
         }
       },
       "air_dates": {
-        "contractStartDate": "01 Feb 2026, 12:25 PM",
-        "contractEndDate": "01 Feb 2026, 11:00 PM",
-        "originalAirDate": "01 Feb 2026, 12:55 PM"
+        "contractStartDate": "01 Feb 2026, 07:30 PM",
+        "contractEndDate": "02 Feb 2026, 01:30 AM",
+        "originalAirDate": "01 Feb 2026, 08:00 PM"
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013679/1768827831016245_AO26_studio_show_19jan_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014561/1769771393202979_studio_show_30jan_landscape_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014725/176993733524998_PWL2026_MATCH_Haryana_Thunders_vs_Delhi_Dangal_Warriors_1feb_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014725/176993681534998_PWL2026_MATCH_Haryana_Thunders_vs_Delhi_Dangal_Warriors_1feb_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014561/1769771554399979_AO26_studio_show_30jan_masthead_mobile_v2.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013591/176872982955368_AO26_Generic_live_Masthead_logo.png",
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014724/1769935245443195_PWL2026_MATCH_Haryana_Thunders_vs_Delhi_Dangal_Warriors_masthead_mobile_v2.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014724/1769936038152195_PWL2026_MATCH_Haryana_Thunders_vs_Delhi_Dangal_Warriors_masthead_logo_live.png",
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014561/1769771393202979_studio_show_30jan_landscape_thumb.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014725/176993681534998_PWL2026_MATCH_Haryana_Thunders_vs_Delhi_Dangal_Warriors_1feb_landscape_thumb.jpg"
       },
       "MULTIPLE_AUDIO_LINKS": [
         {
@@ -338,7 +431,7 @@
             "JITENDRAUNATTI": {
               "Device_Type": "LITE",
               "message": "success",
-              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-AO/master.m3u8",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/master.m3u8",
               "WIDEVINE": null,
               "STREAMING_TYPE": true,
               "audioLanguages": [
@@ -349,12 +442,12 @@
                   "audioLanguageLabel": "English"
                 }
               ],
-              "dai_asset_key": "https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8",
+              "dai_asset_key": "https://dai.google.com/ssai/event/wpnMSLxCRxGlRNjj2CnEew/master.m3u8",
               "Maximum_Video_Quality": "SDR",
               "Maximum_Resolution": "FULL_HD",
               "trailer_url": "",
-              "systemTime": 1769946618688,
-              "DOCTOR_STRANGE": 1769946618,
+              "systemTime": 1769957412484,
+              "DOCTOR_STRANGE": 1769957412,
               "additionalDataJson": {
                 "enc_format": "HLS",
                 "resolution": "FULL_HD",
@@ -371,7 +464,7 @@
               },
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
-              "Date": "Sunday 1st of February 2026 05:20:18 PM"
+              "Date": "Sunday 1st of February 2026 08:20:12 PM"
             }
           }
         },
@@ -382,7 +475,7 @@
             "JITENDRAUNATTI": {
               "Device_Type": "LITE",
               "message": "success",
-              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21ME-AO/master.m3u8",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/master.m3u8",
               "WIDEVINE": null,
               "STREAMING_TYPE": true,
               "audioLanguages": [
@@ -393,12 +486,12 @@
                   "audioLanguageLabel": "English"
                 }
               ],
-              "dai_asset_key": "https://dai.google.com/ssai/event/8v64bO0BSiWeXJxzHSUt7A/master.m3u8",
+              "dai_asset_key": "https://dai.google.com/ssai/event/7cIN-VbvRemT_Gc-OWNing/master.m3u8",
               "Maximum_Video_Quality": "SDR",
               "Maximum_Resolution": "FULL_HD",
               "trailer_url": "",
-              "systemTime": 1769946620166,
-              "DOCTOR_STRANGE": 1769946620,
+              "systemTime": 1769957414639,
+              "DOCTOR_STRANGE": 1769957416,
               "additionalDataJson": {
                 "enc_format": "HLS",
                 "resolution": "FULL_HD",
@@ -415,114 +508,26 @@
               },
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
-              "Date": "Sunday 1st of February 2026 05:20:20 PM"
-            }
-          }
-        },
-        {
-          "LANGUAGE": "Tamil",
-          "LANG_CODE": "TAM",
-          "DATA": {
-            "JITENDRAUNATTI": {
-              "Device_Type": "LITE",
-              "message": "success",
-              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2037143/DAI23ME-AO/master.m3u8",
-              "WIDEVINE": null,
-              "STREAMING_TYPE": true,
-              "audioLanguages": [
-                {
-                  "audioId": 1,
-                  "audioLanguageName": "ENG",
-                  "isPreferred": true,
-                  "audioLanguageLabel": "English"
-                }
-              ],
-              "dai_asset_key": "https://dai.google.com/ssai/event/jnpvw9goRV2lb3bMV8Z_Kw/master.m3u8",
-              "Maximum_Video_Quality": "SDR",
-              "Maximum_Resolution": "FULL_HD",
-              "trailer_url": "",
-              "systemTime": 1769946622805,
-              "DOCTOR_STRANGE": 1769946624,
-              "additionalDataJson": {
-                "enc_format": "HLS",
-                "resolution": "FULL_HD",
-                "audio_quality": "STEREO",
-                "video_quality": "SDR",
-                "fps": 25,
-                "videoCodec": "H264",
-                "audioCodec": "AAC",
-                "partners": [
-                  "ALL"
-                ],
-                "isDaiKey": false,
-                "ad_stack": "MT-SSB"
-              },
-              "Status_code": 200,
-              "content_type": "application/json; charset=utf-8",
-              "Date": "Sunday 1st of February 2026 05:20:24 PM"
-            }
-          }
-        },
-        {
-          "LANGUAGE": "Telugu",
-          "LANG_CODE": "TEL",
-          "DATA": {
-            "JITENDRAUNATTI": {
-              "Device_Type": "LITE",
-              "message": "success",
-              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2105080/DAI24ME-AO/master.m3u8",
-              "WIDEVINE": null,
-              "STREAMING_TYPE": true,
-              "audioLanguages": [
-                {
-                  "audioId": 1,
-                  "audioLanguageName": "ENG",
-                  "isPreferred": true,
-                  "audioLanguageLabel": "English"
-                }
-              ],
-              "dai_asset_key": "https://dai.google.com/ssai/event/rcx_ja45R1uHNrgNN6bbOw/master.m3u8",
-              "Maximum_Video_Quality": "SDR",
-              "Maximum_Resolution": "FULL_HD",
-              "trailer_url": "",
-              "systemTime": 1769946626681,
-              "DOCTOR_STRANGE": 1769946626,
-              "additionalDataJson": {
-                "enc_format": "HLS",
-                "resolution": "FULL_HD",
-                "audio_quality": "STEREO",
-                "video_quality": "SDR",
-                "fps": 25,
-                "videoCodec": "H264",
-                "audioCodec": "AAC",
-                "partners": [
-                  "ALL"
-                ],
-                "isDaiKey": false,
-                "ad_stack": "MT-SSB"
-              },
-              "Status_code": 200,
-              "content_type": "application/json; charset=utf-8",
-              "Date": "Sunday 1st of February 2026 05:20:26 PM"
+              "Date": "Sunday 1st of February 2026 08:20:16 PM"
             }
           }
         }
       ]
     },
     {
-      "contentId": 1090502886,
+      "contentId": 1090502890,
       "video_info": {
         "title": "World Pickleball League 2026",
-        "shortDescription": "Hyderabad Superstars take on Dilli Dillwale promising an adrenaline‑charged action and pure sportainment. Catch all the action from World Pickleball League 2026, LIVE & exclusively on Sony LIV.",
-        "longDescription": "Hyderabad Superstars take on Dilli Dillwale promising an adrenaline‑charged action and pure sportainment. Catch all the action from World Pickleball League 2026, LIVE & exclusively on Sony LIV.",
+        "shortDescription": "Pune United take on Rajasthan Titans promising an adrenaline‑charged action and pure sportainment. Catch all the action from World Pickleball League 2026, LIVE & exclusively on Sony LIV.",
+        "longDescription": "Pune United take on Rajasthan Titans promising an adrenaline‑charged action and pure sportainment. Catch all the action from World Pickleball League 2026, LIVE & exclusively on Sony LIV.",
         "genres": [
           "Pickleball"
         ],
-        "episodeTitle": "Hyderabad Superstars vs Dilli Dillwale - 1 Feb 2026"
+        "episodeTitle": "Rajasthan Titans vs Pune United - 1 Feb 2026"
       },
       "stream_info": {
         "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": "https://dai.google.com/ssai/event/4P-rGs2vR-aJ-_6DOl9ldQ/master.m3u8",
+        "dai_asset_key": "https://dai.google.com/ssai/event/roIQv3izQlW-NqCtIfwJ8A/master.m3u8",
         "broadcast_channel": "LIV",
         "audio_language_list": [
           {
@@ -548,19 +553,19 @@
         }
       },
       "air_dates": {
-        "contractStartDate": "01 Feb 2026, 05:30 PM",
-        "contractEndDate": "01 Feb 2026, 10:30 PM",
-        "originalAirDate": "01 Feb 2026, 06:00 PM"
+        "contractStartDate": "01 Feb 2026, 07:30 PM",
+        "contractEndDate": "02 Feb 2026, 01:00 AM",
+        "originalAirDate": "01 Feb 2026, 08:00 PM"
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014355/1769593417157675_WPL26_Hyderabad-vs-Delhi_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014355/1769593445439675_WPL26_Hyderabad-vs-Delhi_landscape_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014355/1769591169471675_WPL26_Jaipur-vs-Pune_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014355/1769591206847675_WPL26_Jaipur-vs-Pune_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014712/1769892721119625_WPBL26_Match_masthead_mobile_v2_984x1182_HyderabadSuperStars_vs_DilliDilwale.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014712/1769892720890625_WPBL26_Match_Masthead_logo_HyderabadSuperStars_vs_DilliDilwale_Live.png",
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014712/1769892721203625_WPBL26_Match_masthead_mobile_v2_984x1182_RajasthanTitans_vs_PuneUnited.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014712/1769892720938625_WPBL26_Match_Masthead_logo_RajasthanTitans_vs_PuneUnited_Live.png",
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014355/1769593445439675_WPL26_Hyderabad-vs-Delhi_landscape_thumb.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014355/1769591206847675_WPL26_Jaipur-vs-Pune_landscape_thumb.jpg"
       },
       "MULTIPLE_AUDIO_LINKS": [
         {
@@ -581,12 +586,12 @@
                   "audioLanguageLabel": "English"
                 }
               ],
-              "dai_asset_key": "https://dai.google.com/ssai/event/4P-rGs2vR-aJ-_6DOl9ldQ/master.m3u8",
+              "dai_asset_key": "https://dai.google.com/ssai/event/roIQv3izQlW-NqCtIfwJ8A/master.m3u8",
               "Maximum_Video_Quality": "SDR",
               "Maximum_Resolution": "FULL_HD",
               "trailer_url": "",
-              "systemTime": 1769952641837,
-              "DOCTOR_STRANGE": 1769952641,
+              "systemTime": 1769957417793,
+              "DOCTOR_STRANGE": 1769957417,
               "additionalDataJson": {
                 "enc_format": "HLS",
                 "resolution": "FULL_HD",
@@ -603,7 +608,7 @@
               },
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
-              "Date": "Sunday 1st of February 2026 07:00:41 PM"
+              "Date": "Sunday 1st of February 2026 08:20:17 PM"
             }
           }
         }
@@ -704,106 +709,6 @@
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
               "Date": "Sunday 1st of February 2026 07:20:14 PM"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "contentId": 1090502865,
-      "video_info": {
-        "title": "DP World Tour",
-        "shortDescription": "Watch all the action from Bahrain Championship Day 4, LIVE on Sony LIV.",
-        "longDescription": "Watch all the action from Bahrain Championship Day 4, LIVE on Sony LIV.",
-        "genres": [
-          "Golf"
-        ],
-        "episodeTitle": "Bahrain Championship Day 4 - 1 Feb 2026"
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": "https://dai.google.com/ssai/event/OJbNoIr0TXmnjBeSRcV5Dg/master.m3u8",
-        "broadcast_channel": "LIV",
-        "audio_language_list": [
-          {
-            "lang_code": "ENG",
-            "lang_label": "English"
-          }
-        ],
-        "emfAttributes__audio_languages": "ENG",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD",
-          "videoType": "FULL_HD",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "ENG",
-              "isPreferred": true,
-              "audioLanguageLabel": "English"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA"
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "01 Feb 2026, 01:30 PM",
-        "contractEndDate": "01 Feb 2026, 09:30 PM",
-        "originalAirDate": "01 Feb 2026, 02:00 PM"
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014514/1769720958732157_DPworldtour_Bahrain_Championship_day4_28jan_live_portrait_thumb_re1.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014514/1769721599881157_DPworldtour_Bahrain_Championship_day4_28jan_live_landscape_thumb_re1.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": null,
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013565/1768686425047781_DP_World_Tour_GOB_Masthead_Logo_LIVE.png",
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014514/1769721599881157_DPworldtour_Bahrain_Championship_day4_28jan_live_landscape_thumb_re1.jpg"
-      },
-      "MULTIPLE_AUDIO_LINKS": [
-        {
-          "LANGUAGE": "English",
-          "LANG_CODE": "ENG",
-          "DATA": {
-            "JITENDRAUNATTI": {
-              "Device_Type": "LITE",
-              "message": "success",
-              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2094587/DAI03ME-V3/master.m3u8",
-              "WIDEVINE": null,
-              "STREAMING_TYPE": true,
-              "audioLanguages": [
-                {
-                  "audioId": 1,
-                  "audioLanguageName": "ENG",
-                  "isPreferred": true,
-                  "audioLanguageLabel": "English"
-                }
-              ],
-              "dai_asset_key": "https://dai.google.com/ssai/event/OJbNoIr0TXmnjBeSRcV5Dg/master.m3u8",
-              "Maximum_Video_Quality": "SDR",
-              "Maximum_Resolution": "FULL_HD",
-              "trailer_url": "",
-              "systemTime": 1769952643454,
-              "DOCTOR_STRANGE": 1769952642,
-              "additionalDataJson": {
-                "enc_format": "HLS",
-                "resolution": "FULL_HD",
-                "audio_quality": "STEREO",
-                "video_quality": "SDR",
-                "fps": 25,
-                "videoCodec": "H264",
-                "audioCodec": "AAC",
-                "partners": [
-                  "ALL"
-                ],
-                "isDaiKey": false,
-                "ad_stack": "MT-SSB"
-              },
-              "Status_code": 200,
-              "content_type": "application/json; charset=utf-8",
-              "Date": "Sunday 1st of February 2026 07:00:42 PM"
             }
           }
         }
