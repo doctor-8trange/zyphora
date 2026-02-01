@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "01-02-2026 11:00",
+  "last_updated": "01-02-2026 12:40",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -18,27 +18,39 @@
   },
   "data": [
     {
-      "contentId": 1090498778,
+      "contentId": 1090499148,
       "video_info": {
         "title": "Australian Open 2026",
-        "shortDescription": "Catch all the exciting tennis action from the Australian Open 2026 live on Sony LIV.",
-        "longDescription": "Catch all the exciting tennis action from the Australian Open 2026 live on Sony LIV.",
+        "shortDescription": "The prodigy versus the master. Carlos Alcaraz, the youngest man to reach finals at all four Grand Slams, against Novak Djokovic, the oldest Australian Open finalist of the Open Era. Rising dominance meets unmatched legacy: Alcaraz chasing his first Australian Open and a historic career Grand Slam, Djokovic pursuing an 11th Melbourne crown and a record‑extending 25th major. It doesn’t get bigger than this. Tune in to catch all the action, LIVE & exclusively on Sony LIV.",
+        "longDescription": "The prodigy versus the master. Carlos Alcaraz, the youngest man to reach finals at all four Grand Slams, against Novak Djokovic, the oldest Australian Open finalist of the Open Era. Rising dominance meets unmatched legacy: Alcaraz chasing his first Australian Open and a historic career Grand Slam, Djokovic pursuing an 11th Melbourne crown and a record‑extending 25th major. It doesn’t get bigger than this. Tune in to catch all the action, LIVE & exclusively on Sony LIV.",
         "genres": [
           "Tennis"
         ],
-        "episodeTitle": "Keaten Hance vs Ziga Sesko - Jr. Boys' Final - 1 Feb 2026"
+        "episodeTitle": "Stream 1 - 1 Feb 2026"
       },
       "stream_info": {
         "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": "https://dai.google.com/ssai/event/v0de0itRSnC4wdu5gx817Q/master.m3u8",
+        "dai_asset_key": "https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8",
         "broadcast_channel": "Sony Sports Ten 5",
         "audio_language_list": [
           {
             "lang_code": "ENG",
             "lang_label": "English"
+          },
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          },
+          {
+            "lang_code": "TAM",
+            "lang_label": "Tamil"
+          },
+          {
+            "lang_code": "TEL",
+            "lang_label": "Telugu"
           }
         ],
-        "emfAttributes__audio_languages": "ENG",
+        "emfAttributes__audio_languages": "ENG,HIN,TAM,TEL",
         "platformVariants": {
           "assetType": "MASTER",
           "assetName": "VOD_FULL_HD",
@@ -56,19 +68,19 @@
         }
       },
       "air_dates": {
-        "contractStartDate": "01 Feb 2026, 06:00 AM",
-        "contractEndDate": "01 Feb 2026, 03:30 PM",
-        "originalAirDate": "01 Feb 2026, 06:30 AM"
+        "contractStartDate": "01 Feb 2026, 12:25 PM",
+        "contractEndDate": "01 Feb 2026, 11:00 PM",
+        "originalAirDate": "01 Feb 2026, 12:55 PM"
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014667/1769854560062594_AO2026_portrait_thumb_JuniorBoysSinglesFinal_Hance_V_Sesko.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014667/1769854559568594_AO2026_Landscape_Thumb_JuniorBoysSinglesFinal_Hance_V_Sesko_SP.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014573/1769773782510989_AO26_final_stream1_30jan_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014575/1769774583494206_AO26_final_stream1_30jan_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014667/1769854559787594_AO2026_Match_Masthead_mobile_v2_984x1182_JuniorBoysSinglesFinal_Hance_V_Sesko_SP.jpg",
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014246/176943972841147_AO2026_Match_Masthead_mobile_v2_984x1182_final_SP.jpg",
         "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013591/176872982955368_AO26_Generic_live_Masthead_logo.png",
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014667/1769854559568594_AO2026_Landscape_Thumb_JuniorBoysSinglesFinal_Hance_V_Sesko_SP.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014575/1769774583494206_AO26_final_stream1_30jan_landscape_thumb.jpg"
       },
       "MULTIPLE_AUDIO_LINKS": [
         {
@@ -78,7 +90,7 @@
             "JITENDRAUNATTI": {
               "Device_Type": "LITE",
               "message": "success",
-              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-AO/master.m3u8",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-AO/master.m3u8",
               "WIDEVINE": null,
               "STREAMING_TYPE": true,
               "audioLanguages": [
@@ -89,12 +101,12 @@
                   "audioLanguageLabel": "English"
                 }
               ],
-              "dai_asset_key": "https://dai.google.com/ssai/event/v0de0itRSnC4wdu5gx817Q/master.m3u8",
+              "dai_asset_key": "https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8",
               "Maximum_Video_Quality": "SDR",
               "Maximum_Resolution": "FULL_HD",
               "trailer_url": "",
-              "systemTime": 1769921408083,
-              "DOCTOR_STRANGE": 1769921408,
+              "systemTime": 1769929810491,
+              "DOCTOR_STRANGE": 1769929810,
               "additionalDataJson": {
                 "enc_format": "HLS",
                 "resolution": "FULL_HD",
@@ -111,7 +123,139 @@
               },
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
-              "Date": "Sunday 1st of February 2026 10:20:08 AM"
+              "Date": "Sunday 1st of February 2026 12:40:10 PM"
+            }
+          }
+        },
+        {
+          "LANGUAGE": "Hindi",
+          "LANG_CODE": "HIN",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21ME-AO/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/8v64bO0BSiWeXJxzHSUt7A/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1769929811869,
+              "DOCTOR_STRANGE": 1769929811,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Sunday 1st of February 2026 12:40:11 PM"
+            }
+          }
+        },
+        {
+          "LANGUAGE": "Tamil",
+          "LANG_CODE": "TAM",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2037143/DAI23ME-AO/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/jnpvw9goRV2lb3bMV8Z_Kw/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1769929813088,
+              "DOCTOR_STRANGE": 1769929812,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Sunday 1st of February 2026 12:40:12 PM"
+            }
+          }
+        },
+        {
+          "LANGUAGE": "Telugu",
+          "LANG_CODE": "TEL",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2105080/DAI24ME-AO/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/rcx_ja45R1uHNrgNN6bbOw/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1769929814310,
+              "DOCTOR_STRANGE": 1769929814,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Sunday 1st of February 2026 12:40:14 PM"
             }
           }
         }
@@ -169,7 +313,7 @@
         "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014696/1769880111242634_AO_alcaraz_vs_djokovic_final_31jan_promo_portrait_thumb_today.jpg",
         "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014651/1769846260087521_AO2026_mens_final_today_promo_rev_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014684/1769865194270262_AO2026_Match_Masthead_mobile_v2_984x1182_Alcaraz_vs_Djokovic_SP_2.jpg",
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014721/1769926473041691_AO26_mens_final_1feb_masthead_mobile_v2_SP.jpg",
         "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014671/1769856812543581_AO2026_mens_final_today_promo_masthead_logo.png",
         "circular_image": null,
         "image_600x900_clean": null,
