@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "04-02-2026 17:40",
+  "last_updated": "04-02-2026 18:00",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -17,6 +17,154 @@
     "USAGE_GUIDE": []
   },
   "data": [
+    {
+      "contentId": 1090503180,
+      "video_info": {
+        "title": "World Legends Pro T20 League 2026",
+        "shortDescription": "Catch all the action as Dwayne Bravo leads the Pune Panthers in the first-ever final of the World Legends Pro T20 League 2026 against Shikhar Dhwan's formidable Dubai Royals side, LIVE & exclusively on Sony LIV.",
+        "longDescription": "Catch all the action as Dwayne Bravo leads the Pune Panthers in the first-ever final of the World Legends Pro T20 League 2026 against Shikhar Dhwan's formidable Dubai Royals side, LIVE & exclusively on Sony LIV.",
+        "genres": [
+          "Cricket"
+        ],
+        "episodeTitle": "Pune Panthers vs Dubai Royals - Final - 4 Feb 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8",
+        "broadcast_channel": "LIV",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          },
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          }
+        ],
+        "emfAttributes__audio_languages": "HIN,ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "04 Feb 2026, 06:00 PM",
+        "contractEndDate": "05 Feb 2026, 03:30 AM",
+        "originalAirDate": "04 Feb 2026, 06:30 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014838/1770147104479290_WLP26_final_pune_vs_dubai_3feb_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014838/1770147071616290_WLP26_final_pune_vs_dubai_3feb_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014855/177019896973210_WorldLegendsProT20League2026_Match_masthead_mobile_v2_984x1182_Pune_Panthers_vs_Dubai_Royals_FINAL.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014855/177019896962010_WorldLegendsProT20League2026_Match_Masthead_logo_Pune_Panthers_vs_Dubai_Royals_Live_FINAL.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014838/1770147071616290_WLP26_final_pune_vs_dubai_3feb_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2022318/DAI14ME-V3/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1770208217264,
+              "DOCTOR_STRANGE": 1770208218,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Wednesday 4th of February 2026 06:00:18 PM"
+            }
+          }
+        },
+        {
+          "LANGUAGE": "Hindi",
+          "LANG_CODE": "HIN",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI37ME-V3/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1770208220781,
+              "DOCTOR_STRANGE": 1770208220,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Wednesday 4th of February 2026 06:00:20 PM"
+            }
+          }
+        }
+      ]
+    },
     {
       "contentId": 1090503152,
       "video_info": {
@@ -116,67 +264,109 @@
           }
         }
       ]
-    }
-  ],
-  "upcoming": [
+    },
     {
-      "contentId": 1090501550,
+      "contentId": 1090503122,
       "video_info": {
-        "title": "Upcoming - World Legends Pro T20 League 2026",
-        "shortDescription": "World Legends Pro T20 League 2026 brings iconic legends cricket matches to life. Watch live action, thrilling highlights, and unforgettable moments as stars like Yuvraj Singh, Chris Gayle, and AB de Villiers return to the field on Sony LIV.",
-        "longDescription": "World Legends Pro T20 League 2026 brings iconic legends cricket matches to life. Watch live action, thrilling highlights, and unforgettable moments as stars like Yuvraj Singh, Chris Gayle, and AB de Villiers return to the field on Sony LIV.",
+        "title": "UEFA Youth League 2025-26",
+        "shortDescription": "Catch all the action from the UEFA Youth League 2025-26 match between Legia and Ajax , LIVE & exclusively on Sony LIV.",
+        "longDescription": "Catch all the action from the UEFA Youth League 2025-26 match between Legia and Ajax , LIVE & exclusively on Sony LIV.",
         "genres": [
-          "Cricket"
+          "Football"
         ],
-        "episodeTitle": ""
+        "episodeTitle": "Legia vs Ajax - 4 Feb 2026"
       },
       "stream_info": {
         "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "LIV",
+        "dai_asset_key": "https://dai.google.com/ssai/event/eCwfco5kSQOgsF_j6UEq5g/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 2",
         "audio_language_list": [
           {
-            "lang_code": "HIN",
-            "lang_label": "Hindi"
+            "lang_code": "ENG",
+            "lang_label": "English"
           }
         ],
-        "emfAttributes__audio_languages": "HIN",
+        "emfAttributes__audio_languages": "ENG",
         "platformVariants": {
           "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
           "audioLanguages": [
             {
               "audioId": 1,
-              "audioLanguageName": "HIN",
+              "audioLanguageName": "ENG",
               "isPreferred": true,
-              "audioLanguageLabel": "Hindi",
-              "type": "main"
+              "audioLanguageLabel": "English"
             }
           ],
           "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/1ef040ef48f846b595445f427d810cd8/1770200602/baseline-std-v4/PROMO_WLP_T20_25012026_hin_baseline-800300010.mpd",
-          "hasTrailer": true
+          "videoUrl": "NA"
         }
       },
       "air_dates": {
-        "contractStartDate": "25 Jan 2026, 08:00 AM",
-        "contractEndDate": "04 Feb 2026, 06:00 PM",
-        "originalAirDate": null
+        "contractStartDate": "04 Feb 2026, 05:55 PM",
+        "contractEndDate": "04 Feb 2026, 10:50 PM",
+        "originalAirDate": "04 Feb 2026, 06:25 PM"
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014847/1770186027030930_WLP26_final_pune_vs_dubai_3feb_promo_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014848/1770186839839490_WLP26_final_pune_vs_dubai_3feb_promo_landscape_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014798/177006274381371_UYL2526_RD32_Legia_vs_Ajax_3feb_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014798/177006281679271_UYL2526_RD32_Legia_vs_Ajax_3feb_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014855/177019896973210_WorldLegendsProT20League2026_Match_masthead_mobile_v2_984x1182_Pune_Panthers_vs_Dubai_Royals_FINAL.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014855/177019896962910_WorldLegendsProT20League2026_Match_Masthead_logo_Pune_Panthers_vs_Dubai_Royals_Today_FINAL.png",
+        "masthead_mobile_v2": null,
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl24_final2_masthead_logo_live.png",
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014848/1770186839839490_WLP26_final_pune_vs_dubai_3feb_promo_landscape_thumb.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014798/177006281679271_UYL2526_RD32_Legia_vs_Ajax_3feb_landscape_thumb.jpg"
       },
-      "MULTIPLE_AUDIO_LINKS": []
-    },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/dYeQ9c_FS3qDJNz15EkS0w/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1770208234214,
+              "DOCTOR_STRANGE": 1770208234,
+              "additionalDataJson": {
+                "ad_stack": "DAI-IMA",
+                "audioCodec": "AAC",
+                "audio_quality": "STEREO",
+                "enc_format": "HLS",
+                "fps": 25,
+                "isDaiKey": true,
+                "partners": [
+                  "ALL"
+                ],
+                "resolution": "HD",
+                "videoCodec": "H264",
+                "video_quality": "SDR"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Wednesday 4th of February 2026 06:00:34 PM"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "upcoming": [
     {
       "contentId": 1090501426,
       "video_info": {
