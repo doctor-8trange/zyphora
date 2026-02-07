@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "07-02-2026 20:00",
+  "last_updated": "07-02-2026 20:20",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -17,6 +17,107 @@
     "USAGE_GUIDE": []
   },
   "data": [
+    {
+      "contentId": 1090492547,
+      "video_info": {
+        "title": "Indian Idol",
+        "shortDescription": "Indian Idol 16 – “Yaadon Ki Playlist” celebrates music that brings back cherished memories and emotions. For the first time ever, auditions go outdoors, traveling across India to discover raw talent, hosted by the legendary Udit Narayan, while Aditya Narayan returns as the main host. The judges - Vishal Dadlani, Shreya Ghoshal, and Badshah - search for voices that touch hearts. A season where every song is a memory, and every melody tells a story.",
+        "longDescription": "Indian Idol 16 – “Yaadon Ki Playlist” celebrates music that brings back cherished memories and emotions. For the first time ever, auditions go outdoors, traveling across India to discover raw talent, hosted by the legendary Udit Narayan, while Aditya Narayan returns as the main host. The judges - Vishal Dadlani, Shreya Ghoshal, and Badshah - search for voices that touch hearts. A season where every song is a memory, and every melody tells a story.",
+        "genres": [
+          "Reality",
+          "Music"
+        ],
+        "episodeTitle": "Indian Idol"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/g1cPcUIdSQC_3FXsrgV5iA/master.m3u8",
+        "broadcast_channel": "SET",
+        "audio_language_list": [
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          }
+        ],
+        "emfAttributes__audio_languages": "HIN",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "HIN",
+              "isPreferred": true,
+              "audioLanguageLabel": "Hindi"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "07 Feb 2026, 07:40 PM",
+        "contractEndDate": "07 Feb 2026, 10:47 PM",
+        "originalAirDate": "07 Feb 2026, 07:40 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014944/1770469529574778_II26_Lata_ji_spl_7feb_simulcast_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014939/1770461799301210_II26_Lata_ji_spl_7feb_simulcast_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014933/1770404665475583_II26_Lata_ji_spl_7feb_masthead_mobile_v2.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014680/1769862660437968_IndianIdol_S16_31jan26_Masthead_logo.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014939/1770461799301210_II26_Lata_ji_spl_7feb_simulcast_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "Hindi",
+          "LANG_CODE": "HIN",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-II/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "HIN",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "Hindi"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/g1cPcUIdSQC_3FXsrgV5iA/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1770475819352,
+              "DOCTOR_STRANGE": 1770475819,
+              "additionalDataJson": {
+                "audio_quality": "STEREO",
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "video_quality": "SDR",
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "fps": 50,
+                "isDaiKey": false,
+                "partners": [
+                  "ALL"
+                ],
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Saturday 7th of February 2026 08:20:19 PM"
+            }
+          }
+        }
+      ]
+    },
     {
       "contentId": 1090503354,
       "video_info": {
@@ -718,122 +819,5 @@
       ]
     }
   ],
-  "upcoming": [
-    {
-      "contentId": 1090501426,
-      "video_info": {
-        "title": "Upcoming - World Pickleball League 2026",
-        "shortDescription": "Catch all action from World Pickleball League 2026, streaming exclusively on Sony LIV. ",
-        "longDescription": "Catch all action from World Pickleball League 2026, streaming exclusively on Sony LIV. ",
-        "genres": [
-          "Pickleball"
-        ],
-        "episodeTitle": ""
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "LIV",
-        "audio_language_list": [
-          {
-            "lang_code": "ENG",
-            "lang_label": "English"
-          }
-        ],
-        "emfAttributes__audio_languages": "ENG",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "ENG",
-              "isPreferred": true,
-              "audioLanguageLabel": "English",
-              "type": "main"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/336f5cfde99849dc818190d9bf011394/1769251960/baseline-std-v4/1090501426_24012026_eng_baseline-800300010.mpd",
-          "hasTrailer": true
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "24 Jan 2026, 10:00 AM",
-        "contractEndDate": "08 Feb 2026, 06:30 PM",
-        "originalAirDate": null
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014252/1769457165981220_WorldPickleballLeague_Portrait_thumb_today.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014094/1769246223870144_WorldPickleballLeague_GOB_Landscape_Thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014094/1769246223891144_WorldPickleballLeague_GOB_masthead_mobile_v2_984x1182.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014252/1769456235092220_WorldPickleballLeague_GOB_Masthead_logo_today.png",
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014094/1769246223870144_WorldPickleballLeague_GOB_Landscape_Thumb.jpg"
-      },
-      "MULTIPLE_AUDIO_LINKS": []
-    },
-    {
-      "contentId": 1090498545,
-      "video_info": {
-        "title": "Upcoming - Iconic Sports Sizzlers",
-        "shortDescription": "Watch the epic showdowns from top sports events here, exclusively on Sony LIV",
-        "longDescription": "Watch the epic showdowns from top sports events here, exclusively on Sony LIV",
-        "genres": [
-          "Sports"
-        ],
-        "episodeTitle": ""
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "Sony Sports Ten 2",
-        "audio_language_list": [
-          {
-            "lang_code": "ENG",
-            "lang_label": "English"
-          }
-        ],
-        "emfAttributes__audio_languages": "ENG",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "ENG",
-              "isPreferred": true,
-              "audioLanguageLabel": "English",
-              "type": "main"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/e8b01a0bbe3d48a188c958b6e413a3b5/1766642597/baseline-std-v4/UPCOMING_COMBO_PROMO_45_SEC_HOR_APP_eng_baseline-800300010.mpd",
-          "hasTrailer": true
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "25 Dec 2025, 11:00 AM",
-        "contractEndDate": "31 Dec 2026, 11:09 PM",
-        "originalAirDate": null
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012709/1766657403829568_New_years_new_action_non_stop_sports_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012709/1766658044515568_New_years_new_action_non_stop_sports_landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012709/1766657169992568_New_years_new_action_non_stop_sports__masthead_mobile_v2.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012709/1766657927215568_New_years_new_action_non_stop_sports_masthead_logo.png",
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012709/1766658044515568_New_years_new_action_non_stop_sports_landscape_thumb.jpg"
-      },
-      "MULTIPLE_AUDIO_LINKS": []
-    }
-  ]
+  "upcoming": []
 }
