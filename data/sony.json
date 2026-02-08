@@ -1,9 +1,9 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "08-02-2026 01:00",
+  "last_updated": "08-02-2026 07:49",
   "app_settings": {
-    "PROXY": "ON",
+    "PROXY": "OFF",
     "state_code": "MH",
     "MULTI_CDN": "OFF",
     "Debugging": "ON",
@@ -18,27 +18,39 @@
   },
   "data": [
     {
-      "contentId": 1090503333,
+      "contentId": 1090503420,
       "video_info": {
-        "title": "Bundesliga 2025-26",
-        "shortDescription": "Gladbach’s turbulent run meets a surging Leverkusen side revitalized under Hjulmand and riding a four‑match winning streak. Given Leverkusen’s long unbeaten H2H stretch, the visitors enter with the firepower and form to extend their dominance in a matchup trending heavily their way. Catch all the action from Bundesliga 2025-26, LIVE on Sony LIV.",
-        "longDescription": "Gladbach’s turbulent run meets a surging Leverkusen side revitalized under Hjulmand and riding a four‑match winning streak. Given Leverkusen’s long unbeaten H2H stretch, the visitors enter with the firepower and form to extend their dominance in a matchup trending heavily their way. Catch all the action from Bundesliga 2025-26, LIVE on Sony LIV.",
+        "title": "UFC Fight Night - Bautista vs Oliveira",
+        "shortDescription": "Mario Bautista and Vinicius Oliveira collide in a flyweight thriller at UFC Fight Night, each looking to cement contender status. Mario Bautista’s relentless scrambles and submission hunting clash with Vinicius Oliveira’s precision striking and knockout power, making this a must-watch clash of styles. Tune in to catch all the action from UFC Fight Night, LIVE on Sony LIV.",
+        "longDescription": "Mario Bautista and Vinicius Oliveira collide in a flyweight thriller at UFC Fight Night, each looking to cement contender status. Mario Bautista’s relentless scrambles and submission hunting clash with Vinicius Oliveira’s precision striking and knockout power, making this a must-watch clash of styles. Tune in to catch all the action from UFC Fight Night, LIVE on Sony LIV.",
         "genres": [
-          "Football"
+          "Fight Sports"
         ],
-        "episodeTitle": "Borussia M'gladbach vs Bayer Leverkusen - MD 21 - 7 Feb 2026"
+        "episodeTitle": "UFC Fight Night - Bautista vs Oliveira - 8 Feb 2026"
       },
       "stream_info": {
         "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": "https://dai.google.com/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8",
+        "dai_asset_key": "https://dai.google.com/ssai/event/shkqoON_T6OVwAhCb9YdoA/master.m3u8",
         "broadcast_channel": "Sony Sports Ten 2",
         "audio_language_list": [
           {
             "lang_code": "ENG",
             "lang_label": "English"
+          },
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          },
+          {
+            "lang_code": "TAM",
+            "lang_label": "Tamil"
+          },
+          {
+            "lang_code": "TEL",
+            "lang_label": "Telugu"
           }
         ],
-        "emfAttributes__audio_languages": "ENG",
+        "emfAttributes__audio_languages": "TEL,ENG,TAM,HIN",
         "platformVariants": {
           "assetType": "MASTER",
           "assetName": "VOD_FULL_HD",
@@ -56,19 +68,19 @@
         }
       },
       "air_dates": {
-        "contractStartDate": "07 Feb 2026, 10:20 PM",
-        "contractEndDate": "08 Feb 2026, 03:20 AM",
-        "originalAirDate": "07 Feb 2026, 10:50 PM"
+        "contractStartDate": "08 Feb 2026, 06:00 AM",
+        "contractEndDate": "08 Feb 2026, 12:00 PM",
+        "originalAirDate": "08 Feb 2026, 06:30 AM"
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014298/1769513295684875_Bundesliga_2025_26_Borussia-Mgladbach-vs-Bayer-Leverkusen_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014298/1769513352954875_Bundesliga_2025_26_Borussia-Mgladbach-vs-Bayer-Leverkusen_landscape_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014920/1770377640426436_UFC_Fight_Night_Bautista_vs_Oliveira_6feb_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014920/1770378202056436_UFC_Fight_Night_Bautista_vs_Oliveira_6feb_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014806/1770105240477725_Bundesliga2026_Match_masthead_mobile_v2_984x1182_Borussia_Mgladbach_vs_Bayer_Leverkusen.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014806/1770105240709725_Bundesliga2026_Match_Masthead_logo_Borussia_Mgladbach_vs_Bayer_Leverkusen_Live.png",
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014916/1770372785006714_UFC_Fight_Night_Bautista_vs_Oliveira_masthead_mobile_v2_984x1182.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014916/1770372785359714_UFC_Fight_Night_Bautista_vs_Oliveira_Masthead_Logo_LIVE.png",
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014298/1769513352954875_Bundesliga_2025_26_Borussia-Mgladbach-vs-Bayer-Leverkusen_landscape_thumb.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014920/1770378202056436_UFC_Fight_Night_Bautista_vs_Oliveira_6feb_landscape_thumb.jpg"
       },
       "MULTIPLE_AUDIO_LINKS": [
         {
@@ -78,7 +90,7 @@
             "JITENDRAUNATTI": {
               "Device_Type": "LITE",
               "message": "success",
-              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2022318/DAI14ME-V3/master.m3u8",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-UFC/master.m3u8",
               "WIDEVINE": null,
               "STREAMING_TYPE": true,
               "audioLanguages": [
@@ -89,12 +101,12 @@
                   "audioLanguageLabel": "English"
                 }
               ],
-              "dai_asset_key": "https://dai.google.com/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8",
+              "dai_asset_key": "https://dai.google.com/ssai/event/shkqoON_T6OVwAhCb9YdoA/master.m3u8",
               "Maximum_Video_Quality": "SDR",
               "Maximum_Resolution": "FULL_HD",
               "trailer_url": "",
-              "systemTime": 1770484219993,
-              "DOCTOR_STRANGE": 1770484219,
+              "systemTime": 1770514211002,
+              "DOCTOR_STRANGE": 1770514213,
               "additionalDataJson": {
                 "enc_format": "HLS",
                 "resolution": "FULL_HD",
@@ -111,7 +123,139 @@
               },
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
-              "Date": "Saturday 7th of February 2026 10:40:19 PM"
+              "Date": "Sunday 8th of February 2026 07:00:13 AM"
+            }
+          }
+        },
+        {
+          "LANGUAGE": "Hindi",
+          "LANG_CODE": "HIN",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-UFC/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/xq7h_HJVS7mEliIeK8sjnQ/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1770514218720,
+              "DOCTOR_STRANGE": 1770514218,
+              "additionalDataJson": {
+                "ad_stack": "DAI-IMA",
+                "audioCodec": "AAC",
+                "audio_quality": "STEREO",
+                "enc_format": "HLS",
+                "fps": 25,
+                "isDaiKey": true,
+                "partners": [
+                  "ALL"
+                ],
+                "resolution": "HD",
+                "videoCodec": "H264",
+                "video_quality": "SDR"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Sunday 8th of February 2026 07:00:18 AM"
+            }
+          }
+        },
+        {
+          "LANGUAGE": "Tamil",
+          "LANG_CODE": "TAM",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-UFC/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/nnQKrEF4RnCKYMR3Keilsw/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1770514220003,
+              "DOCTOR_STRANGE": 1770514219,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Sunday 8th of February 2026 07:00:19 AM"
+            }
+          }
+        },
+        {
+          "LANGUAGE": "Telugu",
+          "LANG_CODE": "TEL",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2105079/DAI08ME-UFC/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/X9tnEM9wQHKUIX6nWcZ4TA/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1770514221132,
+              "DOCTOR_STRANGE": 1770514220,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Sunday 8th of February 2026 07:00:20 AM"
             }
           }
         }
