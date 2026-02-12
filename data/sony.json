@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "12-02-2026 21:00",
+  "last_updated": "12-02-2026 21:20",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -78,7 +78,7 @@
             "JITENDRAUNATTI": {
               "Device_Type": "LITE",
               "message": "success",
-              "Playback_videoURL": "https://sonydaimenew.akamaized.net/hls/live/2022321/DAI17ME-WOF/master_mdh-800300010.m3u8",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-WOF/master.m3u8",
               "WIDEVINE": null,
               "STREAMING_TYPE": true,
               "audioLanguages": [
@@ -93,25 +93,25 @@
               "Maximum_Video_Quality": "SDR",
               "Maximum_Resolution": "FULL_HD",
               "trailer_url": "",
-              "systemTime": 1770909022382,
-              "DOCTOR_STRANGE": 1770909030,
+              "systemTime": 1770911410486,
+              "DOCTOR_STRANGE": 1770911409,
               "additionalDataJson": {
-                "ad_stack": "DAI-IMA",
-                "audioCodec": "AAC",
                 "audio_quality": "STEREO",
                 "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "video_quality": "SDR",
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
                 "fps": 50,
-                "isDaiKey": true,
+                "isDaiKey": false,
                 "partners": [
                   "ALL"
                 ],
-                "resolution": "HD",
-                "videoCodec": "H264",
-                "video_quality": "SDR"
+                "ad_stack": "MT-SSB"
               },
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
-              "Date": "Thursday 12th of February 2026 08:40:30 PM"
+              "Date": "Thursday 12th of February 2026 09:20:09 PM"
             }
           }
         }
