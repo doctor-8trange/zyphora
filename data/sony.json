@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "13-02-2026 12:01",
+  "last_updated": "13-02-2026 12:07",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -90,7 +90,7 @@
             "JITENDRAUNATTI": {
               "Device_Type": "LITE",
               "message": "success",
-              "Playback_videoURL": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16-criclive/std_mdh-800300010.m3u8",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16-criclive/master.m3u8",
               "WIDEVINE": null,
               "STREAMING_TYPE": true,
               "audioLanguages": [
@@ -101,29 +101,30 @@
                   "audioLanguageLabel": "English"
                 }
               ],
-              "dai_asset_key": "https://dai.google.com/ssai/event/XypKP_cqTZ2iMTeYNYO1oA/master.m3u8",
+              "dai_asset_key": "https://dai.google.com/ssai/event/ZGqpKljKQFau0vp8fmia4A/master.m3u8",
               "Maximum_Video_Quality": "SDR",
               "Maximum_Resolution": "FULL_HD",
               "trailer_url": "",
-              "systemTime": 1770964213402,
-              "DOCTOR_STRANGE": 1770964221,
+              "systemTime": 1770964626923,
+              "DOCTOR_STRANGE": 1770964625,
               "additionalDataJson": {
-                "ad_stack": "DAI-IMA",
-                "audioCodec": "AAC",
-                "audio_quality": "STEREO",
                 "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
                 "fps": 25,
-                "isDaiKey": true,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
                 "partners": [
                   "ALL"
                 ],
-                "resolution": "HD",
-                "videoCodec": "H264",
-                "video_quality": "SDR"
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
               },
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
-              "Date": "Friday 13th of February 2026 12:00:21 PM"
+              "Date": "Friday 13th of February 2026 12:07:05 PM",
+              "extra_data": null
             }
           }
         },
@@ -134,7 +135,7 @@
             "JITENDRAUNATTI": {
               "Device_Type": "LITE",
               "message": "success",
-              "Playback_videoURL": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19-criclive/std_mdh-800300010.m3u8",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19-criclive/master.m3u8",
               "WIDEVINE": null,
               "STREAMING_TYPE": true,
               "audioLanguages": [
@@ -145,29 +146,30 @@
                   "audioLanguageLabel": "English"
                 }
               ],
-              "dai_asset_key": "https://dai.google.com/ssai/event/bdRpTNSURR6_I76sWJXssA/master.m3u8",
+              "dai_asset_key": "https://dai.google.com/ssai/event/HO3Ytbq9QKmX1Fj7BoBH4A/master.m3u8",
               "Maximum_Video_Quality": "SDR",
               "Maximum_Resolution": "FULL_HD",
               "trailer_url": "",
-              "systemTime": 1770964233881,
-              "DOCTOR_STRANGE": 1770964242,
+              "systemTime": 1770964627541,
+              "DOCTOR_STRANGE": 1770964625,
               "additionalDataJson": {
-                "ad_stack": "DAI-IMA",
-                "audioCodec": "AAC",
-                "audio_quality": "STEREO",
                 "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
                 "fps": 25,
-                "isDaiKey": true,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
                 "partners": [
                   "ALL"
                 ],
-                "resolution": "HD",
-                "videoCodec": "H264",
-                "video_quality": "SDR"
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
               },
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
-              "Date": "Friday 13th of February 2026 12:00:42 PM"
+              "Date": "Friday 13th of February 2026 12:07:05 PM",
+              "extra_data": null
             }
           }
         },
@@ -193,8 +195,8 @@
               "Maximum_Video_Quality": "SDR",
               "Maximum_Resolution": "FULL_HD",
               "trailer_url": "",
-              "systemTime": 1770964252529,
-              "DOCTOR_STRANGE": 1770964252,
+              "systemTime": 1770964627974,
+              "DOCTOR_STRANGE": 1770964626,
               "additionalDataJson": {
                 "enc_format": "HLS",
                 "resolution": "FULL_HD",
@@ -211,7 +213,8 @@
               },
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
-              "Date": "Friday 13th of February 2026 12:00:52 PM"
+              "Date": "Friday 13th of February 2026 12:07:06 PM",
+              "extra_data": null
             }
           }
         },
@@ -237,8 +240,8 @@
               "Maximum_Video_Quality": "SDR",
               "Maximum_Resolution": "FULL_HD",
               "trailer_url": "",
-              "systemTime": 1770964255269,
-              "DOCTOR_STRANGE": 1770964254,
+              "systemTime": 1770964628578,
+              "DOCTOR_STRANGE": 1770964626,
               "additionalDataJson": {
                 "enc_format": "HLS",
                 "resolution": "FULL_HD",
@@ -255,7 +258,8 @@
               },
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
-              "Date": "Friday 13th of February 2026 12:00:54 PM"
+              "Date": "Friday 13th of February 2026 12:07:06 PM",
+              "extra_data": null
             }
           }
         }
