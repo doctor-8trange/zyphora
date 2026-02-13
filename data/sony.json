@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "13-02-2026 11:40",
+  "last_updated": "13-02-2026 12:01",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -16,66 +16,253 @@
     "SERVER_STATUS": "NORMAL",
     "USAGE_GUIDE": []
   },
-  "data": [],
-  "upcoming": [
+  "data": [
     {
-      "contentId": 1090503636,
+      "contentId": 1090503618,
       "video_info": {
-        "title": "Upcoming - India A vs UAE - ACC Women’s Rising Stars 2026 ",
-        "shortDescription": "ACC Women’s Rising Stars 2026 showcases the future of Asian women’s cricket. Catch live matches, electrifying performances, and inspiring moments as the next generation of rising talents battle for glory, only on Sony LIV.",
-        "longDescription": "ACC Women’s Rising Stars 2026 showcases the future of Asian women’s cricket. Catch live matches, electrifying performances, and inspiring moments as the next generation of rising talents battle for glory, only on Sony LIV.",
+        "title": "ACC Women’s Rising Stars 2026",
+        "shortDescription": "India A and the UAE meet in the second fixture of the ACC Women’s Rising Stars 2026, bringing together a polished Indian A unit eager to assert early dominance and a determined UAE side looking to seize their opportunity on the big stage. With India A’s depth and the UAE’s growing self‑belief, expect a competitive early‑tournament matchup. Tune in to catch all the action from ACC Women’s Rising Stars 2026, only on Sony LIV.",
+        "longDescription": "India A and the UAE meet in the second fixture of the ACC Women’s Rising Stars 2026, bringing together a polished Indian A unit eager to assert early dominance and a determined UAE side looking to seize their opportunity on the big stage. With India A’s depth and the UAE’s growing self‑belief, expect a competitive early‑tournament matchup. Tune in to catch all the action from ACC Women’s Rising Stars 2026, only on Sony LIV.",
         "genres": [
           "Cricket"
         ],
-        "episodeTitle": ""
+        "episodeTitle": "India A Women vs UAE Women - 13 Feb 2026"
       },
       "stream_info": {
         "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
+        "dai_asset_key": "https://dai.google.com/ssai/event/ZGqpKljKQFau0vp8fmia4A/master.m3u8",
         "broadcast_channel": "Sony Sports Ten 5",
         "audio_language_list": [
           {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          },
+          {
             "lang_code": "HIN",
             "lang_label": "Hindi"
+          },
+          {
+            "lang_code": "TAM",
+            "lang_label": "Tamil"
+          },
+          {
+            "lang_code": "TEL",
+            "lang_label": "Telugu"
           }
         ],
-        "emfAttributes__audio_languages": "HIN",
+        "emfAttributes__audio_languages": "TAM,HIN,ENG,TEL",
         "platformVariants": {
           "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
           "audioLanguages": [
             {
               "audioId": 1,
-              "audioLanguageName": "HIN",
+              "audioLanguageName": "ENG",
               "isPreferred": true,
-              "audioLanguageLabel": "Hindi",
-              "type": "main"
+              "audioLanguageLabel": "English"
             }
           ],
           "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/7a3fd74e12654d638688c23963a8485a/1770818451/baseline-std-v4/1090503636_11022026_hin_baseline-800300010.mpd",
-          "hasTrailer": true
+          "videoUrl": "NA"
         }
       },
       "air_dates": {
-        "contractStartDate": "11 Feb 2026, 10:00 AM",
-        "contractEndDate": "13 Feb 2026, 12:00 PM",
-        "originalAirDate": null
+        "contractStartDate": "13 Feb 2026, 11:50 AM",
+        "contractEndDate": "13 Feb 2026, 08:20 PM",
+        "originalAirDate": "13 Feb 2026, 12:20 PM"
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014988/1770650618212594_acc_INDvsUAE_today_9feb_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014992/1770656753585760_acc_INDvsUAE_9feb_today_landscape_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015092/1770898120884306_AsiaCup_RisingStar_Womens2026_ind_a_vs_uae_11feb_clean_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015092/1770898643786306_AsiaCup_RisingStar_Womens2026_ind_a_vs_uae_11feb_clean_Landscape_thumb.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015053/1770816527622874_AsiaCupRisingStarWomens2026_MATCH_masthead_mobile_v2_984x1182.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015053/1770816527447874_AsiaCupRisingStarWomens2026_MATCH_Masthead_logo_INDA_vs_UAE_TODAY.png",
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015108/1770890232000391_AsiaCupRisingStarWomens2026_MATCH_masthead_mobile_v2_984x1182_INDA_VS_UAE1.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015108/1770890232000391_AsiaCupRisingStarWomens2026_MATCH_Masthead_logo_INDA_VS_UAE_LIVE1.png",
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014992/1770656753585760_acc_INDvsUAE_9feb_today_landscape_thumb.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015092/1770898643786306_AsiaCup_RisingStar_Womens2026_ind_a_vs_uae_11feb_clean_Landscape_thumb.jpg"
       },
-      "MULTIPLE_AUDIO_LINKS": []
-    },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16-criclive/std_mdh-800300010.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/XypKP_cqTZ2iMTeYNYO1oA/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1770964213402,
+              "DOCTOR_STRANGE": 1770964221,
+              "additionalDataJson": {
+                "ad_stack": "DAI-IMA",
+                "audioCodec": "AAC",
+                "audio_quality": "STEREO",
+                "enc_format": "HLS",
+                "fps": 25,
+                "isDaiKey": true,
+                "partners": [
+                  "ALL"
+                ],
+                "resolution": "HD",
+                "videoCodec": "H264",
+                "video_quality": "SDR"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Friday 13th of February 2026 12:00:21 PM"
+            }
+          }
+        },
+        {
+          "LANGUAGE": "Hindi",
+          "LANG_CODE": "HIN",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19-criclive/std_mdh-800300010.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/bdRpTNSURR6_I76sWJXssA/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1770964233881,
+              "DOCTOR_STRANGE": 1770964242,
+              "additionalDataJson": {
+                "ad_stack": "DAI-IMA",
+                "audioCodec": "AAC",
+                "audio_quality": "STEREO",
+                "enc_format": "HLS",
+                "fps": 25,
+                "isDaiKey": true,
+                "partners": [
+                  "ALL"
+                ],
+                "resolution": "HD",
+                "videoCodec": "H264",
+                "video_quality": "SDR"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Friday 13th of February 2026 12:00:42 PM"
+            }
+          }
+        },
+        {
+          "LANGUAGE": "Tamil",
+          "LANG_CODE": "TAM",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2037140/DAI20-criclive/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/x1UGIh46R2y6NXA09SUPQw/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1770964252529,
+              "DOCTOR_STRANGE": 1770964252,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Friday 13th of February 2026 12:00:52 PM"
+            }
+          }
+        },
+        {
+          "LANGUAGE": "Telugu",
+          "LANG_CODE": "TEL",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21-criclive/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/-ffKtz7ISVOrU0poHOs2wg/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1770964255269,
+              "DOCTOR_STRANGE": 1770964254,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Friday 13th of February 2026 12:00:54 PM"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "upcoming": [
     {
       "contentId": 1090503537,
       "video_info": {
@@ -141,7 +328,7 @@
     {
       "contentId": 1090503676,
       "video_info": {
-        "title": "Upcoming - Emirates FA Cup ",
+        "title": "Upcoming - Emirates FA Cup 2025-26",
         "shortDescription": "Tune in to catch all the action from the Emirates FA Cup, exclusively on Sony LIV.",
         "longDescription": "Tune in to catch all the action from the Emirates FA Cup, exclusively on Sony LIV.",
         "genres": [
@@ -188,7 +375,7 @@
         "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015082/1770891586835766_FA_CUP_PROMO_COMBO_Landscape.jpg",
         "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015082/1770891586835766_FA_CUP_PROMO_COMBO_Landscape.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015016/1770733633742489_facup_schedule_rev_masthead_mobile_v2.jpg",
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015119/1770963375464305_Facup_schedule_13feb_masthead_mobile_v2.jpg",
         "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014999/1770658716807294_FAcup26_promo_9feb_masthead_logo.png",
         "circular_image": null,
         "image_600x900_clean": null,
