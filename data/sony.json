@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "14-02-2026 16:40",
+  "last_updated": "14-02-2026 17:20",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -16,7 +16,109 @@
     "SERVER_STATUS": "NORMAL",
     "USAGE_GUIDE": []
   },
-  "data": [],
+  "data": [
+    {
+      "contentId": 1090503706,
+      "video_info": {
+        "title": "The Emirates FA Cup 2025-26",
+        "shortDescription": "Burton Albion face West Ham United in the FA Cup at the Pirelli Stadium. The Hammers enter as favorites, but Burton will be eager to spring a surprise in this knockout clash. A passionate home crowd could play a crucial role in lifting Albion’s performance. Catch all action from the Emirates FA Cup 2025-26, LIVE on Sony LIV. ",
+        "longDescription": "Burton Albion face West Ham United in the FA Cup at the Pirelli Stadium. The Hammers enter as favorites, but Burton will be eager to spring a surprise in this knockout clash. A passionate home crowd could play a crucial role in lifting Albion’s performance. Catch all action from the Emirates FA Cup 2025-26, LIVE on Sony LIV. ",
+        "genres": [
+          "Football"
+        ],
+        "episodeTitle": "Burton Albion vs West Ham United - Round 4 - 14 Feb 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/JIwqLAVqRiOJQFp6IlZSKw/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 2",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "14 Feb 2026, 05:15 PM",
+        "contractEndDate": "14 Feb 2026, 10:15 PM",
+        "originalAirDate": "14 Feb 2026, 05:45 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014851/1769601924732891_FA_26_RD4_Burton-Albion-vs-West-Ham-United_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014851/1769601948560891_FA_26_RD4_Burton-Albion-vs-West-Ham-United_Landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": null,
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009146/1758606495748941_UEL25_26_GENERIC_Masthead_logo_LIVE1.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014851/1769601948560891_FA_26_RD4_Burton-Albion-vs-West-Ham-United_Landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/XpIbI0pTQX-9mvR458k9aw/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1771069829200,
+              "DOCTOR_STRANGE": 1771069828,
+              "additionalDataJson": {
+                "ad_stack": "DAI-IMA",
+                "audioCodec": "AAC",
+                "audio_quality": "STEREO",
+                "enc_format": "HLS",
+                "fps": 25,
+                "isDaiKey": true,
+                "partners": [
+                  "ALL"
+                ],
+                "resolution": "HD",
+                "videoCodec": "H264",
+                "video_quality": "SDR"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Saturday 14th of February 2026 05:20:28 PM",
+              "extra_data": null
+            }
+          }
+        }
+      ]
+    }
+  ],
   "upcoming": [
     {
       "contentId": 1090503828,
@@ -366,7 +468,7 @@
         "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015058/1770820209552565_FA_CUP_Liverpool-vs-Brighton_Tonight_portrait_thumb.jpg",
         "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015177/1771048795593179_FA_CUP_Liverpool-vs-Brighton_rev_Tonight_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015038/1770785998000601_FACUP_2026_GOB_masthead_mobile_v2_984x1182_Liverpool_vs_Brighton.jpg",
         "masthead_logo": null,
         "circular_image": null,
         "image_600x900_clean": null,
@@ -424,7 +526,7 @@
         "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015058/1770815361961565_FA_CUP_Arsenal-vs-Wigan-Athletic_DDT_portrait_thumb.jpg",
         "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015058/1770818501792565_FA_CUP_Arsenal-vs-Wigan-Athletic_DDT_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015038/1770785998000601_FACUP_2026_GOB_masthead_mobile_v2_984x1182_Arsenal_vs_Wigan_Athletic.jpg",
         "masthead_logo": null,
         "circular_image": null,
         "image_600x900_clean": null,
