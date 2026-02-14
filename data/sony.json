@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "14-02-2026 22:20",
+  "last_updated": "14-02-2026 22:40",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -18,27 +18,39 @@
   },
   "data": [
     {
-      "contentId": 1090503712,
+      "contentId": 1090503835,
       "video_info": {
         "title": "The Emirates FA Cup 2025-26",
-        "shortDescription": "Manchester City take on Salford City in the FA Cup at the Etihad Stadium. City are overwhelming favorites, but Salford arrive with momentum after a string of wins. Fans can expect a thriller as the underdogs aim to challenge the reigning giants. Catch all action from the Emirates FA Cup 2025-26, LIVE on Sony LIV. ",
-        "longDescription": "Manchester City take on Salford City in the FA Cup at the Etihad Stadium. City are overwhelming favorites, but Salford arrive with momentum after a string of wins. Fans can expect a thriller as the underdogs aim to challenge the reigning giants. Catch all action from the Emirates FA Cup 2025-26, LIVE on Sony LIV. ",
+        "shortDescription": "Aston Villa and Newcastle United meet at Villa Park in a high-stakes FA Cup clash. Villa’s strong form makes them favorites, but Newcastle will be determined to spring a surprise. With both sides eager to advance, fans can expect an intense and fiercely competitive encounter. Catch all action from the Emirates FA Cup 2025-26, LIVE on Sony LIV. ",
+        "longDescription": "Aston Villa and Newcastle United meet at Villa Park in a high-stakes FA Cup clash. Villa’s strong form makes them favorites, but Newcastle will be determined to spring a surprise. With both sides eager to advance, fans can expect an intense and fiercely competitive encounter. Catch all action from the Emirates FA Cup 2025-26, LIVE on Sony LIV. ",
         "genres": [
           "Football"
         ],
-        "episodeTitle": "Manchester City vs Salford City - Round 4 - 14 Feb 2026"
+        "episodeTitle": "Aston Villa vs Newcastle United - Round 4 - 14 Feb 2026"
       },
       "stream_info": {
         "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": "https://dai.google.com/ssai/event/zpPlJ-hSTquG9p9LyW7JRg/master.m3u8",
+        "dai_asset_key": "https://dai.google.com/ssai/event/crsp3JRrRlSvHEUFEn4FPA/master.m3u8",
         "broadcast_channel": "Sony Sports Ten 2",
         "audio_language_list": [
           {
             "lang_code": "ENG",
             "lang_label": "English"
+          },
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          },
+          {
+            "lang_code": "TAM",
+            "lang_label": "Tamil"
+          },
+          {
+            "lang_code": "TEL",
+            "lang_label": "Telugu"
           }
         ],
-        "emfAttributes__audio_languages": "ENG",
+        "emfAttributes__audio_languages": "HIN,TEL,TAM,ENG",
         "platformVariants": {
           "assetType": "MASTER",
           "assetName": "VOD_FULL_HD",
@@ -56,19 +68,19 @@
         }
       },
       "air_dates": {
-        "contractStartDate": "14 Feb 2026, 07:50 PM",
-        "contractEndDate": "15 Feb 2026, 12:50 AM",
-        "originalAirDate": "14 Feb 2026, 08:20 PM"
+        "contractStartDate": "14 Feb 2026, 10:35 PM",
+        "contractEndDate": "15 Feb 2026, 03:35 AM",
+        "originalAirDate": "14 Feb 2026, 11:05 PM"
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014867/1770201171709737_FA_26_RD4_Manchester-City-vs-Salford-City_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014867/1770201192021737_FA_26_RD4_Manchester-City-vs-Salford-City_Landscape_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014856/1770120946176332_FA_26_RD4_Aston-Villa-vs-Newcastle-United_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014856/1770120992845332_FA_26_RD4_Aston-Villa-vs-Newcastle-United_Landscape_thumb.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015038/1770785998000601_FACUP_2026_GOB_masthead_mobile_v2_984x1182_Manchester_City_vs_Salford-City.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015098/1770901304617774_FA_Cup_2026_GOB_Masthead_logo_Manchester_City_vs_Salford_City_Live.png",
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015038/1770785998000601_FACUP_2026_GOB_masthead_mobile_v2_984x1182_Aston-Villa_vs_New_Castle.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015098/1770901304702774_FA_Cup_2026_GOB_Masthead_logo_Aston_Villa_vs_New_Castle_Live.png",
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014867/1770201192021737_FA_26_RD4_Manchester-City-vs-Salford-City_Landscape_thumb.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014856/1770120992845332_FA_26_RD4_Aston-Villa-vs-Newcastle-United_Landscape_thumb.jpg"
       },
       "MULTIPLE_AUDIO_LINKS": [
         {
@@ -78,7 +90,7 @@
             "JITENDRAUNATTI": {
               "Device_Type": "LITE",
               "message": "success",
-              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/master.m3u8",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2037143/DAI23ME-V3/master.m3u8",
               "WIDEVINE": null,
               "STREAMING_TYPE": true,
               "audioLanguages": [
@@ -89,12 +101,12 @@
                   "audioLanguageLabel": "English"
                 }
               ],
-              "dai_asset_key": "https://dai.google.com/ssai/event/zpPlJ-hSTquG9p9LyW7JRg/master.m3u8",
+              "dai_asset_key": "https://dai.google.com/ssai/event/crsp3JRrRlSvHEUFEn4FPA/master.m3u8",
               "Maximum_Video_Quality": "SDR",
               "Maximum_Resolution": "FULL_HD",
               "trailer_url": "",
-              "systemTime": 1771079412258,
-              "DOCTOR_STRANGE": 1771079411,
+              "systemTime": 1771089014289,
+              "DOCTOR_STRANGE": 1771089013,
               "additionalDataJson": {
                 "enc_format": "HLS",
                 "resolution": "FULL_HD",
@@ -111,7 +123,142 @@
               },
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
-              "Date": "Saturday 14th of February 2026 08:00:11 PM",
+              "Date": "Saturday 14th of February 2026 10:40:13 PM",
+              "extra_data": null
+            }
+          }
+        },
+        {
+          "LANGUAGE": "Hindi",
+          "LANG_CODE": "HIN",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2105080/DAI24ME-V3/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/VuXzkRegSnKkVb_jsY-OLg/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1771089014985,
+              "DOCTOR_STRANGE": 1771089014,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Saturday 14th of February 2026 10:40:14 PM",
+              "extra_data": null
+            }
+          }
+        },
+        {
+          "LANGUAGE": "Tamil",
+          "LANG_CODE": "TAM",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2094587/DAI03ME-V3/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/LA0EX6hcTYS2k4VVDy3k2A/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1771089015632,
+              "DOCTOR_STRANGE": 1771089015,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Saturday 14th of February 2026 10:40:15 PM",
+              "extra_data": null
+            }
+          }
+        },
+        {
+          "LANGUAGE": "Telugu",
+          "LANG_CODE": "TEL",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2005444/DAI07ME-V3/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/FpkZw68FQKSEBeSHfi0nYA/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1771089016169,
+              "DOCTOR_STRANGE": 1771089015,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Saturday 14th of February 2026 10:40:15 PM",
               "extra_data": null
             }
           }
@@ -213,208 +360,6 @@
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
               "Date": "Saturday 14th of February 2026 08:00:17 PM",
-              "extra_data": null
-            }
-          }
-        }
-      ]
-    },
-    {
-      "contentId": 1090503715,
-      "video_info": {
-        "title": "The Emirates FA Cup 2025-26",
-        "shortDescription": "Norwich City meet West Bromwich Albion in the FA Cup at Carrow Road. Norwich enters with a slight edge in win probability, while West Brom will look to build on their recent victory. Fans can expect a competitive battle as both sides aim to progress in the knockout stages. Catch all action from the Emirates FA Cup 2025-26, LIVE on Sony LIV. ",
-        "longDescription": "Norwich City meet West Bromwich Albion in the FA Cup at Carrow Road. Norwich enters with a slight edge in win probability, while West Brom will look to build on their recent victory. Fans can expect a competitive battle as both sides aim to progress in the knockout stages. Catch all action from the Emirates FA Cup 2025-26, LIVE on Sony LIV. ",
-        "genres": [
-          "Football"
-        ],
-        "episodeTitle": "Norwich City vs West Bromwich Albion - Round 4 - 14 Feb 2026"
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": "https://dai.google.com/ssai/event/TapoU-00Q-qQrlU6HtE2Dw/master.m3u8",
-        "broadcast_channel": "Sony Sports Ten 2",
-        "audio_language_list": [
-          {
-            "lang_code": "ENG",
-            "lang_label": "English"
-          }
-        ],
-        "emfAttributes__audio_languages": "ENG",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD",
-          "videoType": "FULL_HD",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "ENG",
-              "isPreferred": true,
-              "audioLanguageLabel": "English"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA"
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "14 Feb 2026, 07:50 PM",
-        "contractEndDate": "15 Feb 2026, 12:50 AM",
-        "originalAirDate": "14 Feb 2026, 08:20 PM"
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014856/1770118382731332_FA_26_RD4_Norwich-City-vs-West-Bromwich-Albion_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014856/1770118413468332_FA_26_RD4_Norwich-City-vs-West-Bromwich-Albion_Landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": null,
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009146/1758606495748941_UEL25_26_GENERIC_Masthead_logo_LIVE1.png",
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014856/1770118413468332_FA_26_RD4_Norwich-City-vs-West-Bromwich-Albion_Landscape_thumb.jpg"
-      },
-      "MULTIPLE_AUDIO_LINKS": [
-        {
-          "LANGUAGE": "English",
-          "LANG_CODE": "ENG",
-          "DATA": {
-            "JITENDRAUNATTI": {
-              "Device_Type": "LITE",
-              "message": "success",
-              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/master.m3u8",
-              "WIDEVINE": null,
-              "STREAMING_TYPE": true,
-              "audioLanguages": [
-                {
-                  "audioId": 1,
-                  "audioLanguageName": "ENG",
-                  "isPreferred": true,
-                  "audioLanguageLabel": "English"
-                }
-              ],
-              "dai_asset_key": "https://dai.google.com/ssai/event/TapoU-00Q-qQrlU6HtE2Dw/master.m3u8",
-              "Maximum_Video_Quality": "SDR",
-              "Maximum_Resolution": "FULL_HD",
-              "trailer_url": "",
-              "systemTime": 1771079416988,
-              "DOCTOR_STRANGE": 1771079416,
-              "additionalDataJson": {
-                "enc_format": "HLS",
-                "resolution": "FULL_HD",
-                "audio_quality": "STEREO",
-                "video_quality": "SDR",
-                "fps": 25,
-                "videoCodec": "H264",
-                "audioCodec": "AAC",
-                "partners": [
-                  "ALL"
-                ],
-                "isDaiKey": false,
-                "ad_stack": "MT-SSB"
-              },
-              "Status_code": 200,
-              "content_type": "application/json; charset=utf-8",
-              "Date": "Saturday 14th of February 2026 08:00:16 PM",
-              "extra_data": null
-            }
-          }
-        }
-      ]
-    },
-    {
-      "contentId": 1090503711,
-      "video_info": {
-        "title": "The Emirates FA Cup 2025-26",
-        "shortDescription": "Burnley host Mansfield in the FA Cup at Turf Moor, with Burnley carrying the edge in win probability. Mansfield, however, arrive in strong form after a string of victories. Fans can expect a great contest that showcases determination, skill, and the magic of knockout football. Catch all action from the Emirates FA Cup 2025-26, LIVE on Sony LIV. ",
-        "longDescription": "Burnley host Mansfield in the FA Cup at Turf Moor, with Burnley carrying the edge in win probability. Mansfield, however, arrive in strong form after a string of victories. Fans can expect a great contest that showcases determination, skill, and the magic of knockout football. Catch all action from the Emirates FA Cup 2025-26, LIVE on Sony LIV. ",
-        "genres": [
-          "Football"
-        ],
-        "episodeTitle": "Burnley vs Mansfield - Round 4 - 14 Feb 2026"
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": "https://dai.google.com/ssai/event/inz4lo3RShWuushZHiDilA/master.m3u8",
-        "broadcast_channel": "Sony Sports Ten 2",
-        "audio_language_list": [
-          {
-            "lang_code": "ENG",
-            "lang_label": "English"
-          }
-        ],
-        "emfAttributes__audio_languages": "ENG",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD",
-          "videoType": "FULL_HD",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "ENG",
-              "isPreferred": true,
-              "audioLanguageLabel": "English"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA"
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "14 Feb 2026, 07:50 PM",
-        "contractEndDate": "15 Feb 2026, 12:50 AM",
-        "originalAirDate": "14 Feb 2026, 08:20 PM"
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015105/1770908677911609_facup26_RD4_Burnley_vs_Mansfield_12feb_live_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015105/1770908747913609_facup26_RD4_Burnley_vs_Mansfield_12feb_Landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": null,
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009146/1758606495748941_UEL25_26_GENERIC_Masthead_logo_LIVE1.png",
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015105/1770908747913609_facup26_RD4_Burnley_vs_Mansfield_12feb_Landscape_thumb.jpg"
-      },
-      "MULTIPLE_AUDIO_LINKS": [
-        {
-          "LANGUAGE": "English",
-          "LANG_CODE": "ENG",
-          "DATA": {
-            "JITENDRAUNATTI": {
-              "Device_Type": "LITE",
-              "message": "success",
-              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2018458/DAI10ME-V3/master.m3u8",
-              "WIDEVINE": null,
-              "STREAMING_TYPE": true,
-              "audioLanguages": [
-                {
-                  "audioId": 1,
-                  "audioLanguageName": "ENG",
-                  "isPreferred": true,
-                  "audioLanguageLabel": "English"
-                }
-              ],
-              "dai_asset_key": "https://dai.google.com/ssai/event/inz4lo3RShWuushZHiDilA/master.m3u8",
-              "Maximum_Video_Quality": "SDR",
-              "Maximum_Resolution": "FULL_HD",
-              "trailer_url": "",
-              "systemTime": 1771079419780,
-              "DOCTOR_STRANGE": 1771079419,
-              "additionalDataJson": {
-                "enc_format": "HLS",
-                "resolution": "FULL_HD",
-                "audio_quality": "STEREO",
-                "video_quality": "SDR",
-                "fps": 25,
-                "videoCodec": "H264",
-                "audioCodec": "AAC",
-                "partners": [
-                  "ALL"
-                ],
-                "isDaiKey": false,
-                "ad_stack": "MT-SSB"
-              },
-              "Status_code": 200,
-              "content_type": "application/json; charset=utf-8",
-              "Date": "Saturday 14th of February 2026 08:00:19 PM",
               "extra_data": null
             }
           }
@@ -858,64 +803,6 @@
         "circular_image": null,
         "image_600x900_clean": null,
         "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015058/1770818501792565_FA_CUP_Arsenal-vs-Wigan-Athletic_DDT_landscape_thumb.jpg"
-      },
-      "MULTIPLE_AUDIO_LINKS": []
-    },
-    {
-      "contentId": 1090503569,
-      "video_info": {
-        "title": "Upcoming - Emirates FA Cup - Aston Villa vs Newcastle United ",
-        "shortDescription": "Tune in to catch all the action from the Emirates FA Cup, exclusively on Sony LIV.",
-        "longDescription": "Tune in to catch all the action from the Emirates FA Cup, exclusively on Sony LIV.",
-        "genres": [
-          "Football"
-        ],
-        "episodeTitle": ""
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "Sony Sports Ten 5",
-        "audio_language_list": [
-          {
-            "lang_code": "ENG",
-            "lang_label": "English"
-          }
-        ],
-        "emfAttributes__audio_languages": "ENG",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "ENG",
-              "isPreferred": true,
-              "audioLanguageLabel": "English",
-              "type": "main"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/2315d18391e94dc89e25eeee2c43d987/1770723745/baseline-std-v4/1090503569_10022026_REV2_eng_baseline-800300010.mpd",
-          "hasTrailer": true
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "10 Feb 2026, 10:00 AM",
-        "contractEndDate": "14 Feb 2026, 10:35 PM",
-        "originalAirDate": null
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015005/1770723601355701_FA_CUP_Aston_villa_vs_Newcastle_landscape.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015005/1770723601355701_FA_CUP_Aston_villa_vs_Newcastle_landscape.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": null,
-        "masthead_logo": null,
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015005/1770723601355701_FA_CUP_Aston_villa_vs_Newcastle_landscape.jpg"
       },
       "MULTIPLE_AUDIO_LINKS": []
     },
