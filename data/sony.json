@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "15-02-2026 11:40",
+  "last_updated": "15-02-2026 12:00",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -16,22 +16,21 @@
     "SERVER_STATUS": "NORMAL",
     "USAGE_GUIDE": []
   },
-  "data": [],
-  "upcoming": [
+  "data": [
     {
-      "contentId": 1090503828,
+      "contentId": 1090503968,
       "video_info": {
-        "title": "Upcoming - India A Women vs Pakistan A Women - ACC Women’s Rising Stars 2026",
-        "shortDescription": "ACC Women’s Rising Stars 2026 showcases the future of Asian women’s cricket. Catch live matches, electrifying performances, and inspiring moments as the next generation of rising talents battle for glory, only on Sony LIV.",
-        "longDescription": "ACC Women’s Rising Stars 2026 showcases the future of Asian women’s cricket. Catch live matches, electrifying performances, and inspiring moments as the next generation of rising talents battle for glory, only on Sony LIV.",
+        "title": "ACC Women’s Rising Stars 2026",
+        "shortDescription": "India A Women take on Pakistan A Women in a high‑voltage Group Stage clash at the ACC Women’s Rising Stars 2026. Both teams enter the contest with talented emerging players eager to make their mark at the international level. Tune in to catch all the action from ACC Women’s Rising Stars 2026, only on Sony LIV.",
+        "longDescription": "India A Women take on Pakistan A Women in a high‑voltage Group Stage clash at the ACC Women’s Rising Stars 2026. Both teams enter the contest with talented emerging players eager to make their mark at the international level. Tune in to catch all the action from ACC Women’s Rising Stars 2026, only on Sony LIV.",
         "genres": [
           "Cricket"
         ],
-        "episodeTitle": ""
+        "episodeTitle": "India A Women vs Pakistan A Women - 15 Feb 2026"
       },
       "stream_info": {
         "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
+        "dai_asset_key": "https://dai.google.com/ssai/event/Jh7uKPjJT5ew26R51u2hLg/master.m3u8",
         "broadcast_channel": "Sony Sports Ten 5",
         "audio_language_list": [
           {
@@ -41,45 +40,233 @@
           {
             "lang_code": "HIN",
             "lang_label": "Hindi"
+          },
+          {
+            "lang_code": "TAM",
+            "lang_label": "Tamil"
+          },
+          {
+            "lang_code": "TEL",
+            "lang_label": "Telugu"
           }
         ],
-        "emfAttributes__audio_languages": "ENG,HIN",
+        "emfAttributes__audio_languages": "TEL,HIN,ENG,TAM",
         "platformVariants": {
           "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
           "audioLanguages": [
             {
               "audioId": 1,
-              "audioLanguageName": "HIN",
+              "audioLanguageName": "ENG",
               "isPreferred": true,
-              "audioLanguageLabel": "Hindi",
-              "type": "main"
+              "audioLanguageLabel": "English"
             }
           ],
           "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/536f2955f26d40f9bd9cb94493ea57da/1770996078/baseline-std-v4/1090503828_13022026_hin_baseline-800300010.mpd",
-          "hasTrailer": true
+          "videoUrl": "NA"
         }
       },
       "air_dates": {
-        "contractStartDate": "13 Feb 2026, 10:00 AM",
-        "contractEndDate": "15 Feb 2026, 11:50 AM",
-        "originalAirDate": null
+        "contractStartDate": "15 Feb 2026, 11:50 AM",
+        "contractEndDate": "15 Feb 2026, 08:20 PM",
+        "originalAirDate": "15 Feb 2026, 12:20 PM"
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015117/1770960233546901_ACC_INDvsPAK_womens_today_promo_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015117/1770961366282901_ACC_INDvsPAK_womens_today_promo_landscape_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015155/1771001057686565_AsiaCup_RisingStar_Womens2026_india_a_vs_PAK_A_13feb_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015155/1771001454130565_AsiaCup_RisingStar_Womens2026_india_a_vs_PAK_A_13feb_clean_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
         "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015126/1770974754307475_AsiaCupRisingStarWomens2026_MATCH_masthead_mobile_v2_984x1182_INDA_VS_PAKA.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015126/1770974754337475_AsiaCupRisingStarWomens2026_MATCH_Masthead_logo_INDA_vs_PAKA_TODAY.png",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015126/1770974754313475_AsiaCupRisingStarWomens2026_MATCH_Masthead_logo_INDA_vs_PAKA_LIVE.png",
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015117/1770961366282901_ACC_INDvsPAK_womens_today_promo_landscape_thumb.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015155/1771001454130565_AsiaCup_RisingStar_Womens2026_india_a_vs_PAK_A_13feb_clean_landscape_thumb.jpg"
       },
-      "MULTIPLE_AUDIO_LINKS": []
-    },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16-criclive/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/Jh7uKPjJT5ew26R51u2hLg/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1771137011339,
+              "DOCTOR_STRANGE": 1771137011,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Sunday 15th of February 2026 12:00:11 PM",
+              "extra_data": null
+            }
+          }
+        },
+        {
+          "LANGUAGE": "Hindi",
+          "LANG_CODE": "HIN",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19-criclive/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/jOHc0xjyQUWiTpMoswilcg/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1771137012310,
+              "DOCTOR_STRANGE": 1771137012,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Sunday 15th of February 2026 12:00:12 PM",
+              "extra_data": null
+            }
+          }
+        },
+        {
+          "LANGUAGE": "Tamil",
+          "LANG_CODE": "TAM",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2037140/DAI20-criclive/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/xgwG9FIdS62cC4HmvMpUYg/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1771137013028,
+              "DOCTOR_STRANGE": 1771137013,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Sunday 15th of February 2026 12:00:13 PM",
+              "extra_data": null
+            }
+          }
+        },
+        {
+          "LANGUAGE": "Telugu",
+          "LANG_CODE": "TEL",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21-criclive/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/xJ0HJTOMQDqKjRoBoIFLkg/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1771137014328,
+              "DOCTOR_STRANGE": 1771137014,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Sunday 15th of February 2026 12:00:14 PM",
+              "extra_data": null
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "upcoming": [
     {
       "contentId": 1090503788,
       "video_info": {
