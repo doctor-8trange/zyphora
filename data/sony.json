@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "19-02-2026 00:42",
+  "last_updated": "19-02-2026 01:02",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -17,6 +17,355 @@
     "USAGE_GUIDE": []
   },
   "data": [
+    {
+      "contentId": 1090503963,
+      "video_info": {
+        "title": "UEFA Champions League 2025-26",
+        "shortDescription": "Bodø/Glimt welcome Inter to Aspmyra Stadium carrying strong momentum from impressive victories over Manchester City and Atlético Madrid. Inter, riding a six‑match winning streak, look to maintain their dominance despite the hosts’ reputation for unsettling major European sides. Catch all the action from UEFA Champions League 2025-26, LIVE & exclusively on Sony LIV.",
+        "longDescription": "Bodø/Glimt welcome Inter to Aspmyra Stadium carrying strong momentum from impressive victories over Manchester City and Atlético Madrid. Inter, riding a six‑match winning streak, look to maintain their dominance despite the hosts’ reputation for unsettling major European sides. Catch all the action from UEFA Champions League 2025-26, LIVE & exclusively on Sony LIV.",
+        "genres": [
+          "Football"
+        ],
+        "episodeTitle": "Bodo/Glimt vs Internazionale - Play-offs Leg 1 - 19 Feb 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/GKDPvCJESv2TvxogIRZNkQ/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 2",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          },
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          },
+          {
+            "lang_code": "TAM",
+            "lang_label": "Tamil"
+          },
+          {
+            "lang_code": "TEL",
+            "lang_label": "Telugu"
+          }
+        ],
+        "emfAttributes__audio_languages": "TEL,ENG,TAM,HIN",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "19 Feb 2026, 12:55 AM",
+        "contractEndDate": "19 Feb 2026, 06:55 AM",
+        "originalAirDate": "19 Feb 2026, 01:25 AM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015241/177118982434558_UCL26_Playoffs_Leg1_Bodo_Glimt_vs_Inter_16feb_eng_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015295/1771308663785111_UCL26_Playoffs_Leg1_Bodo_Glimt_vs_Inter_16feb_eng_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015276/1771244134844449_UCL25_26_Match_masthead_mobile_v2_984x1182_Bodo_Glimit_vs_Inter_SP1.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015276/1771244135027449_UCL25_26_Match_Masthead_logo_Bodo_Glimt_vs_Inter_LIVE.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015295/1771308663785111_UCL26_Playoffs_Leg1_Bodo_Glimt_vs_Inter_16feb_eng_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21ME-V3/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/GKDPvCJESv2TvxogIRZNkQ/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1771443161827,
+              "DOCTOR_STRANGE": 1771443161,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Thursday 19th of February 2026 01:02:41 AM",
+              "extra_data": null
+            }
+          }
+        },
+        {
+          "LANGUAGE": "Hindi",
+          "LANG_CODE": "HIN",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2094587/DAI03ME-V3/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/-O_xBocnQ-ufGun506JvAA/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1771443162304,
+              "DOCTOR_STRANGE": 1771443162,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Thursday 19th of February 2026 01:02:42 AM",
+              "extra_data": null
+            }
+          }
+        },
+        {
+          "LANGUAGE": "Tamil",
+          "LANG_CODE": "TAM",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-V3/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/9oYDt_BNSAGuLRwKC7wddQ/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1771443162869,
+              "DOCTOR_STRANGE": 1771443162,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Thursday 19th of February 2026 01:02:42 AM",
+              "extra_data": null
+            }
+          }
+        },
+        {
+          "LANGUAGE": "Telugu",
+          "LANG_CODE": "TEL",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2022317/DAI13ME-V3/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/Eu4uu53PS1i6RWZCvuh7ww/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1771443163416,
+              "DOCTOR_STRANGE": 1771443163,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Thursday 19th of February 2026 01:02:43 AM",
+              "extra_data": null
+            }
+          }
+        }
+      ]
+    },
+    {
+      "contentId": 1090503964,
+      "video_info": {
+        "title": "UEFA Champions League 2025-26",
+        "shortDescription": "Club Brugge hosts Atletico Madrid in the Champions League playoff first leg at Jan Breydel Stadium, riding high after a 3-0 win over Marseille. Club Brugge boast home momentum with five wins in six, aiming to exploit Atletico's shaky away form in Europe. Find out who comes on the top. Catch all the action from UEFA Champions League 2025-26, LIVE & exclusively on Sony LIV.",
+        "longDescription": "Club Brugge hosts Atletico Madrid in the Champions League playoff first leg at Jan Breydel Stadium, riding high after a 3-0 win over Marseille. Club Brugge boast home momentum with five wins in six, aiming to exploit Atletico's shaky away form in Europe. Find out who comes on the top. Catch all the action from UEFA Champions League 2025-26, LIVE & exclusively on Sony LIV.",
+        "genres": [
+          "Football"
+        ],
+        "episodeTitle": "Club Brugge vs Atletico Madrid - Play-offs Leg 1 - 19 Feb 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/u8rgGDjFSiik2rAYGQ-KzA/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 2",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "19 Feb 2026, 12:55 AM",
+        "contractEndDate": "19 Feb 2026, 06:55 AM",
+        "originalAirDate": "19 Feb 2026, 01:25 AM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015241/177119029610158_UCL26_Playoffs_Leg1_Club_Brugge_vs_Atletico_16feb_eng_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015295/1771308650608111_UCL26_Playoffs_Leg1_Club_Brugge_vs_Atletico_16feb_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015276/1771244134872449_UCL25_26_Match_masthead_mobile_v2_984x1182_Club_Brugge_vs_Atletico_Madrid_SP1.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015276/1771244135060449_UCL25_26_Match_Masthead_logo_Club_Brugge_vs_Atletico_Madrid_Live.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015295/1771308650608111_UCL26_Playoffs_Leg1_Club_Brugge_vs_Atletico_16feb_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2018457/DAI09ME-V3/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/u8rgGDjFSiik2rAYGQ-KzA/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1771443163907,
+              "DOCTOR_STRANGE": 1771443163,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Thursday 19th of February 2026 01:02:43 AM",
+              "extra_data": null
+            }
+          }
+        }
+      ]
+    },
     {
       "contentId": 1090504331,
       "video_info": {
@@ -352,23 +701,21 @@
           }
         }
       ]
-    }
-  ],
-  "upcoming": [
+    },
     {
-      "contentId": 1090503788,
+      "contentId": 1090503965,
       "video_info": {
-        "title": "Upcoming - Play-offs - UEFA Champions League 2025-26",
-        "shortDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
-        "longDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
+        "title": "UEFA Champions League 2025-26",
+        "shortDescription": "Olympiacos welcomes Bayer Leverkusen to Georgios Karaiskakis Stadium in a pivotal Champions League knockout clash. The Greek side drew 0-0 recently with Levadiakos and boasts two prior wins over Leverkusen. Leverkusen, riding a 4-0 Bundesliga romp over St. Pauli, faces a stern test against Olympiacos. Find out who comes on top. Catch all the action from UEFA Champions League 2025-26, LIVE & exclusively on Sony LIV.",
+        "longDescription": "Olympiacos welcomes Bayer Leverkusen to Georgios Karaiskakis Stadium in a pivotal Champions League knockout clash. The Greek side drew 0-0 recently with Levadiakos and boasts two prior wins over Leverkusen. Leverkusen, riding a 4-0 Bundesliga romp over St. Pauli, faces a stern test against Olympiacos. Find out who comes on top. Catch all the action from UEFA Champions League 2025-26, LIVE & exclusively on Sony LIV.",
         "genres": [
           "Football"
         ],
-        "episodeTitle": ""
+        "episodeTitle": "Olympiacos vs Leverkusen - Play-offs Leg 1 - 19 Feb 2026"
       },
       "stream_info": {
         "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
+        "dai_asset_key": "https://dai.google.com/ssai/event/jOHc0xjyQUWiTpMoswilcg/master.m3u8",
         "broadcast_channel": "Sony Sports Ten 2",
         "audio_language_list": [
           {
@@ -379,40 +726,85 @@
         "emfAttributes__audio_languages": "ENG",
         "platformVariants": {
           "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
           "audioLanguages": [
             {
               "audioId": 1,
               "audioLanguageName": "ENG",
               "isPreferred": true,
-              "audioLanguageLabel": "English",
-              "type": "main"
+              "audioLanguageLabel": "English"
             }
           ],
           "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/290b516f32a54898b05dfb86ea28e347/1771273230/baseline-std-v4/PROMO_UCL_PLAYOFF_40SEC_HOR_DATED_APP_REV_eng_baseline-800300010.mpd",
-          "hasTrailer": true
+          "videoUrl": "NA"
         }
       },
       "air_dates": {
-        "contractStartDate": "13 Feb 2026, 10:00 AM",
-        "contractEndDate": "19 Feb 2026, 01:00 AM",
-        "originalAirDate": null
+        "contractStartDate": "19 Feb 2026, 12:55 AM",
+        "contractEndDate": "19 Feb 2026, 06:55 AM",
+        "originalAirDate": "19 Feb 2026, 01:25 AM"
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015140/1770986101953271_UCL-promo_landscape.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015140/1770986101953271_UCL-promo_landscape.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015241/177119056562958_UCL26_Playoffs_Leg1_Olympiacos_vs_Leverkusen_16feb_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015295/1771308637114111_UCL26_Playoffs_Leg1_Olympiacos_vs_Leverkusen_16feb_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015332/1771341331738318_UCL26_combo_17feb26_tonight_masthead_mobile_v2.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015304/1771317312959480_UCL26_combo_17feb_masthead_logo_1.png",
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015294/1771309323432646_UCL25_26_Match_masthead_mobile_v2_984x1182_PlayOffLeg1_Olympiacos_vs_Leverkusen_SP1.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015276/1771244135095449_UCL25_26_Match_Masthead_logo_Olympiacos_vs_Bayer_Leverkusen_Live.png",
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015140/1770986101953271_UCL-promo_landscape.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015295/1771308637114111_UCL26_Playoffs_Leg1_Olympiacos_vs_Leverkusen_16feb_landscape_thumb.jpg"
       },
-      "MULTIPLE_AUDIO_LINKS": []
-    },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-V3/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/jOHc0xjyQUWiTpMoswilcg/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1771443165588,
+              "DOCTOR_STRANGE": 1771443165,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Thursday 19th of February 2026 01:02:45 AM",
+              "extra_data": null
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "upcoming": [
     {
       "contentId": 1090503537,
       "video_info": {
@@ -472,180 +864,6 @@
         "circular_image": null,
         "image_600x900_clean": null,
         "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015031/1770797310904647_AsiaCupRisingStarWomens2026_GOB_2_Landscape_Thumb.jpg"
-      },
-      "MULTIPLE_AUDIO_LINKS": []
-    },
-    {
-      "contentId": 1090503900,
-      "video_info": {
-        "title": "Upcoming - Bodo/Glimt vs Inter - UEFA Champions League 2025-26",
-        "shortDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
-        "longDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
-        "genres": [
-          "Football"
-        ],
-        "episodeTitle": ""
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "Sony Sports Ten 2",
-        "audio_language_list": [
-          {
-            "lang_code": "ENG",
-            "lang_label": "English"
-          }
-        ],
-        "emfAttributes__audio_languages": "ENG",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "ENG",
-              "isPreferred": true,
-              "audioLanguageLabel": "English",
-              "type": "main"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/1b1fd05ee4df4519ba8577a7d3f9d5b5/1771273268/baseline-std-v4/PROMO_UCL_BODO_GLIMT_VS_INTER_MILAN_40SEC_HOR_DATED_APP_REV_eng_baseline-800300010.mpd",
-          "hasTrailer": true
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "14 Feb 2026, 11:00 AM",
-        "contractEndDate": "19 Feb 2026, 01:00 AM",
-        "originalAirDate": null
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015352/1771390818478155_UCL26_bodo_Glimt_vs_Inter_18feb_tonight_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015352/1771391019887155_UCL26_bodo_Glimt_vs_Inter_18feb_tonight_landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015276/1771244134822449_UCL25_26_Match_masthead_mobile_v2_984x1182_Bodo_Glimit_vs_Inter_SP2.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015198/1771063912000390_UCL25_26_Match_Masthead_logo_Bodo_Glimt_vs_Inter_Dated.png",
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015352/1771391019887155_UCL26_bodo_Glimt_vs_Inter_18feb_tonight_landscape_thumb.jpg"
-      },
-      "MULTIPLE_AUDIO_LINKS": []
-    },
-    {
-      "contentId": 1090503901,
-      "video_info": {
-        "title": "Upcoming - Club Brugge vs Atletico - UEFA Champions League 2025-26",
-        "shortDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
-        "longDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
-        "genres": [
-          "Football"
-        ],
-        "episodeTitle": ""
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "Sony Sports Ten 2",
-        "audio_language_list": [
-          {
-            "lang_code": "ENG",
-            "lang_label": "English"
-          }
-        ],
-        "emfAttributes__audio_languages": "ENG",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "ENG",
-              "isPreferred": true,
-              "audioLanguageLabel": "English",
-              "type": "main"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/20b7fe06a72c465d8d62fd1502d2d729/1771273243/baseline-std-v4/PROMO_UCL_CLUB_BRUGGE_VS_ATELETICO_MADRD_40SEC_HOR_DATED_APP_REV_eng_baseline-800300010.mpd",
-          "hasTrailer": true
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "14 Feb 2026, 11:00 AM",
-        "contractEndDate": "19 Feb 2026, 01:00 AM",
-        "originalAirDate": null
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015360/1771394209023217_UCL26_playoff_leg1_Club_Brugge_vs_Atletico_7feb_tonight_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015288/1771305778200893_UCL26_playoff_leg1_Club_Brugge_vs_Atletico_12feb_tonight_landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015276/1771244134907449_UCL25_26_Match_masthead_mobile_v2_984x1182_Club_Brugge_vs_Atletico_Madrid_SP2.jpg",
-        "masthead_logo": null,
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015288/1771305778200893_UCL26_playoff_leg1_Club_Brugge_vs_Atletico_12feb_tonight_landscape_thumb.jpg"
-      },
-      "MULTIPLE_AUDIO_LINKS": []
-    },
-    {
-      "contentId": 1090503902,
-      "video_info": {
-        "title": "Upcoming - Olympiacos vs Leverkusen - UEFA Champions League 2025-26",
-        "shortDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
-        "longDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
-        "genres": [
-          "Football"
-        ],
-        "episodeTitle": ""
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "Sony Sports Ten 2",
-        "audio_language_list": [
-          {
-            "lang_code": "ENG",
-            "lang_label": "English"
-          }
-        ],
-        "emfAttributes__audio_languages": "ENG",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "ENG",
-              "isPreferred": true,
-              "audioLanguageLabel": "English",
-              "type": "main"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/cf17f9e942364d31a6698ea874d6bedc/1771273316/baseline-std-v4/PROMO_UCL_OLYMPIACOS_VS_LAVERKUSEN_40SEC_HOR_DATED_APP_REV_eng_baseline-800300010.mpd",
-          "hasTrailer": true
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "14 Feb 2026, 11:00 AM",
-        "contractEndDate": "19 Feb 2026, 01:00 AM",
-        "originalAirDate": null
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014951/1770481431887177_UCL26_playoff_leg1_Olympiacos_vs_Leverkusen_7feb_tonight_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015288/1771305560888893_UCL26_playoff_leg1_Olympiacos_vs_Leverkusen_12feb_tonight_landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014941/177046238289948_UCL25_26_Match_masthead_mobile_v2_984x1182_PlayOffLeg1_Olympiacos_vs_Leverkusen_SP.jpg",
-        "masthead_logo": null,
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015288/1771305560888893_UCL26_playoff_leg1_Olympiacos_vs_Leverkusen_12feb_tonight_landscape_thumb.jpg"
       },
       "MULTIPLE_AUDIO_LINKS": []
     },
