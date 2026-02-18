@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "18-02-2026 15:22",
+  "last_updated": "18-02-2026 15:42",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -209,6 +209,64 @@
   ],
   "upcoming": [
     {
+      "contentId": 1090503788,
+      "video_info": {
+        "title": "Upcoming - Play-offs - UEFA Champions League 2025-26",
+        "shortDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
+        "longDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
+        "genres": [
+          "Football"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "Sony Sports Ten 2",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/290b516f32a54898b05dfb86ea28e347/1771273230/baseline-std-v4/PROMO_UCL_PLAYOFF_40SEC_HOR_DATED_APP_REV_eng_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "13 Feb 2026, 10:00 AM",
+        "contractEndDate": "19 Feb 2026, 01:00 AM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015140/1770986101953271_UCL-promo_landscape.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015140/1770986101953271_UCL-promo_landscape.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015332/1771341331738318_UCL26_combo_17feb26_tonight_masthead_mobile_v2.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015304/1771317312959480_UCL26_combo_17feb_masthead_logo_1.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015140/1770986101953271_UCL-promo_landscape.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": []
+    },
+    {
       "contentId": 1090503537,
       "video_info": {
         "title": "Upcoming - ACC Women’s Rising Stars 2026",
@@ -271,9 +329,9 @@
       "MULTIPLE_AUDIO_LINKS": []
     },
     {
-      "contentId": 1090503788,
+      "contentId": 1090503900,
       "video_info": {
-        "title": "Upcoming - Play-offs - UEFA Champions League 2025-26",
+        "title": "Upcoming - Bodo/Glimt vs Inter - UEFA Champions League 2025-26",
         "shortDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
         "longDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
         "genres": [
@@ -307,65 +365,7 @@
           ],
           "subtitlesLanguages": [],
           "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/290b516f32a54898b05dfb86ea28e347/1771273230/baseline-std-v4/PROMO_UCL_PLAYOFF_40SEC_HOR_DATED_APP_REV_eng_baseline-800300010.mpd",
-          "hasTrailer": true
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "13 Feb 2026, 10:00 AM",
-        "contractEndDate": "19 Feb 2026, 01:00 AM",
-        "originalAirDate": null
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015140/1770986101953271_UCL-promo_landscape.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015140/1770986101953271_UCL-promo_landscape.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015332/1771341331738318_UCL26_combo_17feb26_tonight_masthead_mobile_v2.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015304/1771317312959480_UCL26_combo_17feb_masthead_logo_1.png",
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015140/1770986101953271_UCL-promo_landscape.jpg"
-      },
-      "MULTIPLE_AUDIO_LINKS": []
-    },
-    {
-      "contentId": 1090503902,
-      "video_info": {
-        "title": "Upcoming - Olympiacos vs Leverkusen - UEFA Champions League 2025-26",
-        "shortDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
-        "longDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
-        "genres": [
-          "Football"
-        ],
-        "episodeTitle": ""
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "Sony Sports Ten 2",
-        "audio_language_list": [
-          {
-            "lang_code": "ENG",
-            "lang_label": "English"
-          }
-        ],
-        "emfAttributes__audio_languages": "ENG",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "ENG",
-              "isPreferred": true,
-              "audioLanguageLabel": "English",
-              "type": "main"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/cf17f9e942364d31a6698ea874d6bedc/1771273316/baseline-std-v4/PROMO_UCL_OLYMPIACOS_VS_LAVERKUSEN_40SEC_HOR_DATED_APP_REV_eng_baseline-800300010.mpd",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/1b1fd05ee4df4519ba8577a7d3f9d5b5/1771273268/baseline-std-v4/PROMO_UCL_BODO_GLIMT_VS_INTER_MILAN_40SEC_HOR_DATED_APP_REV_eng_baseline-800300010.mpd",
           "hasTrailer": true
         }
       },
@@ -375,14 +375,14 @@
         "originalAirDate": null
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014951/1770481431887177_UCL26_playoff_leg1_Olympiacos_vs_Leverkusen_7feb_tonight_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015288/1771305560888893_UCL26_playoff_leg1_Olympiacos_vs_Leverkusen_12feb_tonight_landscape_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015352/1771390818478155_UCL26_bodo_Glimt_vs_Inter_18feb_tonight_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015352/1771391019887155_UCL26_bodo_Glimt_vs_Inter_18feb_tonight_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014941/177046238289948_UCL25_26_Match_masthead_mobile_v2_984x1182_PlayOffLeg1_Olympiacos_vs_Leverkusen_SP.jpg",
-        "masthead_logo": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015276/1771244134822449_UCL25_26_Match_masthead_mobile_v2_984x1182_Bodo_Glimit_vs_Inter_SP2.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015198/1771063912000390_UCL25_26_Match_Masthead_logo_Bodo_Glimt_vs_Inter_Dated.png",
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015288/1771305560888893_UCL26_playoff_leg1_Olympiacos_vs_Leverkusen_12feb_tonight_landscape_thumb.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015352/1771391019887155_UCL26_bodo_Glimt_vs_Inter_18feb_tonight_landscape_thumb.jpg"
       },
       "MULTIPLE_AUDIO_LINKS": []
     },
@@ -441,6 +441,64 @@
         "circular_image": null,
         "image_600x900_clean": null,
         "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015288/1771305778200893_UCL26_playoff_leg1_Club_Brugge_vs_Atletico_12feb_tonight_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": []
+    },
+    {
+      "contentId": 1090503902,
+      "video_info": {
+        "title": "Upcoming - Olympiacos vs Leverkusen - UEFA Champions League 2025-26",
+        "shortDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
+        "longDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
+        "genres": [
+          "Football"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "Sony Sports Ten 2",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/cf17f9e942364d31a6698ea874d6bedc/1771273316/baseline-std-v4/PROMO_UCL_OLYMPIACOS_VS_LAVERKUSEN_40SEC_HOR_DATED_APP_REV_eng_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "14 Feb 2026, 11:00 AM",
+        "contractEndDate": "19 Feb 2026, 01:00 AM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014951/1770481431887177_UCL26_playoff_leg1_Olympiacos_vs_Leverkusen_7feb_tonight_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015288/1771305560888893_UCL26_playoff_leg1_Olympiacos_vs_Leverkusen_12feb_tonight_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014941/177046238289948_UCL25_26_Match_masthead_mobile_v2_984x1182_PlayOffLeg1_Olympiacos_vs_Leverkusen_SP.jpg",
+        "masthead_logo": null,
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015288/1771305560888893_UCL26_playoff_leg1_Olympiacos_vs_Leverkusen_12feb_tonight_landscape_thumb.jpg"
       },
       "MULTIPLE_AUDIO_LINKS": []
     },
@@ -557,64 +615,6 @@
         "circular_image": null,
         "image_600x900_clean": null,
         "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015275/1771252715417113_New_Zealand_Blockbuster_Promo_Thumbs_landscape_thumb.jpg"
-      },
-      "MULTIPLE_AUDIO_LINKS": []
-    },
-    {
-      "contentId": 1090503900,
-      "video_info": {
-        "title": "Upcoming - Bodo/Glimt vs Inter - UEFA Champions League 2025-26",
-        "shortDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
-        "longDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
-        "genres": [
-          "Football"
-        ],
-        "episodeTitle": ""
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "Sony Sports Ten 2",
-        "audio_language_list": [
-          {
-            "lang_code": "ENG",
-            "lang_label": "English"
-          }
-        ],
-        "emfAttributes__audio_languages": "ENG",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "ENG",
-              "isPreferred": true,
-              "audioLanguageLabel": "English",
-              "type": "main"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/1b1fd05ee4df4519ba8577a7d3f9d5b5/1771273268/baseline-std-v4/PROMO_UCL_BODO_GLIMT_VS_INTER_MILAN_40SEC_HOR_DATED_APP_REV_eng_baseline-800300010.mpd",
-          "hasTrailer": true
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "14 Feb 2026, 11:00 AM",
-        "contractEndDate": "19 Feb 2026, 01:00 AM",
-        "originalAirDate": null
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015352/1771390818478155_UCL26_bodo_Glimt_vs_Inter_18feb_tonight_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015352/1771391019887155_UCL26_bodo_Glimt_vs_Inter_18feb_tonight_landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015276/1771244134822449_UCL25_26_Match_masthead_mobile_v2_984x1182_Bodo_Glimit_vs_Inter_SP2.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015198/1771063912000390_UCL25_26_Match_Masthead_logo_Bodo_Glimt_vs_Inter_Dated.png",
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015352/1771391019887155_UCL26_bodo_Glimt_vs_Inter_18feb_tonight_landscape_thumb.jpg"
       },
       "MULTIPLE_AUDIO_LINKS": []
     }
