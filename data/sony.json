@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "19-02-2026 17:49",
+  "last_updated": "19-02-2026 19:37",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -166,7 +166,7 @@
             "JITENDRAUNATTI": {
               "Device_Type": "LITE",
               "message": "success",
-              "Playback_videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000092/DAI03MSL5-V3/master.m3u8",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/20000092/DAI03MSL5-V3/master.m3u8",
               "WIDEVINE": null,
               "STREAMING_TYPE": true,
               "audioLanguages": [
@@ -177,29 +177,29 @@
                   "audioLanguageLabel": "English"
                 }
               ],
-              "dai_asset_key": "https://dai.google.com/ssai/event/X9tnEM9wQHKUIX6nWcZ4TA/master.m3u8",
+              "dai_asset_key": "https://dai.google.com/ssai/event/5pjeNU0iTZWl6XQMSLJ_GA/master.m3u8",
               "Maximum_Video_Quality": "SDR",
               "Maximum_Resolution": "FULL_HD",
               "trailer_url": "",
-              "systemTime": 1771493423511,
-              "DOCTOR_STRANGE": 1771493423,
+              "systemTime": 1771510074121,
+              "DOCTOR_STRANGE": 1771510073,
               "additionalDataJson": {
-                "ad_stack": "DAI-IMA",
-                "audioCodec": "AAC",
-                "audio_quality": "STEREO",
                 "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
                 "fps": 25,
-                "isDaiKey": true,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
                 "partners": [
                   "ALL"
                 ],
-                "resolution": "HD",
-                "videoCodec": "H264",
-                "video_quality": "SDR"
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
               },
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
-              "Date": "Thursday 19th of February 2026 03:00:23 PM",
+              "Date": "Thursday 19th of February 2026 07:37:53 PM",
               "extra_data": null
             }
           }
