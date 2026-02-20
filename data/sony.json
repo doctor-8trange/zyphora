@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "19-02-2026 22:30",
+  "last_updated": "20-02-2026 07:26",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -13,7 +13,7 @@
     "REPLACEMENT": "OFF",
     "FREEPREVIEW": "AUTO",
     "ALL_IN_ONE": "ON",
-    "SERVER_STATUS": "CRITICAL WARNING",
+    "SERVER_STATUS": "NORMAL",
     "USAGE_GUIDE": []
   },
   "data": [
@@ -56,9 +56,9 @@
         }
       },
       "air_dates": {
-        "contractStartDate": "12 Feb 2026, 12:00 AM",
-        "contractEndDate": "19 Feb 2026, 09:00 PM",
-        "originalAirDate": "12 Feb 2026, 12:00 AM"
+        "contractStartDate": "20 Feb 2026, 04:00 AM",
+        "contractEndDate": "28 Feb 2026, 11:59 PM",
+        "originalAirDate": "20 Feb 2026, 04:00 AM"
       },
       "image_cdn": {
         "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015061/1770823789174234_cricket_24x7_11feb_portrait_thumb.jpg",
@@ -93,12 +93,12 @@
               "Maximum_Video_Quality": "SDR",
               "Maximum_Resolution": "FULL_HD",
               "trailer_url": "",
-              "systemTime": 1771498372285,
-              "DOCTOR_STRANGE": 1771498371,
+              "systemTime": 1771552571956,
+              "DOCTOR_STRANGE": 1771552571,
               "additionalDataJson": [],
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
-              "Date": "Thursday 19th of February 2026 04:22:51 PM",
+              "Date": "Friday 20th of February 2026 07:26:11 AM",
               "extra_data": null
             }
           }
@@ -106,27 +106,39 @@
       ]
     },
     {
-      "contentId": 1090504379,
+      "contentId": 1090504485,
       "video_info": {
-        "title": "DP World Tour",
-        "shortDescription": "Watch all the action from Magical Kenya Open Day 1, LIVE on Sony LIV.",
-        "longDescription": "Watch all the action from Magical Kenya Open Day 1, LIVE on Sony LIV.",
+        "title": "ACC Women’s Rising Stars 2026",
+        "shortDescription": "India A meet Sri Lanka A in the semi-final after both sides logged two group‑stage wins to progress. India A remain slight favorites on recent form, but Sri Lanka A’s momentum and capable middle order keep them firmly in contention. Tune in to catch all the action from ACC Women’s Rising Stars 2026, only on Sony LIV.",
+        "longDescription": "India A meet Sri Lanka A in the semi-final after both sides logged two group‑stage wins to progress. India A remain slight favorites on recent form, but Sri Lanka A’s momentum and capable middle order keep them firmly in contention. Tune in to catch all the action from ACC Women’s Rising Stars 2026, only on Sony LIV.",
         "genres": [
-          "Golf"
+          "Cricket"
         ],
-        "episodeTitle": "Magical Kenya Open - Day 1 - 19 Feb 2026"
+        "episodeTitle": "India A Women vs Sri Lanka A Women - Semi-Final - 20 Feb 2026"
       },
       "stream_info": {
         "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": "https://dai.google.com/ssai/event/5pjeNU0iTZWl6XQMSLJ_GA/master.m3u8",
-        "broadcast_channel": "LIV",
+        "dai_asset_key": "https://dai.google.com/ssai/event/FRfpSr3uSzaIu94qoYoyaQ/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 5",
         "audio_language_list": [
           {
             "lang_code": "ENG",
             "lang_label": "English"
+          },
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          },
+          {
+            "lang_code": "TAM",
+            "lang_label": "Tamil"
+          },
+          {
+            "lang_code": "TEL",
+            "lang_label": "Telugu"
           }
         ],
-        "emfAttributes__audio_languages": "ENG",
+        "emfAttributes__audio_languages": "HIN,TAM,TEL,ENG",
         "platformVariants": {
           "assetType": "MASTER",
           "assetName": "VOD_FULL_HD",
@@ -144,19 +156,19 @@
         }
       },
       "air_dates": {
-        "contractStartDate": "19 Feb 2026, 03:00 PM",
-        "contractEndDate": "19 Feb 2026, 11:00 PM",
-        "originalAirDate": "19 Feb 2026, 03:30 PM"
+        "contractStartDate": "20 Feb 2026, 07:20 AM",
+        "contractEndDate": "20 Feb 2026, 03:50 PM",
+        "originalAirDate": "20 Feb 2026, 07:50 AM"
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015364/1771401384077586_DP_World_Tour_Magical_Kenya_Open_Day1_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015364/1771401586595586_DP_World_Tour_Magical_Kenya_Open_Day1_landscape_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015421/1771493214000608_ACRS_womens26_semi_final_INDvsSL_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015421/1771493214000608_ACRS_womens26_semi_final_INDvsSL_landcape_thumb.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": null,
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013565/1768686425047781_DP_World_Tour_GOB_Masthead_Logo_LIVE.png",
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015377/1771413555572878_AsiaCupRisingStarWomens2026_MATCH_masthead_mobile_v2_984x1182_India_A_vs_SL_A.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015377/1771413555528878_AsiaCupRisingStarWomens2026_MATCH_Masthead_logo_INDIA_A_VS_SL_A_Live.png",
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015364/1771401586595586_DP_World_Tour_Magical_Kenya_Open_Day1_landscape_thumb.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015421/1771493214000608_ACRS_womens26_semi_final_INDvsSL_landcape_thumb.jpg"
       },
       "MULTIPLE_AUDIO_LINKS": [
         {
@@ -166,7 +178,7 @@
             "JITENDRAUNATTI": {
               "Device_Type": "LITE",
               "message": "success",
-              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/20000092/DAI03MSL5-V3/master.m3u8",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2094587/DAI03-criclive/master.m3u8",
               "WIDEVINE": null,
               "STREAMING_TYPE": true,
               "audioLanguages": [
@@ -177,12 +189,12 @@
                   "audioLanguageLabel": "English"
                 }
               ],
-              "dai_asset_key": "https://dai.google.com/ssai/event/5pjeNU0iTZWl6XQMSLJ_GA/master.m3u8",
+              "dai_asset_key": "https://dai.google.com/ssai/event/FRfpSr3uSzaIu94qoYoyaQ/master.m3u8",
               "Maximum_Video_Quality": "SDR",
               "Maximum_Resolution": "FULL_HD",
               "trailer_url": "",
-              "systemTime": 1771510074121,
-              "DOCTOR_STRANGE": 1771510073,
+              "systemTime": 1771552574051,
+              "DOCTOR_STRANGE": 1771552573,
               "additionalDataJson": {
                 "enc_format": "HLS",
                 "resolution": "FULL_HD",
@@ -199,7 +211,142 @@
               },
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
-              "Date": "Thursday 19th of February 2026 07:37:53 PM",
+              "Date": "Friday 20th of February 2026 07:26:13 AM",
+              "extra_data": null
+            }
+          }
+        },
+        {
+          "LANGUAGE": "Hindi",
+          "LANG_CODE": "HIN",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04-criclive/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/XSjjwrlLR6Cfn7Whgceqxg/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1771552574788,
+              "DOCTOR_STRANGE": 1771552574,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Friday 20th of February 2026 07:26:14 AM",
+              "extra_data": null
+            }
+          }
+        },
+        {
+          "LANGUAGE": "Tamil",
+          "LANG_CODE": "TAM",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06-criclive/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/RzEmhyBCQceikgLs3_P5hQ/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1771552575657,
+              "DOCTOR_STRANGE": 1771552575,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Friday 20th of February 2026 07:26:15 AM",
+              "extra_data": null
+            }
+          }
+        },
+        {
+          "LANGUAGE": "Telugu",
+          "LANG_CODE": "TEL",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12-criclive/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/RxOckzeJRyuaLeoNaYuPsA/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1771552576659,
+              "DOCTOR_STRANGE": 1771552576,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Friday 20th of February 2026 07:26:16 AM",
               "extra_data": null
             }
           }
@@ -208,126 +355,6 @@
     }
   ],
   "upcoming": [
-    {
-      "contentId": 1090504481,
-      "video_info": {
-        "title": "Upcoming - India A Women vs Sri Lanka A Women - ACC Women’s Rising Stars 2026",
-        "shortDescription": "ACC Women’s Rising Stars 2026 showcases the future of Asian women’s cricket. Catch live matches, electrifying performances, and inspiring moments as the next generation of rising talents battle for glory, only on Sony LIV.",
-        "longDescription": "ACC Women’s Rising Stars 2026 showcases the future of Asian women’s cricket. Catch live matches, electrifying performances, and inspiring moments as the next generation of rising talents battle for glory, only on Sony LIV.",
-        "genres": [
-          "Cricket"
-        ],
-        "episodeTitle": ""
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "Sony Sports Ten 5",
-        "audio_language_list": [
-          {
-            "lang_code": "ENG",
-            "lang_label": "English"
-          },
-          {
-            "lang_code": "HIN",
-            "lang_label": "Hindi"
-          }
-        ],
-        "emfAttributes__audio_languages": "HIN,ENG",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "HIN",
-              "isPreferred": true,
-              "audioLanguageLabel": "Hindi",
-              "type": "main"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/7106b854be124b4aa3c623327ca82325/1771446442/baseline-std-v4/PROMO_ASIA_CUP_WOMENS_RISING_STAR_SEMI_FINAL_IND_A_VS_SRI_LANKA_A_25SEC_HOR_DATED_APP_hin_baseline-800300010.mpd",
-          "hasTrailer": true
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "19 Feb 2026, 01:30 AM",
-        "contractEndDate": "20 Feb 2026, 07:20 AM",
-        "originalAirDate": null
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015376/177141243049424_ACC_promo_INDvsSL_SF_dated_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015376/177141312955524_ACC_promo_INDvsSL_SF_dated_landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015377/1771413555572878_AsiaCupRisingStarWomens2026_MATCH_masthead_mobile_v2_984x1182_India_A_vs_SL_A.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015377/1771413555541878_AsiaCupRisingStarWomens2026_MATCH_Masthead_logo_INDIA_A_VS_SL_A_Dated.png",
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015376/177141312955524_ACC_promo_INDvsSL_SF_dated_landscape_thumb.jpg"
-      },
-      "MULTIPLE_AUDIO_LINKS": []
-    },
-    {
-      "contentId": 1090504333,
-      "video_info": {
-        "title": "Upcoming - UEFA Europa League - MD 9",
-        "shortDescription": "Watch all the action from UEFA Europa League 2025-26, only on Sony LIV.",
-        "longDescription": "Watch all the action from UEFA Europa League 2025-26, only on Sony LIV.",
-        "genres": [
-          "Football"
-        ],
-        "episodeTitle": ""
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "Sony Sports Ten 5",
-        "audio_language_list": [
-          {
-            "lang_code": "ENG",
-            "lang_label": "English"
-          }
-        ],
-        "emfAttributes__audio_languages": "ENG",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "ENG",
-              "isPreferred": true,
-              "audioLanguageLabel": "English",
-              "type": "main"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/539dfcf96a9c42ebb7ef4c1c931e498b/1771337561/baseline-std-v4/1090504333_17022026_eng_baseline-800300010.mpd",
-          "hasTrailer": true
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "17 Feb 2026, 11:00 AM",
-        "contractEndDate": "20 Feb 2026, 01:15 AM",
-        "originalAirDate": null
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015318/1771323081561103_UEL_26_promo_Fenerbahce-vs-Nottingham-Forest_Tonight_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015318/1771323278718103_UEL_26_promo_Fenerbahce-vs-Nottingham-Forest_Tonight_landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": null,
-        "masthead_logo": null,
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015318/1771323278718103_UEL_26_promo_Fenerbahce-vs-Nottingham-Forest_Tonight_landscape_thumb.jpg"
-      },
-      "MULTIPLE_AUDIO_LINKS": []
-    },
     {
       "contentId": 1090503537,
       "video_info": {
