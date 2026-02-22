@@ -1,7 +1,449 @@
 {
+  "Author": "DOCTOR STRANGE",
+  "name": "Sony Live Matches API",
+  "last_updated": "22-02-2026 08:01",
   "app_settings": {
-    "SERVER_STATUS": "CRITICAL WARNING"
+    "PROXY": "ON",
+    "state_code": "MH",
+    "MULTI_CDN": "OFF",
+    "Debugging": "OFF",
+    "SUB_TYPE": "FREEMIUM",
+    "RECIVER": "OFF",
+    "REALTIME": "OFF",
+    "REPLACEMENT": "OFF",
+    "FREEPREVIEW": "AUTO",
+    "ALL_IN_ONE": "ON",
+    "SERVER_STATUS": "NORMAL",
+    "USAGE_GUIDE": []
   },
-  "last_updated": "22-02-2026 00:20",
-  "data": []
+  "data": [
+    {
+      "contentId": 1090504653,
+      "video_info": {
+        "title": "UFC Fight Night - Strickland vs Hernandez",
+        "shortDescription": "Sean Strickland and Brendan Hernandez face off in a high-stakes middleweight showdown at UFC Fight Night, with both men hungry to push deeper into contender territory. Strickland’s relentless pressure, crisp boxing, and unbreakable pace collide with Hernandez’s explosive power, sharp counters, and fight-ending instincts, setting the stage for a classic striker’s duel. Tune in to catch all the action from UFC Fight Night, LIVE on Sony LIV.",
+        "longDescription": "Sean Strickland and Brendan Hernandez face off in a high-stakes middleweight showdown at UFC Fight Night, with both men hungry to push deeper into contender territory. Strickland’s relentless pressure, crisp boxing, and unbreakable pace collide with Hernandez’s explosive power, sharp counters, and fight-ending instincts, setting the stage for a classic striker’s duel. Tune in to catch all the action from UFC Fight Night, LIVE on Sony LIV.",
+        "genres": [
+          "Fight Sports"
+        ],
+        "episodeTitle": "UFC Fight Night - Strickland vs Hernandez - 22 Feb 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/Jh7uKPjJT5ew26R51u2hLg/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 2",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          },
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          },
+          {
+            "lang_code": "TAM",
+            "lang_label": "Tamil"
+          },
+          {
+            "lang_code": "TEL",
+            "lang_label": "Telugu"
+          }
+        ],
+        "emfAttributes__audio_languages": "TAM,HIN,ENG,TEL",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "22 Feb 2026, 06:00 AM",
+        "contractEndDate": "22 Feb 2026, 12:00 PM",
+        "originalAirDate": "22 Feb 2026, 06:30 AM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015476/1771653311958249_UFC_Fight_Night_Strickland_vs_Hernandez_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015476/1771652994645249_UFC_Fight_Night_Strickland_vs_Hernandez_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015368/1771404241928198_UFC_Fight_Night_Strickland_vs_Hernandez_masthead_mobile_v2_984x1182.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015368/1771404241499198_UFC_Fight_Night_Strickland_vs_Hernandez_Masthead_Logo_LIVE.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015476/1771652994645249_UFC_Fight_Night_Strickland_vs_Hernandez_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-UFC/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/Jh7uKPjJT5ew26R51u2hLg/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1771727485374,
+              "DOCTOR_STRANGE": 1771727485,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Sunday 22nd of February 2026 08:01:25 AM",
+              "extra_data": null
+            }
+          }
+        },
+        {
+          "LANGUAGE": "Hindi",
+          "LANG_CODE": "HIN",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-UFC/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/jOHc0xjyQUWiTpMoswilcg/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1771727486164,
+              "DOCTOR_STRANGE": 1771727485,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Sunday 22nd of February 2026 08:01:25 AM",
+              "extra_data": null
+            }
+          }
+        },
+        {
+          "LANGUAGE": "Tamil",
+          "LANG_CODE": "TAM",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-UFC/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/xgwG9FIdS62cC4HmvMpUYg/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1771727486884,
+              "DOCTOR_STRANGE": 1771727486,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Sunday 22nd of February 2026 08:01:26 AM",
+              "extra_data": null
+            }
+          }
+        },
+        {
+          "LANGUAGE": "Telugu",
+          "LANG_CODE": "TEL",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2105079/DAI08ME-UFC/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/xJ0HJTOMQDqKjRoBoIFLkg/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1771727487638,
+              "DOCTOR_STRANGE": 1771727487,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Sunday 22nd of February 2026 08:01:27 AM",
+              "extra_data": null
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "upcoming": [
+    {
+      "contentId": 1090504636,
+      "video_info": {
+        "title": "Upcoming - Play-offs - UEFA Champions League 2025-26",
+        "shortDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
+        "longDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
+        "genres": [
+          "Football"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "Sony Sports Ten 2",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/b9fef4813ad74ec1b82feb2c999479a1/1771588527/baseline-std-v4/PROMO_UCL_PLAYOFF_PROMO_eng_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "20 Feb 2026, 05:00 PM",
+        "contractEndDate": "26 Feb 2026, 12:55 AM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015462/177159126185353_UCL_Playoffs_Leg2_Promo_landscape_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015462/177159126185353_UCL_Playoffs_Leg2_Promo_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015473/1771618442470523_UCL26_playoff_leg2_combo_real_madrid_and_PSG_21feb_dated_masthead_mobile_v2.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015473/1771617923272523_UCL26_combo_21feb_masthead_logo.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015462/177159126185353_UCL_Playoffs_Leg2_Promo_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": []
+    },
+    {
+      "contentId": 1090503537,
+      "video_info": {
+        "title": "Upcoming - ACC Women’s Rising Stars 2026",
+        "shortDescription": "ACC Women’s Rising Stars 2026 showcases the future of Asian women’s cricket. Catch live matches, electrifying performances, and inspiring moments as the next generation of rising talents battle for glory, only on Sony LIV.",
+        "longDescription": "ACC Women’s Rising Stars 2026 showcases the future of Asian women’s cricket. Catch live matches, electrifying performances, and inspiring moments as the next generation of rising talents battle for glory, only on Sony LIV.",
+        "genres": [
+          "Cricket"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          },
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG,HIN",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "HIN",
+              "isPreferred": true,
+              "audioLanguageLabel": "Hindi",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/7de08b976a214033bb1e5a3f0869fc04/1771660341/baseline-std-v4/1090503537_09022026_hin_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "09 Feb 2026, 10:00 AM",
+        "contractEndDate": "22 Feb 2026, 11:50 AM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015470/1771611843811291_AsiaCup_RisingStar_Womens2026_final_india_A_vs_ban_A_20feb_today_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015470/1771611571877291_AsiaCup_RisingStar_Womens2026_final_india_A_vs_ban_A_20feb_today_Landscape_thumb.jpg",
+        "masthead_mobile_v1": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014902/177030221389913_AsiaCupRisingStarWomens2026_GOB_1_masthead_mobile_v1.jpg",
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015472/1771597136000292_AsiaCupRisingStarWomens2026_MATCH_masthead_mobile_v2_984x1182_IND_A_VS_BAL_A.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015472/1771597136000292_AsiaCupRisingStarWomens2026_MATCH_Masthead_logo_IND_A_VS_BAL_A_Today.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015470/1771611571877291_AsiaCup_RisingStar_Womens2026_final_india_A_vs_ban_A_20feb_today_Landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": []
+    },
+    {
+      "contentId": 1090504215,
+      "video_info": {
+        "title": "Upcoming - New Zealand's Blockbuster Home Season",
+        "shortDescription": "",
+        "longDescription": "",
+        "genres": [
+          "Cricket"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/1768d1e2c74442d989de7f05dca49d53/1771251591/baseline-std-v4/PROMO_NZ_BLOCKBUSTER_16022026_eng_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "16 Feb 2026, 07:00 PM",
+        "contractEndDate": "30 Apr 2031, 11:59 PM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012695/1766576466000715_SuperSmash2526_GOB_Portrait_Thumb_Mens.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015275/1771252715417113_New_Zealand_Blockbuster_Promo_Thumbs_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012695/1766576466000715_SuperSmash2526_GOB_masthead_mobile_v2_984x1182_Mens.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012695/1766576466000715_SuperSmash2526_GOB_Masthead_logo.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015275/1771252715417113_New_Zealand_Blockbuster_Promo_Thumbs_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": []
+    }
+  ]
 }
