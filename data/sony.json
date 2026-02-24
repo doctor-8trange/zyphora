@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "23-02-2026 02:20",
+  "last_updated": "24-02-2026 18:00",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -16,23 +16,125 @@
     "SERVER_STATUS": "NORMAL",
     "USAGE_GUIDE": []
   },
-  "data": [],
-  "upcoming": [
+  "data": [
     {
-      "contentId": 1090504636,
+      "contentId": 1090504783,
       "video_info": {
-        "title": "Upcoming - Play-offs - UEFA Champions League 2025-26",
-        "shortDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
-        "longDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
+        "title": "UEFA Youth League 2025-26",
+        "shortDescription": "Catch all the action from the UEFA Youth League 2025-26 match between Inter and Real Betis, LIVE & exclusively on Sony LIV.",
+        "longDescription": "Catch all the action from the UEFA Youth League 2025-26 match between Inter and Real Betis, LIVE & exclusively on Sony LIV.",
         "genres": [
           "Football"
+        ],
+        "episodeTitle": "Inter vs Real Betis - 24 Feb 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 2",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "24 Feb 2026, 05:55 PM",
+        "contractEndDate": "24 Feb 2026, 10:55 PM",
+        "originalAirDate": "24 Feb 2026, 06:25 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015485/1771687683520794_UEFAYouthLeague26_Roundof16_Inter_vs_Real_Betis_21feb_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015485/1771687731915794_UEFAYouthLeague26_Roundof16_Inter_vs_Real_Betis_21feb_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": null,
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/ucl24_final2_masthead_logo_live.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015485/1771687731915794_UEFAYouthLeague26_Roundof16_Inter_vs_Real_Betis_21feb_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-V3/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1771936214976,
+              "DOCTOR_STRANGE": 1771936212,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Tuesday 24th of February 2026 06:00:12 PM",
+              "extra_data": null
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "upcoming": [
+    {
+      "contentId": 1090504638,
+      "video_info": {
+        "title": "Upcoming - Zimbabwe Women's Tour of New Zealand 2026",
+        "shortDescription": "Tune in to catch all the action from Zimbabwe Women's Tour of New Zealand 2026, only on Sony LIV.",
+        "longDescription": "Tune in to catch all the action from Zimbabwe Women's Tour of New Zealand 2026, only on Sony LIV.",
+        "genres": [
+          "Cricket"
         ],
         "episodeTitle": ""
       },
       "stream_info": {
         "Maximum_Video_Quality": "SDR",
         "dai_asset_key": null,
-        "broadcast_channel": "Sony Sports Ten 2",
+        "broadcast_channel": "Sony Sports Ten 5",
         "audio_language_list": [
           {
             "lang_code": "ENG",
@@ -55,24 +157,24 @@
           ],
           "subtitlesLanguages": [],
           "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/b9fef4813ad74ec1b82feb2c999479a1/1771588527/baseline-std-v4/PROMO_UCL_PLAYOFF_PROMO_eng_baseline-800300010.mpd",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/159c54ea3f7349d8af1078c2df281d0c/1771591372/baseline-std-v4/PROMO_ZIMBABWE_WOMENS_TOUR_OF_NEW_ZEALAND_eng_baseline-800300010.mpd",
           "hasTrailer": true
         }
       },
       "air_dates": {
-        "contractStartDate": "20 Feb 2026, 05:00 PM",
-        "contractEndDate": "26 Feb 2026, 12:55 AM",
+        "contractStartDate": "20 Feb 2026, 06:00 PM",
+        "contractEndDate": "11 Mar 2026, 11:59 PM",
         "originalAirDate": null
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015462/177159126185353_UCL_Playoffs_Leg2_Promo_landscape_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015462/177159126185353_UCL_Playoffs_Leg2_Promo_landscape_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015531/1771855932875457_NZw_vs_ZIMw_1t20I_dated_promo_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015531/1771856595005457_NZw_vs_ZIMw_1t20I_dated_promo_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015473/1771618442470523_UCL26_playoff_leg2_combo_real_madrid_and_PSG_21feb_dated_masthead_mobile_v2.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015473/1771617923272523_UCL26_combo_21feb_masthead_logo.png",
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015540/1771915862707206_NZWvsZIMW2026_MATCH_masthead_mobile_v2_984x1182.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015545/1771928359003386_NZWvsZIMW2026_MATCH_Masthead_logo_1stT20_IND_1.png",
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015462/177159126185353_UCL_Playoffs_Leg2_Promo_landscape_thumb.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015531/1771856595005457_NZw_vs_ZIMw_1t20I_dated_promo_landscape_thumb.jpg"
       },
       "MULTIPLE_AUDIO_LINKS": []
     },
@@ -131,6 +233,122 @@
         "circular_image": null,
         "image_600x900_clean": null,
         "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015275/1771252715417113_New_Zealand_Blockbuster_Promo_Thumbs_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": []
+    },
+    {
+      "contentId": 1090504636,
+      "video_info": {
+        "title": "Upcoming - Play-offs - UEFA Champions League 2025-26",
+        "shortDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
+        "longDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
+        "genres": [
+          "Football"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "Sony Sports Ten 2",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/b9fef4813ad74ec1b82feb2c999479a1/1771588527/baseline-std-v4/PROMO_UCL_PLAYOFF_PROMO_eng_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "20 Feb 2026, 05:00 PM",
+        "contractEndDate": "26 Feb 2026, 12:55 AM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015462/177159126185353_UCL_Playoffs_Leg2_Promo_landscape_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015462/177159126185353_UCL_Playoffs_Leg2_Promo_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015474/1771620912708508_UCL26_playoff_leg2_combo_atletico_and_inter_21feb_tonight_masthead_mobile_v2.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015473/1771617923272523_UCL26_combo_21feb_masthead_logo.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015462/177159126185353_UCL_Playoffs_Leg2_Promo_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": []
+    },
+    {
+      "contentId": 1090504795,
+      "video_info": {
+        "title": "Upcoming - Play-offs 2nd Leg - UEFA Champions League 2025-26",
+        "shortDescription": "Watch all the action from the 2nd Leg of the UEFA Champions League 2025-26 play-offs, exclusively on Sony LIV.",
+        "longDescription": "Watch all the action from the 2nd Leg of the UEFA Champions League 2025-26 play-offs, exclusively on Sony LIV.",
+        "genres": [
+          "Football"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "Sony Sports Ten 2",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/0e596b39c7fd473db246c28a01f9d95c/1771830774/baseline-std-v4/PROMO_UCL_26FEBCOMBO_35SEC_HOR_DATED_APP_23022026_eng_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "23 Feb 2026, 10:00 AM",
+        "contractEndDate": "26 Feb 2026, 12:55 AM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015517/1771829728598544_UCL-Combo-promo_landscape.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015517/1771829728598544_UCL-Combo-promo_landscape.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015473/1771618442470523_UCL26_playoff_leg2_combo_real_madrid_and_PSG_21feb_dated_masthead_mobile_v2.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015473/1771617923272523_UCL26_combo_21feb_masthead_logo.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015517/1771829728598544_UCL-Combo-promo_landscape.jpg"
       },
       "MULTIPLE_AUDIO_LINKS": []
     },
@@ -239,21 +457,21 @@
         "originalAirDate": null
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015434/1771535606121719_UCL26_Playoffs_Leg2_PSG_vs_AS_Monaco_16feb_dated_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015434/1771535756924719_UCL26_Playoffs_Leg2_PSG_vs_AS_Monaco_16feb_dated_landscape_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015520/1771839005584425_UCL_26_Leg2_PSG_vs_AS_Monaco_DDT_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015520/1771839238088425_UCL_26_Leg2_PSG_vs_AS_Monaco_DDT_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
         "masthead_mobile_v2": null,
         "masthead_logo": null,
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015434/1771535756924719_UCL26_Playoffs_Leg2_PSG_vs_AS_Monaco_16feb_dated_landscape_thumb.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015520/1771839238088425_UCL_26_Leg2_PSG_vs_AS_Monaco_DDT_landscape_thumb.jpg"
       },
       "MULTIPLE_AUDIO_LINKS": []
     },
     {
       "contentId": 1090504678,
       "video_info": {
-        "title": "Upcoming - Bodo/Glimt vs Inter - UEFA Champions League 2025-26",
+        "title": "Upcoming - Inter vs Bodo/Glimt - UEFA Champions League 2025-26",
         "shortDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
         "longDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
         "genres": [
@@ -297,14 +515,14 @@
         "originalAirDate": null
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015434/1771530091522719_UCL26_Playoffs_Leg2_inter_vs_bodo_16feb_dated_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015434/1771530291700719_UCL26_Playoffs_Leg2_inter_vs_bodo_16feb_dated_landscape_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015434/1771530108368719_UCL26_Playoffs_Leg2_inter_vs_bodo_16feb_tonight_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015434/1771530311122719_UCL26_Playoffs_Leg2_inter_vs_bodo_16feb_tonight_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": null,
-        "masthead_logo": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015483/177165931200010_UCL25_26_Match_masthead_mobile_v2_984x1182_Inter_vs_Bodo_Glimt_SP.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015482/1771659312000738_UCL25_26_Match_Masthead_logo_nter_vs_Bodo_Glimt_Tonigh.png",
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015434/1771530291700719_UCL26_Playoffs_Leg2_inter_vs_bodo_16feb_dated_landscape_thumb.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015434/1771530311122719_UCL26_Playoffs_Leg2_inter_vs_bodo_16feb_tonight_landscape_thumb.jpg"
       },
       "MULTIPLE_AUDIO_LINKS": []
     },
@@ -355,14 +573,14 @@
         "originalAirDate": null
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015434/1771533155473719_UCL26_Playoffs_Leg2_Newcastle_vs_Qarabag_16feb_dated_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015434/1771533270450719_UCL26_Playoffs_Leg2_Newcastle_vs_Qarabag_16feb_dated_landscape_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015434/1771533162961719_UCL26_Playoffs_Leg2_Newcastle_vs_Qarabag_16feb_tonight_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015434/1771533281450719_UCL26_Playoffs_Leg2_Newcastle_vs_Qarabag_16feb_tonight_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": null,
-        "masthead_logo": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015483/177165931200010_UCL25_26_Match_masthead_mobile_v2_984x1182_Newcastle_United_vs_FK_Qarabag_SP.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015482/1771659312000738_UCL25_26_Match_Masthead_logo_Newcastle_United_vs_FK_Qarabag_Tonight.png",
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015434/1771533270450719_UCL26_Playoffs_Leg2_Newcastle_vs_Qarabag_16feb_dated_landscape_thumb.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015434/1771533281450719_UCL26_Playoffs_Leg2_Newcastle_vs_Qarabag_16feb_tonight_landscape_thumb.jpg"
       },
       "MULTIPLE_AUDIO_LINKS": []
     },
@@ -471,14 +689,14 @@
         "originalAirDate": null
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015434/1771529169503719_UCL26_Playoffs_Leg2_Leverkusen_vs_Olympiacos_16feb_dated_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015434/1771529674104719_UCL26_Playoffs_Leg2_Leverkusen_vs_Olympiacos_16feb_dated_landscape_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015434/1771529197365719_UCL26_Playoffs_Leg2_Leverkusen_vs_Olympiacos_16feb_tonight_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015434/1771529391689719_UCL26_Playoffs_Leg2_Leverkusen_vs_Olympiacos_16feb_tonight_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": null,
-        "masthead_logo": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015483/177165931200010_UCL25_26_Match_masthead_mobile_v2_984x1182_Bayer_Leverkusen_vs_Olympiacos_SP.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015482/1771659312000738_UCL25_26_Match_Masthead_logo_Bayer_Leverkusen_vs_Olympiacos_Tonight.png",
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015434/1771529674104719_UCL26_Playoffs_Leg2_Leverkusen_vs_Olympiacos_16feb_dated_landscape_thumb.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015434/1771529391689719_UCL26_Playoffs_Leg2_Leverkusen_vs_Olympiacos_16feb_tonight_landscape_thumb.jpg"
       },
       "MULTIPLE_AUDIO_LINKS": []
     },
@@ -529,14 +747,14 @@
         "originalAirDate": null
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015434/1771528100878719_UCL26_Playoffs_Leg2_Atletico_vs_Club_Brugge_16feb_dated_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015434/1771528579941719_UCL26_Playoffs_Leg2_Atletico_vs_Club_Brugge_16feb_dated_landscape_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015434/1771528129754719_UCL26_Playoffs_Leg2_Atletico_vs_Club_Brugge_16feb_tonight_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015434/1771528598148719_UCL26_Playoffs_Leg2_Atletico_vs_Club_Brugge_16feb_tonight_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": null,
-        "masthead_logo": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015483/177165931200010_UCL25_26_Match_masthead_mobile_v2_984x1182_Atletico_Madrid_vs_Club_Brugge_SP.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015482/1771659312000738_UCL25_26_Match_Masthead_logo_Atletico_Madrid_vs_Club_Brugge_Tonight.png",
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015434/1771528579941719_UCL26_Playoffs_Leg2_Atletico_vs_Club_Brugge_16feb_dated_landscape_thumb.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015434/1771528598148719_UCL26_Playoffs_Leg2_Atletico_vs_Club_Brugge_16feb_tonight_landscape_thumb.jpg"
       },
       "MULTIPLE_AUDIO_LINKS": []
     },
