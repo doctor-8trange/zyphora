@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "25-02-2026 03:40",
+  "last_updated": "25-02-2026 11:20",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -16,7 +16,109 @@
     "SERVER_STATUS": "NORMAL",
     "USAGE_GUIDE": []
   },
-  "data": [],
+  "data": [
+    {
+      "contentId": 1090505005,
+      "video_info": {
+        "title": "Zimbabwe Women's Tour of New Zealand 2026",
+        "shortDescription": "The historic Zimbabwe Women’s Tour of New Zealand begins with the 1st T20I at Seddon Park in Hamilton, marking the first-ever bilateral women’s series between the two sides. New Zealand enter as reigning T20 World Cup champions led by Amelia Kerr, while Zimbabwe look to make a strong statement under Nomvelo Sibanda. Tune in to catch all the action, LIVE & exclusively on Sony LIV.",
+        "longDescription": "The historic Zimbabwe Women’s Tour of New Zealand begins with the 1st T20I at Seddon Park in Hamilton, marking the first-ever bilateral women’s series between the two sides. New Zealand enter as reigning T20 World Cup champions led by Amelia Kerr, while Zimbabwe look to make a strong statement under Nomvelo Sibanda. Tune in to catch all the action, LIVE & exclusively on Sony LIV.",
+        "genres": [
+          "Cricket"
+        ],
+        "episodeTitle": "1st T20I - 25 Feb 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/j9BYvbuJQkWV13Zs1CrHUw/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "25 Feb 2026, 11:05 AM",
+        "contractEndDate": "25 Feb 2026, 07:35 PM",
+        "originalAirDate": "25 Feb 2026, 11:35 AM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015541/1771918845808652_NZw_vs_ZIMw_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015541/1771920520354652_NZw_vs_ZIMw_live_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015540/1771915862707206_NZWvsZIMW2026_MATCH_masthead_mobile_v2_984x1182.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015545/1771928359026386_NZWvsZIMW2026_MATCH_Masthead_logo_1stT20_LIVE_1.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015541/1771920520354652_NZw_vs_ZIMw_live_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21-criclive/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/j9BYvbuJQkWV13Zs1CrHUw/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1771998614564,
+              "DOCTOR_STRANGE": 1771998611,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Wednesday 25th of February 2026 11:20:11 AM",
+              "extra_data": null
+            }
+          }
+        }
+      ]
+    }
+  ],
   "upcoming": [
     {
       "contentId": 1090504638,
@@ -65,14 +167,14 @@
         "originalAirDate": null
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015531/1771855932875457_NZw_vs_ZIMw_1t20I_dated_promo_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015531/1771856595005457_NZw_vs_ZIMw_1t20I_dated_promo_landscape_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015531/1771855967417457_NZw_vs_ZIMw_1t20I_today_promo_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015531/1771856608161457_NZw_vs_ZIMw_1t20I_today_promo_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
         "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015540/1771915862707206_NZWvsZIMW2026_MATCH_masthead_mobile_v2_984x1182.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015545/1771928359003386_NZWvsZIMW2026_MATCH_Masthead_logo_1stT20_IND_1.png",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090504638/mastheadLogo/1771983253768_./NZWvsZIMW2026_MATCH_Masthead_logo_1stT20_TODAY_1.png",
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015531/1771856595005457_NZw_vs_ZIMw_1t20I_dated_promo_landscape_thumb.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015531/1771856608161457_NZw_vs_ZIMw_1t20I_today_promo_landscape_thumb.jpg"
       },
       "MULTIPLE_AUDIO_LINKS": []
     },
@@ -184,7 +286,7 @@
         "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015517/1771829728598544_UCL-Combo-promo_landscape.jpg",
         "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015517/1771829728598544_UCL-Combo-promo_landscape.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015473/1771618442470523_UCL26_playoff_leg2_combo_real_madrid_and_PSG_21feb_dated_masthead_mobile_v2.jpg",
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015473/1771618446339523_UCL26_playoff_leg2_combo_real_madrid_and_PSG_21feb_TONIGHT_masthead_mobile_v2.jpg",
         "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015473/1771617923272523_UCL26_combo_21feb_masthead_logo.png",
         "circular_image": null,
         "image_600x900_clean": null,
@@ -239,14 +341,14 @@
         "originalAirDate": null
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015434/1771536244999719_UCL26_Playoffs_Leg2_Real_Madrid_vs_Benfica_16feb_dated_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015434/1771536367389719_UCL26_Playoffs_Leg2_Real_Madrid_vs_Benfica_16feb_dated_landscape_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015434/1771536253942719_UCL26_Playoffs_Leg2_Real_Madrid_vs_Benfica_16feb_tonight_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015434/1771536376308719_UCL26_Playoffs_Leg2_Real_Madrid_vs_Benfica_16feb_tonight_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
         "masthead_mobile_v2": null,
         "masthead_logo": null,
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015434/1771536367389719_UCL26_Playoffs_Leg2_Real_Madrid_vs_Benfica_16feb_dated_landscape_thumb.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015434/1771536376308719_UCL26_Playoffs_Leg2_Real_Madrid_vs_Benfica_16feb_tonight_landscape_thumb.jpg"
       },
       "MULTIPLE_AUDIO_LINKS": []
     },
@@ -297,14 +399,14 @@
         "originalAirDate": null
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015520/1771839005584425_UCL_26_Leg2_PSG_vs_AS_Monaco_DDT_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015520/1771839238088425_UCL_26_Leg2_PSG_vs_AS_Monaco_DDT_landscape_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015520/1771839038457425_UCL_26_Leg2_PSG_vs_AS_Monaco_Tonight_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015520/1771839255111425_UCL_26_Leg2_PSG_vs_AS_Monaco_Tonight_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
         "masthead_mobile_v2": null,
         "masthead_logo": null,
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015520/1771839238088425_UCL_26_Leg2_PSG_vs_AS_Monaco_DDT_landscape_thumb.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015520/1771839255111425_UCL_26_Leg2_PSG_vs_AS_Monaco_Tonight_landscape_thumb.jpg"
       },
       "MULTIPLE_AUDIO_LINKS": []
     },
@@ -355,14 +457,14 @@
         "originalAirDate": null
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015434/1771532603156719_UCL26_Playoffs_Leg2_Atalanta_vs_Dortmund_16feb_dated_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015434/1771533645644719_UCL26_Playoffs_Leg2_Atalanta_vs_Dortmund_16feb_dated_landscape_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015434/1771532794181719_UCL26_Playoffs_Leg2_Atalanta_vs_Dortmund_16feb_tonight_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015434/1771533606972719_UCL26_Playoffs_Leg2_Atalanta_vs_Dortmund_16feb_tonight_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
         "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015550/1771935587748302_UCL25_26_Match_masthead_mobile_v2_984x1182_Atalanta_vs_Dortmund_SP.jpg",
         "masthead_logo": null,
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015434/1771533645644719_UCL26_Playoffs_Leg2_Atalanta_vs_Dortmund_16feb_dated_landscape_thumb.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015434/1771533606972719_UCL26_Playoffs_Leg2_Atalanta_vs_Dortmund_16feb_tonight_landscape_thumb.jpg"
       },
       "MULTIPLE_AUDIO_LINKS": []
     },
@@ -413,14 +515,14 @@
         "originalAirDate": null
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015434/1771534518891719_UCL26_Playoffs_Leg2_Juventus_vs_Galatasaray_16feb_dated_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015434/1771535197150719_UCL26_Playoffs_Leg2_Juventus_vs_Galatasaray_16feb_dated_landscape_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015434/1771534540287719_UCL26_Playoffs_Leg2_Juventus_vs_Galatasaray_16feb_tonight_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015434/1771535208302719_UCL26_Playoffs_Leg2_Juventus_vs_Galatasaray_16feb_tonight_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
         "masthead_mobile_v2": null,
         "masthead_logo": null,
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015434/1771535197150719_UCL26_Playoffs_Leg2_Juventus_vs_Galatasaray_16feb_dated_landscape_thumb.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015434/1771535208302719_UCL26_Playoffs_Leg2_Juventus_vs_Galatasaray_16feb_tonight_landscape_thumb.jpg"
       },
       "MULTIPLE_AUDIO_LINKS": []
     }
