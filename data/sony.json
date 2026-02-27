@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "27-02-2026 07:00",
+  "last_updated": "27-02-2026 11:20",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -16,7 +16,108 @@
     "SERVER_STATUS": "NORMAL",
     "USAGE_GUIDE": []
   },
-  "data": [],
+  "data": [
+    {
+      "contentId": 1090505221,
+      "video_info": {
+        "title": "Zimbabwe Women's Tour of New Zealand 2026",
+        "shortDescription": "Momentum builds in the series as New Zealand and Zimbabwe Women face off for the 2nd T20I at Seddon Park, with both sides eager to raise the intensity. New Zealand look to double their series lead under Amelia Kerr, while Zimbabwe aim to hit back with purpose in this landmark bilateral clash. Watch all the action from Zimbabwe Women's Tour of New Zealand 2026, LIVE on Sony LIV.",
+        "longDescription": "Momentum builds in the series as New Zealand and Zimbabwe Women face off for the 2nd T20I at Seddon Park, with both sides eager to raise the intensity. New Zealand look to double their series lead under Amelia Kerr, while Zimbabwe aim to hit back with purpose in this landmark bilateral clash. Watch all the action from Zimbabwe Women's Tour of New Zealand 2026, LIVE on Sony LIV.",
+        "genres": [
+          "Cricket"
+        ],
+        "episodeTitle": "2nd T20I - 27 Feb 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/ZvnTKwZUSL-3NORh8XUXXA/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "27 Feb 2026, 11:15 AM",
+        "contractEndDate": "27 Feb 2026, 07:45 PM",
+        "originalAirDate": "26 Feb 2026, 11:45 AM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015614/1772094673055709_NZw_vs_ZIMw_2ndT20i_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015614/1772094832114709_NZw_vs_ZIMw_2ndT20i_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015540/1771915862707206_NZWvsZIMW2026_MATCH_masthead_mobile_v2_984x1182.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015545/1771928358696386_NZWvsZIMW2026_MATCH_Masthead_logo_2ndT20_LIVE_1.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015614/1772094832114709_NZw_vs_ZIMw_2ndT20i_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21-criclive/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/ZvnTKwZUSL-3NORh8XUXXA/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1772171412567,
+              "DOCTOR_STRANGE": 1772171411,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "Date": "Friday 27th of February 2026 11:20:11 AM"
+            }
+          }
+        }
+      ]
+    }
+  ],
   "upcoming": [
     {
       "contentId": 1090504638,
