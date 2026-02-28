@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "01-03-2026 01:00",
+  "last_updated": "01-03-2026 01:20",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -16,109 +16,7 @@
     "SERVER_STATUS": "NORMAL",
     "USAGE_GUIDE": []
   },
-  "data": [
-    {
-      "contentId": 1090505226,
-      "video_info": {
-        "title": "Bundesliga 2025-26",
-        "shortDescription": "Borussia Dortmund host Bayern Munich at a roaring Signal Iduna Park in a blockbuster Klassiker packed with rivalry, stakes, and star power. Dortmund seek to harness their home atmosphere to unsettle Bayern, while the champions arrive focused, ruthless, and ready to dictate. A fierce, high‑voltage showdown awaits between Germany’s giants. Who will come out on top? Find out as we bring you all the action from Bundesliga 2025-26, LIVE on Sony LIV.",
-        "longDescription": "Borussia Dortmund host Bayern Munich at a roaring Signal Iduna Park in a blockbuster Klassiker packed with rivalry, stakes, and star power. Dortmund seek to harness their home atmosphere to unsettle Bayern, while the champions arrive focused, ruthless, and ready to dictate. A fierce, high‑voltage showdown awaits between Germany’s giants. Who will come out on top? Find out as we bring you all the action from Bundesliga 2025-26, LIVE on Sony LIV.",
-        "genres": [
-          "Football"
-        ],
-        "episodeTitle": "Borussia Dortmund vs Bayern Munich - MD 24 - 28 Feb 2026"
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": "https://dai.google.com/ssai/event/301Dh58nQGa_Ty00SFDSGA/master.m3u8",
-        "broadcast_channel": "Sony Sports Ten 2",
-        "audio_language_list": [
-          {
-            "lang_code": "ENG",
-            "lang_label": "English"
-          }
-        ],
-        "emfAttributes__audio_languages": "ENG",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD",
-          "videoType": "FULL_HD",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "ENG",
-              "isPreferred": true,
-              "audioLanguageLabel": "English"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA"
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "28 Feb 2026, 09:30 PM",
-        "contractEndDate": "01 Mar 2026, 02:20 AM",
-        "originalAirDate": "28 Feb 2026, 10:00 PM"
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015083/1770617227928953_BLIGA_26_Dortmund-vs-Bayern_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015083/1770617250355953_BLIGA_26_Dortmund-vs-Bayern_landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015625/1772110701257489_Bundesliga2026_Match_masthead_mobile_v2_984x1182_Borussia_Dortmund_vs_Bayern_Munich.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015625/1772110701290489_Bundesliga2026_Match_Masthead_logo_Borussia_Dortmund_vs_Bayern_Munich_LIVE.png",
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015083/1770617250355953_BLIGA_26_Dortmund-vs-Bayern_landscape_thumb.jpg"
-      },
-      "MULTIPLE_AUDIO_LINKS": [
-        {
-          "LANGUAGE": "English",
-          "LANG_CODE": "ENG",
-          "DATA": {
-            "JITENDRAUNATTI": {
-              "Device_Type": "LITE",
-              "message": "success",
-              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2022317/DAI13ME-V3/master.m3u8",
-              "WIDEVINE": null,
-              "STREAMING_TYPE": true,
-              "audioLanguages": [
-                {
-                  "audioId": 1,
-                  "audioLanguageName": "ENG",
-                  "isPreferred": true,
-                  "audioLanguageLabel": "English"
-                }
-              ],
-              "dai_asset_key": "https://dai.google.com/ssai/event/301Dh58nQGa_Ty00SFDSGA/master.m3u8",
-              "Maximum_Video_Quality": "SDR",
-              "Maximum_Resolution": "FULL_HD",
-              "trailer_url": "",
-              "systemTime": 1772295029644,
-              "DOCTOR_STRANGE": 1772295029,
-              "additionalDataJson": {
-                "enc_format": "HLS",
-                "resolution": "FULL_HD",
-                "audio_quality": "STEREO",
-                "video_quality": "SDR",
-                "fps": 25,
-                "videoCodec": "H264",
-                "audioCodec": "AAC",
-                "partners": [
-                  "ALL"
-                ],
-                "isDaiKey": false,
-                "ad_stack": "MT-SSB"
-              },
-              "Status_code": 200,
-              "content_type": "application/json; charset=utf-8",
-              "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022317/DAI13ME-V3/hdntl=exp=1772381430~acl=%2f*~id=56568125788677712769360723065291~data=hdntl,2022317,DAI13ME-V3,none~hmac=1a80de83f9e13e940c83662b0b2cbde42b1e29f7bfe3ae0124840e4e4535aeea/master_200.m3u8?aka_me_session_id=AAAAAAAAAAD2ZKRpAAAAADtLop10If29UlHZE8WUFYIb23zGzhFH0NyhNXAMrIGKr5voCnjEm8QMoo0Q3hBZTyDJ933q%2fQD%2f&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022317/DAI13ME-V3/hdntl=exp=1772381430~acl=%2f*~id=56568125788677712769360723065291~data=hdntl,2022317,DAI13ME-V3,none~hmac=1a80de83f9e13e940c83662b0b2cbde42b1e29f7bfe3ae0124840e4e4535aeea/master_400.m3u8?aka_me_session_id=AAAAAAAAAAD2ZKRpAAAAADtLop10If29UlHZE8WUFYIb23zGzhFH0NyhNXAMrIGKr5voCnjEm8QMoo0Q3hBZTyDJ933q%2fQD%2f&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022317/DAI13ME-V3/hdntl=exp=1772381430~acl=%2f*~id=56568125788677712769360723065291~data=hdntl,2022317,DAI13ME-V3,none~hmac=1a80de83f9e13e940c83662b0b2cbde42b1e29f7bfe3ae0124840e4e4535aeea/master_500.m3u8?aka_me_session_id=AAAAAAAAAAD2ZKRpAAAAADtLop10If29UlHZE8WUFYIb23zGzhFH0NyhNXAMrIGKr5voCnjEm8QMoo0Q3hBZTyDJ933q%2fQD%2f&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=837256,AVERAGE-BANDWIDTH=837256,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022317/DAI13ME-V3/hdntl=exp=1772381430~acl=%2f*~id=56568125788677712769360723065291~data=hdntl,2022317,DAI13ME-V3,none~hmac=1a80de83f9e13e940c83662b0b2cbde42b1e29f7bfe3ae0124840e4e4535aeea/master_600.m3u8?aka_me_session_id=AAAAAAAAAAD2ZKRpAAAAADtLop10If29UlHZE8WUFYIb23zGzhFH0NyhNXAMrIGKr5voCnjEm8QMoo0Q3hBZTyDJ933q%2fQD%2f&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022317/DAI13ME-V3/hdntl=exp=1772381430~acl=%2f*~id=56568125788677712769360723065291~data=hdntl,2022317,DAI13ME-V3,none~hmac=1a80de83f9e13e940c83662b0b2cbde42b1e29f7bfe3ae0124840e4e4535aeea/master_1000.m3u8?aka_me_session_id=AAAAAAAAAAD2ZKRpAAAAADtLop10If29UlHZE8WUFYIb23zGzhFH0NyhNXAMrIGKr5voCnjEm8QMoo0Q3hBZTyDJ933q%2fQD%2f&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022317/DAI13ME-V3/hdntl=exp=1772381430~acl=%2f*~id=56568125788677712769360723065291~data=hdntl,2022317,DAI13ME-V3,none~hmac=1a80de83f9e13e940c83662b0b2cbde42b1e29f7bfe3ae0124840e4e4535aeea/master_1300.m3u8?aka_me_session_id=AAAAAAAAAAD2ZKRpAAAAADtLop10If29UlHZE8WUFYIb23zGzhFH0NyhNXAMrIGKr5voCnjEm8QMoo0Q3hBZTyDJ933q%2fQD%2f&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022317/DAI13ME-V3/hdntl=exp=1772381430~acl=%2f*~id=56568125788677712769360723065291~data=hdntl,2022317,DAI13ME-V3,none~hmac=1a80de83f9e13e940c83662b0b2cbde42b1e29f7bfe3ae0124840e4e4535aeea/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAD2ZKRpAAAAADtLop10If29UlHZE8WUFYIb23zGzhFH0NyhNXAMrIGKr5voCnjEm8QMoo0Q3hBZTyDJ933q%2fQD%2f&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022317/DAI13ME-V3/hdntl=exp=1772381430~acl=%2f*~id=56568125788677712769360723065291~data=hdntl,2022317,DAI13ME-V3,none~hmac=1a80de83f9e13e940c83662b0b2cbde42b1e29f7bfe3ae0124840e4e4535aeea/master_2200.m3u8?aka_me_session_id=AAAAAAAAAAD2ZKRpAAAAADtLop10If29UlHZE8WUFYIb23zGzhFH0NyhNXAMrIGKr5voCnjEm8QMoo0Q3hBZTyDJ933q%2fQD%2f&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3591848,AVERAGE-BANDWIDTH=3591848,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022317/DAI13ME-V3/hdntl=exp=1772381430~acl=%2f*~id=56568125788677712769360723065291~data=hdntl,2022317,DAI13ME-V3,none~hmac=1a80de83f9e13e940c83662b0b2cbde42b1e29f7bfe3ae0124840e4e4535aeea/master_3200.m3u8?aka_me_session_id=AAAAAAAAAAD2ZKRpAAAAADtLop10If29UlHZE8WUFYIb23zGzhFH0NyhNXAMrIGKr5voCnjEm8QMoo0Q3hBZTyDJ933q%2fQD%2f&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022317/DAI13ME-V3/hdntl=exp=1772381430~acl=%2f*~id=56568125788677712769360723065291~data=hdntl,2022317,DAI13ME-V3,none~hmac=1a80de83f9e13e940c83662b0b2cbde42b1e29f7bfe3ae0124840e4e4535aeea/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAD2ZKRpAAAAADtLop10If29UlHZE8WUFYIb23zGzhFH0NyhNXAMrIGKr5voCnjEm8QMoo0Q3hBZTyDJ933q%2fQD%2f&aka_media_format_type=hls",
-              "date": "Saturday 28th of February 2026 09:40:29 PM"
-            }
-          }
-        }
-      ]
-    }
-  ],
+  "data": [],
   "upcoming": [
     {
       "contentId": 1090505314,
