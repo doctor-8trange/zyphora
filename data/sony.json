@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "01-03-2026 19:20",
+  "last_updated": "01-03-2026 19:40",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -17,6 +17,108 @@
     "USAGE_GUIDE": []
   },
   "data": [
+    {
+      "contentId": 1090492547,
+      "video_info": {
+        "title": "Indian Idol",
+        "shortDescription": "Indian Idol 16 – “Yaadon Ki Playlist” celebrates music that brings back cherished memories and emotions. For the first time ever, auditions go outdoors, traveling across India to discover raw talent, hosted by the legendary Udit Narayan, while Aditya Narayan returns as the main host. The judges - Vishal Dadlani, Shreya Ghoshal, and Badshah - search for voices that touch hearts. A season where every song is a memory, and every melody tells a story.",
+        "longDescription": "Indian Idol 16 – “Yaadon Ki Playlist” celebrates music that brings back cherished memories and emotions. For the first time ever, auditions go outdoors, traveling across India to discover raw talent, hosted by the legendary Udit Narayan, while Aditya Narayan returns as the main host. The judges - Vishal Dadlani, Shreya Ghoshal, and Badshah - search for voices that touch hearts. A season where every song is a memory, and every melody tells a story.",
+        "genres": [
+          "Reality",
+          "Music"
+        ],
+        "episodeTitle": "Indian Idol"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/g1cPcUIdSQC_3FXsrgV5iA/master.m3u8",
+        "broadcast_channel": "SET",
+        "audio_language_list": [
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          }
+        ],
+        "emfAttributes__audio_languages": "HIN",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "HIN",
+              "isPreferred": true,
+              "audioLanguageLabel": "Hindi"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "01 Mar 2026, 07:40 PM",
+        "contractEndDate": "01 Mar 2026, 09:51 PM",
+        "originalAirDate": "01 Mar 2026, 07:40 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015693/1772281119088572_indian_idol16_holi_special_simulcast_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015693/1772281151766572_indian_idol16_holi_special_simulcast_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015693/1772281348614572_indian_idol16_holi_special_masthead_mobile_v2.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015640/177213215336557_MLI_Indian_Idol16_27feb_800x800_masthead_logo.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015693/1772281151766572_indian_idol16_holi_special_simulcast_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "Hindi",
+          "LANG_CODE": "HIN",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-II/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "HIN",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "Hindi"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/g1cPcUIdSQC_3FXsrgV5iA/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1772374213183,
+              "DOCTOR_STRANGE": 1772374214,
+              "additionalDataJson": {
+                "audio_quality": "STEREO",
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "video_quality": "SDR",
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "fps": 50,
+                "isDaiKey": false,
+                "partners": [
+                  "ALL"
+                ],
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.4d4015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=256x144,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-II/hdntl=exp=1772460616~acl=%2f*~id=11523610790401396047887626943273~data=hdntl,2094590,DAI25ME-II,none~hmac=454ea921af02c7a1589f823c3aeda68ce9aaef3a79d42bda457d9453a569656b/master_200.m3u8?aka_me_session_id=AAAAAAAAAABImqVpAAAAAK0TbJATh+eAS6umLor7SUZU16KSEvqZfwl+kzQY1DehO1ke66N5d5BK7eSDbAt0JKDhTkUNqnN2&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=581816,AVERAGE-BANDWIDTH=581816,CODECS=\"avc1.4d4015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-II/hdntl=exp=1772460616~acl=%2f*~id=11523610790401396047887626943273~data=hdntl,2094590,DAI25ME-II,none~hmac=454ea921af02c7a1589f823c3aeda68ce9aaef3a79d42bda457d9453a569656b/master_350.m3u8?aka_me_session_id=AAAAAAAAAABImqVpAAAAAK0TbJATh+eAS6umLor7SUZU16KSEvqZfwl+kzQY1DehO1ke66N5d5BK7eSDbAt0JKDhTkUNqnN2&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=735080,AVERAGE-BANDWIDTH=735080,CODECS=\"avc1.64001e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-II/hdntl=exp=1772460616~acl=%2f*~id=11523610790401396047887626943273~data=hdntl,2094590,DAI25ME-II,none~hmac=454ea921af02c7a1589f823c3aeda68ce9aaef3a79d42bda457d9453a569656b/master_500.m3u8?aka_me_session_id=AAAAAAAAAABImqVpAAAAAK0TbJATh+eAS6umLor7SUZU16KSEvqZfwl+kzQY1DehO1ke66N5d5BK7eSDbAt0JKDhTkUNqnN2&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=939432,AVERAGE-BANDWIDTH=939432,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-II/hdntl=exp=1772460616~acl=%2f*~id=11523610790401396047887626943273~data=hdntl,2094590,DAI25ME-II,none~hmac=454ea921af02c7a1589f823c3aeda68ce9aaef3a79d42bda457d9453a569656b/master_700.m3u8?aka_me_session_id=AAAAAAAAAABImqVpAAAAAK0TbJATh+eAS6umLor7SUZU16KSEvqZfwl+kzQY1DehO1ke66N5d5BK7eSDbAt0JKDhTkUNqnN2&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-II/hdntl=exp=1772460616~acl=%2f*~id=11523610790401396047887626943273~data=hdntl,2094590,DAI25ME-II,none~hmac=454ea921af02c7a1589f823c3aeda68ce9aaef3a79d42bda457d9453a569656b/master_1300.m3u8?aka_me_session_id=AAAAAAAAAABImqVpAAAAAK0TbJATh+eAS6umLor7SUZU16KSEvqZfwl+kzQY1DehO1ke66N5d5BK7eSDbAt0JKDhTkUNqnN2&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2267688,AVERAGE-BANDWIDTH=2267688,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-II/hdntl=exp=1772460616~acl=%2f*~id=11523610790401396047887626943273~data=hdntl,2094590,DAI25ME-II,none~hmac=454ea921af02c7a1589f823c3aeda68ce9aaef3a79d42bda457d9453a569656b/master_2000.m3u8?aka_me_session_id=AAAAAAAAAABImqVpAAAAAK0TbJATh+eAS6umLor7SUZU16KSEvqZfwl+kzQY1DehO1ke66N5d5BK7eSDbAt0JKDhTkUNqnN2&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2778568,AVERAGE-BANDWIDTH=2778568,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-II/hdntl=exp=1772460616~acl=%2f*~id=11523610790401396047887626943273~data=hdntl,2094590,DAI25ME-II,none~hmac=454ea921af02c7a1589f823c3aeda68ce9aaef3a79d42bda457d9453a569656b/master_2500.m3u8?aka_me_session_id=AAAAAAAAAABImqVpAAAAAK0TbJATh+eAS6umLor7SUZU16KSEvqZfwl+kzQY1DehO1ke66N5d5BK7eSDbAt0JKDhTkUNqnN2&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3800296,AVERAGE-BANDWIDTH=3800296,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-II/hdntl=exp=1772460616~acl=%2f*~id=11523610790401396047887626943273~data=hdntl,2094590,DAI25ME-II,none~hmac=454ea921af02c7a1589f823c3aeda68ce9aaef3a79d42bda457d9453a569656b/master_3500.m3u8?aka_me_session_id=AAAAAAAAAABImqVpAAAAAK0TbJATh+eAS6umLor7SUZU16KSEvqZfwl+kzQY1DehO1ke66N5d5BK7eSDbAt0JKDhTkUNqnN2&aka_media_format_type=hls",
+              "date": "Sunday 1st of March 2026 07:40:14 PM"
+            }
+          }
+        }
+      ]
+    },
     {
       "contentId": 1090505345,
       "video_info": {
