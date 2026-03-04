@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "04-03-2026 04:00",
+  "last_updated": "04-03-2026 19:40",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -16,7 +16,211 @@
     "SERVER_STATUS": "NORMAL",
     "USAGE_GUIDE": []
   },
-  "data": [],
+  "data": [
+    {
+      "contentId": 1090498688,
+      "video_info": {
+        "title": "Shark Tank India",
+        "shortDescription": "New season. New Sharks. Bigger dreams. Shark Tank India returns with Season 5! India's boldest entrepreneurs step into the Tank to pitch groundbreaking ideas and secure investments from an expanded panel of Sharks – Aman Gupta, Anupam Mittal, Namita Thapar, Vineeta Singh, Ritesh Agarwal, Kunal Bahl, Amit Jain, Mohit Yadav, Varun Alagh, Kanika Tekriwal, Viraj Bahl, Shaily Mehrotra, and Hardik Kothiya. The stakes have never been higher!",
+        "longDescription": "New season. New Sharks. Bigger dreams. Shark Tank India returns with Season 5! India's boldest entrepreneurs step into the Tank to pitch groundbreaking ideas and secure investments from an expanded panel of Sharks – Aman Gupta, Anupam Mittal, Namita Thapar, Vineeta Singh, Ritesh Agarwal, Kunal Bahl, Amit Jain, Mohit Yadav, Varun Alagh, Kanika Tekriwal, Viraj Bahl, Shaily Mehrotra, and Hardik Kothiya. The stakes have never been higher!",
+        "genres": [
+          "Reality"
+        ],
+        "episodeTitle": "Shark Tank India"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/-9b6XJc7R-6Qneau7JKlJg/master.m3u8",
+        "broadcast_channel": "SET",
+        "audio_language_list": [
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          }
+        ],
+        "emfAttributes__audio_languages": "HIN",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "HIN",
+              "isPreferred": true,
+              "audioLanguageLabel": "Hindi"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "04 Mar 2026, 07:40 PM",
+        "contractEndDate": "04 Mar 2026, 11:56 PM",
+        "originalAirDate": "04 Mar 2026, 07:40 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015600/1772042855790566_STI_S5_25feb_simulcast_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015600/1772043167046566_STI_S5_25feb_simulcast_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1700000741/mastheadMobileV2/1772030580691_./STIS5_7_masthead_mobile_v2_984x1182_Set2_6.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013027/1767690556411510_STI_S5_streaming_latest_EP_6jan_masthead_logo.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015600/1772043167046566_STI_S5_25feb_simulcast_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "Hindi",
+          "LANG_CODE": "HIN",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "HIN",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "Hindi"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/-9b6XJc7R-6Qneau7JKlJg/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1772633414039,
+              "DOCTOR_STRANGE": 1772633417,
+              "additionalDataJson": {
+                "audio_quality": "STEREO",
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "video_quality": "SDR",
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "fps": 50,
+                "isDaiKey": false,
+                "partners": [
+                  "ALL"
+                ],
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.4d4015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=256x144,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/hdntl=exp=1772719818~acl=%2f*~id=78711229244931794754600327552667~data=hdntl,2094590,DAI25ME-STI,none~hmac=ef3a52383ebc8733bf9f2db982f416cbdb0968aaa336394e6e23599c5d2ed80a/master_200.m3u8?aka_me_session_id=AAAAAAAAAADKjqlpAAAAAM2K8eliJLdMNaGWc1Vdd4t33lVi2%2f7WMBi89fVcTgpgZQQ9QQwa8iUCjbeCJ1zLFLX+uzGVuxsq&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=581816,AVERAGE-BANDWIDTH=581816,CODECS=\"avc1.4d4015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/hdntl=exp=1772719818~acl=%2f*~id=78711229244931794754600327552667~data=hdntl,2094590,DAI25ME-STI,none~hmac=ef3a52383ebc8733bf9f2db982f416cbdb0968aaa336394e6e23599c5d2ed80a/master_350.m3u8?aka_me_session_id=AAAAAAAAAADKjqlpAAAAAM2K8eliJLdMNaGWc1Vdd4t33lVi2%2f7WMBi89fVcTgpgZQQ9QQwa8iUCjbeCJ1zLFLX+uzGVuxsq&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=735080,AVERAGE-BANDWIDTH=735080,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/hdntl=exp=1772719818~acl=%2f*~id=78711229244931794754600327552667~data=hdntl,2094590,DAI25ME-STI,none~hmac=ef3a52383ebc8733bf9f2db982f416cbdb0968aaa336394e6e23599c5d2ed80a/master_500.m3u8?aka_me_session_id=AAAAAAAAAADKjqlpAAAAAM2K8eliJLdMNaGWc1Vdd4t33lVi2%2f7WMBi89fVcTgpgZQQ9QQwa8iUCjbeCJ1zLFLX+uzGVuxsq&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=939432,AVERAGE-BANDWIDTH=939432,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/hdntl=exp=1772719818~acl=%2f*~id=78711229244931794754600327552667~data=hdntl,2094590,DAI25ME-STI,none~hmac=ef3a52383ebc8733bf9f2db982f416cbdb0968aaa336394e6e23599c5d2ed80a/master_700.m3u8?aka_me_session_id=AAAAAAAAAADKjqlpAAAAAM2K8eliJLdMNaGWc1Vdd4t33lVi2%2f7WMBi89fVcTgpgZQQ9QQwa8iUCjbeCJ1zLFLX+uzGVuxsq&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.4d4020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/hdntl=exp=1772719818~acl=%2f*~id=78711229244931794754600327552667~data=hdntl,2094590,DAI25ME-STI,none~hmac=ef3a52383ebc8733bf9f2db982f416cbdb0968aaa336394e6e23599c5d2ed80a/master_1300.m3u8?aka_me_session_id=AAAAAAAAAADKjqlpAAAAAM2K8eliJLdMNaGWc1Vdd4t33lVi2%2f7WMBi89fVcTgpgZQQ9QQwa8iUCjbeCJ1zLFLX+uzGVuxsq&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2267688,AVERAGE-BANDWIDTH=2267688,CODECS=\"avc1.4d4020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/hdntl=exp=1772719818~acl=%2f*~id=78711229244931794754600327552667~data=hdntl,2094590,DAI25ME-STI,none~hmac=ef3a52383ebc8733bf9f2db982f416cbdb0968aaa336394e6e23599c5d2ed80a/master_2000.m3u8?aka_me_session_id=AAAAAAAAAADKjqlpAAAAAM2K8eliJLdMNaGWc1Vdd4t33lVi2%2f7WMBi89fVcTgpgZQQ9QQwa8iUCjbeCJ1zLFLX+uzGVuxsq&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2778568,AVERAGE-BANDWIDTH=2778568,CODECS=\"avc1.4d4028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/hdntl=exp=1772719818~acl=%2f*~id=78711229244931794754600327552667~data=hdntl,2094590,DAI25ME-STI,none~hmac=ef3a52383ebc8733bf9f2db982f416cbdb0968aaa336394e6e23599c5d2ed80a/master_2500.m3u8?aka_me_session_id=AAAAAAAAAADKjqlpAAAAAM2K8eliJLdMNaGWc1Vdd4t33lVi2%2f7WMBi89fVcTgpgZQQ9QQwa8iUCjbeCJ1zLFLX+uzGVuxsq&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3800296,AVERAGE-BANDWIDTH=3800296,CODECS=\"avc1.4d4028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/hdntl=exp=1772719818~acl=%2f*~id=78711229244931794754600327552667~data=hdntl,2094590,DAI25ME-STI,none~hmac=ef3a52383ebc8733bf9f2db982f416cbdb0968aaa336394e6e23599c5d2ed80a/master_3500.m3u8?aka_me_session_id=AAAAAAAAAADKjqlpAAAAAM2K8eliJLdMNaGWc1Vdd4t33lVi2%2f7WMBi89fVcTgpgZQQ9QQwa8iUCjbeCJ1zLFLX+uzGVuxsq&aka_media_format_type=hls",
+              "date": "Wednesday 4th of March 2026 07:40:17 PM"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "contentId": 1090498703,
+      "video_info": {
+        "title": "MasterChef India - Hindi",
+        "shortDescription": "MasterChef India returns with a landmark season that celebrates the soul of Indian cuisine. From elevated micro-cuisines to forgotten regional recipes, India takes centre stage like never before. For the first time ever, jodis compete together - bringing family legacies, emotion, and partnership into the kitchen. With iconinc judges Vikas Khanna, Ranveer Brar, and Kunal Kapur back together, the hunt begins for India's first MasterChef Jodi.",
+        "longDescription": "MasterChef India returns with a landmark season that celebrates the soul of Indian cuisine. From elevated micro-cuisines to forgotten regional recipes, India takes centre stage like never before. For the first time ever, jodis compete together - bringing family legacies, emotion, and partnership into the kitchen. With iconinc judges Vikas Khanna, Ranveer Brar, and Kunal Kapur back together, the hunt begins for India's first MasterChef Jodi.",
+        "genres": [
+          "Reality",
+          "Cookery"
+        ],
+        "episodeTitle": "MasterChef India - Hindi"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/820xr_9-QzGd_B1fhMg8ig/master.m3u8",
+        "broadcast_channel": "SET",
+        "audio_language_list": [
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          }
+        ],
+        "emfAttributes__audio_languages": "HIN",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "HIN",
+              "isPreferred": true,
+              "audioLanguageLabel": "Hindi"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "04 Mar 2026, 07:40 PM",
+        "contractEndDate": "04 Mar 2026, 08:59 PM",
+        "originalAirDate": "04 Mar 2026, 07:40 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015324/1771336135650832_MCI_S4_simulcast_17feb_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015324/1771336173736832_MCI_S4_simulcast_17feb_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1700001090/mastheadMobileV2/1771249427208_./MCIS4_3_masthead_mobile_v2_984x1182_SP_6.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015744/1772461685806924_MCI_grand_finale_week_800x800_simulcast_masthead_logo.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015324/1771336173736832_MCI_S4_simulcast_17feb_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "Hindi",
+          "LANG_CODE": "HIN",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2037142/DAI22ME-MCI/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "HIN",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "Hindi"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/820xr_9-QzGd_B1fhMg8ig/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1772633421479,
+              "DOCTOR_STRANGE": 1772633420,
+              "additionalDataJson": {
+                "audio_quality": "STEREO",
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "video_quality": "SDR",
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "fps": 50,
+                "isDaiKey": false,
+                "partners": [
+                  "ALL"
+                ],
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.4d4015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=256x144,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037142/DAI22ME-MCI/hdntl=exp=1772719821~acl=%2f*~id=78711229244931794754600327552667~data=hdntl,2037142,DAI22ME-MCI,none~hmac=b040f4ed6236725b2d0c9b3e8499633241bc5b6003db83793fc9bc7ab0f7b760/master_200.m3u8?aka_me_session_id=AAAAAAAAAADNjqlpAAAAABYtc4CQ3RI5ERJDm78QXNv7eBqYwUVUuAPk4LONHI85%2fQXhmZarVbSeszARElrOKZF6+ivazSZH&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=581816,AVERAGE-BANDWIDTH=581816,CODECS=\"avc1.4d4015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037142/DAI22ME-MCI/hdntl=exp=1772719821~acl=%2f*~id=78711229244931794754600327552667~data=hdntl,2037142,DAI22ME-MCI,none~hmac=b040f4ed6236725b2d0c9b3e8499633241bc5b6003db83793fc9bc7ab0f7b760/master_350.m3u8?aka_me_session_id=AAAAAAAAAADNjqlpAAAAABYtc4CQ3RI5ERJDm78QXNv7eBqYwUVUuAPk4LONHI85%2fQXhmZarVbSeszARElrOKZF6+ivazSZH&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=735080,AVERAGE-BANDWIDTH=735080,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037142/DAI22ME-MCI/hdntl=exp=1772719821~acl=%2f*~id=78711229244931794754600327552667~data=hdntl,2037142,DAI22ME-MCI,none~hmac=b040f4ed6236725b2d0c9b3e8499633241bc5b6003db83793fc9bc7ab0f7b760/master_500.m3u8?aka_me_session_id=AAAAAAAAAADNjqlpAAAAABYtc4CQ3RI5ERJDm78QXNv7eBqYwUVUuAPk4LONHI85%2fQXhmZarVbSeszARElrOKZF6+ivazSZH&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=939432,AVERAGE-BANDWIDTH=939432,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037142/DAI22ME-MCI/hdntl=exp=1772719821~acl=%2f*~id=78711229244931794754600327552667~data=hdntl,2037142,DAI22ME-MCI,none~hmac=b040f4ed6236725b2d0c9b3e8499633241bc5b6003db83793fc9bc7ab0f7b760/master_700.m3u8?aka_me_session_id=AAAAAAAAAADNjqlpAAAAABYtc4CQ3RI5ERJDm78QXNv7eBqYwUVUuAPk4LONHI85%2fQXhmZarVbSeszARElrOKZF6+ivazSZH&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.4d4020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037142/DAI22ME-MCI/hdntl=exp=1772719821~acl=%2f*~id=78711229244931794754600327552667~data=hdntl,2037142,DAI22ME-MCI,none~hmac=b040f4ed6236725b2d0c9b3e8499633241bc5b6003db83793fc9bc7ab0f7b760/master_1300.m3u8?aka_me_session_id=AAAAAAAAAADNjqlpAAAAABYtc4CQ3RI5ERJDm78QXNv7eBqYwUVUuAPk4LONHI85%2fQXhmZarVbSeszARElrOKZF6+ivazSZH&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2267688,AVERAGE-BANDWIDTH=2267688,CODECS=\"avc1.4d4020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037142/DAI22ME-MCI/hdntl=exp=1772719821~acl=%2f*~id=78711229244931794754600327552667~data=hdntl,2037142,DAI22ME-MCI,none~hmac=b040f4ed6236725b2d0c9b3e8499633241bc5b6003db83793fc9bc7ab0f7b760/master_2000.m3u8?aka_me_session_id=AAAAAAAAAADNjqlpAAAAABYtc4CQ3RI5ERJDm78QXNv7eBqYwUVUuAPk4LONHI85%2fQXhmZarVbSeszARElrOKZF6+ivazSZH&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2778568,AVERAGE-BANDWIDTH=2778568,CODECS=\"avc1.4d4028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037142/DAI22ME-MCI/hdntl=exp=1772719821~acl=%2f*~id=78711229244931794754600327552667~data=hdntl,2037142,DAI22ME-MCI,none~hmac=b040f4ed6236725b2d0c9b3e8499633241bc5b6003db83793fc9bc7ab0f7b760/master_2500.m3u8?aka_me_session_id=AAAAAAAAAADNjqlpAAAAABYtc4CQ3RI5ERJDm78QXNv7eBqYwUVUuAPk4LONHI85%2fQXhmZarVbSeszARElrOKZF6+ivazSZH&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3800296,AVERAGE-BANDWIDTH=3800296,CODECS=\"avc1.4d4028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037142/DAI22ME-MCI/hdntl=exp=1772719821~acl=%2f*~id=78711229244931794754600327552667~data=hdntl,2037142,DAI22ME-MCI,none~hmac=b040f4ed6236725b2d0c9b3e8499633241bc5b6003db83793fc9bc7ab0f7b760/master_3500.m3u8?aka_me_session_id=AAAAAAAAAADNjqlpAAAAABYtc4CQ3RI5ERJDm78QXNv7eBqYwUVUuAPk4LONHI85%2fQXhmZarVbSeszARElrOKZF6+ivazSZH&aka_media_format_type=hls",
+              "date": "Wednesday 4th of March 2026 07:40:20 PM"
+            }
+          }
+        }
+      ]
+    }
+  ],
   "upcoming": [
     {
       "contentId": 1090505314,
@@ -77,9 +281,9 @@
       "MULTIPLE_AUDIO_LINKS": []
     },
     {
-      "contentId": 1090505459,
+      "contentId": 1090505484,
       "video_info": {
-        "title": "Upcoming - Round 5 - Emirates FA Cup ",
+        "title": "Upcoming - Emirates FA Cup - Wolves vs Liverpool",
         "shortDescription": "Tune in to catch all the action from the Emirates FA Cup, exclusively on Sony LIV.",
         "longDescription": "Tune in to catch all the action from the Emirates FA Cup, exclusively on Sony LIV.",
         "genres": [
@@ -113,24 +317,198 @@
           ],
           "subtitlesLanguages": [],
           "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/da6f76c80ad34cdf8d11bd2b5709e4af/1772453311/baseline-std-v4/PROMO_FA_CUP_ROUND_05_02032026_eng_baseline-800300010.mpd",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/2ee176dd93b641d2a258466a8fb5dda7/1772469427/baseline-std-v4/PROMO_FA_CUP_WOLVES_VS_LIVERPOOL_eng_baseline-800300010.mpd",
           "hasTrailer": true
         }
       },
       "air_dates": {
-        "contractStartDate": "02 Mar 2026, 05:00 PM",
+        "contractStartDate": "02 Mar 2026, 09:00 PM",
+        "contractEndDate": "07 Mar 2026, 12:50 AM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015767/1772621519413326_FA_Cup_26_Wolves-vs-Liverpool_7_Mar_Portrait_Thumbnail.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015767/1772622405281326_FA_Cup_26_Wolves-vs-Liverpool_7_Mar_Landscape_Thumbnail.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015747/1772462392810466_FACUP_2026_GOB_masthead_mobile_v2_984x1182_Wolves_vs_Liverpool_1.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015747/1772462392886466_FA_Cup_2026_GOB_Masthead_logo_Wolves_vs_Liverpool_Dated.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015767/1772622405281326_FA_Cup_26_Wolves-vs-Liverpool_7_Mar_Landscape_Thumbnail.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": []
+    },
+    {
+      "contentId": 1090505485,
+      "video_info": {
+        "title": "Upcoming - Emirates FA Cup - Mansfield Town vs Arsenal",
+        "shortDescription": "Tune in to catch all the action from the Emirates FA Cup, exclusively on Sony LIV.",
+        "longDescription": "Tune in to catch all the action from the Emirates FA Cup, exclusively on Sony LIV.",
+        "genres": [
+          "Football"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/e8927ff39170465ca5360cf265a303db/1772469428/baseline-std-v4/PROMO_FA_CUP_MANSFIELD_VS_ARSENAL_eng_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "02 Mar 2026, 09:00 PM",
+        "contractEndDate": "07 Mar 2026, 05:05 PM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015767/1772621870048326_FA_Cup_26_Mansfield-Town-vs-Arsenal_7_Mar_Portrait_Thumbnail.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015767/1772622177807326_FA_Cup_26_Mansfield-Town-vs-Arsenal_7_Mar_Landscape_Thumbnail.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015747/1772462392755466_FACUP_2026_GOB_masthead_mobile_v2_984x1182_Mansfield_vs_Arsenal_1.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015747/1772462392846466_FA_Cup_2026_GOB_Masthead_logo_Mansfield_Town_vs_Arsenal_Dated.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015767/1772622177807326_FA_Cup_26_Mansfield-Town-vs-Arsenal_7_Mar_Landscape_Thumbnail.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": []
+    },
+    {
+      "contentId": 1090505486,
+      "video_info": {
+        "title": "Upcoming - Emirates FA Cup - Newcastle United vs Manchester City",
+        "shortDescription": "Tune in to catch all the action from the Emirates FA Cup, exclusively on Sony LIV.",
+        "longDescription": "Tune in to catch all the action from the Emirates FA Cup, exclusively on Sony LIV.",
+        "genres": [
+          "Football"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/b35889847a1246288bb0fe013c354b3d/1772469431/baseline-std-v4/PROMO_FA_CUP_NEWCASTLE_VS_MAN_CITY_eng_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "02 Mar 2026, 09:00 PM",
         "contractEndDate": "08 Mar 2026, 12:50 AM",
         "originalAirDate": null
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015735/1772452921391126_fa_promo_RD5_2march_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015735/1772452976768126_FACUP_RD5_2march_promo_landscape_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015767/1772621326323326_FA_Cup_26_Newcastle-United-vs-Manchester-City_8_Mar_Portrait_Thumbnail.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015767/1772622307911326_FA_Cup_26_Newcastle-United-vs-Manchester-City_8_Mar_Landscape_Thumbnail.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015745/177246328123570_facup_comobo_2march_masthead_1mobile_v2.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015745/177246434055870_fa_promo_RD5_2march1_masthead_logo.png",
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015747/1772462392783466_FACUP_2026_GOB_masthead_mobile_v2_984x1182_Newcastle_vs_Manchester_City_1.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015747/1772462392858466_FA_Cup_2026_GOB_Masthead_logo_Newcastle_United_vs_Manchester_City_Dated.png",
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015735/1772452976768126_FACUP_RD5_2march_promo_landscape_thumb.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015767/1772622307911326_FA_Cup_26_Newcastle-United-vs-Manchester-City_8_Mar_Landscape_Thumbnail.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": []
+    },
+    {
+      "contentId": 1090505483,
+      "video_info": {
+        "title": "Upcoming - Emirates FA Cup - Wrexham vs Chelsea",
+        "shortDescription": "Tune in to catch all the action from the Emirates FA Cup, exclusively on Sony LIV.",
+        "longDescription": "Tune in to catch all the action from the Emirates FA Cup, exclusively on Sony LIV.",
+        "genres": [
+          "Football"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/43b5d688024f45698a270ac193ce50b7/1772469424/baseline-std-v4/PROMO_FA_CUP_WREXHAM_VS_CHELSEA_eng_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "02 Mar 2026, 09:00 PM",
+        "contractEndDate": "07 Mar 2026, 10:35 PM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015767/1772621601725326_FA_Cup_26_Wrexham-vs-Chelsea_7_Mar_Portrait_Thumbnail.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015767/1772622587846326_FA_Cup_26_Wrexham-vs-Chelsea_7_Mar_Landscape_Thumbnail.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015747/1772462392835466_FACUP_2026_GOB_masthead_mobile_v2_984x1182_Wrexham_vs_Chelsea_1.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015747/1772462392920466_FA_Cup_2026_GOB_Masthead_logo_Wrexham_vs_Chelsea_Dated.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015767/1772622587846326_FA_Cup_26_Wrexham-vs-Chelsea_7_Mar_Landscape_Thumbnail.jpg"
       },
       "MULTIPLE_AUDIO_LINKS": []
     },
@@ -372,6 +750,64 @@
       "MULTIPLE_AUDIO_LINKS": []
     },
     {
+      "contentId": 1090505459,
+      "video_info": {
+        "title": "Upcoming - Round 5 - Emirates FA Cup ",
+        "shortDescription": "Tune in to catch all the action from the Emirates FA Cup, exclusively on Sony LIV.",
+        "longDescription": "Tune in to catch all the action from the Emirates FA Cup, exclusively on Sony LIV.",
+        "genres": [
+          "Football"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/da6f76c80ad34cdf8d11bd2b5709e4af/1772453311/baseline-std-v4/PROMO_FA_CUP_ROUND_05_02032026_eng_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "02 Mar 2026, 05:00 PM",
+        "contractEndDate": "08 Mar 2026, 12:50 AM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015735/1772452921391126_fa_promo_RD5_2march_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015735/1772452976768126_FACUP_RD5_2march_promo_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015745/177246328123570_facup_comobo_2march_masthead_1mobile_v2.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015745/177246434055870_fa_promo_RD5_2march1_masthead_logo.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015735/1772452976768126_FACUP_RD5_2march_promo_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": []
+    },
+    {
       "contentId": 1090504638,
       "video_info": {
         "title": "Upcoming - Zimbabwe Women's Tour of New Zealand 2026",
@@ -426,238 +862,6 @@
         "circular_image": null,
         "image_600x900_clean": null,
         "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015537/1771863541198694_NZWvsZIMW2026_GOB_Landscape_Thumb.jpg"
-      },
-      "MULTIPLE_AUDIO_LINKS": []
-    },
-    {
-      "contentId": 1090505484,
-      "video_info": {
-        "title": "Upcoming - Emirates FA Cup - Wolves vs Liverpool",
-        "shortDescription": "Tune in to catch all the action from the Emirates FA Cup, exclusively on Sony LIV.",
-        "longDescription": "Tune in to catch all the action from the Emirates FA Cup, exclusively on Sony LIV.",
-        "genres": [
-          "Football"
-        ],
-        "episodeTitle": ""
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "Sony Sports Ten 5",
-        "audio_language_list": [
-          {
-            "lang_code": "ENG",
-            "lang_label": "English"
-          }
-        ],
-        "emfAttributes__audio_languages": "ENG",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "ENG",
-              "isPreferred": true,
-              "audioLanguageLabel": "English",
-              "type": "main"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/2ee176dd93b641d2a258466a8fb5dda7/1772469427/baseline-std-v4/PROMO_FA_CUP_WOLVES_VS_LIVERPOOL_eng_baseline-800300010.mpd",
-          "hasTrailer": true
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "02 Mar 2026, 09:00 PM",
-        "contractEndDate": "07 Mar 2026, 12:50 AM",
-        "originalAirDate": null
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015748/177246965750997_Wolves-vs-Liverpool-7th-Mar_landscape_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015748/177246965750997_Wolves-vs-Liverpool-7th-Mar_landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015747/1772462392810466_FACUP_2026_GOB_masthead_mobile_v2_984x1182_Wolves_vs_Liverpool_1.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015747/1772462392886466_FA_Cup_2026_GOB_Masthead_logo_Wolves_vs_Liverpool_Dated.png",
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015748/177246965750997_Wolves-vs-Liverpool-7th-Mar_landscape_thumb.jpg"
-      },
-      "MULTIPLE_AUDIO_LINKS": []
-    },
-    {
-      "contentId": 1090505485,
-      "video_info": {
-        "title": "Upcoming - Emirates FA Cup - Mansfield Town vs Arsenal",
-        "shortDescription": "Tune in to catch all the action from the Emirates FA Cup, exclusively on Sony LIV.",
-        "longDescription": "Tune in to catch all the action from the Emirates FA Cup, exclusively on Sony LIV.",
-        "genres": [
-          "Football"
-        ],
-        "episodeTitle": ""
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "Sony Sports Ten 5",
-        "audio_language_list": [
-          {
-            "lang_code": "ENG",
-            "lang_label": "English"
-          }
-        ],
-        "emfAttributes__audio_languages": "ENG",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "ENG",
-              "isPreferred": true,
-              "audioLanguageLabel": "English",
-              "type": "main"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/e8927ff39170465ca5360cf265a303db/1772469428/baseline-std-v4/PROMO_FA_CUP_MANSFIELD_VS_ARSENAL_eng_baseline-800300010.mpd",
-          "hasTrailer": true
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "02 Mar 2026, 09:00 PM",
-        "contractEndDate": "07 Mar 2026, 05:05 PM",
-        "originalAirDate": null
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015748/177246956802097_Man-Town-vs-Arsenal-7th-Mar_landscape_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015748/177246956802097_Man-Town-vs-Arsenal-7th-Mar_landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015747/1772462392755466_FACUP_2026_GOB_masthead_mobile_v2_984x1182_Mansfield_vs_Arsenal_1.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015747/1772462392846466_FA_Cup_2026_GOB_Masthead_logo_Mansfield_Town_vs_Arsenal_Dated.png",
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015748/177246956802097_Man-Town-vs-Arsenal-7th-Mar_landscape_thumb.jpg"
-      },
-      "MULTIPLE_AUDIO_LINKS": []
-    },
-    {
-      "contentId": 1090505483,
-      "video_info": {
-        "title": "Upcoming - Emirates FA Cup - Wrexham vs Chelsea",
-        "shortDescription": "Tune in to catch all the action from the Emirates FA Cup, exclusively on Sony LIV.",
-        "longDescription": "Tune in to catch all the action from the Emirates FA Cup, exclusively on Sony LIV.",
-        "genres": [
-          "Football"
-        ],
-        "episodeTitle": ""
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "Sony Sports Ten 5",
-        "audio_language_list": [
-          {
-            "lang_code": "ENG",
-            "lang_label": "English"
-          }
-        ],
-        "emfAttributes__audio_languages": "ENG",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "ENG",
-              "isPreferred": true,
-              "audioLanguageLabel": "English",
-              "type": "main"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/43b5d688024f45698a270ac193ce50b7/1772469424/baseline-std-v4/PROMO_FA_CUP_WREXHAM_VS_CHELSEA_eng_baseline-800300010.mpd",
-          "hasTrailer": true
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "02 Mar 2026, 09:00 PM",
-        "contractEndDate": "07 Mar 2026, 10:35 PM",
-        "originalAirDate": null
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015748/177246961492497_Wrexham-vs-Chelsea-7th-Mar_landscape_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015748/177246961492497_Wrexham-vs-Chelsea-7th-Mar_landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015747/1772462392835466_FACUP_2026_GOB_masthead_mobile_v2_984x1182_Wrexham_vs_Chelsea_1.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015747/1772462392920466_FA_Cup_2026_GOB_Masthead_logo_Wrexham_vs_Chelsea_Dated.png",
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015748/177246961492497_Wrexham-vs-Chelsea-7th-Mar_landscape_thumb.jpg"
-      },
-      "MULTIPLE_AUDIO_LINKS": []
-    },
-    {
-      "contentId": 1090505486,
-      "video_info": {
-        "title": "Upcoming - Emirates FA Cup - Newcastle United vs Manchester City",
-        "shortDescription": "Tune in to catch all the action from the Emirates FA Cup, exclusively on Sony LIV.",
-        "longDescription": "Tune in to catch all the action from the Emirates FA Cup, exclusively on Sony LIV.",
-        "genres": [
-          "Football"
-        ],
-        "episodeTitle": ""
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "Sony Sports Ten 5",
-        "audio_language_list": [
-          {
-            "lang_code": "ENG",
-            "lang_label": "English"
-          }
-        ],
-        "emfAttributes__audio_languages": "ENG",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "ENG",
-              "isPreferred": true,
-              "audioLanguageLabel": "English",
-              "type": "main"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/b35889847a1246288bb0fe013c354b3d/1772469431/baseline-std-v4/PROMO_FA_CUP_NEWCASTLE_VS_MAN_CITY_eng_baseline-800300010.mpd",
-          "hasTrailer": true
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "02 Mar 2026, 09:00 PM",
-        "contractEndDate": "08 Mar 2026, 12:50 AM",
-        "originalAirDate": null
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015748/177246953756697_New-Castle-vs-Man-City-8th-Mar_landscape_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015748/177246953756697_New-Castle-vs-Man-City-8th-Mar_landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015747/1772462392783466_FACUP_2026_GOB_masthead_mobile_v2_984x1182_Newcastle_vs_Manchester_City_1.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015747/1772462392858466_FA_Cup_2026_GOB_Masthead_logo_Newcastle_United_vs_Manchester_City_Dated.png",
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015748/177246953756697_New-Castle-vs-Man-City-8th-Mar_landscape_thumb.jpg"
       },
       "MULTIPLE_AUDIO_LINKS": []
     },
