@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "06-03-2026 00:00",
+  "last_updated": "06-03-2026 00:20",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -16,21 +16,143 @@
     "SERVER_STATUS": "NORMAL",
     "USAGE_GUIDE": []
   },
-  "data": [
+  "data": [],
+  "upcoming": [
     {
-      "contentId": 1090498688,
+      "contentId": 1090497871,
       "video_info": {
-        "title": "Shark Tank India",
-        "shortDescription": "New season. New Sharks. Bigger dreams. Shark Tank India returns with Season 5! India's boldest entrepreneurs step into the Tank to pitch groundbreaking ideas and secure investments from an expanded panel of Sharks – Aman Gupta, Anupam Mittal, Namita Thapar, Vineeta Singh, Ritesh Agarwal, Kunal Bahl, Amit Jain, Mohit Yadav, Varun Alagh, Kanika Tekriwal, Viraj Bahl, Shaily Mehrotra, and Hardik Kothiya. The stakes have never been higher!",
-        "longDescription": "New season. New Sharks. Bigger dreams. Shark Tank India returns with Season 5! India's boldest entrepreneurs step into the Tank to pitch groundbreaking ideas and secure investments from an expanded panel of Sharks – Aman Gupta, Anupam Mittal, Namita Thapar, Vineeta Singh, Ritesh Agarwal, Kunal Bahl, Amit Jain, Mohit Yadav, Varun Alagh, Kanika Tekriwal, Viraj Bahl, Shaily Mehrotra, and Hardik Kothiya. The stakes have never been higher!",
+        "title": "Jazz City",
+        "shortDescription": "Witness the story of how India helped bring Bangladesh into existence. Watch Jazz City, from the 19th of March, on Sony LIV.",
+        "longDescription": "Witness the story of how India helped bring Bangladesh into existence. Watch Jazz City, from the 19th of March, on Sony LIV.",
         "genres": [
-          "Reality"
+          "Thriller",
+          "Action",
+          "Drama",
+          "Musical"
         ],
-        "episodeTitle": "Shark Tank India"
+        "episodeTitle": ""
       },
       "stream_info": {
         "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": "https://dai.google.com/ssai/event/-9b6XJc7R-6Qneau7JKlJg/master.m3u8",
+        "dai_asset_key": null,
+        "broadcast_channel": "LIV",
+        "audio_language_list": [
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          }
+        ],
+        "emfAttributes__audio_languages": "HIN",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "HIN",
+              "isPreferred": true,
+              "audioLanguageLabel": "Hindi",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/promo/DASH/bcce1668215043a0ab72ea655a8e568e/1771264379/baseline-std-v4/JAZZ_CITY_TEASER_2MIN_36SEC_HOR_HINDI_WSUB_WOBUG_DATED_APP_IND_hin_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "16 Dec 2025, 03:00 PM",
+        "contractEndDate": "19 Mar 2026, 11:59 PM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090497871/portraitThumb/1771483070895_./Jazz_City_Portrait_Thumb_Dated.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090497871/thumbnail/1771483118697_./Jazz_City_Landscape_Thumb_Dated.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090497896/mastheadMobileV2/1771263024743_./Jazz_City_masthead_mobile_v2_984x1182_1.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090497896/mastheadLogo/1771262969637_./Jazz_City_Masthead_Logo_Dated.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090497871/landscapeThumb/1771483096979_./Jazz_City_Landscape_Thumb_Dated.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": []
+    },
+    {
+      "contentId": 1090505242,
+      "video_info": {
+        "title": "Hui Gumm Yaadein Ek Doctor, Do Zindagiyaan",
+        "shortDescription": "Witness Dr Dev's second chance at life. Watch Hai Gumm Yaadein - Ek Doctor Do Zindagiyaan, streaming soon, on Sony LIV.",
+        "longDescription": "Witness Dr Dev's second chance at life. Watch Hai Gumm Yaadein - Ek Doctor Do Zindagiyaan, streaming soon, on Sony LIV.",
+        "genres": [
+          "Drama",
+          "Comedy"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "SAB",
+        "audio_language_list": [
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          }
+        ],
+        "emfAttributes__audio_languages": "HIN",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "HIN",
+              "isPreferred": true,
+              "audioLanguageLabel": "Hindi",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/promo/DASH/8f4805366502475da42726148fca32b8/1772106268/baseline-std-v4/YAADEIN_TRAILER_1MIN50SEC_HOR_WOSUB_WOBUG_CS_LIV_SAB_APP_REV_hin_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "26 Feb 2026, 12:00 AM",
+        "contractEndDate": "14 Feb 2027, 11:59 PM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015638/1772131236662372_Hui_Gumm_Yaadein_SS_Portrait_Thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015636/1772128377830814_Hui_Gumm_Yaadein_ss_26feb_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090499495/mastheadMobileV2/1768202193971_./Hui_Gumm_Yaadein_masthead_mobile_v2_984x1182.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090499495/mastheadLogo/1768202223990_./Hui_Gumm_Yaadein_Masthead_Logo_Dated.png",
+        "circular_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090499495/circularImage/1768203098964_./Hui_Gumm_Yaadein_Circular_Image.jpg",
+        "image_600x900_clean": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090499495/image600x900Clean/1768203123672_./Hui_Gumm_Yaadein_600x900_clean_Airtel_Portrait_Dated.jpg",
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015636/1772128377830814_Hui_Gumm_Yaadein_ss_26feb_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": []
+    },
+    {
+      "contentId": 1090505107,
+      "video_info": {
+        "title": "Vashikaranam - Kis Par Rakhe Vishwas",
+        "shortDescription": "Vashikaranam - kis par rakhe vishwas? Vashikaranam, coming soon on Sony LIV.",
+        "longDescription": "Vashikaranam - kis par rakhe vishwas? Vashikaranam, coming soon on Sony LIV.",
+        "genres": [
+          "Horror",
+          "Thriller"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
         "broadcast_channel": "SET",
         "audio_language_list": [
           {
@@ -41,140 +163,37 @@
         "emfAttributes__audio_languages": "HIN",
         "platformVariants": {
           "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD",
-          "videoType": "FULL_HD",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "HIN",
-              "isPreferred": true,
-              "audioLanguageLabel": "Hindi"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA"
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "05 Mar 2026, 07:40 PM",
-        "contractEndDate": "06 Mar 2026, 12:05 AM",
-        "originalAirDate": "05 Mar 2026, 07:40 PM"
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015600/1772042855790566_STI_S5_25feb_simulcast_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015600/1772043167046566_STI_S5_25feb_simulcast_landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1700000741/mastheadMobileV2/1772030580691_./STIS5_7_masthead_mobile_v2_984x1182_Set2_6.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013027/1767690556411510_STI_S5_streaming_latest_EP_6jan_masthead_logo.png",
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015600/1772043167046566_STI_S5_25feb_simulcast_landscape_thumb.jpg"
-      },
-      "MULTIPLE_AUDIO_LINKS": [
-        {
-          "LANGUAGE": "Hindi",
-          "LANG_CODE": "HIN",
-          "DATA": {
-            "JITENDRAUNATTI": {
-              "Device_Type": "LITE",
-              "message": "success",
-              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/master.m3u8",
-              "WIDEVINE": null,
-              "STREAMING_TYPE": true,
-              "audioLanguages": [
-                {
-                  "audioId": 1,
-                  "audioLanguageName": "HIN",
-                  "isPreferred": true,
-                  "audioLanguageLabel": "Hindi"
-                }
-              ],
-              "dai_asset_key": "https://dai.google.com/ssai/event/-9b6XJc7R-6Qneau7JKlJg/master.m3u8",
-              "Maximum_Video_Quality": "SDR",
-              "Maximum_Resolution": "FULL_HD",
-              "trailer_url": "",
-              "systemTime": 1772735414826,
-              "DOCTOR_STRANGE": 1772735415,
-              "additionalDataJson": {
-                "audio_quality": "STEREO",
-                "enc_format": "HLS",
-                "resolution": "FULL_HD",
-                "video_quality": "SDR",
-                "videoCodec": "H264",
-                "audioCodec": "AAC",
-                "fps": 50,
-                "isDaiKey": false,
-                "partners": [
-                  "ALL"
-                ],
-                "ad_stack": "MT-SSB"
-              },
-              "Status_code": 200,
-              "content_type": "application/json; charset=utf-8",
-              "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.4d4015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=256x144,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/hdntl=exp=1772821817~acl=%2f*~id=60617892801665513865966809455889~data=hdntl,2094590,DAI25ME-STI,none~hmac=10bce2606c1b84568ed11f818d0c45ea5f991c437a18ce8cfa1c018c61e76d25/master_200.m3u8?aka_me_session_id=AAAAAAAAAAA5HatpAAAAABREOrQ9%2feAs+wkqHgSROzpPR3AEFhnOLcIzhVqATNJ659C5NhdPrZSNcXRS3VUAaXGUp+rxGr+B&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=581816,AVERAGE-BANDWIDTH=581816,CODECS=\"avc1.4d4015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/hdntl=exp=1772821817~acl=%2f*~id=60617892801665513865966809455889~data=hdntl,2094590,DAI25ME-STI,none~hmac=10bce2606c1b84568ed11f818d0c45ea5f991c437a18ce8cfa1c018c61e76d25/master_350.m3u8?aka_me_session_id=AAAAAAAAAAA5HatpAAAAABREOrQ9%2feAs+wkqHgSROzpPR3AEFhnOLcIzhVqATNJ659C5NhdPrZSNcXRS3VUAaXGUp+rxGr+B&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=735080,AVERAGE-BANDWIDTH=735080,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/hdntl=exp=1772821817~acl=%2f*~id=60617892801665513865966809455889~data=hdntl,2094590,DAI25ME-STI,none~hmac=10bce2606c1b84568ed11f818d0c45ea5f991c437a18ce8cfa1c018c61e76d25/master_500.m3u8?aka_me_session_id=AAAAAAAAAAA5HatpAAAAABREOrQ9%2feAs+wkqHgSROzpPR3AEFhnOLcIzhVqATNJ659C5NhdPrZSNcXRS3VUAaXGUp+rxGr+B&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=939432,AVERAGE-BANDWIDTH=939432,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/hdntl=exp=1772821817~acl=%2f*~id=60617892801665513865966809455889~data=hdntl,2094590,DAI25ME-STI,none~hmac=10bce2606c1b84568ed11f818d0c45ea5f991c437a18ce8cfa1c018c61e76d25/master_700.m3u8?aka_me_session_id=AAAAAAAAAAA5HatpAAAAABREOrQ9%2feAs+wkqHgSROzpPR3AEFhnOLcIzhVqATNJ659C5NhdPrZSNcXRS3VUAaXGUp+rxGr+B&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.4d4020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/hdntl=exp=1772821817~acl=%2f*~id=60617892801665513865966809455889~data=hdntl,2094590,DAI25ME-STI,none~hmac=10bce2606c1b84568ed11f818d0c45ea5f991c437a18ce8cfa1c018c61e76d25/master_1300.m3u8?aka_me_session_id=AAAAAAAAAAA5HatpAAAAABREOrQ9%2feAs+wkqHgSROzpPR3AEFhnOLcIzhVqATNJ659C5NhdPrZSNcXRS3VUAaXGUp+rxGr+B&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2267688,AVERAGE-BANDWIDTH=2267688,CODECS=\"avc1.4d4020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/hdntl=exp=1772821817~acl=%2f*~id=60617892801665513865966809455889~data=hdntl,2094590,DAI25ME-STI,none~hmac=10bce2606c1b84568ed11f818d0c45ea5f991c437a18ce8cfa1c018c61e76d25/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAA5HatpAAAAABREOrQ9%2feAs+wkqHgSROzpPR3AEFhnOLcIzhVqATNJ659C5NhdPrZSNcXRS3VUAaXGUp+rxGr+B&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2778568,AVERAGE-BANDWIDTH=2778568,CODECS=\"avc1.4d4028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/hdntl=exp=1772821817~acl=%2f*~id=60617892801665513865966809455889~data=hdntl,2094590,DAI25ME-STI,none~hmac=10bce2606c1b84568ed11f818d0c45ea5f991c437a18ce8cfa1c018c61e76d25/master_2500.m3u8?aka_me_session_id=AAAAAAAAAAA5HatpAAAAABREOrQ9%2feAs+wkqHgSROzpPR3AEFhnOLcIzhVqATNJ659C5NhdPrZSNcXRS3VUAaXGUp+rxGr+B&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3800296,AVERAGE-BANDWIDTH=3800296,CODECS=\"avc1.4d4028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/hdntl=exp=1772821817~acl=%2f*~id=60617892801665513865966809455889~data=hdntl,2094590,DAI25ME-STI,none~hmac=10bce2606c1b84568ed11f818d0c45ea5f991c437a18ce8cfa1c018c61e76d25/master_3500.m3u8?aka_me_session_id=AAAAAAAAAAA5HatpAAAAABREOrQ9%2feAs+wkqHgSROzpPR3AEFhnOLcIzhVqATNJ659C5NhdPrZSNcXRS3VUAaXGUp+rxGr+B&aka_media_format_type=hls",
-              "date": "Friday 6th of March 2026 12:00:15 AM"
-            }
-          }
-        }
-      ]
-    }
-  ],
-  "upcoming": [
-    {
-      "contentId": 1090505314,
-      "video_info": {
-        "title": "Laalo - Krishna Sada Sahaayate",
-        "shortDescription": "Watch the premiere of Laalo – Krishna Sada Sahaayate exclusively on Sony LIV, streaming from 6th March.\n",
-        "longDescription": "Watch the premiere of Laalo – Krishna Sada Sahaayate exclusively on Sony LIV, streaming from 6th March.\n",
-        "genres": [
-          "Drama"
-        ],
-        "episodeTitle": ""
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "LIV",
-        "audio_language_list": [
-          {
-            "lang_code": "GUJ",
-            "lang_label": "Gujarati"
-          }
-        ],
-        "emfAttributes__audio_languages": "GUJ",
-        "platformVariants": {
-          "assetType": "MASTER",
           "assetName": "VOD_FULL_HD1",
           "videoType": "FULL_HD1",
           "audioLanguages": [
             {
               "audioId": 1,
-              "audioLanguageName": "GUJ",
+              "audioLanguageName": "HIN",
               "isPreferred": true,
-              "audioLanguageLabel": "Gujarati",
+              "audioLanguageLabel": "Hindi",
               "type": "main"
             }
           ],
           "subtitlesLanguages": [],
           "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/257b9ac75a184d62b5f9ee6bc7ba2388/1772637279/baseline-std-v4/LAALO_TRAILER_2MIN25SEC_HOR_WOSUB_WOBUG_DATED_APP_IND_guj_baseline-800300010.mpd",
+          "trailerUrl": "https://streaming.sonyliv.com/promo/DASH/de6d081426c741b6be1c9ef31b9f897d/1772018624/baseline-std-v4/VASHIKARAN_TEASER_40SEC_HOR_WOSUB_WOBUG_CS_LIV_SET_APP_IND_hin_baseline-800300010.mpd",
           "hasTrailer": true
         }
       },
       "air_dates": {
-        "contractStartDate": "27 Feb 2026, 03:00 PM",
-        "contractEndDate": "06 Mar 2026, 12:00 PM",
+        "contractStartDate": "25 Feb 2026, 03:00 PM",
+        "contractEndDate": "31 Jul 2121, 11:59 PM",
         "originalAirDate": null
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090505314/portraitThumb/1772210998854_./Laloo1_Portrait_Thumb_Dated.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090505314/thumbnail/1772210342725_./Laloo1_Landscape_Thumb_Dated.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015629/177211967464591_Vashikaran_SS_26feb_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015593/1772025126249997_Vashikaran_SS_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090505314/mastheadMobileV2/1772720761615_1772719568302283_Laloo_5march26_masthead_mobile_v2.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090505314/mastheadLogo/1772648949771_177228516036017_MLI_Laalo_1DTG_28feb_Masthead_Logo.png",
-        "circular_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090505314/circularImage/1772210552690_./Laloo1_Circular_Image.jpg",
-        "image_600x900_clean": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090505314/image600x900Clean/1772210577291_./Laloo1_600x900_clean_Airtel_Portrait_Dated.jpg",
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090505314/thumbnail/1772210342725_./Laloo1_Landscape_Thumb_Dated.jpg"
+        "masthead_mobile_v2": null,
+        "masthead_logo": null,
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015593/1772025126249997_Vashikaran_SS_landscape_thumb.jpg"
       },
       "MULTIPLE_AUDIO_LINKS": []
     },
@@ -465,185 +484,6 @@
         "circular_image": null,
         "image_600x900_clean": null,
         "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015777/1772629511443155_UFC326_8Mar_Promo_Landscape_Thumbnail.jpg"
-      },
-      "MULTIPLE_AUDIO_LINKS": []
-    },
-    {
-      "contentId": 1090497871,
-      "video_info": {
-        "title": "Jazz City",
-        "shortDescription": "Witness the story of how India helped bring Bangladesh into existence. Watch Jazz City, from the 19th of March, on Sony LIV.",
-        "longDescription": "Witness the story of how India helped bring Bangladesh into existence. Watch Jazz City, from the 19th of March, on Sony LIV.",
-        "genres": [
-          "Thriller",
-          "Action",
-          "Drama",
-          "Musical"
-        ],
-        "episodeTitle": ""
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "LIV",
-        "audio_language_list": [
-          {
-            "lang_code": "HIN",
-            "lang_label": "Hindi"
-          }
-        ],
-        "emfAttributes__audio_languages": "HIN",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "HIN",
-              "isPreferred": true,
-              "audioLanguageLabel": "Hindi",
-              "type": "main"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/promo/DASH/bcce1668215043a0ab72ea655a8e568e/1771264379/baseline-std-v4/JAZZ_CITY_TEASER_2MIN_36SEC_HOR_HINDI_WSUB_WOBUG_DATED_APP_IND_hin_baseline-800300010.mpd",
-          "hasTrailer": true
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "16 Dec 2025, 03:00 PM",
-        "contractEndDate": "19 Mar 2026, 11:59 PM",
-        "originalAirDate": null
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090497871/portraitThumb/1771483070895_./Jazz_City_Portrait_Thumb_Dated.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090497871/thumbnail/1771483118697_./Jazz_City_Landscape_Thumb_Dated.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090497896/mastheadMobileV2/1771263024743_./Jazz_City_masthead_mobile_v2_984x1182_1.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090497896/mastheadLogo/1771262969637_./Jazz_City_Masthead_Logo_Dated.png",
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090497871/landscapeThumb/1771483096979_./Jazz_City_Landscape_Thumb_Dated.jpg"
-      },
-      "MULTIPLE_AUDIO_LINKS": []
-    },
-    {
-      "contentId": 1090505242,
-      "video_info": {
-        "title": "Hui Gumm Yaadein Ek Doctor, Do Zindagiyaan",
-        "shortDescription": "Witness Dr Dev's second chance at life. Watch Hai Gumm Yaadein - Ek Doctor Do Zindagiyaan, streaming soon, on Sony LIV.",
-        "longDescription": "Witness Dr Dev's second chance at life. Watch Hai Gumm Yaadein - Ek Doctor Do Zindagiyaan, streaming soon, on Sony LIV.",
-        "genres": [
-          "Drama",
-          "Comedy"
-        ],
-        "episodeTitle": ""
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "SAB",
-        "audio_language_list": [
-          {
-            "lang_code": "HIN",
-            "lang_label": "Hindi"
-          }
-        ],
-        "emfAttributes__audio_languages": "HIN",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "HIN",
-              "isPreferred": true,
-              "audioLanguageLabel": "Hindi",
-              "type": "main"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/promo/DASH/8f4805366502475da42726148fca32b8/1772106268/baseline-std-v4/YAADEIN_TRAILER_1MIN50SEC_HOR_WOSUB_WOBUG_CS_LIV_SAB_APP_REV_hin_baseline-800300010.mpd",
-          "hasTrailer": true
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "26 Feb 2026, 12:00 AM",
-        "contractEndDate": "14 Feb 2027, 11:59 PM",
-        "originalAirDate": null
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015638/1772131236662372_Hui_Gumm_Yaadein_SS_Portrait_Thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015636/1772128377830814_Hui_Gumm_Yaadein_ss_26feb_landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090499495/mastheadMobileV2/1768202193971_./Hui_Gumm_Yaadein_masthead_mobile_v2_984x1182.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090499495/mastheadLogo/1768202223990_./Hui_Gumm_Yaadein_Masthead_Logo_Dated.png",
-        "circular_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090499495/circularImage/1768203098964_./Hui_Gumm_Yaadein_Circular_Image.jpg",
-        "image_600x900_clean": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090499495/image600x900Clean/1768203123672_./Hui_Gumm_Yaadein_600x900_clean_Airtel_Portrait_Dated.jpg",
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015636/1772128377830814_Hui_Gumm_Yaadein_ss_26feb_landscape_thumb.jpg"
-      },
-      "MULTIPLE_AUDIO_LINKS": []
-    },
-    {
-      "contentId": 1090505107,
-      "video_info": {
-        "title": "Vashikaranam - Kis Par Rakhe Vishwas",
-        "shortDescription": "Vashikaranam - kis par rakhe vishwas? Vashikaranam, coming soon on Sony LIV.",
-        "longDescription": "Vashikaranam - kis par rakhe vishwas? Vashikaranam, coming soon on Sony LIV.",
-        "genres": [
-          "Horror",
-          "Thriller"
-        ],
-        "episodeTitle": ""
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "SET",
-        "audio_language_list": [
-          {
-            "lang_code": "HIN",
-            "lang_label": "Hindi"
-          }
-        ],
-        "emfAttributes__audio_languages": "HIN",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "HIN",
-              "isPreferred": true,
-              "audioLanguageLabel": "Hindi",
-              "type": "main"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/promo/DASH/de6d081426c741b6be1c9ef31b9f897d/1772018624/baseline-std-v4/VASHIKARAN_TEASER_40SEC_HOR_WOSUB_WOBUG_CS_LIV_SET_APP_IND_hin_baseline-800300010.mpd",
-          "hasTrailer": true
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "25 Feb 2026, 03:00 PM",
-        "contractEndDate": "31 Jul 2121, 11:59 PM",
-        "originalAirDate": null
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015629/177211967464591_Vashikaran_SS_26feb_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015593/1772025126249997_Vashikaran_SS_landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": null,
-        "masthead_logo": null,
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015593/1772025126249997_Vashikaran_SS_landscape_thumb.jpg"
       },
       "MULTIPLE_AUDIO_LINKS": []
     },
