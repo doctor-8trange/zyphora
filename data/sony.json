@@ -1,7 +1,1048 @@
 {
+  "Author": "DOCTOR STRANGE",
+  "name": "Sony Live Matches API",
+  "last_updated": "09-03-2026 20:00",
   "app_settings": {
-    "SERVER_STATUS": "CRITICAL WARNING"
+    "PROXY": "ON",
+    "state_code": "MH",
+    "MULTI_CDN": "OFF",
+    "Debugging": "OFF",
+    "SUB_TYPE": "FREEMIUM",
+    "RECIVER": "OFF",
+    "REALTIME": "OFF",
+    "REPLACEMENT": "OFF",
+    "FREEPREVIEW": "AUTO",
+    "ALL_IN_ONE": "ON",
+    "SERVER_STATUS": "NORMAL",
+    "USAGE_GUIDE": []
   },
-  "last_updated": "09-03-2026 00:00",
-  "data": []
+  "data": [
+    {
+      "contentId": 1090498688,
+      "video_info": {
+        "title": "Shark Tank India",
+        "shortDescription": "New season. New Sharks. Bigger dreams. Shark Tank India returns with Season 5! India's boldest entrepreneurs step into the Tank to pitch groundbreaking ideas and secure investments from an expanded panel of Sharks – Aman Gupta, Anupam Mittal, Namita Thapar, Vineeta Singh, Ritesh Agarwal, Kunal Bahl, Amit Jain, Mohit Yadav, Varun Alagh, Kanika Tekriwal, Viraj Bahl, Shaily Mehrotra, and Hardik Kothiya. The stakes have never been higher!",
+        "longDescription": "New season. New Sharks. Bigger dreams. Shark Tank India returns with Season 5! India's boldest entrepreneurs step into the Tank to pitch groundbreaking ideas and secure investments from an expanded panel of Sharks – Aman Gupta, Anupam Mittal, Namita Thapar, Vineeta Singh, Ritesh Agarwal, Kunal Bahl, Amit Jain, Mohit Yadav, Varun Alagh, Kanika Tekriwal, Viraj Bahl, Shaily Mehrotra, and Hardik Kothiya. The stakes have never been higher!",
+        "genres": [
+          "Reality"
+        ],
+        "episodeTitle": "Shark Tank India"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/-9b6XJc7R-6Qneau7JKlJg/master.m3u8",
+        "broadcast_channel": "SET",
+        "audio_language_list": [
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          }
+        ],
+        "emfAttributes__audio_languages": "HIN",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "HIN",
+              "isPreferred": true,
+              "audioLanguageLabel": "Hindi"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "09 Mar 2026, 07:40 PM",
+        "contractEndDate": "10 Mar 2026, 12:01 AM",
+        "originalAirDate": "09 Mar 2026, 07:40 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015600/1772042855790566_STI_S5_25feb_simulcast_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015600/1772043167046566_STI_S5_25feb_simulcast_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1700000741/mastheadMobileV2/1772030580691_./STIS5_7_masthead_mobile_v2_984x1182_Set2_6.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013027/1767690556411510_STI_S5_streaming_latest_EP_6jan_masthead_logo.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015600/1772043167046566_STI_S5_25feb_simulcast_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "Hindi",
+          "LANG_CODE": "HIN",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "HIN",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "Hindi"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/-9b6XJc7R-6Qneau7JKlJg/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1773066609338,
+              "DOCTOR_STRANGE": 1773066608,
+              "additionalDataJson": {
+                "audio_quality": "STEREO",
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "video_quality": "SDR",
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "fps": 50,
+                "isDaiKey": false,
+                "partners": [
+                  "ALL"
+                ],
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.4d4015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=256x144,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/hdntl=exp=1773153010~acl=%2f*~id=93552035809108253460051931682134~data=hdntl,2094590,DAI25ME-STI,none~hmac=39d391a2a66cce836502f650a23d5f5e4378ab68e0e6c17663907e37cf3da5b2/master_200.m3u8?aka_me_session_id=AAAAAAAAAADyKrBpAAAAAGvpB41DOkaEzQkKudetq8vFwb1yZ3IY0Y7vfKAxQcZv06pOVTKOMQcN6gUKq8+YXoo1h2q72JVl&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=581816,AVERAGE-BANDWIDTH=581816,CODECS=\"avc1.4d4015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/hdntl=exp=1773153010~acl=%2f*~id=93552035809108253460051931682134~data=hdntl,2094590,DAI25ME-STI,none~hmac=39d391a2a66cce836502f650a23d5f5e4378ab68e0e6c17663907e37cf3da5b2/master_350.m3u8?aka_me_session_id=AAAAAAAAAADyKrBpAAAAAGvpB41DOkaEzQkKudetq8vFwb1yZ3IY0Y7vfKAxQcZv06pOVTKOMQcN6gUKq8+YXoo1h2q72JVl&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=735080,AVERAGE-BANDWIDTH=735080,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/hdntl=exp=1773153010~acl=%2f*~id=93552035809108253460051931682134~data=hdntl,2094590,DAI25ME-STI,none~hmac=39d391a2a66cce836502f650a23d5f5e4378ab68e0e6c17663907e37cf3da5b2/master_500.m3u8?aka_me_session_id=AAAAAAAAAADyKrBpAAAAAGvpB41DOkaEzQkKudetq8vFwb1yZ3IY0Y7vfKAxQcZv06pOVTKOMQcN6gUKq8+YXoo1h2q72JVl&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=939432,AVERAGE-BANDWIDTH=939432,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/hdntl=exp=1773153010~acl=%2f*~id=93552035809108253460051931682134~data=hdntl,2094590,DAI25ME-STI,none~hmac=39d391a2a66cce836502f650a23d5f5e4378ab68e0e6c17663907e37cf3da5b2/master_700.m3u8?aka_me_session_id=AAAAAAAAAADyKrBpAAAAAGvpB41DOkaEzQkKudetq8vFwb1yZ3IY0Y7vfKAxQcZv06pOVTKOMQcN6gUKq8+YXoo1h2q72JVl&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.4d4020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/hdntl=exp=1773153010~acl=%2f*~id=93552035809108253460051931682134~data=hdntl,2094590,DAI25ME-STI,none~hmac=39d391a2a66cce836502f650a23d5f5e4378ab68e0e6c17663907e37cf3da5b2/master_1300.m3u8?aka_me_session_id=AAAAAAAAAADyKrBpAAAAAGvpB41DOkaEzQkKudetq8vFwb1yZ3IY0Y7vfKAxQcZv06pOVTKOMQcN6gUKq8+YXoo1h2q72JVl&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2267688,AVERAGE-BANDWIDTH=2267688,CODECS=\"avc1.4d4020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/hdntl=exp=1773153010~acl=%2f*~id=93552035809108253460051931682134~data=hdntl,2094590,DAI25ME-STI,none~hmac=39d391a2a66cce836502f650a23d5f5e4378ab68e0e6c17663907e37cf3da5b2/master_2000.m3u8?aka_me_session_id=AAAAAAAAAADyKrBpAAAAAGvpB41DOkaEzQkKudetq8vFwb1yZ3IY0Y7vfKAxQcZv06pOVTKOMQcN6gUKq8+YXoo1h2q72JVl&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2778568,AVERAGE-BANDWIDTH=2778568,CODECS=\"avc1.4d4028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/hdntl=exp=1773153010~acl=%2f*~id=93552035809108253460051931682134~data=hdntl,2094590,DAI25ME-STI,none~hmac=39d391a2a66cce836502f650a23d5f5e4378ab68e0e6c17663907e37cf3da5b2/master_2500.m3u8?aka_me_session_id=AAAAAAAAAADyKrBpAAAAAGvpB41DOkaEzQkKudetq8vFwb1yZ3IY0Y7vfKAxQcZv06pOVTKOMQcN6gUKq8+YXoo1h2q72JVl&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3800296,AVERAGE-BANDWIDTH=3800296,CODECS=\"avc1.4d4028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/hdntl=exp=1773153010~acl=%2f*~id=93552035809108253460051931682134~data=hdntl,2094590,DAI25ME-STI,none~hmac=39d391a2a66cce836502f650a23d5f5e4378ab68e0e6c17663907e37cf3da5b2/master_3500.m3u8?aka_me_session_id=AAAAAAAAAADyKrBpAAAAAGvpB41DOkaEzQkKudetq8vFwb1yZ3IY0Y7vfKAxQcZv06pOVTKOMQcN6gUKq8+YXoo1h2q72JVl&aka_media_format_type=hls",
+              "date": "Monday 9th of March 2026 08:00:08 PM"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "contentId": 1090498703,
+      "video_info": {
+        "title": "MasterChef India - Hindi",
+        "shortDescription": "MasterChef India returns with a landmark season that celebrates the soul of Indian cuisine. From elevated micro-cuisines to forgotten regional recipes, India takes centre stage like never before. For the first time ever, jodis compete together - bringing family legacies, emotion, and partnership into the kitchen. With iconinc judges Vikas Khanna, Ranveer Brar, and Kunal Kapur back together, the hunt begins for India's first MasterChef Jodi.",
+        "longDescription": "MasterChef India returns with a landmark season that celebrates the soul of Indian cuisine. From elevated micro-cuisines to forgotten regional recipes, India takes centre stage like never before. For the first time ever, jodis compete together - bringing family legacies, emotion, and partnership into the kitchen. With iconinc judges Vikas Khanna, Ranveer Brar, and Kunal Kapur back together, the hunt begins for India's first MasterChef Jodi.",
+        "genres": [
+          "Reality",
+          "Cookery"
+        ],
+        "episodeTitle": "MasterChef India - Hindi"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/820xr_9-QzGd_B1fhMg8ig/master.m3u8",
+        "broadcast_channel": "SET",
+        "audio_language_list": [
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          }
+        ],
+        "emfAttributes__audio_languages": "HIN",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "HIN",
+              "isPreferred": true,
+              "audioLanguageLabel": "Hindi"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "09 Mar 2026, 07:40 PM",
+        "contractEndDate": "09 Mar 2026, 08:33 PM",
+        "originalAirDate": "09 Mar 2026, 07:40 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015324/1771336135650832_MCI_S4_simulcast_17feb_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015324/1771336173736832_MCI_S4_simulcast_17feb_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1700001090/mastheadMobileV2/1771249427208_./MCIS4_3_masthead_mobile_v2_984x1182_SP_6.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013027/1767690629559510_MCI_S4_streaming_latest_EP_6jan_masthead_logo.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015324/1771336173736832_MCI_S4_simulcast_17feb_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "Hindi",
+          "LANG_CODE": "HIN",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2037142/DAI22ME-MCI/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "HIN",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "Hindi"
+                },
+                {
+                  "audioLanguageName": "HIN",
+                  "audioLanguageLabel": "Hindi",
+                  "audioLangIdentifier": "HIN"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/820xr_9-QzGd_B1fhMg8ig/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1773066612498,
+              "DOCTOR_STRANGE": 1773066611,
+              "additionalDataJson": {
+                "audio_quality": "STEREO",
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "video_quality": "SDR",
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "fps": 50,
+                "isDaiKey": false,
+                "partners": [
+                  "ALL"
+                ],
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.4d4015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=256x144,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037142/DAI22ME-MCI/hdntl=exp=1773153013~acl=%2f*~id=93552035809108253460051931682134~data=hdntl,2037142,DAI22ME-MCI,none~hmac=a23dc08ee1060fec51ad666baefc741247f84c34290797adfb8ac45325699111/master_200.m3u8?aka_me_session_id=AAAAAAAAAAD1KrBpAAAAAF6Pjzflr%2f9rvkznRUdA22yiCevbricd2cLQ1PhLjedYSQpwC1iyfnFNYs0CYwGt3xGF+f3n%2fgdW&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=581816,AVERAGE-BANDWIDTH=581816,CODECS=\"avc1.4d4015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037142/DAI22ME-MCI/hdntl=exp=1773153013~acl=%2f*~id=93552035809108253460051931682134~data=hdntl,2037142,DAI22ME-MCI,none~hmac=a23dc08ee1060fec51ad666baefc741247f84c34290797adfb8ac45325699111/master_350.m3u8?aka_me_session_id=AAAAAAAAAAD1KrBpAAAAAF6Pjzflr%2f9rvkznRUdA22yiCevbricd2cLQ1PhLjedYSQpwC1iyfnFNYs0CYwGt3xGF+f3n%2fgdW&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=735080,AVERAGE-BANDWIDTH=735080,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037142/DAI22ME-MCI/hdntl=exp=1773153013~acl=%2f*~id=93552035809108253460051931682134~data=hdntl,2037142,DAI22ME-MCI,none~hmac=a23dc08ee1060fec51ad666baefc741247f84c34290797adfb8ac45325699111/master_500.m3u8?aka_me_session_id=AAAAAAAAAAD1KrBpAAAAAF6Pjzflr%2f9rvkznRUdA22yiCevbricd2cLQ1PhLjedYSQpwC1iyfnFNYs0CYwGt3xGF+f3n%2fgdW&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=939432,AVERAGE-BANDWIDTH=939432,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037142/DAI22ME-MCI/hdntl=exp=1773153013~acl=%2f*~id=93552035809108253460051931682134~data=hdntl,2037142,DAI22ME-MCI,none~hmac=a23dc08ee1060fec51ad666baefc741247f84c34290797adfb8ac45325699111/master_700.m3u8?aka_me_session_id=AAAAAAAAAAD1KrBpAAAAAF6Pjzflr%2f9rvkznRUdA22yiCevbricd2cLQ1PhLjedYSQpwC1iyfnFNYs0CYwGt3xGF+f3n%2fgdW&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.4d4020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037142/DAI22ME-MCI/hdntl=exp=1773153013~acl=%2f*~id=93552035809108253460051931682134~data=hdntl,2037142,DAI22ME-MCI,none~hmac=a23dc08ee1060fec51ad666baefc741247f84c34290797adfb8ac45325699111/master_1300.m3u8?aka_me_session_id=AAAAAAAAAAD1KrBpAAAAAF6Pjzflr%2f9rvkznRUdA22yiCevbricd2cLQ1PhLjedYSQpwC1iyfnFNYs0CYwGt3xGF+f3n%2fgdW&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2267688,AVERAGE-BANDWIDTH=2267688,CODECS=\"avc1.4d4020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037142/DAI22ME-MCI/hdntl=exp=1773153013~acl=%2f*~id=93552035809108253460051931682134~data=hdntl,2037142,DAI22ME-MCI,none~hmac=a23dc08ee1060fec51ad666baefc741247f84c34290797adfb8ac45325699111/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAD1KrBpAAAAAF6Pjzflr%2f9rvkznRUdA22yiCevbricd2cLQ1PhLjedYSQpwC1iyfnFNYs0CYwGt3xGF+f3n%2fgdW&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2778568,AVERAGE-BANDWIDTH=2778568,CODECS=\"avc1.4d4028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037142/DAI22ME-MCI/hdntl=exp=1773153013~acl=%2f*~id=93552035809108253460051931682134~data=hdntl,2037142,DAI22ME-MCI,none~hmac=a23dc08ee1060fec51ad666baefc741247f84c34290797adfb8ac45325699111/master_2500.m3u8?aka_me_session_id=AAAAAAAAAAD1KrBpAAAAAF6Pjzflr%2f9rvkznRUdA22yiCevbricd2cLQ1PhLjedYSQpwC1iyfnFNYs0CYwGt3xGF+f3n%2fgdW&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3800296,AVERAGE-BANDWIDTH=3800296,CODECS=\"avc1.4d4028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037142/DAI22ME-MCI/hdntl=exp=1773153013~acl=%2f*~id=93552035809108253460051931682134~data=hdntl,2037142,DAI22ME-MCI,none~hmac=a23dc08ee1060fec51ad666baefc741247f84c34290797adfb8ac45325699111/master_3500.m3u8?aka_me_session_id=AAAAAAAAAAD1KrBpAAAAAF6Pjzflr%2f9rvkznRUdA22yiCevbricd2cLQ1PhLjedYSQpwC1iyfnFNYs0CYwGt3xGF+f3n%2fgdW&aka_media_format_type=hls",
+              "date": "Monday 9th of March 2026 08:00:11 PM"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "upcoming": [
+    {
+      "contentId": 1090497871,
+      "video_info": {
+        "title": "Jazz City",
+        "shortDescription": "Witness the story of how India helped bring Bangladesh into existence. Watch Jazz City, from the 19th of March, on Sony LIV.",
+        "longDescription": "Witness the story of how India helped bring Bangladesh into existence. Watch Jazz City, from the 19th of March, on Sony LIV.",
+        "genres": [
+          "Thriller",
+          "Action",
+          "Drama",
+          "Musical"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "LIV",
+        "audio_language_list": [
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          }
+        ],
+        "emfAttributes__audio_languages": "HIN",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "HIN",
+              "isPreferred": true,
+              "audioLanguageLabel": "Hindi",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/promo/DASH/bcce1668215043a0ab72ea655a8e568e/1771264379/baseline-std-v4/JAZZ_CITY_TEASER_2MIN_36SEC_HOR_HINDI_WSUB_WOBUG_DATED_APP_IND_hin_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "16 Dec 2025, 03:00 PM",
+        "contractEndDate": "19 Mar 2026, 11:59 PM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090497871/portraitThumb/1771483070895_./Jazz_City_Portrait_Thumb_Dated.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090497871/thumbnail/1771483118697_./Jazz_City_Landscape_Thumb_Dated.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090497896/mastheadMobileV2/1771263024743_./Jazz_City_masthead_mobile_v2_984x1182_1.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090497896/mastheadLogo/1771262969637_./Jazz_City_Masthead_Logo_Dated.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090497871/landscapeThumb/1771483096979_./Jazz_City_Landscape_Thumb_Dated.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": []
+    },
+    {
+      "contentId": 1090505702,
+      "video_info": {
+        "title": "Upcoming - Galatasaray vs Liverpool - UEFA Champions League 2025-26",
+        "shortDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
+        "longDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
+        "genres": [
+          "Football"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "Sony Sports Ten 2",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/9d5895244817418cadd851a5521d8180/1772791471/baseline-std-v4/PROMO_UCL_ROUND_OF_16_LEG_1_GALATASARAY_VS_LIVERPOOL_40SEC_HOR_DATED_APP_eng_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "06 Mar 2026, 10:00 AM",
+        "contractEndDate": "10 Mar 2026, 09:30 PM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015833/1772736794699689_UCL26_R16_leg1_Galatasaray_vs_Liverpool_6mar_Dated_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015833/1772738404240689_UCL26_R16_leg1_Galatasaray_vs_Liverpool_6mar_Dated_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015943/1773041028804218_UCL25_26_Match_masthead_mobile_v2_984x1182_Galatasaray_vs_Liverpool_SP_1.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015827/177270218600016_UCL25_26_Match_Masthead_logo_Galatasaray_vs_Liverpool_Dated.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015833/1772738404240689_UCL26_R16_leg1_Galatasaray_vs_Liverpool_6mar_Dated_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": []
+    },
+    {
+      "contentId": 1090505700,
+      "video_info": {
+        "title": "Upcoming - Newcastle United vs Barcelona - UEFA Champions League 2025-26",
+        "shortDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
+        "longDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
+        "genres": [
+          "Football"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "Sony Sports Ten 2",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/239b8aad310e48009e2bb9af836c8142/1772791465/baseline-std-v4/PROMO_UCL_ROUND_OF_16_LEG_1_NEWCASTLE_UNITED_VS_BARCELONA_40SEC_HOR_DATED_APP_eng_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "06 Mar 2026, 10:00 AM",
+        "contractEndDate": "11 Mar 2026, 12:30 AM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015833/1772738836598689_UCL26_R16_leg1_Newcastle_vs_Barcelona_6mar_Dated_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015833/1772739208089689_UCL26_R16_leg1_Newcastle_vs_Barcelona_6mar_Dated_landscape.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015943/1773041028869218_UCL25_26_Match_masthead_mobile_v2_984x1182_Newcastle_United_vs_Barcelona_SP_1.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015827/177270218600016_UCL25_26_Match_Masthead_logo_Newcastle_United_vs_-Barcelona_Dated.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015833/1772739208089689_UCL26_R16_leg1_Newcastle_vs_Barcelona_6mar_Dated_landscape.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": []
+    },
+    {
+      "contentId": 1090505698,
+      "video_info": {
+        "title": "Upcoming - Real Madrid vs Man City - UEFA Champions League 2025-26",
+        "shortDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
+        "longDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
+        "genres": [
+          "Football"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "Sony Sports Ten 2",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/63c13efe4ad341c08a5f7ca156fa294c/1772789491/baseline-std-v4/PROMO_UCL_ROUND_OF_16_LEG_1_REAL_MADRID_VS_MAN_CITY_40SEC_HOR_DATED_APP_eng_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "06 Mar 2026, 10:00 AM",
+        "contractEndDate": "12 Mar 2026, 12:30 AM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015833/1772741282610689_UCL26_R16_leg1_Real_Madrid_vs_Man_City_6mar_Dated_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015833/1772741447545689_UCL26_R16_leg1_Real_Madrid_vs_Man_City_6mar_Dated_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015943/1773041029065218_UCL25_26_Match_masthead_mobile_v2_984x1182_Real_Madrid_vs_Manchester_City_SP_1.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015827/177270218600016_UCL25_26_Match_Masthead_logo_Real_Madrid_vs_Manchester_City_Dated.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015833/1772741447545689_UCL26_R16_leg1_Real_Madrid_vs_Man_City_6mar_Dated_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": []
+    },
+    {
+      "contentId": 1090505699,
+      "video_info": {
+        "title": "Upcoming - PSG vs Chelsea - UEFA Champions League 2025-26",
+        "shortDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
+        "longDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
+        "genres": [
+          "Football"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "Sony Sports Ten 2",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/9f25dd09ffba4528a3f3938d72f0b74f/1772791462/baseline-std-v4/PROMO_UCL_ROUND_OF_16_LEG_1_PSG_VS_CHELSEA_40SEC_HOR_DATED_APP_eng_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "06 Mar 2026, 10:00 AM",
+        "contractEndDate": "12 Mar 2026, 12:55 AM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015833/1772741749922689_UCL26_R16_leg1_PSG_vs_Chelsea_6mar_Dated_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015833/1772741971251689_UCL26_R16_leg1_PSG_vs_Chelsea_6mar_Dated_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015943/1773041029087218_UCL25_26_Match_masthead_mobile_v2_984x1182_PSG_vs_Chelsea_SP_1.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015827/177270218600016_UCL25_26_Match_Masthead_logo_PSG_vs_Chelsea_Dated.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015833/1772741971251689_UCL26_R16_leg1_PSG_vs_Chelsea_6mar_Dated_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": []
+    },
+    {
+      "contentId": 1090505701,
+      "video_info": {
+        "title": "Upcoming - Leverkusen vs Arsenal - UEFA Champions League 2025-26",
+        "shortDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
+        "longDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
+        "genres": [
+          "Football"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "Sony Sports Ten 2",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/fd019078745042969033d01da2e7afc9/1772791466/baseline-std-v4/PROMO_UCL_ROUND_OF_16_LEG_1_LEVERKUSEN_VS_ARSENAL_40SEC_HOR_DATED_APP_eng_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "06 Mar 2026, 10:00 AM",
+        "contractEndDate": "11 Mar 2026, 09:30 PM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015833/1772740758384689_UCL26_R16_leg1_Leverkusen_vs_Arsenal_6mar_Dated_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015833/1772740931146689_UCL26_R16_leg1_Leverkusen_vs_Arsenal_6mar_Dated_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015943/1773041028696218_UCL25_26_Match_masthead_mobile_v2_984x1182_Bayer_Leverkusen_vs_Arsenal_SP_1.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015827/177270218600016_UCL25_26_Match_Masthead_logo_Bayer_Leverkusen_vs_Arsenal_Dated.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015833/1772740931146689_UCL26_R16_leg1_Leverkusen_vs_Arsenal_6mar_Dated_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": []
+    },
+    {
+      "contentId": 1090505703,
+      "video_info": {
+        "title": "Upcoming - Atletico Madrid vs Tottenham - UEFA Champions League 2025-26",
+        "shortDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
+        "longDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
+        "genres": [
+          "Football"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "Sony Sports Ten 2",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/fcdfb295b0a040bca9c197b65345dae6/1772791472/baseline-std-v4/PROMO_UCL_ROUND_OF_16_LEG_1_ATLETICO_MADRID_VS_TOTTENHAM_40SEC_HOR_DATED_APP_eng_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "06 Mar 2026, 10:00 AM",
+        "contractEndDate": "11 Mar 2026, 12:55 AM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015833/1772739515896689_UCL26_R16_leg1_Atletico_vs_Tottenham_6mar_Dated_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015833/1772739688319689_UCL26_R16_leg1_Atletico_vs_Tottenham_6mar_Dated_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015943/1773041028668218_UCL25_26_Match_masthead_mobile_v2_984x1182_Atletico_Madrid_vs_Tottenham_SP_1.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015827/177270218600016_UCL25_26_Match_Masthead_logo_Atletico_Madrid_vs_Tottenham_Dated.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015833/1772739688319689_UCL26_R16_leg1_Atletico_vs_Tottenham_6mar_Dated_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": []
+    },
+    {
+      "contentId": 1090505689,
+      "video_info": {
+        "title": "Upcoming - Atalanta vs Bayern Munich - UEFA Champions League 2025-26",
+        "shortDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
+        "longDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
+        "genres": [
+          "Football"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "Sony Sports Ten 2",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/8c97e24dfbe54e2bb1a17fd0f728ecba/1772788614/baseline-std-v4/PROMO_UCL_ROUND_OF_16_LEG_1_ATALANTA_VS_BAYERN_40SEC_HOR_DATED_APP_eng_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "06 Mar 2026, 10:00 AM",
+        "contractEndDate": "11 Mar 2026, 12:55 AM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015833/1772740107783689_UCL26_R16_leg1_Atalanta_vs_Bayern_6mar_Dated_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015833/1772740290077689_UCL26_R16_leg1_Atalanta_vs_Bayern_6mar_Dated_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015943/1773041028532218_UCL25_26_Match_masthead_mobile_v2_984x1182_Atalanta_vs_Bayern_Munich_SP_1.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015827/177270218600016_UCL25_26_Match_Masthead_logo_Atalanta_vs_Bayern_Munich_Dated.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015833/1772740290077689_UCL26_R16_leg1_Atalanta_vs_Bayern_6mar_Dated_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": []
+    },
+    {
+      "contentId": 1090505242,
+      "video_info": {
+        "title": "Hui Gumm Yaadein Ek Doctor, Do Zindagiyaan",
+        "shortDescription": "Witness Dr Dev's second chance at life. Watch Hai Gumm Yaadein - Ek Doctor Do Zindagiyaan, streaming soon, on Sony LIV.",
+        "longDescription": "Witness Dr Dev's second chance at life. Watch Hai Gumm Yaadein - Ek Doctor Do Zindagiyaan, streaming soon, on Sony LIV.",
+        "genres": [
+          "Drama",
+          "Comedy"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "SAB",
+        "audio_language_list": [
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          }
+        ],
+        "emfAttributes__audio_languages": "HIN",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "HIN",
+              "isPreferred": true,
+              "audioLanguageLabel": "Hindi",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/promo/DASH/8f4805366502475da42726148fca32b8/1772106268/baseline-std-v4/YAADEIN_TRAILER_1MIN50SEC_HOR_WOSUB_WOBUG_CS_LIV_SAB_APP_REV_hin_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "26 Feb 2026, 12:00 AM",
+        "contractEndDate": "14 Feb 2027, 11:59 PM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015638/1772131236662372_Hui_Gumm_Yaadein_SS_Portrait_Thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015636/1772128377830814_Hui_Gumm_Yaadein_ss_26feb_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090499495/mastheadMobileV2/1768202193971_./Hui_Gumm_Yaadein_masthead_mobile_v2_984x1182.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090499495/mastheadLogo/1768202223990_./Hui_Gumm_Yaadein_Masthead_Logo_Dated.png",
+        "circular_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090499495/circularImage/1768203098964_./Hui_Gumm_Yaadein_Circular_Image.jpg",
+        "image_600x900_clean": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090499495/image600x900Clean/1768203123672_./Hui_Gumm_Yaadein_600x900_clean_Airtel_Portrait_Dated.jpg",
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015636/1772128377830814_Hui_Gumm_Yaadein_ss_26feb_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": []
+    },
+    {
+      "contentId": 1090505798,
+      "video_info": {
+        "title": "Vashikaranam - Kis Par Rakhe Vishwas",
+        "shortDescription": "The chilling tale of a woman who held an entire village under her control with her supernatural powers. Watch Vashikaranam from 16 March, Monday to Friday, at 10:15 PM on Sony LIV.",
+        "longDescription": "The chilling tale of a woman who held an entire village under her control with her supernatural powers. Watch Vashikaranam from 16 March, Monday to Friday, at 10:15 PM on Sony LIV.",
+        "genres": [
+          "Horror",
+          "Thriller"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "SET",
+        "audio_language_list": [
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          }
+        ],
+        "emfAttributes__audio_languages": "HIN",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "HIN",
+              "isPreferred": true,
+              "audioLanguageLabel": "Hindi",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/6b2fd0801fc04d83b037c5c756240648/1772873997/baseline-std-v4/VASHIKARAN_TRAILER_1MIN_25SEC_HOR_WOSUB_WOBUG_DATED_APP_IND_hin_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "07 Mar 2026, 03:00 PM",
+        "contractEndDate": "16 Mar 2026, 11:59 PM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015932/1772970249094936_vashikaran_dated_portrait_thumbnail.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015932/1772970291568936_vashikaran_dated_landscape_thumbnail.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": null,
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015932/1772971270563936_vashikaran_dated_masthead_logo.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015932/1772970291568936_vashikaran_dated_landscape_thumbnail.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": []
+    },
+    {
+      "contentId": 1090504215,
+      "video_info": {
+        "title": "Upcoming - New Zealand's Blockbuster Home Season",
+        "shortDescription": "",
+        "longDescription": "",
+        "genres": [
+          "Cricket"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/1768d1e2c74442d989de7f05dca49d53/1771251591/baseline-std-v4/PROMO_NZ_BLOCKBUSTER_16022026_eng_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "16 Feb 2026, 07:00 PM",
+        "contractEndDate": "30 Apr 2031, 11:59 PM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015585/1772016339248286_NZvsSA_25feb_promo_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015585/1772018351816286_NZvsSA_25feb_promo_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012695/1766576466000715_SuperSmash2526_GOB_masthead_mobile_v2_984x1182_Mens.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012695/1766576466000715_SuperSmash2526_GOB_Masthead_logo.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015585/1772018351816286_NZvsSA_25feb_promo_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": []
+    },
+    {
+      "contentId": 1090505908,
+      "video_info": {
+        "title": "Upcoming - RO 16 - 1st Leg - UEFA Champions League 2025-26",
+        "shortDescription": "Watch all the action from Champions League 2025-26, exclusively on Sony LIV.",
+        "longDescription": "Watch all the action from Champions League 2025-26, exclusively on Sony LIV.",
+        "genres": [
+          "Football"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "Sony Sports Ten 2",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/d736b93fa22e4705b94e911910fd1465/1772944203/baseline-std-v4/PROMO_UCL_10TH_MARCH_COMBO_40SEC_HOR_DATED_APP_eng_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "08 Mar 2026, 09:00 AM",
+        "contractEndDate": "11 Mar 2026, 12:55 AM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015926/1772952891440454_UEFA_Newcastle-vs-Barcelona_RD16_landscape_thumb.png",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015926/1772952891440454_UEFA_Newcastle-vs-Barcelona_RD16_landscape_thumb.png",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015846/1772791170847613_UCL26_Galatasaray_vs_Liverpool_and_NewCastle_vs_Barcelona_dated_combo_masthead_mobile_v2.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015847/1771317298472950_UCL_promo1_logo.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015926/1772952891440454_UEFA_Newcastle-vs-Barcelona_RD16_landscape_thumb.png"
+      },
+      "MULTIPLE_AUDIO_LINKS": []
+    },
+    {
+      "contentId": 1090505481,
+      "video_info": {
+        "title": "Upcoming - Emirates FA Cup - West Ham United vs Brentford",
+        "shortDescription": "Tune in to catch all the action from the Emirates FA Cup, exclusively on Sony LIV.",
+        "longDescription": "Tune in to catch all the action from the Emirates FA Cup, exclusively on Sony LIV.",
+        "genres": [
+          "Football"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/6effa11499e14f15833376b211a685d3/1772469423/baseline-std-v4/PROMO_FA_CUP_WEST_HAM_VS_BRENTFORD_eng_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "02 Mar 2026, 09:00 PM",
+        "contractEndDate": "10 Mar 2026, 12:20 AM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015748/177246970120497_West-Ham-vs-Brentford-10th-Mar_landscape_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015748/177246970120497_West-Ham-vs-Brentford-10th-Mar_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": null,
+        "masthead_logo": null,
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015748/177246970120497_West-Ham-vs-Brentford-10th-Mar_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": []
+    },
+    {
+      "contentId": 1090504638,
+      "video_info": {
+        "title": "Upcoming - Zimbabwe Women's Tour of New Zealand 2026",
+        "shortDescription": "Tune in to catch all the action from Zimbabwe Women's Tour of New Zealand 2026, only on Sony LIV.",
+        "longDescription": "Tune in to catch all the action from Zimbabwe Women's Tour of New Zealand 2026, only on Sony LIV.",
+        "genres": [
+          "Cricket"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/159c54ea3f7349d8af1078c2df281d0c/1771591372/baseline-std-v4/PROMO_ZIMBABWE_WOMENS_TOUR_OF_NEW_ZEALAND_eng_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "20 Feb 2026, 06:00 PM",
+        "contractEndDate": "11 Mar 2026, 11:59 PM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015556/1771942020139225_NZw_vs_ZIMw_2t20I_dated_promo_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015537/1771863541198694_NZWvsZIMW2026_GOB_Landscape_Thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015540/1771915862707206_NZWvsZIMW2026_MATCH_masthead_mobile_v2_984x1182.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015545/1771928359052386_NZWvsZIMW2026_MATCH_Masthead_logo_2ndT20_IND_1.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015537/1771863541198694_NZWvsZIMW2026_GOB_Landscape_Thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": []
+    }
+  ]
 }
