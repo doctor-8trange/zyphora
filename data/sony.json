@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "10-03-2026 23:01",
+  "last_updated": "10-03-2026 23:21",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -17,107 +17,6 @@
     "USAGE_GUIDE": []
   },
   "data": [
-    {
-      "contentId": 1090498688,
-      "video_info": {
-        "title": "Shark Tank India",
-        "shortDescription": "New season. New Sharks. Bigger dreams. Shark Tank India returns with Season 5! India's boldest entrepreneurs step into the Tank to pitch groundbreaking ideas and secure investments from an expanded panel of Sharks – Aman Gupta, Anupam Mittal, Namita Thapar, Vineeta Singh, Ritesh Agarwal, Kunal Bahl, Amit Jain, Mohit Yadav, Varun Alagh, Kanika Tekriwal, Viraj Bahl, Shaily Mehrotra, and Hardik Kothiya. The stakes have never been higher!",
-        "longDescription": "New season. New Sharks. Bigger dreams. Shark Tank India returns with Season 5! India's boldest entrepreneurs step into the Tank to pitch groundbreaking ideas and secure investments from an expanded panel of Sharks – Aman Gupta, Anupam Mittal, Namita Thapar, Vineeta Singh, Ritesh Agarwal, Kunal Bahl, Amit Jain, Mohit Yadav, Varun Alagh, Kanika Tekriwal, Viraj Bahl, Shaily Mehrotra, and Hardik Kothiya. The stakes have never been higher!",
-        "genres": [
-          "Reality"
-        ],
-        "episodeTitle": "Shark Tank India"
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": "https://dai.google.com/ssai/event/-9b6XJc7R-6Qneau7JKlJg/master.m3u8",
-        "broadcast_channel": "SET",
-        "audio_language_list": [
-          {
-            "lang_code": "HIN",
-            "lang_label": "Hindi"
-          }
-        ],
-        "emfAttributes__audio_languages": "HIN",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD",
-          "videoType": "FULL_HD",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "HIN",
-              "isPreferred": true,
-              "audioLanguageLabel": "Hindi"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA"
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "10 Mar 2026, 07:40 PM",
-        "contractEndDate": "11 Mar 2026, 12:13 AM",
-        "originalAirDate": "10 Mar 2026, 07:40 PM"
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015600/1772042855790566_STI_S5_25feb_simulcast_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015600/1772043167046566_STI_S5_25feb_simulcast_landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1700000741/mastheadMobileV2/1772030580691_./STIS5_7_masthead_mobile_v2_984x1182_Set2_6.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013027/1767690556411510_STI_S5_streaming_latest_EP_6jan_masthead_logo.png",
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015600/1772043167046566_STI_S5_25feb_simulcast_landscape_thumb.jpg"
-      },
-      "MULTIPLE_AUDIO_LINKS": [
-        {
-          "LANGUAGE": "Hindi",
-          "LANG_CODE": "HIN",
-          "DATA": {
-            "JITENDRAUNATTI": {
-              "Device_Type": "LITE",
-              "message": "success",
-              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/master.m3u8",
-              "WIDEVINE": null,
-              "STREAMING_TYPE": true,
-              "audioLanguages": [
-                {
-                  "audioId": 1,
-                  "audioLanguageName": "HIN",
-                  "isPreferred": true,
-                  "audioLanguageLabel": "Hindi"
-                }
-              ],
-              "dai_asset_key": "https://dai.google.com/ssai/event/-9b6XJc7R-6Qneau7JKlJg/master.m3u8",
-              "Maximum_Video_Quality": "SDR",
-              "Maximum_Resolution": "FULL_HD",
-              "trailer_url": "",
-              "systemTime": 1773152062153,
-              "DOCTOR_STRANGE": 1773152061,
-              "additionalDataJson": {
-                "audio_quality": "STEREO",
-                "enc_format": "HLS",
-                "resolution": "FULL_HD",
-                "video_quality": "SDR",
-                "videoCodec": "H264",
-                "audioCodec": "AAC",
-                "fps": 50,
-                "isDaiKey": false,
-                "partners": [
-                  "ALL"
-                ],
-                "ad_stack": "MT-SSB"
-              },
-              "Status_code": 200,
-              "content_type": "application/json; charset=utf-8",
-              "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.4d4015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=256x144,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/hdntl=exp=1773238463~acl=%2f*~id=60491029712304261238031154076179~data=hdntl,2094590,DAI25ME-STI,none~hmac=cd70e4a0aed6e160b40021ce15452e7355b86179d4ac9fd3c3c92bad2201141a/master_200.m3u8?aka_me_session_id=AAAAAAAAAAC%2feLFpAAAAABRoIAh4gJZqtgSkfS+D1CmhiYfkt8GMQsAsiJVqQl5cnRYWY3A6MeSBhQAq162QBxFuPFNl1Nfu&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=581816,AVERAGE-BANDWIDTH=581816,CODECS=\"avc1.4d4015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/hdntl=exp=1773238463~acl=%2f*~id=60491029712304261238031154076179~data=hdntl,2094590,DAI25ME-STI,none~hmac=cd70e4a0aed6e160b40021ce15452e7355b86179d4ac9fd3c3c92bad2201141a/master_350.m3u8?aka_me_session_id=AAAAAAAAAAC%2feLFpAAAAABRoIAh4gJZqtgSkfS+D1CmhiYfkt8GMQsAsiJVqQl5cnRYWY3A6MeSBhQAq162QBxFuPFNl1Nfu&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=735080,AVERAGE-BANDWIDTH=735080,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/hdntl=exp=1773238463~acl=%2f*~id=60491029712304261238031154076179~data=hdntl,2094590,DAI25ME-STI,none~hmac=cd70e4a0aed6e160b40021ce15452e7355b86179d4ac9fd3c3c92bad2201141a/master_500.m3u8?aka_me_session_id=AAAAAAAAAAC%2feLFpAAAAABRoIAh4gJZqtgSkfS+D1CmhiYfkt8GMQsAsiJVqQl5cnRYWY3A6MeSBhQAq162QBxFuPFNl1Nfu&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=939432,AVERAGE-BANDWIDTH=939432,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/hdntl=exp=1773238463~acl=%2f*~id=60491029712304261238031154076179~data=hdntl,2094590,DAI25ME-STI,none~hmac=cd70e4a0aed6e160b40021ce15452e7355b86179d4ac9fd3c3c92bad2201141a/master_700.m3u8?aka_me_session_id=AAAAAAAAAAC%2feLFpAAAAABRoIAh4gJZqtgSkfS+D1CmhiYfkt8GMQsAsiJVqQl5cnRYWY3A6MeSBhQAq162QBxFuPFNl1Nfu&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.4d4020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/hdntl=exp=1773238463~acl=%2f*~id=60491029712304261238031154076179~data=hdntl,2094590,DAI25ME-STI,none~hmac=cd70e4a0aed6e160b40021ce15452e7355b86179d4ac9fd3c3c92bad2201141a/master_1300.m3u8?aka_me_session_id=AAAAAAAAAAC%2feLFpAAAAABRoIAh4gJZqtgSkfS+D1CmhiYfkt8GMQsAsiJVqQl5cnRYWY3A6MeSBhQAq162QBxFuPFNl1Nfu&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2267688,AVERAGE-BANDWIDTH=2267688,CODECS=\"avc1.4d4020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/hdntl=exp=1773238463~acl=%2f*~id=60491029712304261238031154076179~data=hdntl,2094590,DAI25ME-STI,none~hmac=cd70e4a0aed6e160b40021ce15452e7355b86179d4ac9fd3c3c92bad2201141a/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAC%2feLFpAAAAABRoIAh4gJZqtgSkfS+D1CmhiYfkt8GMQsAsiJVqQl5cnRYWY3A6MeSBhQAq162QBxFuPFNl1Nfu&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2778568,AVERAGE-BANDWIDTH=2778568,CODECS=\"avc1.4d4028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/hdntl=exp=1773238463~acl=%2f*~id=60491029712304261238031154076179~data=hdntl,2094590,DAI25ME-STI,none~hmac=cd70e4a0aed6e160b40021ce15452e7355b86179d4ac9fd3c3c92bad2201141a/master_2500.m3u8?aka_me_session_id=AAAAAAAAAAC%2feLFpAAAAABRoIAh4gJZqtgSkfS+D1CmhiYfkt8GMQsAsiJVqQl5cnRYWY3A6MeSBhQAq162QBxFuPFNl1Nfu&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3800296,AVERAGE-BANDWIDTH=3800296,CODECS=\"avc1.4d4028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/hdntl=exp=1773238463~acl=%2f*~id=60491029712304261238031154076179~data=hdntl,2094590,DAI25ME-STI,none~hmac=cd70e4a0aed6e160b40021ce15452e7355b86179d4ac9fd3c3c92bad2201141a/master_3500.m3u8?aka_me_session_id=AAAAAAAAAAC%2feLFpAAAAABRoIAh4gJZqtgSkfS+D1CmhiYfkt8GMQsAsiJVqQl5cnRYWY3A6MeSBhQAq162QBxFuPFNl1Nfu&aka_media_format_type=hls",
-              "date": "Tuesday 10th of March 2026 07:44:21 PM"
-            }
-          }
-        }
-      ]
-    },
     {
       "contentId": 1090505917,
       "video_info": {
@@ -151,7 +50,7 @@
             "lang_label": "Telugu"
           }
         ],
-        "emfAttributes__audio_languages": "TEL,ENG,TAM,HIN",
+        "emfAttributes__audio_languages": "ENG,HIN,TEL,TAM",
         "platformVariants": {
           "assetType": "MASTER",
           "assetName": "VOD_FULL_HD",
@@ -165,7 +64,13 @@
             }
           ],
           "subtitlesLanguages": [],
-          "videoUrl": "NA"
+          "videoUrl": "NA",
+          "trailerUrl": "",
+          "promotionUrl": "",
+          "promotionRating": "",
+          "trailerRating": "",
+          "trailerContentId": "",
+          "promotionContentId": ""
         }
       },
       "air_dates": {
@@ -174,14 +79,14 @@
         "originalAirDate": "10 Mar 2026, 10:00 PM"
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016012/1773151974658876_ucl_champions_pe_charcha_10mar_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016013/1773152786295832_ucl_champions_pe_charcha_10mar1_landcape_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015939/1773007274842551_UCL26_R16_leg1_Galatasaray_vs_Liverpool_8mar_eng_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015939/1773010341852551_UCL26_R16_leg1_Galatasaray_vs_Liverpool_8mar_eng_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016012/1773151233895876_ucl_champions_pe_charcha_10mar_masthead_mobile_v2.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016012/1773152280853876_UCL25_26_Match_Masthead_logo_Galatasaray_vs_Liverpool_Live.png",
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015943/1773041028760218_UCL25_26_Match_masthead_mobile_v2_984x1182_Galatasaray_vs_Liverpool_SP.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015827/177270218600016_UCL25_26_Match_Masthead_logo_Galatasaray_vs_Liverpool_Live.png",
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016013/1773152786295832_ucl_champions_pe_charcha_10mar1_landcape_thumb.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015939/1773010341852551_UCL26_R16_leg1_Galatasaray_vs_Liverpool_8mar_eng_landscape_thumb.jpg"
       },
       "MULTIPLE_AUDIO_LINKS": [
         {
@@ -421,6 +326,107 @@
               "content_type": "application/json; charset=utf-8",
               "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/hdntl=exp=1773245413~acl=%2f*~id=60491029712304261238031154076179~data=hdntl,2022319,DAI15ME-V3,none~hmac=c1d7ae4c2f7cf7a74f676f148484db5186c06e2d032a6b77923f516b31ffc1d4/master_200.m3u8?aka_me_session_id=AAAAAAAAAADlk7FpAAAAAAtXFzgE8ZGWnIwLCyHi%2fesCHtDYBFG1qSQyuCQNuqzEByXAqHj0Fl1iW51tvvmHd%2f4wwV%2f1cIk8&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/hdntl=exp=1773245413~acl=%2f*~id=60491029712304261238031154076179~data=hdntl,2022319,DAI15ME-V3,none~hmac=c1d7ae4c2f7cf7a74f676f148484db5186c06e2d032a6b77923f516b31ffc1d4/master_400.m3u8?aka_me_session_id=AAAAAAAAAADlk7FpAAAAAAtXFzgE8ZGWnIwLCyHi%2fesCHtDYBFG1qSQyuCQNuqzEByXAqHj0Fl1iW51tvvmHd%2f4wwV%2f1cIk8&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/hdntl=exp=1773245413~acl=%2f*~id=60491029712304261238031154076179~data=hdntl,2022319,DAI15ME-V3,none~hmac=c1d7ae4c2f7cf7a74f676f148484db5186c06e2d032a6b77923f516b31ffc1d4/master_500.m3u8?aka_me_session_id=AAAAAAAAAADlk7FpAAAAAAtXFzgE8ZGWnIwLCyHi%2fesCHtDYBFG1qSQyuCQNuqzEByXAqHj0Fl1iW51tvvmHd%2f4wwV%2f1cIk8&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=935336,AVERAGE-BANDWIDTH=935336,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/hdntl=exp=1773245413~acl=%2f*~id=60491029712304261238031154076179~data=hdntl,2022319,DAI15ME-V3,none~hmac=c1d7ae4c2f7cf7a74f676f148484db5186c06e2d032a6b77923f516b31ffc1d4/master_600.m3u8?aka_me_session_id=AAAAAAAAAADlk7FpAAAAAAtXFzgE8ZGWnIwLCyHi%2fesCHtDYBFG1qSQyuCQNuqzEByXAqHj0Fl1iW51tvvmHd%2f4wwV%2f1cIk8&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/hdntl=exp=1773245413~acl=%2f*~id=60491029712304261238031154076179~data=hdntl,2022319,DAI15ME-V3,none~hmac=c1d7ae4c2f7cf7a74f676f148484db5186c06e2d032a6b77923f516b31ffc1d4/master_1000.m3u8?aka_me_session_id=AAAAAAAAAADlk7FpAAAAAAtXFzgE8ZGWnIwLCyHi%2fesCHtDYBFG1qSQyuCQNuqzEByXAqHj0Fl1iW51tvvmHd%2f4wwV%2f1cIk8&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/hdntl=exp=1773245413~acl=%2f*~id=60491029712304261238031154076179~data=hdntl,2022319,DAI15ME-V3,none~hmac=c1d7ae4c2f7cf7a74f676f148484db5186c06e2d032a6b77923f516b31ffc1d4/master_1300.m3u8?aka_me_session_id=AAAAAAAAAADlk7FpAAAAAAtXFzgE8ZGWnIwLCyHi%2fesCHtDYBFG1qSQyuCQNuqzEByXAqHj0Fl1iW51tvvmHd%2f4wwV%2f1cIk8&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/hdntl=exp=1773245413~acl=%2f*~id=60491029712304261238031154076179~data=hdntl,2022319,DAI15ME-V3,none~hmac=c1d7ae4c2f7cf7a74f676f148484db5186c06e2d032a6b77923f516b31ffc1d4/master_2000.m3u8?aka_me_session_id=AAAAAAAAAADlk7FpAAAAAAtXFzgE8ZGWnIwLCyHi%2fesCHtDYBFG1qSQyuCQNuqzEByXAqHj0Fl1iW51tvvmHd%2f4wwV%2f1cIk8&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/hdntl=exp=1773245413~acl=%2f*~id=60491029712304261238031154076179~data=hdntl,2022319,DAI15ME-V3,none~hmac=c1d7ae4c2f7cf7a74f676f148484db5186c06e2d032a6b77923f516b31ffc1d4/master_2200.m3u8?aka_me_session_id=AAAAAAAAAADlk7FpAAAAAAtXFzgE8ZGWnIwLCyHi%2fesCHtDYBFG1qSQyuCQNuqzEByXAqHj0Fl1iW51tvvmHd%2f4wwV%2f1cIk8&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3591848,AVERAGE-BANDWIDTH=3591848,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/hdntl=exp=1773245413~acl=%2f*~id=60491029712304261238031154076179~data=hdntl,2022319,DAI15ME-V3,none~hmac=c1d7ae4c2f7cf7a74f676f148484db5186c06e2d032a6b77923f516b31ffc1d4/master_3200.m3u8?aka_me_session_id=AAAAAAAAAADlk7FpAAAAAAtXFzgE8ZGWnIwLCyHi%2fesCHtDYBFG1qSQyuCQNuqzEByXAqHj0Fl1iW51tvvmHd%2f4wwV%2f1cIk8&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/hdntl=exp=1773245413~acl=%2f*~id=60491029712304261238031154076179~data=hdntl,2022319,DAI15ME-V3,none~hmac=c1d7ae4c2f7cf7a74f676f148484db5186c06e2d032a6b77923f516b31ffc1d4/master_4500.m3u8?aka_me_session_id=AAAAAAAAAADlk7FpAAAAAAtXFzgE8ZGWnIwLCyHi%2fesCHtDYBFG1qSQyuCQNuqzEByXAqHj0Fl1iW51tvvmHd%2f4wwV%2f1cIk8&aka_media_format_type=hls",
               "date": "Tuesday 10th of March 2026 09:40:11 PM"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "contentId": 1090498688,
+      "video_info": {
+        "title": "Shark Tank India",
+        "shortDescription": "New season. New Sharks. Bigger dreams. Shark Tank India returns with Season 5! India's boldest entrepreneurs step into the Tank to pitch groundbreaking ideas and secure investments from an expanded panel of Sharks – Aman Gupta, Anupam Mittal, Namita Thapar, Vineeta Singh, Ritesh Agarwal, Kunal Bahl, Amit Jain, Mohit Yadav, Varun Alagh, Kanika Tekriwal, Viraj Bahl, Shaily Mehrotra, and Hardik Kothiya. The stakes have never been higher!",
+        "longDescription": "New season. New Sharks. Bigger dreams. Shark Tank India returns with Season 5! India's boldest entrepreneurs step into the Tank to pitch groundbreaking ideas and secure investments from an expanded panel of Sharks – Aman Gupta, Anupam Mittal, Namita Thapar, Vineeta Singh, Ritesh Agarwal, Kunal Bahl, Amit Jain, Mohit Yadav, Varun Alagh, Kanika Tekriwal, Viraj Bahl, Shaily Mehrotra, and Hardik Kothiya. The stakes have never been higher!",
+        "genres": [
+          "Reality"
+        ],
+        "episodeTitle": "Shark Tank India"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/-9b6XJc7R-6Qneau7JKlJg/master.m3u8",
+        "broadcast_channel": "SET",
+        "audio_language_list": [
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          }
+        ],
+        "emfAttributes__audio_languages": "HIN",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "HIN",
+              "isPreferred": true,
+              "audioLanguageLabel": "Hindi"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "10 Mar 2026, 07:40 PM",
+        "contractEndDate": "11 Mar 2026, 12:13 AM",
+        "originalAirDate": "10 Mar 2026, 07:40 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015600/1772042855790566_STI_S5_25feb_simulcast_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015600/1772043167046566_STI_S5_25feb_simulcast_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1700000741/mastheadMobileV2/1772030580691_./STIS5_7_masthead_mobile_v2_984x1182_Set2_6.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013027/1767690556411510_STI_S5_streaming_latest_EP_6jan_masthead_logo.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015600/1772043167046566_STI_S5_25feb_simulcast_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "Hindi",
+          "LANG_CODE": "HIN",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "HIN",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "Hindi"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/-9b6XJc7R-6Qneau7JKlJg/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1773152062153,
+              "DOCTOR_STRANGE": 1773152061,
+              "additionalDataJson": {
+                "audio_quality": "STEREO",
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "video_quality": "SDR",
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "fps": 50,
+                "isDaiKey": false,
+                "partners": [
+                  "ALL"
+                ],
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.4d4015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=256x144,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/hdntl=exp=1773238463~acl=%2f*~id=60491029712304261238031154076179~data=hdntl,2094590,DAI25ME-STI,none~hmac=cd70e4a0aed6e160b40021ce15452e7355b86179d4ac9fd3c3c92bad2201141a/master_200.m3u8?aka_me_session_id=AAAAAAAAAAC%2feLFpAAAAABRoIAh4gJZqtgSkfS+D1CmhiYfkt8GMQsAsiJVqQl5cnRYWY3A6MeSBhQAq162QBxFuPFNl1Nfu&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=581816,AVERAGE-BANDWIDTH=581816,CODECS=\"avc1.4d4015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/hdntl=exp=1773238463~acl=%2f*~id=60491029712304261238031154076179~data=hdntl,2094590,DAI25ME-STI,none~hmac=cd70e4a0aed6e160b40021ce15452e7355b86179d4ac9fd3c3c92bad2201141a/master_350.m3u8?aka_me_session_id=AAAAAAAAAAC%2feLFpAAAAABRoIAh4gJZqtgSkfS+D1CmhiYfkt8GMQsAsiJVqQl5cnRYWY3A6MeSBhQAq162QBxFuPFNl1Nfu&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=735080,AVERAGE-BANDWIDTH=735080,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/hdntl=exp=1773238463~acl=%2f*~id=60491029712304261238031154076179~data=hdntl,2094590,DAI25ME-STI,none~hmac=cd70e4a0aed6e160b40021ce15452e7355b86179d4ac9fd3c3c92bad2201141a/master_500.m3u8?aka_me_session_id=AAAAAAAAAAC%2feLFpAAAAABRoIAh4gJZqtgSkfS+D1CmhiYfkt8GMQsAsiJVqQl5cnRYWY3A6MeSBhQAq162QBxFuPFNl1Nfu&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=939432,AVERAGE-BANDWIDTH=939432,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/hdntl=exp=1773238463~acl=%2f*~id=60491029712304261238031154076179~data=hdntl,2094590,DAI25ME-STI,none~hmac=cd70e4a0aed6e160b40021ce15452e7355b86179d4ac9fd3c3c92bad2201141a/master_700.m3u8?aka_me_session_id=AAAAAAAAAAC%2feLFpAAAAABRoIAh4gJZqtgSkfS+D1CmhiYfkt8GMQsAsiJVqQl5cnRYWY3A6MeSBhQAq162QBxFuPFNl1Nfu&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.4d4020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/hdntl=exp=1773238463~acl=%2f*~id=60491029712304261238031154076179~data=hdntl,2094590,DAI25ME-STI,none~hmac=cd70e4a0aed6e160b40021ce15452e7355b86179d4ac9fd3c3c92bad2201141a/master_1300.m3u8?aka_me_session_id=AAAAAAAAAAC%2feLFpAAAAABRoIAh4gJZqtgSkfS+D1CmhiYfkt8GMQsAsiJVqQl5cnRYWY3A6MeSBhQAq162QBxFuPFNl1Nfu&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2267688,AVERAGE-BANDWIDTH=2267688,CODECS=\"avc1.4d4020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/hdntl=exp=1773238463~acl=%2f*~id=60491029712304261238031154076179~data=hdntl,2094590,DAI25ME-STI,none~hmac=cd70e4a0aed6e160b40021ce15452e7355b86179d4ac9fd3c3c92bad2201141a/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAC%2feLFpAAAAABRoIAh4gJZqtgSkfS+D1CmhiYfkt8GMQsAsiJVqQl5cnRYWY3A6MeSBhQAq162QBxFuPFNl1Nfu&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2778568,AVERAGE-BANDWIDTH=2778568,CODECS=\"avc1.4d4028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/hdntl=exp=1773238463~acl=%2f*~id=60491029712304261238031154076179~data=hdntl,2094590,DAI25ME-STI,none~hmac=cd70e4a0aed6e160b40021ce15452e7355b86179d4ac9fd3c3c92bad2201141a/master_2500.m3u8?aka_me_session_id=AAAAAAAAAAC%2feLFpAAAAABRoIAh4gJZqtgSkfS+D1CmhiYfkt8GMQsAsiJVqQl5cnRYWY3A6MeSBhQAq162QBxFuPFNl1Nfu&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3800296,AVERAGE-BANDWIDTH=3800296,CODECS=\"avc1.4d4028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/hdntl=exp=1773238463~acl=%2f*~id=60491029712304261238031154076179~data=hdntl,2094590,DAI25ME-STI,none~hmac=cd70e4a0aed6e160b40021ce15452e7355b86179d4ac9fd3c3c92bad2201141a/master_3500.m3u8?aka_me_session_id=AAAAAAAAAAC%2feLFpAAAAABRoIAh4gJZqtgSkfS+D1CmhiYfkt8GMQsAsiJVqQl5cnRYWY3A6MeSBhQAq162QBxFuPFNl1Nfu&aka_media_format_type=hls",
+              "date": "Tuesday 10th of March 2026 07:44:21 PM"
             }
           }
         }
