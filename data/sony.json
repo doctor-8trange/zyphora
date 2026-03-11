@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "11-03-2026 09:40",
+  "last_updated": "11-03-2026 15:41",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -16,7 +16,109 @@
     "SERVER_STATUS": "NORMAL",
     "USAGE_GUIDE": []
   },
-  "data": [],
+  "data": [
+    {
+      "contentId": 1090506110,
+      "video_info": {
+        "title": "The Hundred 2026 (Women's)",
+        "shortDescription": "The first-ever player auction for Women’s Hundred 2026 goes underway in an IPL-style format with up to four overseas players per squad.  A star-studded marquee list including Deepti Sharma, Sophie Devine, Beth Mooney, and Tammy Beaumont among others will headline the 178 players going under the hammer. Tune in to catch all the action, LIVE & exclusively on Sony LIV",
+        "longDescription": "The first-ever player auction for Women’s Hundred 2026 goes underway in an IPL-style format with up to four overseas players per squad.  A star-studded marquee list including Deepti Sharma, Sophie Devine, Beth Mooney, and Tammy Beaumont among others will headline the 178 players going under the hammer. Tune in to catch all the action, LIVE & exclusively on Sony LIV",
+        "genres": [
+          "Cricket"
+        ],
+        "episodeTitle": "Auction - 11 Mar 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/FRfpSr3uSzaIu94qoYoyaQ/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "11 Mar 2026, 03:00 PM",
+        "contractEndDate": "12 Mar 2026, 04:00 AM",
+        "originalAirDate": "11 Mar 2026, 03:30 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015999/1773142939504356_the_hundred_auction_womens_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015999/1773143576563356_the_hundred_auction_womens_landscape_thumb.jpg",
+        "masthead_mobile_v1": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000005850/175431928855170_The_Hundred_2025_Womens_GOB_masthead_mobile_v1.jpg",
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016000/1773143430067110_TheHundred2026_Auction_masthead_mobile_v2_984x1182_WOMENS.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016000/1773143430188110_TheHundred2026_Auction_Masthead_logo_LIVE.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015999/1773143576563356_the_hundred_auction_womens_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2005444/DAI07ME-V3/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/FRfpSr3uSzaIu94qoYoyaQ/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1773222617653,
+              "DOCTOR_STRANGE": 1773222618,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/DAI07ME-V3/hdntl=exp=1773309019~acl=%2f*~id=63507015058851523538392622289304~data=hdntl,2005444,DAI07ME-V3,none~hmac=71bd6b861f25d9cc8a81887129021ea0aa9727e71702187ed076e4494c9809da/master_200.m3u8?aka_me_session_id=AAAAAAAAAABbjLJpAAAAAC4KmQ%2fl2+ugnO5XQQyWzijzTPdjgosHEm9qozaXftNAd%2f2lwD+exaRiX92S4Il4nPCJxErSghim&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/DAI07ME-V3/hdntl=exp=1773309019~acl=%2f*~id=63507015058851523538392622289304~data=hdntl,2005444,DAI07ME-V3,none~hmac=71bd6b861f25d9cc8a81887129021ea0aa9727e71702187ed076e4494c9809da/master_400.m3u8?aka_me_session_id=AAAAAAAAAABbjLJpAAAAAC4KmQ%2fl2+ugnO5XQQyWzijzTPdjgosHEm9qozaXftNAd%2f2lwD+exaRiX92S4Il4nPCJxErSghim&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/DAI07ME-V3/hdntl=exp=1773309019~acl=%2f*~id=63507015058851523538392622289304~data=hdntl,2005444,DAI07ME-V3,none~hmac=71bd6b861f25d9cc8a81887129021ea0aa9727e71702187ed076e4494c9809da/master_500.m3u8?aka_me_session_id=AAAAAAAAAABbjLJpAAAAAC4KmQ%2fl2+ugnO5XQQyWzijzTPdjgosHEm9qozaXftNAd%2f2lwD+exaRiX92S4Il4nPCJxErSghim&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=837256,AVERAGE-BANDWIDTH=837256,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/DAI07ME-V3/hdntl=exp=1773309019~acl=%2f*~id=63507015058851523538392622289304~data=hdntl,2005444,DAI07ME-V3,none~hmac=71bd6b861f25d9cc8a81887129021ea0aa9727e71702187ed076e4494c9809da/master_600.m3u8?aka_me_session_id=AAAAAAAAAABbjLJpAAAAAC4KmQ%2fl2+ugnO5XQQyWzijzTPdjgosHEm9qozaXftNAd%2f2lwD+exaRiX92S4Il4nPCJxErSghim&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/DAI07ME-V3/hdntl=exp=1773309019~acl=%2f*~id=63507015058851523538392622289304~data=hdntl,2005444,DAI07ME-V3,none~hmac=71bd6b861f25d9cc8a81887129021ea0aa9727e71702187ed076e4494c9809da/master_1000.m3u8?aka_me_session_id=AAAAAAAAAABbjLJpAAAAAC4KmQ%2fl2+ugnO5XQQyWzijzTPdjgosHEm9qozaXftNAd%2f2lwD+exaRiX92S4Il4nPCJxErSghim&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/DAI07ME-V3/hdntl=exp=1773309019~acl=%2f*~id=63507015058851523538392622289304~data=hdntl,2005444,DAI07ME-V3,none~hmac=71bd6b861f25d9cc8a81887129021ea0aa9727e71702187ed076e4494c9809da/master_1300.m3u8?aka_me_session_id=AAAAAAAAAABbjLJpAAAAAC4KmQ%2fl2+ugnO5XQQyWzijzTPdjgosHEm9qozaXftNAd%2f2lwD+exaRiX92S4Il4nPCJxErSghim&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/DAI07ME-V3/hdntl=exp=1773309019~acl=%2f*~id=63507015058851523538392622289304~data=hdntl,2005444,DAI07ME-V3,none~hmac=71bd6b861f25d9cc8a81887129021ea0aa9727e71702187ed076e4494c9809da/master_2000.m3u8?aka_me_session_id=AAAAAAAAAABbjLJpAAAAAC4KmQ%2fl2+ugnO5XQQyWzijzTPdjgosHEm9qozaXftNAd%2f2lwD+exaRiX92S4Il4nPCJxErSghim&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/DAI07ME-V3/hdntl=exp=1773309019~acl=%2f*~id=63507015058851523538392622289304~data=hdntl,2005444,DAI07ME-V3,none~hmac=71bd6b861f25d9cc8a81887129021ea0aa9727e71702187ed076e4494c9809da/master_2200.m3u8?aka_me_session_id=AAAAAAAAAABbjLJpAAAAAC4KmQ%2fl2+ugnO5XQQyWzijzTPdjgosHEm9qozaXftNAd%2f2lwD+exaRiX92S4Il4nPCJxErSghim&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3591848,AVERAGE-BANDWIDTH=3591848,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/DAI07ME-V3/hdntl=exp=1773309019~acl=%2f*~id=63507015058851523538392622289304~data=hdntl,2005444,DAI07ME-V3,none~hmac=71bd6b861f25d9cc8a81887129021ea0aa9727e71702187ed076e4494c9809da/master_3200.m3u8?aka_me_session_id=AAAAAAAAAABbjLJpAAAAAC4KmQ%2fl2+ugnO5XQQyWzijzTPdjgosHEm9qozaXftNAd%2f2lwD+exaRiX92S4Il4nPCJxErSghim&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/DAI07ME-V3/hdntl=exp=1773309019~acl=%2f*~id=63507015058851523538392622289304~data=hdntl,2005444,DAI07ME-V3,none~hmac=71bd6b861f25d9cc8a81887129021ea0aa9727e71702187ed076e4494c9809da/master_4500.m3u8?aka_me_session_id=AAAAAAAAAABbjLJpAAAAAC4KmQ%2fl2+ugnO5XQQyWzijzTPdjgosHEm9qozaXftNAd%2f2lwD+exaRiX92S4Il4nPCJxErSghim&aka_media_format_type=hls",
+              "date": "Wednesday 11th of March 2026 03:20:18 PM"
+            }
+          }
+        }
+      ]
+    }
+  ],
   "upcoming": [
     {
       "contentId": 1090505970,
