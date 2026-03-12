@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "12-03-2026 18:21",
+  "last_updated": "12-03-2026 18:41",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -70,7 +70,53 @@
         "image_600x900_clean": null,
         "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016058/1773232988888126_IFC_Chanmari_FC-vs-Dempo_Sports_Club_landscape_thumb.jpg"
       },
-      "MULTIPLE_AUDIO_LINKS": []
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2105080/DAI24ME-V3/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/oIVwubfSTSKbOcRtPXiF7w/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1773321020080,
+              "DOCTOR_STRANGE": 1773321022,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2105080/DAI24ME-V3/hdntl=exp=1773407423~acl=%2f*~id=ae032ebfdb7e1939b3723e76d695b184-1773318600160~data=hdntl,2105080,DAI24ME-V3,none~hmac=d10a80f53b01ade78443a4cfff1d053f598baedfe91dc3689c8fb40bf146b1a8/master_200.m3u8?aka_me_session_id=AAAAAAAAAAC%2fDLRpAAAAAF5tf9dVUz+ywYbPcJWnhlvlOQt8%2fhDdafOo8X8HknlNSGyyDWRdNy+ftSEb8kjwtVCS0i019zuM&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2105080/DAI24ME-V3/hdntl=exp=1773407423~acl=%2f*~id=ae032ebfdb7e1939b3723e76d695b184-1773318600160~data=hdntl,2105080,DAI24ME-V3,none~hmac=d10a80f53b01ade78443a4cfff1d053f598baedfe91dc3689c8fb40bf146b1a8/master_400.m3u8?aka_me_session_id=AAAAAAAAAAC%2fDLRpAAAAAF5tf9dVUz+ywYbPcJWnhlvlOQt8%2fhDdafOo8X8HknlNSGyyDWRdNy+ftSEb8kjwtVCS0i019zuM&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2105080/DAI24ME-V3/hdntl=exp=1773407423~acl=%2f*~id=ae032ebfdb7e1939b3723e76d695b184-1773318600160~data=hdntl,2105080,DAI24ME-V3,none~hmac=d10a80f53b01ade78443a4cfff1d053f598baedfe91dc3689c8fb40bf146b1a8/master_500.m3u8?aka_me_session_id=AAAAAAAAAAC%2fDLRpAAAAAF5tf9dVUz+ywYbPcJWnhlvlOQt8%2fhDdafOo8X8HknlNSGyyDWRdNy+ftSEb8kjwtVCS0i019zuM&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=837256,AVERAGE-BANDWIDTH=837256,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2105080/DAI24ME-V3/hdntl=exp=1773407423~acl=%2f*~id=ae032ebfdb7e1939b3723e76d695b184-1773318600160~data=hdntl,2105080,DAI24ME-V3,none~hmac=d10a80f53b01ade78443a4cfff1d053f598baedfe91dc3689c8fb40bf146b1a8/master_600.m3u8?aka_me_session_id=AAAAAAAAAAC%2fDLRpAAAAAF5tf9dVUz+ywYbPcJWnhlvlOQt8%2fhDdafOo8X8HknlNSGyyDWRdNy+ftSEb8kjwtVCS0i019zuM&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2105080/DAI24ME-V3/hdntl=exp=1773407423~acl=%2f*~id=ae032ebfdb7e1939b3723e76d695b184-1773318600160~data=hdntl,2105080,DAI24ME-V3,none~hmac=d10a80f53b01ade78443a4cfff1d053f598baedfe91dc3689c8fb40bf146b1a8/master_1000.m3u8?aka_me_session_id=AAAAAAAAAAC%2fDLRpAAAAAF5tf9dVUz+ywYbPcJWnhlvlOQt8%2fhDdafOo8X8HknlNSGyyDWRdNy+ftSEb8kjwtVCS0i019zuM&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2105080/DAI24ME-V3/hdntl=exp=1773407423~acl=%2f*~id=ae032ebfdb7e1939b3723e76d695b184-1773318600160~data=hdntl,2105080,DAI24ME-V3,none~hmac=d10a80f53b01ade78443a4cfff1d053f598baedfe91dc3689c8fb40bf146b1a8/master_1300.m3u8?aka_me_session_id=AAAAAAAAAAC%2fDLRpAAAAAF5tf9dVUz+ywYbPcJWnhlvlOQt8%2fhDdafOo8X8HknlNSGyyDWRdNy+ftSEb8kjwtVCS0i019zuM&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2105080/DAI24ME-V3/hdntl=exp=1773407423~acl=%2f*~id=ae032ebfdb7e1939b3723e76d695b184-1773318600160~data=hdntl,2105080,DAI24ME-V3,none~hmac=d10a80f53b01ade78443a4cfff1d053f598baedfe91dc3689c8fb40bf146b1a8/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAC%2fDLRpAAAAAF5tf9dVUz+ywYbPcJWnhlvlOQt8%2fhDdafOo8X8HknlNSGyyDWRdNy+ftSEb8kjwtVCS0i019zuM&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2105080/DAI24ME-V3/hdntl=exp=1773407423~acl=%2f*~id=ae032ebfdb7e1939b3723e76d695b184-1773318600160~data=hdntl,2105080,DAI24ME-V3,none~hmac=d10a80f53b01ade78443a4cfff1d053f598baedfe91dc3689c8fb40bf146b1a8/master_2200.m3u8?aka_me_session_id=AAAAAAAAAAC%2fDLRpAAAAAF5tf9dVUz+ywYbPcJWnhlvlOQt8%2fhDdafOo8X8HknlNSGyyDWRdNy+ftSEb8kjwtVCS0i019zuM&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3591848,AVERAGE-BANDWIDTH=3591848,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2105080/DAI24ME-V3/hdntl=exp=1773407423~acl=%2f*~id=ae032ebfdb7e1939b3723e76d695b184-1773318600160~data=hdntl,2105080,DAI24ME-V3,none~hmac=d10a80f53b01ade78443a4cfff1d053f598baedfe91dc3689c8fb40bf146b1a8/master_3200.m3u8?aka_me_session_id=AAAAAAAAAAC%2fDLRpAAAAAF5tf9dVUz+ywYbPcJWnhlvlOQt8%2fhDdafOo8X8HknlNSGyyDWRdNy+ftSEb8kjwtVCS0i019zuM&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2105080/DAI24ME-V3/hdntl=exp=1773407423~acl=%2f*~id=ae032ebfdb7e1939b3723e76d695b184-1773318600160~data=hdntl,2105080,DAI24ME-V3,none~hmac=d10a80f53b01ade78443a4cfff1d053f598baedfe91dc3689c8fb40bf146b1a8/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAC%2fDLRpAAAAAF5tf9dVUz+ywYbPcJWnhlvlOQt8%2fhDdafOo8X8HknlNSGyyDWRdNy+ftSEb8kjwtVCS0i019zuM&aka_media_format_type=hls",
+              "date": "Thursday 12th of March 2026 06:40:22 PM"
+            }
+          }
+        }
+      ]
     },
     {
       "contentId": 1090506232,
@@ -176,126 +222,6 @@
   ],
   "upcoming": [
     {
-      "contentId": 1090505798,
-      "video_info": {
-        "title": "Vashikaranam - Kis Par Rakhe Vishwas",
-        "shortDescription": "The chilling tale of a woman who held an entire village under her control with her supernatural powers. Watch Vashikaranam from 16 March, Monday to Friday, at 10:15 PM on Sony LIV.",
-        "longDescription": "The chilling tale of a woman who held an entire village under her control with her supernatural powers. Watch Vashikaranam from 16 March, Monday to Friday, at 10:15 PM on Sony LIV.",
-        "genres": [
-          "Horror",
-          "Thriller"
-        ],
-        "episodeTitle": ""
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "SET",
-        "audio_language_list": [
-          {
-            "lang_code": "HIN",
-            "lang_label": "Hindi"
-          }
-        ],
-        "emfAttributes__audio_languages": "HIN",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "HIN",
-              "isPreferred": true,
-              "audioLanguageLabel": "Hindi",
-              "type": "main"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/6b2fd0801fc04d83b037c5c756240648/1772873997/baseline-std-v4/VASHIKARAN_TRAILER_1MIN_25SEC_HOR_WOSUB_WOBUG_DATED_APP_IND_hin_baseline-800300010.mpd",
-          "hasTrailer": true
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "07 Mar 2026, 03:00 PM",
-        "contractEndDate": "16 Mar 2026, 11:59 PM",
-        "originalAirDate": null
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090505798/portraitThumb/1773317371405_./Vashikaran_Portrait_Thumb_Dated.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090505798/thumbnail/1773317311004_./Vashikaran_Landscape_Thumb_Dated.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090505798/mastheadMobileV2/1773317358279_./Vashikaran_masthead_mobile_v2_984x1182.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090505798/mastheadLogo/1773317385754_./Vashikaran_Masthead_Logo_Dated.png",
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090505798/landscapeThumb/1773317298713_./Vashikaran_Landscape_Thumb_Dated.jpg"
-      },
-      "MULTIPLE_AUDIO_LINKS": []
-    },
-    {
-      "contentId": 1090497871,
-      "video_info": {
-        "title": "Jazz City",
-        "shortDescription": "Witness the story of how India helped bring Bangladesh into existence. Watch Jazz City, from the 19th of March, on Sony LIV.",
-        "longDescription": "Witness the story of how India helped bring Bangladesh into existence. Watch Jazz City, from the 19th of March, on Sony LIV.",
-        "genres": [
-          "Thriller",
-          "Action",
-          "Drama",
-          "Musical"
-        ],
-        "episodeTitle": ""
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "LIV",
-        "audio_language_list": [
-          {
-            "lang_code": "HIN",
-            "lang_label": "Hindi"
-          }
-        ],
-        "emfAttributes__audio_languages": "HIN",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "HIN",
-              "isPreferred": true,
-              "audioLanguageLabel": "Hindi",
-              "type": "main"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/promo/DASH/bcce1668215043a0ab72ea655a8e568e/1771264379/baseline-std-v4/JAZZ_CITY_TEASER_2MIN_36SEC_HOR_HINDI_WSUB_WOBUG_DATED_APP_IND_hin_baseline-800300010.mpd",
-          "hasTrailer": true
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "16 Dec 2025, 03:00 PM",
-        "contractEndDate": "19 Mar 2026, 11:59 PM",
-        "originalAirDate": null
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090497871/portraitThumb/1771483070895_./Jazz_City_Portrait_Thumb_Dated.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090497871/thumbnail/1771483118697_./Jazz_City_Landscape_Thumb_Dated.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090497896/mastheadMobileV2/1771263024743_./Jazz_City_masthead_mobile_v2_984x1182_1.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090497896/mastheadLogo/1771262969637_./Jazz_City_Masthead_Logo_Dated.png",
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090497871/landscapeThumb/1771483096979_./Jazz_City_Landscape_Thumb_Dated.jpg"
-      },
-      "MULTIPLE_AUDIO_LINKS": []
-    },
-    {
       "contentId": 1090506243,
       "video_info": {
         "title": "Upcoming - South Africa Tour of New Zealand 2026",
@@ -354,28 +280,27 @@
       "MULTIPLE_AUDIO_LINKS": []
     },
     {
-      "contentId": 1090505970,
+      "contentId": 1090506268,
       "video_info": {
-        "title": "Sitaare Zameen Par",
-        "shortDescription": "After a DUI, an arrogant basketball coach must train neurodivergent adults for community service. His initial prejudice fades as his players show him a new perspective on life.",
-        "longDescription": "After a DUI, an arrogant basketball coach must train neurodivergent adults for community service. His initial prejudice fades as his players show him a new perspective on life.",
+        "title": "Upcoming - LOSC vs Aston Villa - UEFA Europa League ",
+        "shortDescription": "Watch all the action from UEFA Europa League 2025-26, only on Sony LIV.",
+        "longDescription": "Watch all the action from UEFA Europa League 2025-26, only on Sony LIV.",
         "genres": [
-          "Drama",
-          "Comedy"
+          "Football"
         ],
         "episodeTitle": ""
       },
       "stream_info": {
         "Maximum_Video_Quality": "SDR",
         "dai_asset_key": null,
-        "broadcast_channel": "LIV",
+        "broadcast_channel": "Sony Sports Ten 5",
         "audio_language_list": [
           {
-            "lang_code": "HIN",
-            "lang_label": "Hindi"
+            "lang_code": "ENG",
+            "lang_label": "English"
           }
         ],
-        "emfAttributes__audio_languages": "HIN",
+        "emfAttributes__audio_languages": "ENG",
         "platformVariants": {
           "assetType": "MASTER",
           "assetName": "VOD_FULL_HD1",
@@ -383,150 +308,148 @@
           "audioLanguages": [
             {
               "audioId": 1,
-              "audioLanguageName": "HIN",
+              "audioLanguageName": "ENG",
               "isPreferred": true,
-              "audioLanguageLabel": "Hindi",
+              "audioLanguageLabel": "English",
               "type": "main"
             }
           ],
           "subtitlesLanguages": [],
           "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/03087c1e0c1e4556b7f5e6be6685d558/1773066199/baseline-std-v4/SITAAREZAMEENPAR_TRAILER_3MIN29SEC_HOR_WSUB_WOBUG_SSOON_APP_IND_hin_baseline-800300010.mpd",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/f00cc3841a684548aa814487b5f3a83e/1773254279/baseline-std-v4/PROMO_UEL_LOSC_VS_ASTONVILLA_30SEC_HOR_DATED_APP_eng_baseline-800300010.mpd",
           "hasTrailer": true
         }
       },
       "air_dates": {
-        "contractStartDate": "09 Mar 2026, 12:00 PM",
-        "contractEndDate": "09 Mar 2121, 11:59 PM",
+        "contractStartDate": "11 Mar 2026, 11:00 PM",
+        "contractEndDate": "12 Mar 2026, 10:40 PM",
         "originalAirDate": null
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090505970/portraitThumb/1773065168060_./SZP_1_Portrait_Thumb_SS.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090505970/thumbnail/1773065089648_./SZP_1_Landscape_Thumb_SS.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015988/1773128535713703_UEL_26_RD16-L1_Losc-vs-Aston-Villa_Tonight_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015988/1773128658267703_UEL_26_RD16-L1_Losc-vs-Aston-Villa_Tonight_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090505970/mastheadMobileV2/1773065153234_./SZP_1_masthead_mobile_v2_984x1182.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090505970/mastheadLogo/1773065185752_./SZP_1_Masthead_Logo_SS.png",
-        "circular_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090505970/circularImage/1773065318929_./SZP_1_Circular_Image.jpg",
-        "image_600x900_clean": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090505970/image600x900Clean/1773065345837_./SZP_1_600x900_clean_Airtel_Portrait_SS.jpg",
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090505970/thumbnail/1773065089648_./SZP_1_Landscape_Thumb_SS.jpg"
-      },
-      "MULTIPLE_AUDIO_LINKS": []
-    },
-    {
-      "contentId": 1090505242,
-      "video_info": {
-        "title": "Hui Gumm Yaadein Ek Doctor, Do Zindagiyaan",
-        "shortDescription": "Witness Dr Dev's second chance at life. Watch Hai Gumm Yaadein - Ek Doctor Do Zindagiyaan, streaming soon, on Sony LIV.",
-        "longDescription": "Witness Dr Dev's second chance at life. Watch Hai Gumm Yaadein - Ek Doctor Do Zindagiyaan, streaming soon, on Sony LIV.",
-        "genres": [
-          "Drama",
-          "Comedy"
-        ],
-        "episodeTitle": ""
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "SAB",
-        "audio_language_list": [
-          {
-            "lang_code": "HIN",
-            "lang_label": "Hindi"
-          }
-        ],
-        "emfAttributes__audio_languages": "HIN",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "HIN",
-              "isPreferred": true,
-              "audioLanguageLabel": "Hindi",
-              "type": "main"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/promo/DASH/8f4805366502475da42726148fca32b8/1772106268/baseline-std-v4/YAADEIN_TRAILER_1MIN50SEC_HOR_WOSUB_WOBUG_CS_LIV_SAB_APP_REV_hin_baseline-800300010.mpd",
-          "hasTrailer": true
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "26 Feb 2026, 12:00 AM",
-        "contractEndDate": "14 Feb 2027, 11:59 PM",
-        "originalAirDate": null
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015638/1772131236662372_Hui_Gumm_Yaadein_SS_Portrait_Thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015636/1772128377830814_Hui_Gumm_Yaadein_ss_26feb_landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090499495/mastheadMobileV2/1768202193971_./Hui_Gumm_Yaadein_masthead_mobile_v2_984x1182.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090499495/mastheadLogo/1768202223990_./Hui_Gumm_Yaadein_Masthead_Logo_Dated.png",
-        "circular_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090499495/circularImage/1768203098964_./Hui_Gumm_Yaadein_Circular_Image.jpg",
-        "image_600x900_clean": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090499495/image600x900Clean/1768203123672_./Hui_Gumm_Yaadein_600x900_clean_Airtel_Portrait_Dated.jpg",
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015636/1772128377830814_Hui_Gumm_Yaadein_ss_26feb_landscape_thumb.jpg"
-      },
-      "MULTIPLE_AUDIO_LINKS": []
-    },
-    {
-      "contentId": 1090505313,
-      "video_info": {
-        "title": "India's Best Dancer",
-        "shortDescription": "India's Best Dancer Season 5 is coming back with Karisma Kapoor. Watch India's Best Dancer, streaming soon, on Sony LIV. ",
-        "longDescription": "India's Best Dancer Season 5 is coming back with Karisma Kapoor. Watch India's Best Dancer, streaming soon, on Sony LIV. ",
-        "genres": [
-          "Reality",
-          "Dance"
-        ],
-        "episodeTitle": ""
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "SET",
-        "audio_language_list": [
-          {
-            "lang_code": "HIN",
-            "lang_label": "Hindi"
-          }
-        ],
-        "emfAttributes__audio_languages": "HIN",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "HIN",
-              "isPreferred": true,
-              "audioLanguageLabel": "Hindi",
-              "type": "main"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/de1442d00fbb40f585a5ef733c861024/1772195955/baseline-std-v4/IBDS5_KARISHMATEASER_TANTANTARA_20SEC_HOR_WOSUB_WOBUG_CS_LIV_SET_APP_IND_hin_baseline-800300010.mpd",
-          "hasTrailer": true
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "27 Feb 2026, 12:00 AM",
-        "contractEndDate": "27 Feb 2121, 11:59 PM",
-        "originalAirDate": null
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016061/1773238089090831_ibd5_11mar_SS_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016061/1773238145752831_ibd5_11mar_SS_landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016061/1773238634930831_ibd5_11mar_masthead_mobile_v2.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016061/1773238809735831_ibd5_11mar_SS_masthead_logo.png",
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015959/1773058986102922_UEL25_26_Match_masthead_mobile_v2_984x1182_R16Leg1_Lille_vs_AstonVilla.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015959/1773058986185922_UEL25_26_Match_Masthead_logo_R16Leg1_Lille_vs_AstonVilla_TONIGHT.png",
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016061/1773238145752831_ibd5_11mar_SS_landscape_thumb.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015988/1773128658267703_UEL_26_RD16-L1_Losc-vs-Aston-Villa_Tonight_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": []
+    },
+    {
+      "contentId": 1090506269,
+      "video_info": {
+        "title": "Upcoming - Nottingham Forest vs FC Midtjylland - UEFA Europa League ",
+        "shortDescription": "Watch all the action from UEFA Europa League 2025-26, only on Sony LIV.",
+        "longDescription": "Watch all the action from UEFA Europa League 2025-26, only on Sony LIV.",
+        "genres": [
+          "Football"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/8d8e5f286c1a49dcb38d47f88da1cf6e/1773254227/baseline-std-v4/MIDTJYLLAND_30SEC_HOR_DATED_APP_12032026_eng_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "11 Mar 2026, 11:00 PM",
+        "contractEndDate": "13 Mar 2026, 01:15 AM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015988/1773127641198703_UEL_26_RD16-L1_Nottingham-Forest-vs-FC-Midtjylland_Tonight_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015988/1773128010383703_UEL_26_RD16-L1_Nottingham-Forest-vs-FC-Midtjylland_Tonight_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015959/1773058986141922_UEL25_26_Match_masthead_mobile_v2_984x1182_R16Leg1_NottinghamForest_vs_FCMidtjylland.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015959/1773058986190922_UEL25_26_Match_Masthead_logo_R16Leg1_NottinghamForest_vs_FCMidtjylland_TONIGHT.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015988/1773128010383703_UEL_26_RD16-L1_Nottingham-Forest-vs-FC-Midtjylland_Tonight_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": []
+    },
+    {
+      "contentId": 1090504215,
+      "video_info": {
+        "title": "Upcoming - New Zealand's Blockbuster Home Season",
+        "shortDescription": "",
+        "longDescription": "",
+        "genres": [
+          "Cricket"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/1768d1e2c74442d989de7f05dca49d53/1771251591/baseline-std-v4/PROMO_NZ_BLOCKBUSTER_16022026_eng_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "16 Feb 2026, 07:00 PM",
+        "contractEndDate": "30 Apr 2031, 11:59 PM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015585/1772016339248286_NZvsSA_25feb_promo_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015275/1771252715417113_New_Zealand_Blockbuster_Promo_Thumbs_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012695/1766576466000715_SuperSmash2526_GOB_masthead_mobile_v2_984x1182_Mens.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012695/1766576466000715_SuperSmash2526_GOB_Masthead_logo.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015275/1771252715417113_New_Zealand_Blockbuster_Promo_Thumbs_landscape_thumb.jpg"
       },
       "MULTIPLE_AUDIO_LINKS": []
     }
