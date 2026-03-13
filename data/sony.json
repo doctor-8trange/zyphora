@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "13-03-2026 18:00",
+  "last_updated": "13-03-2026 18:24",
   "app_settings": {
     "PROXY": "OFF",
     "state_code": "MH",
@@ -17,108 +17,6 @@
     "USAGE_GUIDE": []
   },
   "data": [
-    {
-      "contentId": 1090506362,
-      "video_info": {
-        "title": "Indian Football League 2026",
-        "shortDescription": "This early-season clash between Rajasthan United FC and Namdhari FC pits the 10th-placed hosts against the higher-ranked 6th-placed visitors, promising a competitive battle. These teams have met four times recently, with Rajasthan holding a slight edge at home, winning their last two home games against Namdhari. Can they visitors turn the tide? Tune in to catch all the action from Indian Football League 2026, LIVE on Sony LIV.",
-        "longDescription": "This early-season clash between Rajasthan United FC and Namdhari FC pits the 10th-placed hosts against the higher-ranked 6th-placed visitors, promising a competitive battle. These teams have met four times recently, with Rajasthan holding a slight edge at home, winning their last two home games against Namdhari. Can they visitors turn the tide? Tune in to catch all the action from Indian Football League 2026, LIVE on Sony LIV.",
-        "genres": [
-          "Football"
-        ],
-        "episodeTitle": "Rajasthan United FC vs Namdhari FC - 13 Mar 2026"
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": "https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8",
-        "broadcast_channel": "Sony Sports Ten 2",
-        "audio_language_list": [
-          {
-            "lang_code": "ENG",
-            "lang_label": "English"
-          }
-        ],
-        "emfAttributes__audio_languages": "ENG",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD",
-          "videoType": "FULL_HD",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "ENG",
-              "isPreferred": true,
-              "audioLanguageLabel": "English"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA"
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "13 Mar 2026, 03:30 PM",
-        "contractEndDate": "13 Mar 2026, 08:30 PM",
-        "originalAirDate": "13 Mar 2026, 04:00 PM"
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016140/1773383979928718_IFC_Rajasthan_United_FC-vs-Namdhari_FC_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016140/1773384099433718_IFC_Rajasthan_United_FC-vs-Namdhari_FC_landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016102/1773301388136801_I_LEAGUE_masthead_mobile_v2_984x1182_Rajasthan_United_FC_vs_Namdhari_FC.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016102/1773301388253801_I_LEAGUE_Masthead_logo_Rajasthan_United_FC_vs_Namdhari_FC_Live.png",
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016140/1773384099433718_IFC_Rajasthan_United_FC-vs-Namdhari_FC_landscape_thumb.jpg"
-      },
-      "MULTIPLE_AUDIO_LINKS": [
-        {
-          "LANGUAGE": "English",
-          "LANG_CODE": "ENG",
-          "DATA": {
-            "JITENDRAUNATTI": {
-              "Device_Type": "LITE",
-              "message": "success",
-              "Playback_videoURL": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/master.m3u8",
-              "WIDEVINE": null,
-              "STREAMING_TYPE": true,
-              "audioLanguages": [
-                {
-                  "audioId": 1,
-                  "audioLanguageName": "ENG",
-                  "isPreferred": true,
-                  "audioLanguageLabel": "English"
-                }
-              ],
-              "dai_asset_key": "https://dai.google.com/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8",
-              "Maximum_Video_Quality": "SDR",
-              "Maximum_Resolution": "FULL_HD",
-              "trailer_url": "",
-              "systemTime": 1773396605016,
-              "DOCTOR_STRANGE": 1773396607,
-              "additionalDataJson": {
-                "adServer": "GAM",
-                "ad_stack": "DAI-IMA",
-                "audioCodec": "AAC",
-                "audio_quality": "STEREO",
-                "enc_format": "HLS",
-                "fps": 25,
-                "isDaiKey": true,
-                "partners": [
-                  "ALL"
-                ],
-                "resolution": "HD",
-                "videoCodec": "H264",
-                "video_quality": "SDR"
-              },
-              "Status_code": 200,
-              "content_type": "application/json; charset=utf-8",
-              "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/hdntl=exp=1773483006~acl=%2f*~id=90647311388186130488986985508650~data=hdntl,2037143,DAI23ME-V3,none~hmac=28d5efb52ad35c5d9be8e51dc82161614c7e3eb2b54a233cbb5603cbaa8cb50b/master_200.m3u8?aka_me_session_id=AAAAAAAAAAD+M7VpAAAAAIVe+1ptDKC8CDm1cnET+1mLFLmjNMGQGmofwyhJanqYwkvaLEjdxN86wqW1AswT3nXySU%2fpWJhr&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/hdntl=exp=1773483006~acl=%2f*~id=90647311388186130488986985508650~data=hdntl,2037143,DAI23ME-V3,none~hmac=28d5efb52ad35c5d9be8e51dc82161614c7e3eb2b54a233cbb5603cbaa8cb50b/master_400.m3u8?aka_me_session_id=AAAAAAAAAAD+M7VpAAAAAIVe+1ptDKC8CDm1cnET+1mLFLmjNMGQGmofwyhJanqYwkvaLEjdxN86wqW1AswT3nXySU%2fpWJhr&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/hdntl=exp=1773483006~acl=%2f*~id=90647311388186130488986985508650~data=hdntl,2037143,DAI23ME-V3,none~hmac=28d5efb52ad35c5d9be8e51dc82161614c7e3eb2b54a233cbb5603cbaa8cb50b/master_500.m3u8?aka_me_session_id=AAAAAAAAAAD+M7VpAAAAAIVe+1ptDKC8CDm1cnET+1mLFLmjNMGQGmofwyhJanqYwkvaLEjdxN86wqW1AswT3nXySU%2fpWJhr&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=837256,AVERAGE-BANDWIDTH=837256,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/hdntl=exp=1773483006~acl=%2f*~id=90647311388186130488986985508650~data=hdntl,2037143,DAI23ME-V3,none~hmac=28d5efb52ad35c5d9be8e51dc82161614c7e3eb2b54a233cbb5603cbaa8cb50b/master_600.m3u8?aka_me_session_id=AAAAAAAAAAD+M7VpAAAAAIVe+1ptDKC8CDm1cnET+1mLFLmjNMGQGmofwyhJanqYwkvaLEjdxN86wqW1AswT3nXySU%2fpWJhr&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/hdntl=exp=1773483006~acl=%2f*~id=90647311388186130488986985508650~data=hdntl,2037143,DAI23ME-V3,none~hmac=28d5efb52ad35c5d9be8e51dc82161614c7e3eb2b54a233cbb5603cbaa8cb50b/master_1000.m3u8?aka_me_session_id=AAAAAAAAAAD+M7VpAAAAAIVe+1ptDKC8CDm1cnET+1mLFLmjNMGQGmofwyhJanqYwkvaLEjdxN86wqW1AswT3nXySU%2fpWJhr&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/hdntl=exp=1773483006~acl=%2f*~id=90647311388186130488986985508650~data=hdntl,2037143,DAI23ME-V3,none~hmac=28d5efb52ad35c5d9be8e51dc82161614c7e3eb2b54a233cbb5603cbaa8cb50b/master_1300.m3u8?aka_me_session_id=AAAAAAAAAAD+M7VpAAAAAIVe+1ptDKC8CDm1cnET+1mLFLmjNMGQGmofwyhJanqYwkvaLEjdxN86wqW1AswT3nXySU%2fpWJhr&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/hdntl=exp=1773483006~acl=%2f*~id=90647311388186130488986985508650~data=hdntl,2037143,DAI23ME-V3,none~hmac=28d5efb52ad35c5d9be8e51dc82161614c7e3eb2b54a233cbb5603cbaa8cb50b/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAD+M7VpAAAAAIVe+1ptDKC8CDm1cnET+1mLFLmjNMGQGmofwyhJanqYwkvaLEjdxN86wqW1AswT3nXySU%2fpWJhr&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/hdntl=exp=1773483006~acl=%2f*~id=90647311388186130488986985508650~data=hdntl,2037143,DAI23ME-V3,none~hmac=28d5efb52ad35c5d9be8e51dc82161614c7e3eb2b54a233cbb5603cbaa8cb50b/master_2200.m3u8?aka_me_session_id=AAAAAAAAAAD+M7VpAAAAAIVe+1ptDKC8CDm1cnET+1mLFLmjNMGQGmofwyhJanqYwkvaLEjdxN86wqW1AswT3nXySU%2fpWJhr&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3591848,AVERAGE-BANDWIDTH=3591848,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/hdntl=exp=1773483006~acl=%2f*~id=90647311388186130488986985508650~data=hdntl,2037143,DAI23ME-V3,none~hmac=28d5efb52ad35c5d9be8e51dc82161614c7e3eb2b54a233cbb5603cbaa8cb50b/master_3200.m3u8?aka_me_session_id=AAAAAAAAAAD+M7VpAAAAAIVe+1ptDKC8CDm1cnET+1mLFLmjNMGQGmofwyhJanqYwkvaLEjdxN86wqW1AswT3nXySU%2fpWJhr&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/hdntl=exp=1773483006~acl=%2f*~id=90647311388186130488986985508650~data=hdntl,2037143,DAI23ME-V3,none~hmac=28d5efb52ad35c5d9be8e51dc82161614c7e3eb2b54a233cbb5603cbaa8cb50b/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAD+M7VpAAAAAIVe+1ptDKC8CDm1cnET+1mLFLmjNMGQGmofwyhJanqYwkvaLEjdxN86wqW1AswT3nXySU%2fpWJhr&aka_media_format_type=hls",
-              "date": "Friday 13th of March 2026 03:40:07 PM"
-            }
-          }
-        }
-      ]
-    },
     {
       "contentId": 1090506363,
       "video_info": {
@@ -163,14 +61,14 @@
         "originalAirDate": "13 Mar 2026, 06:30 PM"
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016140/1773384197313718_IFC_Aizawl_FC-vs-Real_Kashmir_FC_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016140/1773384285061718_IFC_Aizawl_FC-vs-Real_Kashmir_FC_landscape_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016149/1773403691992628_IFC_Aizawl_FC-vs-Real_Kashmir_FC_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016149/1773401317072628_IFC_Aizawl_FC-vs-Real_Kashmir_FC_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
         "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016102/1773301388066801_I_LEAGUE_masthead_mobile_v2_984x1182_Aizawl_FC_vs_Real_Kashmir_FC.jpg",
         "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016102/1773301388171801_I_LEAGUE_Masthead_logo_Aizawl_FC_vs_Real_Kashmir_FC_Live.png",
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016140/1773384285061718_IFC_Aizawl_FC-vs-Real_Kashmir_FC_landscape_thumb.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016149/1773401317072628_IFC_Aizawl_FC-vs-Real_Kashmir_FC_landscape_thumb.jpg"
       },
       "MULTIPLE_AUDIO_LINKS": [
         {
