@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "13-03-2026 22:00",
+  "last_updated": "13-03-2026 22:20",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -277,6 +277,71 @@
         "circular_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090505970/circularImage/1773065318929_./SZP_1_Circular_Image.jpg",
         "image_600x900_clean": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090505970/image600x900Clean/1773065345837_./SZP_1_600x900_clean_Airtel_Portrait_SS.jpg",
         "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090505970/thumbnail/1773065089648_./SZP_1_Landscape_Thumb_SS.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": []
+    },
+    {
+      "contentId": 1090506358,
+      "video_info": {
+        "title": "Indian Idol",
+        "shortDescription": "Get ready for an unforgettable evening with Pyarelal Ji as the contestants pay a heartfelt tribute to Mohammed Rafi and Mukesh. Watch Indian Idol, Saturday and Sunday, at 8 PM, on Sony LIV. ",
+        "longDescription": "Get ready for an unforgettable evening with Pyarelal Ji as the contestants pay a heartfelt tribute to Mohammed Rafi and Mukesh. Watch Indian Idol, Saturday and Sunday, at 8 PM, on Sony LIV. ",
+        "genres": [
+          "Music",
+          "Reality"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "SET",
+        "audio_language_list": [
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          }
+        ],
+        "emfAttributes__audio_languages": "HIN",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "HIN",
+              "isPreferred": true,
+              "audioLanguageLabel": "Hindi",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [
+            {
+              "subtitleId": "",
+              "subtitleLanguageName": "ENG",
+              "subtitleUrl": ""
+            }
+          ],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/promo/DASH/94f3e58967e04fed83454db2bbe549dc/1773334658/baseline-std-v4/INDIAN_IDOL_S16_WEEK_22_TANISHK_20SEC_HOR_WOSUB_WOBUG_SN_LIV_SET_APP_IND_hin_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "12 Mar 2026, 03:00 PM",
+        "contractEndDate": "17 Feb 2027, 11:59 PM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016146/1773399242400348_idol_13march_dated_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016146/1773399390180348_idol_13march_dated_landscape_thumb_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016146/1773391905267348_idol_13march_masthead_mobile_v2.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016146/1773399687279348_IDOL_promo_dated_13march_masthead_logo.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016146/1773399390180348_idol_13march_dated_landscape_thumb_thumb.jpg"
       },
       "MULTIPLE_AUDIO_LINKS": []
     },
