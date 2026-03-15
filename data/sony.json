@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "15-03-2026 10:20",
+  "last_updated": "15-03-2026 10:40",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -16,115 +16,7 @@
     "SERVER_STATUS": "NORMAL",
     "USAGE_GUIDE": []
   },
-  "data": [
-    {
-      "contentId": 1090506668,
-      "video_info": {
-        "title": "South Africa Women's Tour of New Zealand 2026",
-        "shortDescription": "New Zealand Women and South Africa Women face off in strong form as they launch their five‑match T20I series, with stars like Amelia Kerr and Sophie Devine up against Laura Wolvaardt, Marizanne Kapp, Nadine de Klerk and others in a battle to grab the early advantage. Tune in to catch all the action, LIVE & exclusively on Sony LIV.",
-        "longDescription": "New Zealand Women and South Africa Women face off in strong form as they launch their five‑match T20I series, with stars like Amelia Kerr and Sophie Devine up against Laura Wolvaardt, Marizanne Kapp, Nadine de Klerk and others in a battle to grab the early advantage. Tune in to catch all the action, LIVE & exclusively on Sony LIV.",
-        "genres": [
-          "Cricket"
-        ],
-        "episodeTitle": "1st T20I - 15 Mar 2026"
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": "https://dai.google.com/ssai/event/j9BYvbuJQkWV13Zs1CrHUw/master.m3u8",
-        "broadcast_channel": "Sony Sports Ten 5",
-        "audio_language_list": [
-          {
-            "lang_code": "ENG",
-            "lang_label": "English"
-          }
-        ],
-        "emfAttributes__audio_languages": "ENG",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD",
-          "videoType": "FULL_HD",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "ENG",
-              "isPreferred": true,
-              "audioLanguageLabel": "English"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA"
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "15 Mar 2026, 06:30 AM",
-        "contractEndDate": "15 Mar 2026, 03:00 PM",
-        "originalAirDate": "15 Mar 2026, 07:00 AM"
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016171/1773425060545340_NZvsSA26_womens_1t20i_13mar_live_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016171/1773425954701340_NZvsSA26_womens_1t20i_13mar_landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016164/1773396920000153_SAWomensTourOfNZ_GOB_masthead_mobile_v2_984x1182.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016199/1773516544028199_NZvsSA26_womens_1st_t20i_live_masthead_logo.png",
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016171/1773425954701340_NZvsSA26_womens_1t20i_13mar_landscape_thumb.jpg"
-      },
-      "MULTIPLE_AUDIO_LINKS": [
-        {
-          "LANGUAGE": "English",
-          "LANG_CODE": "ENG",
-          "DATA": {
-            "JITENDRAUNATTI": {
-              "Device_Type": "LITE",
-              "message": "success",
-              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2018457/DAI35-criclive/master.m3u8",
-              "WIDEVINE": null,
-              "STREAMING_TYPE": true,
-              "audioLanguages": [
-                {
-                  "audioId": 1,
-                  "audioLanguageName": "ENG",
-                  "isPreferred": true,
-                  "audioLanguageLabel": "English"
-                },
-                {
-                  "audioLanguageName": "ENG",
-                  "audioLanguageLabel": "English",
-                  "audioLangIdentifier": "ENG"
-                }
-              ],
-              "dai_asset_key": "https://dai.google.com/ssai/event/j9BYvbuJQkWV13Zs1CrHUw/master.m3u8",
-              "Maximum_Video_Quality": "SDR",
-              "Maximum_Resolution": "FULL_HD",
-              "trailer_url": "",
-              "systemTime": 1773537271451,
-              "DOCTOR_STRANGE": 1773537270,
-              "additionalDataJson": {
-                "enc_format": "HLS",
-                "resolution": "FULL_HD",
-                "audio_quality": "STEREO",
-                "video_quality": "SDR",
-                "fps": 25,
-                "videoCodec": "H264",
-                "audioCodec": "AAC",
-                "partners": [
-                  "ALL"
-                ],
-                "isDaiKey": false,
-                "ad_stack": "MT-SSB",
-                "adServer": "GAM"
-              },
-              "Status_code": 200,
-              "content_type": "application/json; charset=utf-8",
-              "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/DAI35-criclive/hdntl=exp=1773623672~acl=%2f*~id=04121210849787062267185464731865~data=hdntl,2018457,DAI35-criclive,none~hmac=99d468c98bb47ee88e1981487958b1115a279f13a13a6bda96bbd3f9bf53ba71/master_200.m3u8?aka_me_session_id=AAAAAAAAAAB4WbdpAAAAAJZh5O9eOoTl7X3wo+wy49a0YG1BkEPwML51vK6fE1DHjeBn%2f1d4qyEr0pqVqUtr%2fKLhyHR8T8KU&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/DAI35-criclive/hdntl=exp=1773623672~acl=%2f*~id=04121210849787062267185464731865~data=hdntl,2018457,DAI35-criclive,none~hmac=99d468c98bb47ee88e1981487958b1115a279f13a13a6bda96bbd3f9bf53ba71/master_400.m3u8?aka_me_session_id=AAAAAAAAAAB4WbdpAAAAAJZh5O9eOoTl7X3wo+wy49a0YG1BkEPwML51vK6fE1DHjeBn%2f1d4qyEr0pqVqUtr%2fKLhyHR8T8KU&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/DAI35-criclive/hdntl=exp=1773623672~acl=%2f*~id=04121210849787062267185464731865~data=hdntl,2018457,DAI35-criclive,none~hmac=99d468c98bb47ee88e1981487958b1115a279f13a13a6bda96bbd3f9bf53ba71/master_500.m3u8?aka_me_session_id=AAAAAAAAAAB4WbdpAAAAAJZh5O9eOoTl7X3wo+wy49a0YG1BkEPwML51vK6fE1DHjeBn%2f1d4qyEr0pqVqUtr%2fKLhyHR8T8KU&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=837256,AVERAGE-BANDWIDTH=837256,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/DAI35-criclive/hdntl=exp=1773623672~acl=%2f*~id=04121210849787062267185464731865~data=hdntl,2018457,DAI35-criclive,none~hmac=99d468c98bb47ee88e1981487958b1115a279f13a13a6bda96bbd3f9bf53ba71/master_600.m3u8?aka_me_session_id=AAAAAAAAAAB4WbdpAAAAAJZh5O9eOoTl7X3wo+wy49a0YG1BkEPwML51vK6fE1DHjeBn%2f1d4qyEr0pqVqUtr%2fKLhyHR8T8KU&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/DAI35-criclive/hdntl=exp=1773623672~acl=%2f*~id=04121210849787062267185464731865~data=hdntl,2018457,DAI35-criclive,none~hmac=99d468c98bb47ee88e1981487958b1115a279f13a13a6bda96bbd3f9bf53ba71/master_1000.m3u8?aka_me_session_id=AAAAAAAAAAB4WbdpAAAAAJZh5O9eOoTl7X3wo+wy49a0YG1BkEPwML51vK6fE1DHjeBn%2f1d4qyEr0pqVqUtr%2fKLhyHR8T8KU&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/DAI35-criclive/hdntl=exp=1773623672~acl=%2f*~id=04121210849787062267185464731865~data=hdntl,2018457,DAI35-criclive,none~hmac=99d468c98bb47ee88e1981487958b1115a279f13a13a6bda96bbd3f9bf53ba71/master_1300.m3u8?aka_me_session_id=AAAAAAAAAAB4WbdpAAAAAJZh5O9eOoTl7X3wo+wy49a0YG1BkEPwML51vK6fE1DHjeBn%2f1d4qyEr0pqVqUtr%2fKLhyHR8T8KU&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/DAI35-criclive/hdntl=exp=1773623672~acl=%2f*~id=04121210849787062267185464731865~data=hdntl,2018457,DAI35-criclive,none~hmac=99d468c98bb47ee88e1981487958b1115a279f13a13a6bda96bbd3f9bf53ba71/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAB4WbdpAAAAAJZh5O9eOoTl7X3wo+wy49a0YG1BkEPwML51vK6fE1DHjeBn%2f1d4qyEr0pqVqUtr%2fKLhyHR8T8KU&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/DAI35-criclive/hdntl=exp=1773623672~acl=%2f*~id=04121210849787062267185464731865~data=hdntl,2018457,DAI35-criclive,none~hmac=99d468c98bb47ee88e1981487958b1115a279f13a13a6bda96bbd3f9bf53ba71/master_2200.m3u8?aka_me_session_id=AAAAAAAAAAB4WbdpAAAAAJZh5O9eOoTl7X3wo+wy49a0YG1BkEPwML51vK6fE1DHjeBn%2f1d4qyEr0pqVqUtr%2fKLhyHR8T8KU&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3591848,AVERAGE-BANDWIDTH=3591848,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/DAI35-criclive/hdntl=exp=1773623672~acl=%2f*~id=04121210849787062267185464731865~data=hdntl,2018457,DAI35-criclive,none~hmac=99d468c98bb47ee88e1981487958b1115a279f13a13a6bda96bbd3f9bf53ba71/master_3200.m3u8?aka_me_session_id=AAAAAAAAAAB4WbdpAAAAAJZh5O9eOoTl7X3wo+wy49a0YG1BkEPwML51vK6fE1DHjeBn%2f1d4qyEr0pqVqUtr%2fKLhyHR8T8KU&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/DAI35-criclive/hdntl=exp=1773623672~acl=%2f*~id=04121210849787062267185464731865~data=hdntl,2018457,DAI35-criclive,none~hmac=99d468c98bb47ee88e1981487958b1115a279f13a13a6bda96bbd3f9bf53ba71/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAB4WbdpAAAAAJZh5O9eOoTl7X3wo+wy49a0YG1BkEPwML51vK6fE1DHjeBn%2f1d4qyEr0pqVqUtr%2fKLhyHR8T8KU&aka_media_format_type=hls",
-              "date": "Sunday 15th of March 2026 06:44:30 AM"
-            }
-          }
-        }
-      ]
-    }
-  ],
+  "data": [],
   "upcoming": [
     {
       "contentId": 1090506648,
@@ -291,14 +183,14 @@
         "originalAirDate": null
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016094/1773294456300631_NZvsWI25_1stT20i_Today_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016094/1773295120273631_NZvsWI25_1stT20i_Today_landscape_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016187/1773483909428730_NZvsSA26_2ndT20i_DT_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016187/1773483993706730_NZvsSA26_2ndT20i_DT_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
         "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016055/1773233652941304_South_Africa_Tour_Of_New_Zealand_2026_GOB_masthead_mobile_v2_984x1182.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016097/1773227229706919_South_Africa_Tour_Of_New_Zealand_2026_Match_Masthead_logo_1stT20I_TODAY.png",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016097/1773227229698919_South_Africa_Tour_Of_New_Zealand_2026_Match_Masthead_logo_2ndT20I_Dated.png",
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016094/1773295120273631_NZvsWI25_1stT20i_Today_landscape_thumb.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016187/1773483993706730_NZvsSA26_2ndT20i_DT_landscape_thumb.jpg"
       },
       "MULTIPLE_AUDIO_LINKS": []
     },
