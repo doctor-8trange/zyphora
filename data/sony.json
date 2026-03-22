@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "22-03-2026 10:31",
+  "last_updated": "22-03-2026 10:33",
   "app_settings": {
     "PROXY": "OFF",
     "state_code": "MH",
@@ -70,7 +70,59 @@
         "image_600x900_clean": null,
         "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016423/1773977174347113_NZwvsSAw26_4th_T20I_20mar_landscape.jpg"
       },
-      "MULTIPLE_AUDIO_LINKS": []
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                },
+                {
+                  "audioLanguageName": "ENG",
+                  "audioLanguageLabel": "English",
+                  "audioLangIdentifier": "ENG"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/H8sZrwRMQ6WZXui7BZcbaQ/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1774155793973,
+              "DOCTOR_STRANGE": 1774155795,
+              "additionalDataJson": {
+                "adServer": "GAM",
+                "ad_stack": "DAI-IMA",
+                "audioCodec": "AAC",
+                "audio_quality": "STEREO",
+                "enc_format": "HLS",
+                "fps": 25,
+                "isDaiKey": true,
+                "partners": [
+                  "ALL"
+                ],
+                "resolution": "HD",
+                "videoCodec": "H264",
+                "video_quality": "SDR"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/hdntl=exp=1774242194~acl=%2f*~id=478665c258b8c394610225fac9c0a312-1774155793290~data=hdntl,2018457,DAI35-criclive,none~hmac=62a7211791877df6b016ace9c76808ad15b6232bca3dd36374425dcc25c0795c/master_200.m3u8?aka_me_session_id=AAAAAAAAAACSycBpAAAAAGIllDrmdABY6Iev6GonTc3E+zG0SyXhcoFyQvMPuvueTbKZcDgIZiiZpuBkM%2fU3qC0beey7wrsp&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/hdntl=exp=1774242194~acl=%2f*~id=478665c258b8c394610225fac9c0a312-1774155793290~data=hdntl,2018457,DAI35-criclive,none~hmac=62a7211791877df6b016ace9c76808ad15b6232bca3dd36374425dcc25c0795c/master_400.m3u8?aka_me_session_id=AAAAAAAAAACSycBpAAAAAGIllDrmdABY6Iev6GonTc3E+zG0SyXhcoFyQvMPuvueTbKZcDgIZiiZpuBkM%2fU3qC0beey7wrsp&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/hdntl=exp=1774242194~acl=%2f*~id=478665c258b8c394610225fac9c0a312-1774155793290~data=hdntl,2018457,DAI35-criclive,none~hmac=62a7211791877df6b016ace9c76808ad15b6232bca3dd36374425dcc25c0795c/master_500.m3u8?aka_me_session_id=AAAAAAAAAACSycBpAAAAAGIllDrmdABY6Iev6GonTc3E+zG0SyXhcoFyQvMPuvueTbKZcDgIZiiZpuBkM%2fU3qC0beey7wrsp&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=837256,AVERAGE-BANDWIDTH=837256,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/hdntl=exp=1774242194~acl=%2f*~id=478665c258b8c394610225fac9c0a312-1774155793290~data=hdntl,2018457,DAI35-criclive,none~hmac=62a7211791877df6b016ace9c76808ad15b6232bca3dd36374425dcc25c0795c/master_600.m3u8?aka_me_session_id=AAAAAAAAAACSycBpAAAAAGIllDrmdABY6Iev6GonTc3E+zG0SyXhcoFyQvMPuvueTbKZcDgIZiiZpuBkM%2fU3qC0beey7wrsp&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/hdntl=exp=1774242194~acl=%2f*~id=478665c258b8c394610225fac9c0a312-1774155793290~data=hdntl,2018457,DAI35-criclive,none~hmac=62a7211791877df6b016ace9c76808ad15b6232bca3dd36374425dcc25c0795c/master_1000.m3u8?aka_me_session_id=AAAAAAAAAACSycBpAAAAAGIllDrmdABY6Iev6GonTc3E+zG0SyXhcoFyQvMPuvueTbKZcDgIZiiZpuBkM%2fU3qC0beey7wrsp&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/hdntl=exp=1774242194~acl=%2f*~id=478665c258b8c394610225fac9c0a312-1774155793290~data=hdntl,2018457,DAI35-criclive,none~hmac=62a7211791877df6b016ace9c76808ad15b6232bca3dd36374425dcc25c0795c/master_1300.m3u8?aka_me_session_id=AAAAAAAAAACSycBpAAAAAGIllDrmdABY6Iev6GonTc3E+zG0SyXhcoFyQvMPuvueTbKZcDgIZiiZpuBkM%2fU3qC0beey7wrsp&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/hdntl=exp=1774242194~acl=%2f*~id=478665c258b8c394610225fac9c0a312-1774155793290~data=hdntl,2018457,DAI35-criclive,none~hmac=62a7211791877df6b016ace9c76808ad15b6232bca3dd36374425dcc25c0795c/master_2000.m3u8?aka_me_session_id=AAAAAAAAAACSycBpAAAAAGIllDrmdABY6Iev6GonTc3E+zG0SyXhcoFyQvMPuvueTbKZcDgIZiiZpuBkM%2fU3qC0beey7wrsp&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/hdntl=exp=1774242194~acl=%2f*~id=478665c258b8c394610225fac9c0a312-1774155793290~data=hdntl,2018457,DAI35-criclive,none~hmac=62a7211791877df6b016ace9c76808ad15b6232bca3dd36374425dcc25c0795c/master_2200.m3u8?aka_me_session_id=AAAAAAAAAACSycBpAAAAAGIllDrmdABY6Iev6GonTc3E+zG0SyXhcoFyQvMPuvueTbKZcDgIZiiZpuBkM%2fU3qC0beey7wrsp&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3591848,AVERAGE-BANDWIDTH=3591848,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/hdntl=exp=1774242194~acl=%2f*~id=478665c258b8c394610225fac9c0a312-1774155793290~data=hdntl,2018457,DAI35-criclive,none~hmac=62a7211791877df6b016ace9c76808ad15b6232bca3dd36374425dcc25c0795c/master_3200.m3u8?aka_me_session_id=AAAAAAAAAACSycBpAAAAAGIllDrmdABY6Iev6GonTc3E+zG0SyXhcoFyQvMPuvueTbKZcDgIZiiZpuBkM%2fU3qC0beey7wrsp&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/hdntl=exp=1774242194~acl=%2f*~id=478665c258b8c394610225fac9c0a312-1774155793290~data=hdntl,2018457,DAI35-criclive,none~hmac=62a7211791877df6b016ace9c76808ad15b6232bca3dd36374425dcc25c0795c/master_4500.m3u8?aka_me_session_id=AAAAAAAAAACSycBpAAAAAGIllDrmdABY6Iev6GonTc3E+zG0SyXhcoFyQvMPuvueTbKZcDgIZiiZpuBkM%2fU3qC0beey7wrsp&aka_media_format_type=hls",
+              "date": "Sunday 22nd of March 2026 10:33:15 AM"
+            }
+          }
+        }
+      ]
     }
   ],
   "upcoming": [
