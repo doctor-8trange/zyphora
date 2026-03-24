@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "23-03-2026 22:40",
+  "last_updated": "24-03-2026 18:00",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -16,7 +16,110 @@
     "SERVER_STATUS": "NORMAL",
     "USAGE_GUIDE": []
   },
-  "data": [],
+  "data": [
+    {
+      "contentId": 1090507365,
+      "video_info": {
+        "title": "Indian Football League 2026",
+        "shortDescription": "Aizawl FC and Chanmari FC meet in a tightly balanced I‑League clash, with both sides level on five points and showing similar form—each recording one win, two draws, and one loss so far. Aizawl have mixed home performances, while Chanmari arrive with steady recent results. Which side can break the deadlock in this evenly balanced matchup? Tune in to catch all the action from Indian Football League 2026, LIVE on Sony LIV.",
+        "longDescription": "Aizawl FC and Chanmari FC meet in a tightly balanced I‑League clash, with both sides level on five points and showing similar form—each recording one win, two draws, and one loss so far. Aizawl have mixed home performances, while Chanmari arrive with steady recent results. Which side can break the deadlock in this evenly balanced matchup? Tune in to catch all the action from Indian Football League 2026, LIVE on Sony LIV.",
+        "genres": [
+          "Football"
+        ],
+        "episodeTitle": "Aizawl FC vs Chanmari FC - 24 Mar 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 2",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "24 Mar 2026, 06:00 PM",
+        "contractEndDate": "24 Mar 2026, 11:00 PM",
+        "originalAirDate": "24 Mar 2026, 06:30 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016478/17741541482066_IFC_Aizawl_FC-vs-Chanmari_FC_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016478/17741541885776_IFC_Aizawl_FC-vs-Chanmari_FC_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016514/1774327643559304_I_LEAGUE_masthead_mobile_v2_984x1182_Aizawl_FC_vs_Chanmari_FC.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016514/1774327643092304_I_LEAGUE_Masthead_logo_Aizawl_FC_vs_Chanmari_FC_Live.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016478/17741541885776_IFC_Aizawl_FC-vs-Chanmari_FC_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/20000091/DAI23-M5/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1774355413935,
+              "DOCTOR_STRANGE": 1774355414,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB",
+                "adServer": "GAM"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000091/DAI23-M5/hdntl=exp=1774441816~acl=%2f*~id=55771400003182858940779879252245~data=hdntl,20000091,DAI23-M5,none~hmac=430db94587d2952d385cddbcd61b3fabbd512f7810695effb671ae6dfd0a3bba/master_200.m3u8?aka_me_session_id=AAAAAAAAAABY1cNpAAAAABIL8rUuCknS2kO4+etRT4UAQwJA+92PI0cf4Er0OoilfGUeCU8TP9zRZ+FdW%2f7X6Yu5cb6PzDsE&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000091/DAI23-M5/hdntl=exp=1774441816~acl=%2f*~id=55771400003182858940779879252245~data=hdntl,20000091,DAI23-M5,none~hmac=430db94587d2952d385cddbcd61b3fabbd512f7810695effb671ae6dfd0a3bba/master_400.m3u8?aka_me_session_id=AAAAAAAAAABY1cNpAAAAABIL8rUuCknS2kO4+etRT4UAQwJA+92PI0cf4Er0OoilfGUeCU8TP9zRZ+FdW%2f7X6Yu5cb6PzDsE&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000091/DAI23-M5/hdntl=exp=1774441816~acl=%2f*~id=55771400003182858940779879252245~data=hdntl,20000091,DAI23-M5,none~hmac=430db94587d2952d385cddbcd61b3fabbd512f7810695effb671ae6dfd0a3bba/master_500.m3u8?aka_me_session_id=AAAAAAAAAABY1cNpAAAAABIL8rUuCknS2kO4+etRT4UAQwJA+92PI0cf4Er0OoilfGUeCU8TP9zRZ+FdW%2f7X6Yu5cb6PzDsE&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=837256,AVERAGE-BANDWIDTH=837256,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000091/DAI23-M5/hdntl=exp=1774441816~acl=%2f*~id=55771400003182858940779879252245~data=hdntl,20000091,DAI23-M5,none~hmac=430db94587d2952d385cddbcd61b3fabbd512f7810695effb671ae6dfd0a3bba/master_600.m3u8?aka_me_session_id=AAAAAAAAAABY1cNpAAAAABIL8rUuCknS2kO4+etRT4UAQwJA+92PI0cf4Er0OoilfGUeCU8TP9zRZ+FdW%2f7X6Yu5cb6PzDsE&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000091/DAI23-M5/hdntl=exp=1774441816~acl=%2f*~id=55771400003182858940779879252245~data=hdntl,20000091,DAI23-M5,none~hmac=430db94587d2952d385cddbcd61b3fabbd512f7810695effb671ae6dfd0a3bba/master_1000.m3u8?aka_me_session_id=AAAAAAAAAABY1cNpAAAAABIL8rUuCknS2kO4+etRT4UAQwJA+92PI0cf4Er0OoilfGUeCU8TP9zRZ+FdW%2f7X6Yu5cb6PzDsE&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000091/DAI23-M5/hdntl=exp=1774441816~acl=%2f*~id=55771400003182858940779879252245~data=hdntl,20000091,DAI23-M5,none~hmac=430db94587d2952d385cddbcd61b3fabbd512f7810695effb671ae6dfd0a3bba/master_1300.m3u8?aka_me_session_id=AAAAAAAAAABY1cNpAAAAABIL8rUuCknS2kO4+etRT4UAQwJA+92PI0cf4Er0OoilfGUeCU8TP9zRZ+FdW%2f7X6Yu5cb6PzDsE&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000091/DAI23-M5/hdntl=exp=1774441816~acl=%2f*~id=55771400003182858940779879252245~data=hdntl,20000091,DAI23-M5,none~hmac=430db94587d2952d385cddbcd61b3fabbd512f7810695effb671ae6dfd0a3bba/master_2000.m3u8?aka_me_session_id=AAAAAAAAAABY1cNpAAAAABIL8rUuCknS2kO4+etRT4UAQwJA+92PI0cf4Er0OoilfGUeCU8TP9zRZ+FdW%2f7X6Yu5cb6PzDsE&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000091/DAI23-M5/hdntl=exp=1774441816~acl=%2f*~id=55771400003182858940779879252245~data=hdntl,20000091,DAI23-M5,none~hmac=430db94587d2952d385cddbcd61b3fabbd512f7810695effb671ae6dfd0a3bba/master_2200.m3u8?aka_me_session_id=AAAAAAAAAABY1cNpAAAAABIL8rUuCknS2kO4+etRT4UAQwJA+92PI0cf4Er0OoilfGUeCU8TP9zRZ+FdW%2f7X6Yu5cb6PzDsE&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3591848,AVERAGE-BANDWIDTH=3591848,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000091/DAI23-M5/hdntl=exp=1774441816~acl=%2f*~id=55771400003182858940779879252245~data=hdntl,20000091,DAI23-M5,none~hmac=430db94587d2952d385cddbcd61b3fabbd512f7810695effb671ae6dfd0a3bba/master_3200.m3u8?aka_me_session_id=AAAAAAAAAABY1cNpAAAAABIL8rUuCknS2kO4+etRT4UAQwJA+92PI0cf4Er0OoilfGUeCU8TP9zRZ+FdW%2f7X6Yu5cb6PzDsE&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000091/DAI23-M5/hdntl=exp=1774441816~acl=%2f*~id=55771400003182858940779879252245~data=hdntl,20000091,DAI23-M5,none~hmac=430db94587d2952d385cddbcd61b3fabbd512f7810695effb671ae6dfd0a3bba/master_4500.m3u8?aka_me_session_id=AAAAAAAAAABY1cNpAAAAABIL8rUuCknS2kO4+etRT4UAQwJA+92PI0cf4Er0OoilfGUeCU8TP9zRZ+FdW%2f7X6Yu5cb6PzDsE&aka_media_format_type=hls",
+              "date": "Tuesday 24th of March 2026 06:00:14 PM"
+            }
+          }
+        }
+      ]
+    }
+  ],
   "upcoming": [
     {
       "contentId": 1090507516,
@@ -186,7 +289,7 @@
         "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090506382/portraitThumb/1773409984264_./Yaadein_Portrait_Thumb_Dated.jpg",
         "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090506382/thumbnail/1773409831023_./Yaadein_Landscape_Thumb_Dated.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090506382/mastheadMobileV2/1773409949659_./Yaadein_masthead_mobile_v2_984x1182.jpg",
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016511/1774280513606665_Yaadein_23mar_masthead_mobile_v2.jpg",
         "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090506382/mastheadLogo/1773409999076_./Yaadein_Masthead_Logo_Dated.png",
         "circular_image": null,
         "image_600x900_clean": null,
