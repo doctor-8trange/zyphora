@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "25-03-2026 18:00",
+  "last_updated": "25-03-2026 18:21",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -16,6 +16,505 @@
     "SERVER_STATUS": "NORMAL",
     "USAGE_GUIDE": []
   },
-  "data": [],
-  "upcoming": []
+  "data": [
+    {
+      "contentId": 1090507376,
+      "video_info": {
+        "title": "Indian Football League 2026",
+        "shortDescription": "Looking to take an early stride up the I‑League table, Sreenidi Deccan FC welcome Dempo SC in a matchup that promises competitive edge and urgency from both sides. Dempo, still working to overcome their slow start, head to Visakhapatnam with enough attacking threat to challenge any backline, and their previous clashes with Sreenidi have often gone down to the wire. Who will come on top ? Tune in to catch all the action from Indian Football League 2026, LIVE on Sony LIV.",
+        "longDescription": "Looking to take an early stride up the I‑League table, Sreenidi Deccan FC welcome Dempo SC in a matchup that promises competitive edge and urgency from both sides. Dempo, still working to overcome their slow start, head to Visakhapatnam with enough attacking threat to challenge any backline, and their previous clashes with Sreenidi have often gone down to the wire. Who will come on top ? Tune in to catch all the action from Indian Football League 2026, LIVE on Sony LIV.",
+        "genres": [
+          "Football"
+        ],
+        "episodeTitle": "Sreenidi Deccan FC vs Dempo Sports Club - 25 Mar 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/AmQPWgDqQUWpYQBuiuFZhw/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 2",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "25 Mar 2026, 06:00 PM",
+        "contractEndDate": "25 Mar 2026, 11:00 PM",
+        "originalAirDate": "25 Mar 2026, 06:30 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016478/17741595798776_IFC_Sreenidi_Deccan_FC_vs_Dempo_Sports_Club_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016478/17741596232086_IFC_Sreenidi_Deccan_FC_vs_Dempo_Sports_Club_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016514/1774327643599304_I_LEAGUE_masthead_mobile_v2_984x1182_Sreenidi_Deccan_FC_vs_Dempo_Sports_Club.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016514/1774327643378304_I_LEAGUE_Masthead_logo_Sreenidi_Deccan_FC_vs_Namdhari_FC_Live.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016478/17741596232086_IFC_Sreenidi_Deccan_FC_vs_Dempo_Sports_Club_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2105080/DAI24ME-V3/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/AmQPWgDqQUWpYQBuiuFZhw/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1774443037485,
+              "DOCTOR_STRANGE": 1774443051,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB",
+                "adServer": "GAM"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2105080/DAI24ME-V3/hdntl=exp=1774529452~acl=%2f*~id=99061461909009009804972682175899~data=hdntl,2105080,DAI24ME-V3,none~hmac=6910a67bebcb1bb17dd573e0409905cf7fe72423c97bf7395ca274ca78ccb434/master_200.m3u8?aka_me_session_id=AAAAAAAAAACsK8VpAAAAAOK1WoM21n%2f59rTsw6W7doLn0LR5By1z46qugBC9FiiBUWHiW9NgM0QH4s2iSLrncspio+6PU2X5&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2105080/DAI24ME-V3/hdntl=exp=1774529452~acl=%2f*~id=99061461909009009804972682175899~data=hdntl,2105080,DAI24ME-V3,none~hmac=6910a67bebcb1bb17dd573e0409905cf7fe72423c97bf7395ca274ca78ccb434/master_400.m3u8?aka_me_session_id=AAAAAAAAAACsK8VpAAAAAOK1WoM21n%2f59rTsw6W7doLn0LR5By1z46qugBC9FiiBUWHiW9NgM0QH4s2iSLrncspio+6PU2X5&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2105080/DAI24ME-V3/hdntl=exp=1774529452~acl=%2f*~id=99061461909009009804972682175899~data=hdntl,2105080,DAI24ME-V3,none~hmac=6910a67bebcb1bb17dd573e0409905cf7fe72423c97bf7395ca274ca78ccb434/master_500.m3u8?aka_me_session_id=AAAAAAAAAACsK8VpAAAAAOK1WoM21n%2f59rTsw6W7doLn0LR5By1z46qugBC9FiiBUWHiW9NgM0QH4s2iSLrncspio+6PU2X5&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=837256,AVERAGE-BANDWIDTH=837256,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2105080/DAI24ME-V3/hdntl=exp=1774529452~acl=%2f*~id=99061461909009009804972682175899~data=hdntl,2105080,DAI24ME-V3,none~hmac=6910a67bebcb1bb17dd573e0409905cf7fe72423c97bf7395ca274ca78ccb434/master_600.m3u8?aka_me_session_id=AAAAAAAAAACsK8VpAAAAAOK1WoM21n%2f59rTsw6W7doLn0LR5By1z46qugBC9FiiBUWHiW9NgM0QH4s2iSLrncspio+6PU2X5&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2105080/DAI24ME-V3/hdntl=exp=1774529452~acl=%2f*~id=99061461909009009804972682175899~data=hdntl,2105080,DAI24ME-V3,none~hmac=6910a67bebcb1bb17dd573e0409905cf7fe72423c97bf7395ca274ca78ccb434/master_1000.m3u8?aka_me_session_id=AAAAAAAAAACsK8VpAAAAAOK1WoM21n%2f59rTsw6W7doLn0LR5By1z46qugBC9FiiBUWHiW9NgM0QH4s2iSLrncspio+6PU2X5&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2105080/DAI24ME-V3/hdntl=exp=1774529452~acl=%2f*~id=99061461909009009804972682175899~data=hdntl,2105080,DAI24ME-V3,none~hmac=6910a67bebcb1bb17dd573e0409905cf7fe72423c97bf7395ca274ca78ccb434/master_1300.m3u8?aka_me_session_id=AAAAAAAAAACsK8VpAAAAAOK1WoM21n%2f59rTsw6W7doLn0LR5By1z46qugBC9FiiBUWHiW9NgM0QH4s2iSLrncspio+6PU2X5&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2105080/DAI24ME-V3/hdntl=exp=1774529452~acl=%2f*~id=99061461909009009804972682175899~data=hdntl,2105080,DAI24ME-V3,none~hmac=6910a67bebcb1bb17dd573e0409905cf7fe72423c97bf7395ca274ca78ccb434/master_2000.m3u8?aka_me_session_id=AAAAAAAAAACsK8VpAAAAAOK1WoM21n%2f59rTsw6W7doLn0LR5By1z46qugBC9FiiBUWHiW9NgM0QH4s2iSLrncspio+6PU2X5&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2105080/DAI24ME-V3/hdntl=exp=1774529452~acl=%2f*~id=99061461909009009804972682175899~data=hdntl,2105080,DAI24ME-V3,none~hmac=6910a67bebcb1bb17dd573e0409905cf7fe72423c97bf7395ca274ca78ccb434/master_2200.m3u8?aka_me_session_id=AAAAAAAAAACsK8VpAAAAAOK1WoM21n%2f59rTsw6W7doLn0LR5By1z46qugBC9FiiBUWHiW9NgM0QH4s2iSLrncspio+6PU2X5&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3591848,AVERAGE-BANDWIDTH=3591848,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2105080/DAI24ME-V3/hdntl=exp=1774529452~acl=%2f*~id=99061461909009009804972682175899~data=hdntl,2105080,DAI24ME-V3,none~hmac=6910a67bebcb1bb17dd573e0409905cf7fe72423c97bf7395ca274ca78ccb434/master_3200.m3u8?aka_me_session_id=AAAAAAAAAACsK8VpAAAAAOK1WoM21n%2f59rTsw6W7doLn0LR5By1z46qugBC9FiiBUWHiW9NgM0QH4s2iSLrncspio+6PU2X5&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2105080/DAI24ME-V3/hdntl=exp=1774529452~acl=%2f*~id=99061461909009009804972682175899~data=hdntl,2105080,DAI24ME-V3,none~hmac=6910a67bebcb1bb17dd573e0409905cf7fe72423c97bf7395ca274ca78ccb434/master_4500.m3u8?aka_me_session_id=AAAAAAAAAACsK8VpAAAAAOK1WoM21n%2f59rTsw6W7doLn0LR5By1z46qugBC9FiiBUWHiW9NgM0QH4s2iSLrncspio+6PU2X5&aka_media_format_type=hls",
+              "date": "Wednesday 25th of March 2026 06:20:51 PM"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "contentId": 1090507370,
+      "video_info": {
+        "title": "UEFA International Friendlies",
+        "shortDescription": "Kazakhstan and Namibia are set to meet in an international friendly in 2026, offering both sides a chance to test their squads. Fans can expect a competitive clash as each team looks to build momentum ahead of future tournaments. Which team will prevail? Tune in to catch all the action from this UEFA International Friendly, LIVE on Sony LIV.",
+        "longDescription": "Kazakhstan and Namibia are set to meet in an international friendly in 2026, offering both sides a chance to test their squads. Fans can expect a competitive clash as each team looks to build momentum ahead of future tournaments. Which team will prevail? Tune in to catch all the action from this UEFA International Friendly, LIVE on Sony LIV.",
+        "genres": [
+          "Football"
+        ],
+        "episodeTitle": "Kazakhstan vs Namibia - 25 Mar 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/lJS_OXxuQzuAqyu_oGTjDg/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 2",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "25 Mar 2026, 04:50 PM",
+        "contractEndDate": "25 Mar 2026, 09:50 PM",
+        "originalAirDate": "25 Mar 2026, 05:20 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016542/1774367499075588_INT_Friendlies26_Kazakhstan_vs_Comoros_24mar_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016542/1774367473409588_INT_Friendlies26_Kazakhstan_vs_Comoros_24mar_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": null,
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009146/1758606495748941_UEL25_26_GENERIC_Masthead_logo_LIVE1.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016542/1774367473409588_INT_Friendlies26_Kazakhstan_vs_Comoros_24mar_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2005445/Kazakhst2503/ENG/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/lJS_OXxuQzuAqyu_oGTjDg/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1774438237755,
+              "DOCTOR_STRANGE": 1774438241,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB",
+                "adServer": "GAM"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005445/Kazakhst2503/ENG/hdntl=exp=1774524642~acl=%2f*~id=11949872982630260139493763508890~data=hdntl,2005445,Kazakhst2503,ENG~hmac=44b5fde7a0c6830ba8955de1aad53388e1e0b38982bbacf8718435d67a49dd9c/master_200.m3u8?aka_me_session_id=AAAAAAAAAADiGMVpAAAAAHQsHnC9TkkZQwf72WdoBG39WHQEAjTC94TASOG2LD1LBaQFROXNAQyodDaiQgW3jobeB%2frMHtUT&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005445/Kazakhst2503/ENG/hdntl=exp=1774524642~acl=%2f*~id=11949872982630260139493763508890~data=hdntl,2005445,Kazakhst2503,ENG~hmac=44b5fde7a0c6830ba8955de1aad53388e1e0b38982bbacf8718435d67a49dd9c/master_400.m3u8?aka_me_session_id=AAAAAAAAAADiGMVpAAAAAHQsHnC9TkkZQwf72WdoBG39WHQEAjTC94TASOG2LD1LBaQFROXNAQyodDaiQgW3jobeB%2frMHtUT&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005445/Kazakhst2503/ENG/hdntl=exp=1774524642~acl=%2f*~id=11949872982630260139493763508890~data=hdntl,2005445,Kazakhst2503,ENG~hmac=44b5fde7a0c6830ba8955de1aad53388e1e0b38982bbacf8718435d67a49dd9c/master_500.m3u8?aka_me_session_id=AAAAAAAAAADiGMVpAAAAAHQsHnC9TkkZQwf72WdoBG39WHQEAjTC94TASOG2LD1LBaQFROXNAQyodDaiQgW3jobeB%2frMHtUT&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=837256,AVERAGE-BANDWIDTH=837256,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005445/Kazakhst2503/ENG/hdntl=exp=1774524642~acl=%2f*~id=11949872982630260139493763508890~data=hdntl,2005445,Kazakhst2503,ENG~hmac=44b5fde7a0c6830ba8955de1aad53388e1e0b38982bbacf8718435d67a49dd9c/master_600.m3u8?aka_me_session_id=AAAAAAAAAADiGMVpAAAAAHQsHnC9TkkZQwf72WdoBG39WHQEAjTC94TASOG2LD1LBaQFROXNAQyodDaiQgW3jobeB%2frMHtUT&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005445/Kazakhst2503/ENG/hdntl=exp=1774524642~acl=%2f*~id=11949872982630260139493763508890~data=hdntl,2005445,Kazakhst2503,ENG~hmac=44b5fde7a0c6830ba8955de1aad53388e1e0b38982bbacf8718435d67a49dd9c/master_1000.m3u8?aka_me_session_id=AAAAAAAAAADiGMVpAAAAAHQsHnC9TkkZQwf72WdoBG39WHQEAjTC94TASOG2LD1LBaQFROXNAQyodDaiQgW3jobeB%2frMHtUT&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005445/Kazakhst2503/ENG/hdntl=exp=1774524642~acl=%2f*~id=11949872982630260139493763508890~data=hdntl,2005445,Kazakhst2503,ENG~hmac=44b5fde7a0c6830ba8955de1aad53388e1e0b38982bbacf8718435d67a49dd9c/master_1300.m3u8?aka_me_session_id=AAAAAAAAAADiGMVpAAAAAHQsHnC9TkkZQwf72WdoBG39WHQEAjTC94TASOG2LD1LBaQFROXNAQyodDaiQgW3jobeB%2frMHtUT&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005445/Kazakhst2503/ENG/hdntl=exp=1774524642~acl=%2f*~id=11949872982630260139493763508890~data=hdntl,2005445,Kazakhst2503,ENG~hmac=44b5fde7a0c6830ba8955de1aad53388e1e0b38982bbacf8718435d67a49dd9c/master_2000.m3u8?aka_me_session_id=AAAAAAAAAADiGMVpAAAAAHQsHnC9TkkZQwf72WdoBG39WHQEAjTC94TASOG2LD1LBaQFROXNAQyodDaiQgW3jobeB%2frMHtUT&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005445/Kazakhst2503/ENG/hdntl=exp=1774524642~acl=%2f*~id=11949872982630260139493763508890~data=hdntl,2005445,Kazakhst2503,ENG~hmac=44b5fde7a0c6830ba8955de1aad53388e1e0b38982bbacf8718435d67a49dd9c/master_2200.m3u8?aka_me_session_id=AAAAAAAAAADiGMVpAAAAAHQsHnC9TkkZQwf72WdoBG39WHQEAjTC94TASOG2LD1LBaQFROXNAQyodDaiQgW3jobeB%2frMHtUT&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3591848,AVERAGE-BANDWIDTH=3591848,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005445/Kazakhst2503/ENG/hdntl=exp=1774524642~acl=%2f*~id=11949872982630260139493763508890~data=hdntl,2005445,Kazakhst2503,ENG~hmac=44b5fde7a0c6830ba8955de1aad53388e1e0b38982bbacf8718435d67a49dd9c/master_3200.m3u8?aka_me_session_id=AAAAAAAAAADiGMVpAAAAAHQsHnC9TkkZQwf72WdoBG39WHQEAjTC94TASOG2LD1LBaQFROXNAQyodDaiQgW3jobeB%2frMHtUT&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005445/Kazakhst2503/ENG/hdntl=exp=1774524642~acl=%2f*~id=11949872982630260139493763508890~data=hdntl,2005445,Kazakhst2503,ENG~hmac=44b5fde7a0c6830ba8955de1aad53388e1e0b38982bbacf8718435d67a49dd9c/master_4500.m3u8?aka_me_session_id=AAAAAAAAAADiGMVpAAAAAHQsHnC9TkkZQwf72WdoBG39WHQEAjTC94TASOG2LD1LBaQFROXNAQyodDaiQgW3jobeB%2frMHtUT&aka_media_format_type=hls",
+              "date": "Wednesday 25th of March 2026 05:00:41 PM"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "upcoming": [
+    {
+      "contentId": 1090507645,
+      "video_info": {
+        "title": "Sitaare Zameen Par",
+        "shortDescription": "After a DUI, an arrogant basketball coach must train neurodivergent adults for community service, only to discover that his players will change his outlook on life. Catch Sitaare Zameen Par streaming from 3rd April, only on Sony LIV. ",
+        "longDescription": "After a DUI, an arrogant basketball coach must train neurodivergent adults for community service, only to discover that his players will change his outlook on life. Catch Sitaare Zameen Par streaming from 3rd April, only on Sony LIV. ",
+        "genres": [
+          "Drama",
+          "Comedy"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "LIV",
+        "audio_language_list": [
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          }
+        ],
+        "emfAttributes__audio_languages": "HIN",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "HIN",
+              "isPreferred": true,
+              "audioLanguageLabel": "Hindi",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/ac3a5ad2650f4427ac9b07ffe074cbf1/1774431835/baseline-std-v4/SITAARE_ZAMEEN_PAR_JUDGE_PAGAL_COACH_30_SEC_HOR_WOSUB_WOBUG_DATED_APP_IND_hin_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "25 Mar 2026, 12:00 PM",
+        "contractEndDate": "03 Apr 2026, 11:59 PM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016495/1774264128629145_SZP_rev_Portrait_Thumb_dated.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016491/1774259226685589_SZP_1_Landscape_Thumb_dated.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090507645/mastheadMobileV2/1774442231790_SZP_1_masthead_mobile_v2_984x1182.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016491/1774258883049589_SZP_1_Masthead_Logo_dated.png",
+        "circular_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090505970/circularImage/1773065318929_./SZP_1_Circular_Image.jpg",
+        "image_600x900_clean": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090505970/image600x900Clean/1773065345837_./SZP_1_600x900_clean_Airtel_Portrait_SS.jpg",
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016491/1774259226685589_SZP_1_Landscape_Thumb_dated.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": []
+    },
+    {
+      "contentId": 1090505313,
+      "video_info": {
+        "title": "India's Best Dancer",
+        "shortDescription": "India's Best Dancer Season 5 is coming back with Karisma Kapoor. Watch India's Best Dancer, streaming soon, on Sony LIV. ",
+        "longDescription": "India's Best Dancer Season 5 is coming back with Karisma Kapoor. Watch India's Best Dancer, streaming soon, on Sony LIV. ",
+        "genres": [
+          "Reality",
+          "Dance"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "SET",
+        "audio_language_list": [
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          }
+        ],
+        "emfAttributes__audio_languages": "HIN",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "HIN",
+              "isPreferred": true,
+              "audioLanguageLabel": "Hindi",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/de1442d00fbb40f585a5ef733c861024/1772195955/baseline-std-v4/IBDS5_KARISHMATEASER_TANTANTARA_20SEC_HOR_WOSUB_WOBUG_CS_LIV_SET_APP_IND_hin_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "27 Feb 2026, 12:00 AM",
+        "contractEndDate": "27 Feb 2121, 11:59 PM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016061/1773238089090831_ibd5_11mar_SS_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016061/1773238145752831_ibd5_11mar_SS_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016061/1773238634930831_ibd5_11mar_masthead_mobile_v2.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016061/1773238809735831_ibd5_11mar_SS_masthead_logo.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016061/1773238145752831_ibd5_11mar_SS_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": []
+    },
+    {
+      "contentId": 1090507523,
+      "video_info": {
+        "title": "Hastinapur Ke Veer",
+        "shortDescription": "A mythological TV series, Hastinapur Ke Veer is centered around themes of courage, discipline, brotherhood, and timeless values, drawing inspiration from the Mahabharata era.",
+        "longDescription": "A mythological TV series, Hastinapur Ke Veer is centered around themes of courage, discipline, brotherhood, and timeless values, drawing inspiration from the Mahabharata era.",
+        "genres": [
+          "Mythology"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "SAB",
+        "audio_language_list": [
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          }
+        ],
+        "emfAttributes__audio_languages": "HIN",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "HIN",
+              "isPreferred": true,
+              "audioLanguageLabel": "Hindi",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/5c6dc9a248e642c089ef5edfff276582/1774271122/baseline-std-v4/HKV_TEASER_1_25_SEC_HOR_WOSUB_WOBUG_CS_APP_IND_hin_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "23 Mar 2026, 03:00 PM",
+        "contractEndDate": "23 Jun 2121, 11:59 PM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016500/1774270967973830_Hastinapur_k_veer_23march_SS_Portrait_Thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016500/1774271039207830_Hastinapur_k_veer_23march_SS_Landscape_Thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016500/1774271001348830_Hastinapur_k_veer_23march_masthead_mobile_v2.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016500/1774270193031830_Hastinapur_k_veer_23march_SS_masthead_logo.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016500/1774271039207830_Hastinapur_k_veer_23march_SS_Landscape_Thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": []
+    },
+    {
+      "contentId": 1090506648,
+      "video_info": {
+        "title": "A New Story Every Friday",
+        "shortDescription": "Catch a new story every Friday and make your summers brighter. Watch exclusive shows, films and sports content only on Sony LIV.",
+        "longDescription": "Catch a new story every Friday and make your summers brighter. Watch exclusive shows, films and sports content only on Sony LIV.",
+        "genres": [
+          "Entertainment",
+          "Sports"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "LIV",
+        "audio_language_list": [
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          }
+        ],
+        "emfAttributes__audio_languages": "HIN",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "HIN",
+              "isPreferred": true,
+              "audioLanguageLabel": "Hindi",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/8cb28f1225d04b229bbfc484ca4fdeda/1773489943/baseline-std-v4/SUMMERCOMPOSITE_70SEC_HOR_WSUB_WOBUG_APP_hin_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "14 Mar 2026, 12:00 AM",
+        "contractEndDate": "14 Mar 2121, 11:59 PM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016189/1773489791864730_gec_combo_promo_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016189/1773494443654730_gec_combo_promo_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016322/1773771549622875_MMV2_New_Story_Every_Friday_composite_promo_17mar_984x1182_masthead_mobile_v2.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016189/1773489924531730_GEC_combo_promo_masthead_logo.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016189/1773494443654730_gec_combo_promo_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": []
+    },
+    {
+      "contentId": 1090506382,
+      "video_info": {
+        "title": "Hui Gumm Yaadein Ek Doctor, Do Zindagiyaan",
+        "shortDescription": "Witness Dr Dev's second chance at life. Watch Hai Gumm Yaadein - Ek Doctor Do Zindagiyaan, starting from the 6th of April at 8pm, on Sony LIV.",
+        "longDescription": "Witness Dr Dev's second chance at life. Watch Hai Gumm Yaadein - Ek Doctor Do Zindagiyaan, starting from the 6th of April at 8pm, on Sony LIV.",
+        "genres": [
+          "Drama"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "SAB",
+        "audio_language_list": [
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          }
+        ],
+        "emfAttributes__audio_languages": "HIN",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "HIN",
+              "isPreferred": true,
+              "audioLanguageLabel": "Hindi",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/4be3c8d056ab497e95928d7f9c5a864b/1773388739/baseline-std-v4/YAADEIN_TRAILER_60SEC_HOR_WOSUB_WOBUG_DATED_LIV_SAB_APP_IND_hin_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "13 Mar 2026, 10:00 AM",
+        "contractEndDate": "14 Feb 2027, 11:59 PM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090506382/portraitThumb/1773409984264_./Yaadein_Portrait_Thumb_Dated.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090506382/thumbnail/1773409831023_./Yaadein_Landscape_Thumb_Dated.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016511/1774280513606665_Yaadein_23mar_masthead_mobile_v2.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090506382/mastheadLogo/1773409999076_./Yaadein_Masthead_Logo_Dated.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090506382/thumbnail/1773409831023_./Yaadein_Landscape_Thumb_Dated.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": []
+    }
+  ]
 }
