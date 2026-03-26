@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "25-03-2026 22:20",
+  "last_updated": "12:40:17 PM 26-03-2026",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -16,7 +16,110 @@
     "SERVER_STATUS": "NORMAL",
     "USAGE_GUIDE": []
   },
-  "data": [],
+  "data": [
+    {
+      "contentId": 1090507374,
+      "video_info": {
+        "title": "DP World Tour",
+        "shortDescription": "Watch all the action from Hero Indian Open Day 1, LIVE on Sony LIV.",
+        "longDescription": "Watch all the action from Hero Indian Open Day 1, LIVE on Sony LIV.",
+        "genres": [
+          "Golf"
+        ],
+        "episodeTitle": "Hero Indian Open Day 1 - 26 Mar 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/lCPeNz0CSL6iH5VTP5pRYQ/master.m3u8",
+        "broadcast_channel": "LIV",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "26 Mar 2026, 12:30 PM",
+        "contractEndDate": "26 Mar 2026, 08:30 PM",
+        "originalAirDate": "26 Mar 2026, 01:00 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016532/177435916119537_DP_World_Tour26_Hero_Indian_Open_day1_24mar_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016532/177435943318137_DP_World_Tour26_Hero_Indian_Open_day1_24mar_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": null,
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013565/1768686425047781_DP_World_Tour_GOB_Masthead_Logo_LIVE.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016532/177435943318137_DP_World_Tour26_Hero_Indian_Open_day1_24mar_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2022315/Hero_Ind2603/ENG/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/lCPeNz0CSL6iH5VTP5pRYQ/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1774509017770,
+              "DOCTOR_STRANGE": 1774509017,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB",
+                "adServer": "GAM"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022315/Hero_Ind2603/ENG/hdntl=exp=1774595418~acl=%2f*~id=44712102604252106996251381791867~data=hdntl,2022315,Hero_Ind2603,ENG~hmac=55c2ca0360a1688a7a93792a9348225a09f1d983dab1147f4b36e70ea46d31e9/master_200.m3u8?aka_me_session_id=AAAAAAAAAABaLcZpAAAAAKQhR3x%2fBqIw969SQ1c+fEnZNpQNvjqiVFf2fZbvMQvGk6lIVqqnJ%2fcNMsZpuOJoeGdhuy3Ei8eC&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022315/Hero_Ind2603/ENG/hdntl=exp=1774595418~acl=%2f*~id=44712102604252106996251381791867~data=hdntl,2022315,Hero_Ind2603,ENG~hmac=55c2ca0360a1688a7a93792a9348225a09f1d983dab1147f4b36e70ea46d31e9/master_400.m3u8?aka_me_session_id=AAAAAAAAAABaLcZpAAAAAKQhR3x%2fBqIw969SQ1c+fEnZNpQNvjqiVFf2fZbvMQvGk6lIVqqnJ%2fcNMsZpuOJoeGdhuy3Ei8eC&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022315/Hero_Ind2603/ENG/hdntl=exp=1774595418~acl=%2f*~id=44712102604252106996251381791867~data=hdntl,2022315,Hero_Ind2603,ENG~hmac=55c2ca0360a1688a7a93792a9348225a09f1d983dab1147f4b36e70ea46d31e9/master_500.m3u8?aka_me_session_id=AAAAAAAAAABaLcZpAAAAAKQhR3x%2fBqIw969SQ1c+fEnZNpQNvjqiVFf2fZbvMQvGk6lIVqqnJ%2fcNMsZpuOJoeGdhuy3Ei8eC&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=837256,AVERAGE-BANDWIDTH=837256,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022315/Hero_Ind2603/ENG/hdntl=exp=1774595418~acl=%2f*~id=44712102604252106996251381791867~data=hdntl,2022315,Hero_Ind2603,ENG~hmac=55c2ca0360a1688a7a93792a9348225a09f1d983dab1147f4b36e70ea46d31e9/master_600.m3u8?aka_me_session_id=AAAAAAAAAABaLcZpAAAAAKQhR3x%2fBqIw969SQ1c+fEnZNpQNvjqiVFf2fZbvMQvGk6lIVqqnJ%2fcNMsZpuOJoeGdhuy3Ei8eC&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022315/Hero_Ind2603/ENG/hdntl=exp=1774595418~acl=%2f*~id=44712102604252106996251381791867~data=hdntl,2022315,Hero_Ind2603,ENG~hmac=55c2ca0360a1688a7a93792a9348225a09f1d983dab1147f4b36e70ea46d31e9/master_1000.m3u8?aka_me_session_id=AAAAAAAAAABaLcZpAAAAAKQhR3x%2fBqIw969SQ1c+fEnZNpQNvjqiVFf2fZbvMQvGk6lIVqqnJ%2fcNMsZpuOJoeGdhuy3Ei8eC&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022315/Hero_Ind2603/ENG/hdntl=exp=1774595418~acl=%2f*~id=44712102604252106996251381791867~data=hdntl,2022315,Hero_Ind2603,ENG~hmac=55c2ca0360a1688a7a93792a9348225a09f1d983dab1147f4b36e70ea46d31e9/master_1300.m3u8?aka_me_session_id=AAAAAAAAAABaLcZpAAAAAKQhR3x%2fBqIw969SQ1c+fEnZNpQNvjqiVFf2fZbvMQvGk6lIVqqnJ%2fcNMsZpuOJoeGdhuy3Ei8eC&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022315/Hero_Ind2603/ENG/hdntl=exp=1774595418~acl=%2f*~id=44712102604252106996251381791867~data=hdntl,2022315,Hero_Ind2603,ENG~hmac=55c2ca0360a1688a7a93792a9348225a09f1d983dab1147f4b36e70ea46d31e9/master_2000.m3u8?aka_me_session_id=AAAAAAAAAABaLcZpAAAAAKQhR3x%2fBqIw969SQ1c+fEnZNpQNvjqiVFf2fZbvMQvGk6lIVqqnJ%2fcNMsZpuOJoeGdhuy3Ei8eC&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022315/Hero_Ind2603/ENG/hdntl=exp=1774595418~acl=%2f*~id=44712102604252106996251381791867~data=hdntl,2022315,Hero_Ind2603,ENG~hmac=55c2ca0360a1688a7a93792a9348225a09f1d983dab1147f4b36e70ea46d31e9/master_2200.m3u8?aka_me_session_id=AAAAAAAAAABaLcZpAAAAAKQhR3x%2fBqIw969SQ1c+fEnZNpQNvjqiVFf2fZbvMQvGk6lIVqqnJ%2fcNMsZpuOJoeGdhuy3Ei8eC&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3591848,AVERAGE-BANDWIDTH=3591848,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022315/Hero_Ind2603/ENG/hdntl=exp=1774595418~acl=%2f*~id=44712102604252106996251381791867~data=hdntl,2022315,Hero_Ind2603,ENG~hmac=55c2ca0360a1688a7a93792a9348225a09f1d983dab1147f4b36e70ea46d31e9/master_3200.m3u8?aka_me_session_id=AAAAAAAAAABaLcZpAAAAAKQhR3x%2fBqIw969SQ1c+fEnZNpQNvjqiVFf2fZbvMQvGk6lIVqqnJ%2fcNMsZpuOJoeGdhuy3Ei8eC&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022315/Hero_Ind2603/ENG/hdntl=exp=1774595418~acl=%2f*~id=44712102604252106996251381791867~data=hdntl,2022315,Hero_Ind2603,ENG~hmac=55c2ca0360a1688a7a93792a9348225a09f1d983dab1147f4b36e70ea46d31e9/master_4500.m3u8?aka_me_session_id=AAAAAAAAAABaLcZpAAAAAKQhR3x%2fBqIw969SQ1c+fEnZNpQNvjqiVFf2fZbvMQvGk6lIVqqnJ%2fcNMsZpuOJoeGdhuy3Ei8eC&aka_media_format_type=hls",
+              "date": "Thursday 26th of March 2026 12:40:17 PM"
+            }
+          }
+        }
+      ]
+    }
+  ],
   "upcoming": [
     {
       "contentId": 1090507645,
