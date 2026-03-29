@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "11:20:48 AM 29-03-2026",
+  "last_updated": "12:00:07 PM 29-03-2026",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -70,7 +70,59 @@
         "image_600x900_clean": null,
         "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016646/1774623025080696_NZw_vs_SAw_1st_ODI_landscape_thumb.jpg"
       },
-      "MULTIPLE_AUDIO_LINKS": []
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2094589/NZvsSAwo2803/ENG/std_lrl-800300010.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                },
+                {
+                  "audioLanguageName": "ENG",
+                  "audioLanguageLabel": "English",
+                  "audioLangIdentifier": "ENG"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/alWqozasSNeEIxePgYc3Og/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1774764610220,
+              "DOCTOR_STRANGE": 1774764619,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB",
+                "adServer": "GAM"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "auto_streams": false,
+              "date": "Sunday 29th of March 2026 11:40:19 AM"
+            }
+          }
+        }
+      ]
     },
     {
       "contentId": 1090507726,
