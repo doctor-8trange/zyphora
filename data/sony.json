@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "02-04-2026 22:40",
+  "last_updated": "08:40:12 PM 03-04-2026",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -16,7 +16,109 @@
     "SERVER_STATUS": "NORMAL",
     "USAGE_GUIDE": []
   },
-  "data": [],
+  "data": [
+    {
+      "contentId": 1090500468,
+      "video_info": {
+        "title": "Wheel Of Fortune",
+        "shortDescription": "Recognised by Guinness World Records as the world’s most popular TV game show, Wheel of Fortune arrives in India in spectacular fashion, hosted by Akshay Kumar. Contestants enter a thrilling word game, decoding phrases spanning Bollywood, pop culture and everyday life. Blending entertainment with edge-of-the-seat moments, every alphabet can change the game as players compete for paisa and prizes.",
+        "longDescription": "Recognised by Guinness World Records as the world’s most popular TV game show, Wheel of Fortune arrives in India in spectacular fashion, hosted by Akshay Kumar. Contestants enter a thrilling word game, decoding phrases spanning Bollywood, pop culture and everyday life. Blending entertainment with edge-of-the-seat moments, every alphabet can change the game as players compete for paisa and prizes.",
+        "genres": [
+          "Game show"
+        ],
+        "episodeTitle": "Wheel Of Fortune"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/ywC0TYXoSbOYu7fxpFglFA/master.m3u8",
+        "broadcast_channel": "SET",
+        "audio_language_list": [
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          }
+        ],
+        "emfAttributes__audio_languages": "HIN",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "HIN",
+              "isPreferred": true,
+              "audioLanguageLabel": "Hindi"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "03 Apr 2026, 08:30 PM",
+        "contractEndDate": "03 Apr 2026, 10:40 PM",
+        "originalAirDate": "03 Apr 2026, 08:30 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016744/1774877364821375_WOF_simulcast_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016744/1774877224201375_WOF_simulcast_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016745/177493810635271_WOF_31mar_masthead_mobile_v2.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014354/176952176347656_WOF_27jan_simulcast_masthead_logo.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016744/1774877224201375_WOF_simulcast_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "Hindi",
+          "LANG_CODE": "HIN",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-WOF/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "HIN",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "Hindi"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/ywC0TYXoSbOYu7fxpFglFA/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1775229011533,
+              "DOCTOR_STRANGE": 1775229010,
+              "additionalDataJson": {
+                "audio_quality": "STEREO",
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "video_quality": "SDR",
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "fps": 50,
+                "isDaiKey": false,
+                "partners": [
+                  "ALL"
+                ],
+                "ad_stack": "MT-SSB"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.4d4015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=256x144,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-WOF/hdntl=exp=1775315412~acl=%2f*~id=46988003331526843539285537533926~data=hdntl,2022321,DAI17ME-WOF,none~hmac=f61a45fa090402b95764080d04e8547131378c6c38a77f47ec4c7535ac3adda7/master_200.m3u8?aka_me_session_id=AAAAAAAAAADUKdFpAAAAAEwW%2fsYPfj7OHv1Cib1HImUWunXCwY+IxGHblRuXSEQF15uSVyh%2fC6rwsmgqewGhCw7UxYs0R+FY&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=581816,AVERAGE-BANDWIDTH=581816,CODECS=\"avc1.4d4015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-WOF/hdntl=exp=1775315412~acl=%2f*~id=46988003331526843539285537533926~data=hdntl,2022321,DAI17ME-WOF,none~hmac=f61a45fa090402b95764080d04e8547131378c6c38a77f47ec4c7535ac3adda7/master_350.m3u8?aka_me_session_id=AAAAAAAAAADUKdFpAAAAAEwW%2fsYPfj7OHv1Cib1HImUWunXCwY+IxGHblRuXSEQF15uSVyh%2fC6rwsmgqewGhCw7UxYs0R+FY&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=735080,AVERAGE-BANDWIDTH=735080,CODECS=\"avc1.64001e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-WOF/hdntl=exp=1775315412~acl=%2f*~id=46988003331526843539285537533926~data=hdntl,2022321,DAI17ME-WOF,none~hmac=f61a45fa090402b95764080d04e8547131378c6c38a77f47ec4c7535ac3adda7/master_500.m3u8?aka_me_session_id=AAAAAAAAAADUKdFpAAAAAEwW%2fsYPfj7OHv1Cib1HImUWunXCwY+IxGHblRuXSEQF15uSVyh%2fC6rwsmgqewGhCw7UxYs0R+FY&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=939432,AVERAGE-BANDWIDTH=939432,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-WOF/hdntl=exp=1775315412~acl=%2f*~id=46988003331526843539285537533926~data=hdntl,2022321,DAI17ME-WOF,none~hmac=f61a45fa090402b95764080d04e8547131378c6c38a77f47ec4c7535ac3adda7/master_700.m3u8?aka_me_session_id=AAAAAAAAAADUKdFpAAAAAEwW%2fsYPfj7OHv1Cib1HImUWunXCwY+IxGHblRuXSEQF15uSVyh%2fC6rwsmgqewGhCw7UxYs0R+FY&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-WOF/hdntl=exp=1775315412~acl=%2f*~id=46988003331526843539285537533926~data=hdntl,2022321,DAI17ME-WOF,none~hmac=f61a45fa090402b95764080d04e8547131378c6c38a77f47ec4c7535ac3adda7/master_1300.m3u8?aka_me_session_id=AAAAAAAAAADUKdFpAAAAAEwW%2fsYPfj7OHv1Cib1HImUWunXCwY+IxGHblRuXSEQF15uSVyh%2fC6rwsmgqewGhCw7UxYs0R+FY&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2267688,AVERAGE-BANDWIDTH=2267688,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-WOF/hdntl=exp=1775315412~acl=%2f*~id=46988003331526843539285537533926~data=hdntl,2022321,DAI17ME-WOF,none~hmac=f61a45fa090402b95764080d04e8547131378c6c38a77f47ec4c7535ac3adda7/master_2000.m3u8?aka_me_session_id=AAAAAAAAAADUKdFpAAAAAEwW%2fsYPfj7OHv1Cib1HImUWunXCwY+IxGHblRuXSEQF15uSVyh%2fC6rwsmgqewGhCw7UxYs0R+FY&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2778568,AVERAGE-BANDWIDTH=2778568,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-WOF/hdntl=exp=1775315412~acl=%2f*~id=46988003331526843539285537533926~data=hdntl,2022321,DAI17ME-WOF,none~hmac=f61a45fa090402b95764080d04e8547131378c6c38a77f47ec4c7535ac3adda7/master_2500.m3u8?aka_me_session_id=AAAAAAAAAADUKdFpAAAAAEwW%2fsYPfj7OHv1Cib1HImUWunXCwY+IxGHblRuXSEQF15uSVyh%2fC6rwsmgqewGhCw7UxYs0R+FY&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3800296,AVERAGE-BANDWIDTH=3800296,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-WOF/hdntl=exp=1775315412~acl=%2f*~id=46988003331526843539285537533926~data=hdntl,2022321,DAI17ME-WOF,none~hmac=f61a45fa090402b95764080d04e8547131378c6c38a77f47ec4c7535ac3adda7/master_3500.m3u8?aka_me_session_id=AAAAAAAAAADUKdFpAAAAAEwW%2fsYPfj7OHv1Cib1HImUWunXCwY+IxGHblRuXSEQF15uSVyh%2fC6rwsmgqewGhCw7UxYs0R+FY&aka_media_format_type=hls",
+              "date": "Friday 3rd of April 2026 08:40:10 PM"
+            }
+          }
+        }
+      ]
+    }
+  ],
   "upcoming": [
     {
       "contentId": 1090507837,
@@ -69,7 +171,7 @@
         "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090506382/thumbnail/1773409831023_./Yaadein_Landscape_Thumb_Dated.jpg",
         "masthead_mobile_v1": null,
         "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016511/1774280513606665_Yaadein_23mar_masthead_mobile_v2.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090507837/mastheadLogo/1775068293731_1775064378063622_Yaadein_4DTG_1apr_promo_masthead_logo.png",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090507837/mastheadLogo/1775161011225_1775064370426622_Yaadein_3DTG_1apr_promo_masthead_logo.png",
         "circular_image": null,
         "image_600x900_clean": null,
         "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090506382/thumbnail/1773409831023_./Yaadein_Landscape_Thumb_Dated.jpg"
@@ -193,6 +295,69 @@
       "MULTIPLE_AUDIO_LINKS": []
     },
     {
+      "contentId": 1090511806,
+      "video_info": {
+        "title": "Main Woh Aur Fuji",
+        "shortDescription": "In a world where love is filtered, scored and predicted, a couple in Pune collides in a fierce, consuming romance. What begins in urgency and desire slowly fractures. Seven years later, beneath the shadow of Mount Fuji, they meet again carrying different lives, different scars, confronting a past that never truly left them. Can love survive its own history or shall it merely haunt them? Witness Lalit Prabhakar and Mrinmayee Godbole in a fresh, new-age romantic movie Main Woh Aur Fuji, streaming from 10th April, on Sony LIV.",
+        "longDescription": "In a world where love is filtered, scored and predicted, a couple in Pune collides in a fierce, consuming romance. What begins in urgency and desire slowly fractures. Seven years later, beneath the shadow of Mount Fuji, they meet again carrying different lives, different scars, confronting a past that never truly left them. Can love survive its own history or shall it merely haunt them? Witness Lalit Prabhakar and Mrinmayee Godbole in a fresh, new-age romantic movie Main Woh Aur Fuji, streaming from 10th April, on Sony LIV.",
+        "genres": [
+          "Romance",
+          "Drama"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "LIV",
+        "audio_language_list": [
+          {
+            "lang_code": "MAR",
+            "lang_label": "Marathi"
+          },
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          }
+        ],
+        "emfAttributes__audio_languages": "HIN,MAR",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "HIN",
+              "isPreferred": true,
+              "audioLanguageLabel": "Hindi",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/promo/DASH/373873ebe8564191b814946bcaaed733/1775149604/baseline-std-v4/MAIN_WOH_AUR_FUJI_TRAILER_1MIN_6_SEC_HOR_HINDI_WSUB_WOBUG_DATED_APP_IND_REV_hin_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "02 Apr 2026, 10:00 AM",
+        "contractEndDate": "10 Apr 2026, 12:00 PM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016870/17752224162163_Fuzi_dated_3apr_portrait_thumb1.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016842/17751209400003_MWF_Landscape_Thumb_Dated.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016843/1775120940000421_MWF_masthead_mobile_v2_984x1182.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016842/17751209400003_MWF_Masthead_Logo_Dated.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016842/17751209400003_MWF_Landscape_Thumb_Dated.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": []
+    },
+    {
       "contentId": 1090508009,
       "video_info": {
         "title": "Upcoming - Emirates FA Cup - Chelsea vs Port Vale",
@@ -309,65 +474,6 @@
       "MULTIPLE_AUDIO_LINKS": []
     },
     {
-      "contentId": 1090507834,
-      "video_info": {
-        "title": "Sitaare Zameen Par",
-        "shortDescription": "After a DUI, an arrogant basketball coach must train neurodivergent adults for community service, only to discover that his players will change his outlook on life. Catch Sitaare Zameen Par streaming from 3rd April, only on Sony LIV. ",
-        "longDescription": "After a DUI, an arrogant basketball coach must train neurodivergent adults for community service, only to discover that his players will change his outlook on life. Catch Sitaare Zameen Par streaming from 3rd April, only on Sony LIV. ",
-        "genres": [
-          "Drama",
-          "Comedy"
-        ],
-        "episodeTitle": ""
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "LIV",
-        "audio_language_list": [
-          {
-            "lang_code": "HIN",
-            "lang_label": "Hindi"
-          }
-        ],
-        "emfAttributes__audio_languages": "HIN",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "HIN",
-              "isPreferred": true,
-              "audioLanguageLabel": "Hindi",
-              "type": "main"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/ac3a5ad2650f4427ac9b07ffe074cbf1/1774431835/baseline-std-v4/SITAARE_ZAMEEN_PAR_JUDGE_PAGAL_COACH_30_SEC_HOR_WOSUB_WOBUG_DATED_APP_IND_hin_baseline-800300010.mpd",
-          "hasTrailer": true
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "25 Mar 2026, 12:00 PM",
-        "contractEndDate": "03 Apr 2026, 11:59 PM",
-        "originalAirDate": null
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016652/177462414585719_sitaare_zameen_par_27mar_dated_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016491/1774259226685589_SZP_1_Landscape_Thumb_dated.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090507645/mastheadMobileV2/1774442231790_SZP_1_masthead_mobile_v2_984x1182.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090507834/mastheadLogo/1775068167475_1774637300543463_SZP_1DTG_27mar_masthead_logo.png",
-        "circular_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090505970/circularImage/1773065318929_./SZP_1_Circular_Image.jpg",
-        "image_600x900_clean": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090505970/image600x900Clean/1773065345837_./SZP_1_600x900_clean_Airtel_Portrait_SS.jpg",
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016491/1774259226685589_SZP_1_Landscape_Thumb_dated.jpg"
-      },
-      "MULTIPLE_AUDIO_LINKS": []
-    },
-    {
       "contentId": 1090507833,
       "video_info": {
         "title": "India's Best Dancer",
@@ -427,11 +533,11 @@
       "MULTIPLE_AUDIO_LINKS": []
     },
     {
-      "contentId": 1090507839,
+      "contentId": 1090513882,
       "video_info": {
         "title": "Hastinapur Ke Veer",
-        "shortDescription": "A mythological TV series, Hastinapur Ke Veer is centered around themes of courage, discipline, brotherhood, and timeless values, drawing inspiration from the Mahabharata era.",
-        "longDescription": "A mythological TV series, Hastinapur Ke Veer is centered around themes of courage, discipline, brotherhood, and timeless values, drawing inspiration from the Mahabharata era.",
+        "shortDescription": "Hastinapur Ke Veer unfolds the saga of the five Pandavas brothers, who embody courage, righteousness, and sacrifice as they confront the relentless forces of ambition and injustice. Watch Hastinapur Ke Veer streaming soon, only on Sony LIV. ",
+        "longDescription": "Hastinapur Ke Veer unfolds the saga of the five Pandavas brothers, who embody courage, righteousness, and sacrifice as they confront the relentless forces of ambition and injustice. Watch Hastinapur Ke Veer streaming soon, only on Sony LIV. ",
         "genres": [
           "Mythology"
         ],
@@ -463,12 +569,12 @@
           ],
           "subtitlesLanguages": [],
           "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/5c6dc9a248e642c089ef5edfff276582/1774271122/baseline-std-v4/HKV_TEASER_1_25_SEC_HOR_WOSUB_WOBUG_CS_APP_IND_hin_baseline-800300010.mpd",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/36cfdb7bafc7458e8b972a8f1d2a6a75/1775210413/baseline-std-v4/HASTINAPUR_KE_VEER_40SEC_HOR_WOSUB_WOBUG_CS_APP_hin_baseline-800300010.mpd",
           "hasTrailer": true
         }
       },
       "air_dates": {
-        "contractStartDate": "23 Mar 2026, 03:00 PM",
+        "contractStartDate": "03 Apr 2026, 03:00 PM",
         "contractEndDate": "23 Jun 2121, 11:59 PM",
         "originalAirDate": null
       },
