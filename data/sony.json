@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "06-04-2026 00:20",
+  "last_updated": "03:40:13 PM 06-04-2026",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -16,8 +16,343 @@
     "SERVER_STATUS": "NORMAL",
     "USAGE_GUIDE": []
   },
-  "data": [],
+  "data": [
+    {
+      "contentId": 1090517006,
+      "video_info": {
+        "title": "Indian Football League 2026",
+        "shortDescription": "Namdhari FC welcome table-toppers Diamond Harbour FC promising a competitive contest, with Namdhari aiming to capitalise on home strengths while the visitors will look to continue the momentum with disciplined play and quick transitions. Tune in to catch all the action from Indian Football League 2026, LIVE on Sony LIV.",
+        "longDescription": "Namdhari FC welcome table-toppers Diamond Harbour FC promising a competitive contest, with Namdhari aiming to capitalise on home strengths while the visitors will look to continue the momentum with disciplined play and quick transitions. Tune in to catch all the action from Indian Football League 2026, LIVE on Sony LIV.",
+        "genres": [
+          "Football"
+        ],
+        "episodeTitle": "Namdhari FC vs Diamond Harbour FC - 6 Apr 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/KWiN0SYqQXKKU-r5pMmVYw/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 2",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "06 Apr 2026, 03:30 PM",
+        "contractEndDate": "06 Apr 2026, 08:30 PM",
+        "originalAirDate": "06 Apr 2026, 04:00 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016579/1774439924401819_IFC_Namdhari_FC_vs_Diamond_Harbour_FC_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016579/1774439983097819_IFC_Namdhari_FC_vs_Diamond_Harbour_FC_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016957/1775459123359359_I_LEAGUE_masthead_mobile_v2_984x1182_Namdhari_FC_vs_Diamond_Harbour_FC.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016957/1775459123199359_I_LEAGUE_Masthead_logo_Namdhari_FC_vs_Diamond_Harbour_FC_Live.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016579/1774439983097819_IFC_Namdhari_FC_vs_Diamond_Harbour_FC_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/20000296/Namdhari0604/ENG/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/KWiN0SYqQXKKU-r5pMmVYw/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1775470212065,
+              "DOCTOR_STRANGE": 1775470213,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB",
+                "adServer": "GAM"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000296/Namdhari0604/ENG/hdntl=exp=1775556613~acl=%2f*~id=18106669702328705493918548007154~data=hdntl,20000296,Namdhari0604,ENG~hmac=fc5f0b705edea6e5de260aa76e4e2ae5becdddd121f734e9c9d718374da5ad90/master_200.m3u8?aka_me_session_id=AAAAAAAAAAAF2NRpAAAAAMVqrVz33CnaRiV0VQdPetUEDP78ELq66jnsjfsfDrPl6PEUBXr0yBYKIIQsmLvqzkV95fuVkxxb&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000296/Namdhari0604/ENG/hdntl=exp=1775556613~acl=%2f*~id=18106669702328705493918548007154~data=hdntl,20000296,Namdhari0604,ENG~hmac=fc5f0b705edea6e5de260aa76e4e2ae5becdddd121f734e9c9d718374da5ad90/master_400.m3u8?aka_me_session_id=AAAAAAAAAAAF2NRpAAAAAMVqrVz33CnaRiV0VQdPetUEDP78ELq66jnsjfsfDrPl6PEUBXr0yBYKIIQsmLvqzkV95fuVkxxb&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000296/Namdhari0604/ENG/hdntl=exp=1775556613~acl=%2f*~id=18106669702328705493918548007154~data=hdntl,20000296,Namdhari0604,ENG~hmac=fc5f0b705edea6e5de260aa76e4e2ae5becdddd121f734e9c9d718374da5ad90/master_500.m3u8?aka_me_session_id=AAAAAAAAAAAF2NRpAAAAAMVqrVz33CnaRiV0VQdPetUEDP78ELq66jnsjfsfDrPl6PEUBXr0yBYKIIQsmLvqzkV95fuVkxxb&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=837256,AVERAGE-BANDWIDTH=837256,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000296/Namdhari0604/ENG/hdntl=exp=1775556613~acl=%2f*~id=18106669702328705493918548007154~data=hdntl,20000296,Namdhari0604,ENG~hmac=fc5f0b705edea6e5de260aa76e4e2ae5becdddd121f734e9c9d718374da5ad90/master_600.m3u8?aka_me_session_id=AAAAAAAAAAAF2NRpAAAAAMVqrVz33CnaRiV0VQdPetUEDP78ELq66jnsjfsfDrPl6PEUBXr0yBYKIIQsmLvqzkV95fuVkxxb&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000296/Namdhari0604/ENG/hdntl=exp=1775556613~acl=%2f*~id=18106669702328705493918548007154~data=hdntl,20000296,Namdhari0604,ENG~hmac=fc5f0b705edea6e5de260aa76e4e2ae5becdddd121f734e9c9d718374da5ad90/master_1000.m3u8?aka_me_session_id=AAAAAAAAAAAF2NRpAAAAAMVqrVz33CnaRiV0VQdPetUEDP78ELq66jnsjfsfDrPl6PEUBXr0yBYKIIQsmLvqzkV95fuVkxxb&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000296/Namdhari0604/ENG/hdntl=exp=1775556613~acl=%2f*~id=18106669702328705493918548007154~data=hdntl,20000296,Namdhari0604,ENG~hmac=fc5f0b705edea6e5de260aa76e4e2ae5becdddd121f734e9c9d718374da5ad90/master_1300.m3u8?aka_me_session_id=AAAAAAAAAAAF2NRpAAAAAMVqrVz33CnaRiV0VQdPetUEDP78ELq66jnsjfsfDrPl6PEUBXr0yBYKIIQsmLvqzkV95fuVkxxb&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000296/Namdhari0604/ENG/hdntl=exp=1775556613~acl=%2f*~id=18106669702328705493918548007154~data=hdntl,20000296,Namdhari0604,ENG~hmac=fc5f0b705edea6e5de260aa76e4e2ae5becdddd121f734e9c9d718374da5ad90/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAAF2NRpAAAAAMVqrVz33CnaRiV0VQdPetUEDP78ELq66jnsjfsfDrPl6PEUBXr0yBYKIIQsmLvqzkV95fuVkxxb&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000296/Namdhari0604/ENG/hdntl=exp=1775556613~acl=%2f*~id=18106669702328705493918548007154~data=hdntl,20000296,Namdhari0604,ENG~hmac=fc5f0b705edea6e5de260aa76e4e2ae5becdddd121f734e9c9d718374da5ad90/master_2200.m3u8?aka_me_session_id=AAAAAAAAAAAF2NRpAAAAAMVqrVz33CnaRiV0VQdPetUEDP78ELq66jnsjfsfDrPl6PEUBXr0yBYKIIQsmLvqzkV95fuVkxxb&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3591848,AVERAGE-BANDWIDTH=3591848,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000296/Namdhari0604/ENG/hdntl=exp=1775556613~acl=%2f*~id=18106669702328705493918548007154~data=hdntl,20000296,Namdhari0604,ENG~hmac=fc5f0b705edea6e5de260aa76e4e2ae5becdddd121f734e9c9d718374da5ad90/master_3200.m3u8?aka_me_session_id=AAAAAAAAAAAF2NRpAAAAAMVqrVz33CnaRiV0VQdPetUEDP78ELq66jnsjfsfDrPl6PEUBXr0yBYKIIQsmLvqzkV95fuVkxxb&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000296/Namdhari0604/ENG/hdntl=exp=1775556613~acl=%2f*~id=18106669702328705493918548007154~data=hdntl,20000296,Namdhari0604,ENG~hmac=fc5f0b705edea6e5de260aa76e4e2ae5becdddd121f734e9c9d718374da5ad90/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAAF2NRpAAAAAMVqrVz33CnaRiV0VQdPetUEDP78ELq66jnsjfsfDrPl6PEUBXr0yBYKIIQsmLvqzkV95fuVkxxb&aka_media_format_type=hls",
+              "date": "Monday 6th of April 2026 03:40:13 PM"
+            }
+          }
+        }
+      ]
+    }
+  ],
   "upcoming": [
+    {
+      "contentId": 1090511808,
+      "video_info": {
+        "title": "Upcoming - Real Madrid vs Bayern - UEFA Champions League 2025-26",
+        "shortDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
+        "longDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
+        "genres": [
+          "Football"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "Sony Sports Ten 2",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/5896304741f84109855b4e595aaf76cd/1775160185/baseline-std-v4/PROMO_UCL_QUARTERB_FINALS_Real_Madrid_Vs_Bayern_40SEC_HOR_DATED_APP_eng_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "03 Apr 2026, 01:00 AM",
+        "contractEndDate": "07 Apr 2026, 10:30 PM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016955/1775455773498946_UCL_QF_Leg1_Real_Madrid_vs_Bayern_Munich_promo_big_portrait_thumb_dated.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016885/1775282412536532_UCL_QF_Leg1_Real_Madrid_vs_Bayern_Munich_promo_with_sponsors_landscape_thumb_dated.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016883/1775286171102154_UCL25_26_Match_masthead_mobile_v2_984x1182_Real_Madrid_vs_Bayern_Munich_SP.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016883/1775286170490154_UCL25_26_Match_Masthead_logo_Real_Madrid_vs_Bayern_Munich_Dated.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016885/1775282412536532_UCL_QF_Leg1_Real_Madrid_vs_Bayern_Munich_promo_with_sponsors_landscape_thumb_dated.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": []
+    },
+    {
+      "contentId": 1090511809,
+      "video_info": {
+        "title": "Upcoming - Sporting CP vs Arsenal - UEFA Champions League 2025-26",
+        "shortDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
+        "longDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
+        "genres": [
+          "Football"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "Sony Sports Ten 2",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/f2c6a2068d4142a49ffbc42dbb950c9f/1775160202/baseline-std-v4/PROMO_UCL_QUARTERB_FINALS_Sporting_V_Arsenal_40SEC_HOR_DATED_APP_eng_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "03 Apr 2026, 01:00 AM",
+        "contractEndDate": "07 Apr 2026, 11:55 PM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016955/1775455844297946_UCL_QF_Leg1_Sporting_vs_Arsenal_promo_big_portrait_thumb_dated.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016885/1775284259516532_UCL_QF_Leg1_Sporting_vs_Arsenal_promo_with_sponsors_landscape_thumb_dated.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016883/1775286171141154_UCL25_26_Match_masthead_mobile_v2_984x1182_Sporting_CP_vs_Arsenal_SP.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016883/1775286170729154_UCL25_26_Match_Masthead_logo_Sporting_vs_Arsenal_Dated.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016885/1775284259516532_UCL_QF_Leg1_Sporting_vs_Arsenal_promo_with_sponsors_landscape_thumb_dated.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": []
+    },
+    {
+      "contentId": 1090511810,
+      "video_info": {
+        "title": "Upcoming - PSG vs Liverpool - UEFA Champions League 2025-26",
+        "shortDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
+        "longDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
+        "genres": [
+          "Football"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "Sony Sports Ten 2",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/94c4216bc1a84897ae2f92f59dfcf4e1/1775160242/baseline-std-v4/PROMO_UCL_QUARTERB_FINALS_PSG_VS_LIVERPOOL_40SEC_HOR_DATED_APP_eng_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "03 Apr 2026, 01:00 AM",
+        "contractEndDate": "08 Apr 2026, 10:30 PM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016955/1775455952056946_UCL_QF_Leg1_PSG_vs_Liverpool_promo_big_portrait_thumb_dated.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016885/1775284946043532_UCL_QF_Leg1_PSG_vs_Liverpool_promo_with_sponsors_landscape_thumb_dated.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016883/1775286171014154_UCL25_26_Match_masthead_mobile_v2_984x1182_PSG_vs_Liverpool_SP.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016883/1775286170440154_UCL25_26_Match_Masthead_logo_PSG_vs_Liverpool_Dated.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016885/1775284946043532_UCL_QF_Leg1_PSG_vs_Liverpool_promo_with_sponsors_landscape_thumb_dated.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": []
+    },
+    {
+      "contentId": 1090511811,
+      "video_info": {
+        "title": "Upcoming - Barcelona vs Atletico - UEFA Champions League 2025-26",
+        "shortDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
+        "longDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
+        "genres": [
+          "Football"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "Sony Sports Ten 2",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/9ee002b1d9aa454fa4a8cc2fe667008a/1775160340/baseline-std-v4/PROMO_UCL_QUARTERB_FINALS_BARCELONA_VS_ATLETICO_MADRID_40SEC_HOR_DATED_APP_eng_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "03 Apr 2026, 01:00 AM",
+        "contractEndDate": "08 Apr 2026, 11:55 PM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016955/1775455325901946_UCL_QF_Leg1_Barcelona_vs_Atletico_promo_big_portrait_thumb_dated.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016885/1775285337543532_UCL_QF_Leg1_Barcelona_vs_Atletico_promo_with_sponsors_landscape_thumb_dated.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016883/1775286170970154_UCL25_26_Match_masthead_mobile_v2_984x1182_Barcelona_vs_Atletico_SP.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016883/1775286170395154_UCL25_26_Match_Masthead_logo_Barcelona_vs_Atletico_Madrid_Dated.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016885/1775285337543532_UCL_QF_Leg1_Barcelona_vs_Atletico_promo_with_sponsors_landscape_thumb_dated.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": []
+    },
     {
       "contentId": 1090507837,
       "video_info": {
@@ -65,14 +400,14 @@
         "originalAirDate": null
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016652/177462415495019_yaadein_27mar_dated_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090506382/thumbnail/1773409831023_./Yaadein_Landscape_Thumb_Dated.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016953/1775448628452149_yaadein_6april_tonight_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090507837/thumbnail/1775451440425_1775449482480599_Yaadein_Landscape_Thumb_tonight.jpg",
         "masthead_mobile_v1": null,
         "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016511/1774280513606665_Yaadein_23mar_masthead_mobile_v2.jpg",
         "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090507837/mastheadLogo/1775413814364_1775064969899622_Yaadein_tonight_1apr_promo_masthead_logo.png",
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090506382/thumbnail/1773409831023_./Yaadein_Landscape_Thumb_Dated.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090507837/landscapeThumb/1775451440653_1775449482480599_Yaadein_Landscape_Thumb_tonight.jpg"
       },
       "MULTIPLE_AUDIO_LINKS": []
     },
@@ -371,238 +706,6 @@
         "circular_image": null,
         "image_600x900_clean": null,
         "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016189/1773494443654730_gec_combo_promo_landscape_thumb.jpg"
-      },
-      "MULTIPLE_AUDIO_LINKS": []
-    },
-    {
-      "contentId": 1090511808,
-      "video_info": {
-        "title": "Upcoming - Real Madrid vs Bayern - UEFA Champions League 2025-26",
-        "shortDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
-        "longDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
-        "genres": [
-          "Football"
-        ],
-        "episodeTitle": ""
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "Sony Sports Ten 2",
-        "audio_language_list": [
-          {
-            "lang_code": "ENG",
-            "lang_label": "English"
-          }
-        ],
-        "emfAttributes__audio_languages": "ENG",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "ENG",
-              "isPreferred": true,
-              "audioLanguageLabel": "English",
-              "type": "main"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/5896304741f84109855b4e595aaf76cd/1775160185/baseline-std-v4/PROMO_UCL_QUARTERB_FINALS_Real_Madrid_Vs_Bayern_40SEC_HOR_DATED_APP_eng_baseline-800300010.mpd",
-          "hasTrailer": true
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "03 Apr 2026, 01:00 AM",
-        "contractEndDate": "07 Apr 2026, 10:30 PM",
-        "originalAirDate": null
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016885/1775278124827532_UCL_QF_Leg1_Real_Madrid_vs_Bayern_Munich_promo_portrait_thumb_dated.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016885/1775282412536532_UCL_QF_Leg1_Real_Madrid_vs_Bayern_Munich_promo_with_sponsors_landscape_thumb_dated.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016883/1775286171102154_UCL25_26_Match_masthead_mobile_v2_984x1182_Real_Madrid_vs_Bayern_Munich_SP.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016883/1775286170490154_UCL25_26_Match_Masthead_logo_Real_Madrid_vs_Bayern_Munich_Dated.png",
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016885/1775282412536532_UCL_QF_Leg1_Real_Madrid_vs_Bayern_Munich_promo_with_sponsors_landscape_thumb_dated.jpg"
-      },
-      "MULTIPLE_AUDIO_LINKS": []
-    },
-    {
-      "contentId": 1090511810,
-      "video_info": {
-        "title": "Upcoming - PSG vs Liverpool - UEFA Champions League 2025-26",
-        "shortDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
-        "longDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
-        "genres": [
-          "Football"
-        ],
-        "episodeTitle": ""
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "Sony Sports Ten 2",
-        "audio_language_list": [
-          {
-            "lang_code": "ENG",
-            "lang_label": "English"
-          }
-        ],
-        "emfAttributes__audio_languages": "ENG",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "ENG",
-              "isPreferred": true,
-              "audioLanguageLabel": "English",
-              "type": "main"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/94c4216bc1a84897ae2f92f59dfcf4e1/1775160242/baseline-std-v4/PROMO_UCL_QUARTERB_FINALS_PSG_VS_LIVERPOOL_40SEC_HOR_DATED_APP_eng_baseline-800300010.mpd",
-          "hasTrailer": true
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "03 Apr 2026, 01:00 AM",
-        "contractEndDate": "08 Apr 2026, 10:30 PM",
-        "originalAirDate": null
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016885/1775284845426532_UCL_QF_Leg1_PSG_vs_Liverpool_promo_portrait_thumb_dated.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016885/1775284946043532_UCL_QF_Leg1_PSG_vs_Liverpool_promo_with_sponsors_landscape_thumb_dated.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016883/1775286171014154_UCL25_26_Match_masthead_mobile_v2_984x1182_PSG_vs_Liverpool_SP.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016883/1775286170440154_UCL25_26_Match_Masthead_logo_PSG_vs_Liverpool_Dated.png",
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016885/1775284946043532_UCL_QF_Leg1_PSG_vs_Liverpool_promo_with_sponsors_landscape_thumb_dated.jpg"
-      },
-      "MULTIPLE_AUDIO_LINKS": []
-    },
-    {
-      "contentId": 1090511811,
-      "video_info": {
-        "title": "Upcoming - Barcelona vs Atletico - UEFA Champions League 2025-26",
-        "shortDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
-        "longDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
-        "genres": [
-          "Football"
-        ],
-        "episodeTitle": ""
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "Sony Sports Ten 2",
-        "audio_language_list": [
-          {
-            "lang_code": "ENG",
-            "lang_label": "English"
-          }
-        ],
-        "emfAttributes__audio_languages": "ENG",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "ENG",
-              "isPreferred": true,
-              "audioLanguageLabel": "English",
-              "type": "main"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/9ee002b1d9aa454fa4a8cc2fe667008a/1775160340/baseline-std-v4/PROMO_UCL_QUARTERB_FINALS_BARCELONA_VS_ATLETICO_MADRID_40SEC_HOR_DATED_APP_eng_baseline-800300010.mpd",
-          "hasTrailer": true
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "03 Apr 2026, 01:00 AM",
-        "contractEndDate": "08 Apr 2026, 11:55 PM",
-        "originalAirDate": null
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016885/1775285256041532_UCL_QF_Leg1_Barcelona_vs_Atletico_promo_portrait_thumb_dated.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016885/1775285337543532_UCL_QF_Leg1_Barcelona_vs_Atletico_promo_with_sponsors_landscape_thumb_dated.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016883/1775286170970154_UCL25_26_Match_masthead_mobile_v2_984x1182_Barcelona_vs_Atletico_SP.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016883/1775286170395154_UCL25_26_Match_Masthead_logo_Barcelona_vs_Atletico_Madrid_Dated.png",
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016885/1775285337543532_UCL_QF_Leg1_Barcelona_vs_Atletico_promo_with_sponsors_landscape_thumb_dated.jpg"
-      },
-      "MULTIPLE_AUDIO_LINKS": []
-    },
-    {
-      "contentId": 1090511809,
-      "video_info": {
-        "title": "Upcoming - Sporting CP vs Arsenal - UEFA Champions League 2025-26",
-        "shortDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
-        "longDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
-        "genres": [
-          "Football"
-        ],
-        "episodeTitle": ""
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "Sony Sports Ten 2",
-        "audio_language_list": [
-          {
-            "lang_code": "ENG",
-            "lang_label": "English"
-          }
-        ],
-        "emfAttributes__audio_languages": "ENG",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "ENG",
-              "isPreferred": true,
-              "audioLanguageLabel": "English",
-              "type": "main"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/f2c6a2068d4142a49ffbc42dbb950c9f/1775160202/baseline-std-v4/PROMO_UCL_QUARTERB_FINALS_Sporting_V_Arsenal_40SEC_HOR_DATED_APP_eng_baseline-800300010.mpd",
-          "hasTrailer": true
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "03 Apr 2026, 01:00 AM",
-        "contractEndDate": "07 Apr 2026, 11:55 PM",
-        "originalAirDate": null
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016885/1775284061059532_UCL_QF_Leg1_Sporting_vs_Arsenal_promo_portrait_thumb_dated.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016885/1775284259516532_UCL_QF_Leg1_Sporting_vs_Arsenal_promo_with_sponsors_landscape_thumb_dated.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016883/1775286171141154_UCL25_26_Match_masthead_mobile_v2_984x1182_Sporting_CP_vs_Arsenal_SP.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016883/1775286170729154_UCL25_26_Match_Masthead_logo_Sporting_vs_Arsenal_Dated.png",
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016885/1775284259516532_UCL_QF_Leg1_Sporting_vs_Arsenal_promo_with_sponsors_landscape_thumb_dated.jpg"
       },
       "MULTIPLE_AUDIO_LINKS": []
     }
