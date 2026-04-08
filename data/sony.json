@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "10:20:10 PM 08-04-2026",
+  "last_updated": "10:40:31 PM 08-04-2026",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -18,27 +18,43 @@
   },
   "data": [
     {
-      "contentId": 1090500468,
+      "contentId": 1090525146,
       "video_info": {
-        "title": "Wheel Of Fortune",
-        "shortDescription": "Recognised by Guinness World Records as the world’s most popular TV game show, Wheel of Fortune arrives in India in spectacular fashion, hosted by Akshay Kumar. Contestants enter a thrilling word game, decoding phrases spanning Bollywood, pop culture and everyday life. Blending entertainment with edge-of-the-seat moments, every alphabet can change the game as players compete for paisa and prizes.",
-        "longDescription": "Recognised by Guinness World Records as the world’s most popular TV game show, Wheel of Fortune arrives in India in spectacular fashion, hosted by Akshay Kumar. Contestants enter a thrilling word game, decoding phrases spanning Bollywood, pop culture and everyday life. Blending entertainment with edge-of-the-seat moments, every alphabet can change the game as players compete for paisa and prizes.",
+        "title": "UEFA Champions League 2025-26",
+        "shortDescription": "Under the lights at the Parc des Princes, PSG’s attacking firepower led by Ousmane Dembélé, Achraf Hakimi and Vitinha takes on Liverpool, featuring stars such as Mohamed Salah, Virgil van Dijk and Florian Wirtz, in a quarter‑final that promises elite quality, relentless pace and razor‑thin margins. Catch all the action from UEFA Champions League 2025-26, LIVE & exclusively on Sony LIV.",
+        "longDescription": "Under the lights at the Parc des Princes, PSG’s attacking firepower led by Ousmane Dembélé, Achraf Hakimi and Vitinha takes on Liverpool, featuring stars such as Mohamed Salah, Virgil van Dijk and Florian Wirtz, in a quarter‑final that promises elite quality, relentless pace and razor‑thin margins. Catch all the action from UEFA Champions League 2025-26, LIVE & exclusively on Sony LIV.",
         "genres": [
-          "Game show"
+          "Football"
         ],
-        "episodeTitle": "Wheel Of Fortune"
+        "episodeTitle": "PSG vs Liverpool - Quarter-Final - Leg 1 - 8 Apr 2026"
       },
       "stream_info": {
         "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": "https://dai.google.com/ssai/event/ywC0TYXoSbOYu7fxpFglFA/master.m3u8",
-        "broadcast_channel": "SET",
+        "dai_asset_key": "https://dai.google.com/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 2",
         "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          },
           {
             "lang_code": "HIN",
             "lang_label": "Hindi"
+          },
+          {
+            "lang_code": "TAM",
+            "lang_label": "Tamil"
+          },
+          {
+            "lang_code": "TEL",
+            "lang_label": "Telugu"
+          },
+          {
+            "lang_code": "KAN",
+            "lang_label": "Kannada"
           }
         ],
-        "emfAttributes__audio_languages": "HIN",
+        "emfAttributes__audio_languages": "KAN,ENG,HIN,TAM,TEL",
         "platformVariants": {
           "assetType": "MASTER",
           "assetName": "VOD_FULL_HD",
@@ -46,31 +62,106 @@
           "audioLanguages": [
             {
               "audioId": 1,
-              "audioLanguageName": "HIN",
+              "audioLanguageName": "ENG",
               "isPreferred": true,
-              "audioLanguageLabel": "Hindi"
+              "audioLanguageLabel": "English"
             }
           ],
           "subtitlesLanguages": [],
-          "videoUrl": "NA"
+          "videoUrl": "NA",
+          "trailerUrl": "",
+          "promotionUrl": "",
+          "promotionRating": "",
+          "trailerRating": "",
+          "trailerContentId": "",
+          "promotionContentId": "",
+          "verticalTrailerURL": "",
+          "verticalTrailerContentId": "",
+          "verticalTrailerRating": ""
         }
       },
       "air_dates": {
-        "contractStartDate": "08 Apr 2026, 08:30 PM",
-        "contractEndDate": "08 Apr 2026, 10:36 PM",
-        "originalAirDate": "08 Apr 2026, 08:30 PM"
+        "contractStartDate": "08 Apr 2026, 10:30 PM",
+        "contractEndDate": "09 Apr 2026, 05:30 AM",
+        "originalAirDate": "08 Apr 2026, 11:00 PM"
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016744/1774877364821375_WOF_simulcast_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016744/1774877224201375_WOF_simulcast_landscape_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016961/1775472276341103_UCL_QF_Champions_Ki_Charcha_PSG_vs_Liverpool_portrait-thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016961/1775473480038103_UCL_QF_Champions_Ki_Charcha_PSG_vs_Liverpool_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016745/177493810635271_WOF_31mar_masthead_mobile_v2.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014354/176952176347656_WOF_27jan_simulcast_masthead_logo.png",
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016961/1775474013621103_UCL_Champions_Ki_Charcha_masthead_mobile_v2.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016961/1775475036220103_UCL_QF_PSG_vs_Liverpool_masthead_logo_Live.png",
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016744/1774877224201375_WOF_simulcast_landscape_thumb.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016961/1775473480038103_UCL_QF_Champions_Ki_Charcha_PSG_vs_Liverpool_landscape_thumb.jpg"
       },
       "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2005444/PSG_vs_L0804/ENG/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                },
+                {
+                  "audioLanguageName": "HIN",
+                  "audioLanguageLabel": "Hindi",
+                  "audioLangIdentifier": "HIN"
+                },
+                {
+                  "audioLanguageName": "TEL",
+                  "audioLanguageLabel": "Telugu",
+                  "audioLangIdentifier": "TEL"
+                },
+                {
+                  "audioLanguageName": "TAM",
+                  "audioLanguageLabel": "Tamil",
+                  "audioLangIdentifier": "TAM"
+                },
+                {
+                  "audioLanguageName": "KAN",
+                  "audioLanguageLabel": "Kannada",
+                  "audioLangIdentifier": "KAN"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1775668208745,
+              "DOCTOR_STRANGE": 1775668206,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB",
+                "adServer": "GAM"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/PSG_vs_L0804/ENG/hdntl=exp=1775754609~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2005444,PSG_vs_L0804,ENG~hmac=5be5f92c9827cc7ed0161f50855bb9d1336201db120e04ed41c01da01d870eb9/master_200.m3u8?aka_me_session_id=AAAAAAAAAABx3ddpAAAAAM%2fpixWEL5DLw1YdHgrdqN0tKPyQtVT1LyAsbhiwlT3SZBei0z4zu%2fvQwqC8h7m5yJ9IT4pyOO33&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/PSG_vs_L0804/ENG/hdntl=exp=1775754609~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2005444,PSG_vs_L0804,ENG~hmac=5be5f92c9827cc7ed0161f50855bb9d1336201db120e04ed41c01da01d870eb9/master_400.m3u8?aka_me_session_id=AAAAAAAAAABx3ddpAAAAAM%2fpixWEL5DLw1YdHgrdqN0tKPyQtVT1LyAsbhiwlT3SZBei0z4zu%2fvQwqC8h7m5yJ9IT4pyOO33&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/PSG_vs_L0804/ENG/hdntl=exp=1775754609~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2005444,PSG_vs_L0804,ENG~hmac=5be5f92c9827cc7ed0161f50855bb9d1336201db120e04ed41c01da01d870eb9/master_500.m3u8?aka_me_session_id=AAAAAAAAAABx3ddpAAAAAM%2fpixWEL5DLw1YdHgrdqN0tKPyQtVT1LyAsbhiwlT3SZBei0z4zu%2fvQwqC8h7m5yJ9IT4pyOO33&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=837256,AVERAGE-BANDWIDTH=837256,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/PSG_vs_L0804/ENG/hdntl=exp=1775754609~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2005444,PSG_vs_L0804,ENG~hmac=5be5f92c9827cc7ed0161f50855bb9d1336201db120e04ed41c01da01d870eb9/master_600.m3u8?aka_me_session_id=AAAAAAAAAABx3ddpAAAAAM%2fpixWEL5DLw1YdHgrdqN0tKPyQtVT1LyAsbhiwlT3SZBei0z4zu%2fvQwqC8h7m5yJ9IT4pyOO33&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/PSG_vs_L0804/ENG/hdntl=exp=1775754609~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2005444,PSG_vs_L0804,ENG~hmac=5be5f92c9827cc7ed0161f50855bb9d1336201db120e04ed41c01da01d870eb9/master_1000.m3u8?aka_me_session_id=AAAAAAAAAABx3ddpAAAAAM%2fpixWEL5DLw1YdHgrdqN0tKPyQtVT1LyAsbhiwlT3SZBei0z4zu%2fvQwqC8h7m5yJ9IT4pyOO33&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/PSG_vs_L0804/ENG/hdntl=exp=1775754609~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2005444,PSG_vs_L0804,ENG~hmac=5be5f92c9827cc7ed0161f50855bb9d1336201db120e04ed41c01da01d870eb9/master_1300.m3u8?aka_me_session_id=AAAAAAAAAABx3ddpAAAAAM%2fpixWEL5DLw1YdHgrdqN0tKPyQtVT1LyAsbhiwlT3SZBei0z4zu%2fvQwqC8h7m5yJ9IT4pyOO33&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/PSG_vs_L0804/ENG/hdntl=exp=1775754609~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2005444,PSG_vs_L0804,ENG~hmac=5be5f92c9827cc7ed0161f50855bb9d1336201db120e04ed41c01da01d870eb9/master_2000.m3u8?aka_me_session_id=AAAAAAAAAABx3ddpAAAAAM%2fpixWEL5DLw1YdHgrdqN0tKPyQtVT1LyAsbhiwlT3SZBei0z4zu%2fvQwqC8h7m5yJ9IT4pyOO33&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/PSG_vs_L0804/ENG/hdntl=exp=1775754609~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2005444,PSG_vs_L0804,ENG~hmac=5be5f92c9827cc7ed0161f50855bb9d1336201db120e04ed41c01da01d870eb9/master_2200.m3u8?aka_me_session_id=AAAAAAAAAABx3ddpAAAAAM%2fpixWEL5DLw1YdHgrdqN0tKPyQtVT1LyAsbhiwlT3SZBei0z4zu%2fvQwqC8h7m5yJ9IT4pyOO33&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3591848,AVERAGE-BANDWIDTH=3591848,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/PSG_vs_L0804/ENG/hdntl=exp=1775754609~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2005444,PSG_vs_L0804,ENG~hmac=5be5f92c9827cc7ed0161f50855bb9d1336201db120e04ed41c01da01d870eb9/master_3200.m3u8?aka_me_session_id=AAAAAAAAAABx3ddpAAAAAM%2fpixWEL5DLw1YdHgrdqN0tKPyQtVT1LyAsbhiwlT3SZBei0z4zu%2fvQwqC8h7m5yJ9IT4pyOO33&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/PSG_vs_L0804/ENG/hdntl=exp=1775754609~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2005444,PSG_vs_L0804,ENG~hmac=5be5f92c9827cc7ed0161f50855bb9d1336201db120e04ed41c01da01d870eb9/master_4500.m3u8?aka_me_session_id=AAAAAAAAAABx3ddpAAAAAM%2fpixWEL5DLw1YdHgrdqN0tKPyQtVT1LyAsbhiwlT3SZBei0z4zu%2fvQwqC8h7m5yJ9IT4pyOO33&aka_media_format_type=hls",
+              "date": "Wednesday 8th of April 2026 10:40:06 PM"
+            }
+          }
+        },
         {
           "LANGUAGE": "Hindi",
           "LANG_CODE": "HIN",
@@ -78,41 +169,671 @@
             "JITENDRAUNATTI": {
               "Device_Type": "LITE",
               "message": "success",
-              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-WOF/master.m3u8",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2005444/PSG_vs_L0804/HIN/master.m3u8",
               "WIDEVINE": null,
               "STREAMING_TYPE": true,
               "audioLanguages": [
                 {
                   "audioId": 1,
-                  "audioLanguageName": "HIN",
+                  "audioLanguageName": "ENG",
                   "isPreferred": true,
-                  "audioLanguageLabel": "Hindi"
+                  "audioLanguageLabel": "English"
+                },
+                {
+                  "audioLanguageName": "HIN",
+                  "audioLanguageLabel": "Hindi",
+                  "audioLangIdentifier": "HIN"
+                },
+                {
+                  "audioLanguageName": "TEL",
+                  "audioLanguageLabel": "Telugu",
+                  "audioLangIdentifier": "TEL"
+                },
+                {
+                  "audioLanguageName": "TAM",
+                  "audioLanguageLabel": "Tamil",
+                  "audioLangIdentifier": "TAM"
+                },
+                {
+                  "audioLanguageName": "KAN",
+                  "audioLanguageLabel": "Kannada",
+                  "audioLangIdentifier": "KAN"
                 }
               ],
-              "dai_asset_key": "https://dai.google.com/ssai/event/ywC0TYXoSbOYu7fxpFglFA/master.m3u8",
+              "dai_asset_key": "https://dai.google.com/ssai/event/jnpvw9goRV2lb3bMV8Z_Kw/master.m3u8",
               "Maximum_Video_Quality": "SDR",
               "Maximum_Resolution": "FULL_HD",
               "trailer_url": "",
-              "systemTime": 1775661010769,
-              "DOCTOR_STRANGE": 1775661008,
+              "systemTime": 1775668209831,
+              "DOCTOR_STRANGE": 1775668207,
               "additionalDataJson": {
-                "audio_quality": "STEREO",
                 "enc_format": "HLS",
                 "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
                 "video_quality": "SDR",
+                "fps": 25,
                 "videoCodec": "H264",
                 "audioCodec": "AAC",
-                "fps": 50,
-                "isDaiKey": false,
                 "partners": [
                   "ALL"
                 ],
-                "ad_stack": "MT-SSB"
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB",
+                "adServer": "GAM"
               },
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
-              "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.4d4015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=256x144,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-WOF/hdntl=exp=1775747411~acl=%2f*~id=09425172147572186059670875074745~data=hdntl,2022321,DAI17ME-WOF,none~hmac=7bf0a5862d24ac3b781956da13ddc969e5b6d01dac1487237850fc91541f09b2/master_200.m3u8?aka_me_session_id=AAAAAAAAAABTwddpAAAAABR5CIJWie6VHT8bc8VC8NCZYgWNpDtfti7TFWQs+7wsuxGRSK3TKaQIJEBmi+onmROnkHSinUae&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=581816,AVERAGE-BANDWIDTH=581816,CODECS=\"avc1.4d4015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-WOF/hdntl=exp=1775747411~acl=%2f*~id=09425172147572186059670875074745~data=hdntl,2022321,DAI17ME-WOF,none~hmac=7bf0a5862d24ac3b781956da13ddc969e5b6d01dac1487237850fc91541f09b2/master_350.m3u8?aka_me_session_id=AAAAAAAAAABTwddpAAAAABR5CIJWie6VHT8bc8VC8NCZYgWNpDtfti7TFWQs+7wsuxGRSK3TKaQIJEBmi+onmROnkHSinUae&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=735080,AVERAGE-BANDWIDTH=735080,CODECS=\"avc1.64001e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-WOF/hdntl=exp=1775747411~acl=%2f*~id=09425172147572186059670875074745~data=hdntl,2022321,DAI17ME-WOF,none~hmac=7bf0a5862d24ac3b781956da13ddc969e5b6d01dac1487237850fc91541f09b2/master_500.m3u8?aka_me_session_id=AAAAAAAAAABTwddpAAAAABR5CIJWie6VHT8bc8VC8NCZYgWNpDtfti7TFWQs+7wsuxGRSK3TKaQIJEBmi+onmROnkHSinUae&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=939432,AVERAGE-BANDWIDTH=939432,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-WOF/hdntl=exp=1775747411~acl=%2f*~id=09425172147572186059670875074745~data=hdntl,2022321,DAI17ME-WOF,none~hmac=7bf0a5862d24ac3b781956da13ddc969e5b6d01dac1487237850fc91541f09b2/master_700.m3u8?aka_me_session_id=AAAAAAAAAABTwddpAAAAABR5CIJWie6VHT8bc8VC8NCZYgWNpDtfti7TFWQs+7wsuxGRSK3TKaQIJEBmi+onmROnkHSinUae&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-WOF/hdntl=exp=1775747411~acl=%2f*~id=09425172147572186059670875074745~data=hdntl,2022321,DAI17ME-WOF,none~hmac=7bf0a5862d24ac3b781956da13ddc969e5b6d01dac1487237850fc91541f09b2/master_1300.m3u8?aka_me_session_id=AAAAAAAAAABTwddpAAAAABR5CIJWie6VHT8bc8VC8NCZYgWNpDtfti7TFWQs+7wsuxGRSK3TKaQIJEBmi+onmROnkHSinUae&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2267688,AVERAGE-BANDWIDTH=2267688,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-WOF/hdntl=exp=1775747411~acl=%2f*~id=09425172147572186059670875074745~data=hdntl,2022321,DAI17ME-WOF,none~hmac=7bf0a5862d24ac3b781956da13ddc969e5b6d01dac1487237850fc91541f09b2/master_2000.m3u8?aka_me_session_id=AAAAAAAAAABTwddpAAAAABR5CIJWie6VHT8bc8VC8NCZYgWNpDtfti7TFWQs+7wsuxGRSK3TKaQIJEBmi+onmROnkHSinUae&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2778568,AVERAGE-BANDWIDTH=2778568,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-WOF/hdntl=exp=1775747411~acl=%2f*~id=09425172147572186059670875074745~data=hdntl,2022321,DAI17ME-WOF,none~hmac=7bf0a5862d24ac3b781956da13ddc969e5b6d01dac1487237850fc91541f09b2/master_2500.m3u8?aka_me_session_id=AAAAAAAAAABTwddpAAAAABR5CIJWie6VHT8bc8VC8NCZYgWNpDtfti7TFWQs+7wsuxGRSK3TKaQIJEBmi+onmROnkHSinUae&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3800296,AVERAGE-BANDWIDTH=3800296,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-WOF/hdntl=exp=1775747411~acl=%2f*~id=09425172147572186059670875074745~data=hdntl,2022321,DAI17ME-WOF,none~hmac=7bf0a5862d24ac3b781956da13ddc969e5b6d01dac1487237850fc91541f09b2/master_3500.m3u8?aka_me_session_id=AAAAAAAAAABTwddpAAAAABR5CIJWie6VHT8bc8VC8NCZYgWNpDtfti7TFWQs+7wsuxGRSK3TKaQIJEBmi+onmROnkHSinUae&aka_media_format_type=hls",
-              "date": "Wednesday 8th of April 2026 08:40:08 PM"
+              "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/PSG_vs_L0804/HIN/hdntl=exp=1775754610~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2005444,PSG_vs_L0804,HIN~hmac=785cf26d90e99eb4fbb8f2d0b41e171b2dc436a9f8dcca6c0edd0f3feec269a5/master_200.m3u8?aka_me_session_id=AAAAAAAAAABy3ddpAAAAADNobmjzu5gpf5stgW%2ftyyQAOkGXRwnDn6iEQRvF7Y2j7G0ENEGrXXqDDfXeCXij45IB9dZzu3hs&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/PSG_vs_L0804/HIN/hdntl=exp=1775754610~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2005444,PSG_vs_L0804,HIN~hmac=785cf26d90e99eb4fbb8f2d0b41e171b2dc436a9f8dcca6c0edd0f3feec269a5/master_400.m3u8?aka_me_session_id=AAAAAAAAAABy3ddpAAAAADNobmjzu5gpf5stgW%2ftyyQAOkGXRwnDn6iEQRvF7Y2j7G0ENEGrXXqDDfXeCXij45IB9dZzu3hs&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/PSG_vs_L0804/HIN/hdntl=exp=1775754610~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2005444,PSG_vs_L0804,HIN~hmac=785cf26d90e99eb4fbb8f2d0b41e171b2dc436a9f8dcca6c0edd0f3feec269a5/master_500.m3u8?aka_me_session_id=AAAAAAAAAABy3ddpAAAAADNobmjzu5gpf5stgW%2ftyyQAOkGXRwnDn6iEQRvF7Y2j7G0ENEGrXXqDDfXeCXij45IB9dZzu3hs&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=837256,AVERAGE-BANDWIDTH=837256,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/PSG_vs_L0804/HIN/hdntl=exp=1775754610~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2005444,PSG_vs_L0804,HIN~hmac=785cf26d90e99eb4fbb8f2d0b41e171b2dc436a9f8dcca6c0edd0f3feec269a5/master_600.m3u8?aka_me_session_id=AAAAAAAAAABy3ddpAAAAADNobmjzu5gpf5stgW%2ftyyQAOkGXRwnDn6iEQRvF7Y2j7G0ENEGrXXqDDfXeCXij45IB9dZzu3hs&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/PSG_vs_L0804/HIN/hdntl=exp=1775754610~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2005444,PSG_vs_L0804,HIN~hmac=785cf26d90e99eb4fbb8f2d0b41e171b2dc436a9f8dcca6c0edd0f3feec269a5/master_1000.m3u8?aka_me_session_id=AAAAAAAAAABy3ddpAAAAADNobmjzu5gpf5stgW%2ftyyQAOkGXRwnDn6iEQRvF7Y2j7G0ENEGrXXqDDfXeCXij45IB9dZzu3hs&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/PSG_vs_L0804/HIN/hdntl=exp=1775754610~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2005444,PSG_vs_L0804,HIN~hmac=785cf26d90e99eb4fbb8f2d0b41e171b2dc436a9f8dcca6c0edd0f3feec269a5/master_1300.m3u8?aka_me_session_id=AAAAAAAAAABy3ddpAAAAADNobmjzu5gpf5stgW%2ftyyQAOkGXRwnDn6iEQRvF7Y2j7G0ENEGrXXqDDfXeCXij45IB9dZzu3hs&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/PSG_vs_L0804/HIN/hdntl=exp=1775754610~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2005444,PSG_vs_L0804,HIN~hmac=785cf26d90e99eb4fbb8f2d0b41e171b2dc436a9f8dcca6c0edd0f3feec269a5/master_2000.m3u8?aka_me_session_id=AAAAAAAAAABy3ddpAAAAADNobmjzu5gpf5stgW%2ftyyQAOkGXRwnDn6iEQRvF7Y2j7G0ENEGrXXqDDfXeCXij45IB9dZzu3hs&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/PSG_vs_L0804/HIN/hdntl=exp=1775754610~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2005444,PSG_vs_L0804,HIN~hmac=785cf26d90e99eb4fbb8f2d0b41e171b2dc436a9f8dcca6c0edd0f3feec269a5/master_2200.m3u8?aka_me_session_id=AAAAAAAAAABy3ddpAAAAADNobmjzu5gpf5stgW%2ftyyQAOkGXRwnDn6iEQRvF7Y2j7G0ENEGrXXqDDfXeCXij45IB9dZzu3hs&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3591848,AVERAGE-BANDWIDTH=3591848,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/PSG_vs_L0804/HIN/hdntl=exp=1775754610~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2005444,PSG_vs_L0804,HIN~hmac=785cf26d90e99eb4fbb8f2d0b41e171b2dc436a9f8dcca6c0edd0f3feec269a5/master_3200.m3u8?aka_me_session_id=AAAAAAAAAABy3ddpAAAAADNobmjzu5gpf5stgW%2ftyyQAOkGXRwnDn6iEQRvF7Y2j7G0ENEGrXXqDDfXeCXij45IB9dZzu3hs&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/PSG_vs_L0804/HIN/hdntl=exp=1775754610~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2005444,PSG_vs_L0804,HIN~hmac=785cf26d90e99eb4fbb8f2d0b41e171b2dc436a9f8dcca6c0edd0f3feec269a5/master_4500.m3u8?aka_me_session_id=AAAAAAAAAABy3ddpAAAAADNobmjzu5gpf5stgW%2ftyyQAOkGXRwnDn6iEQRvF7Y2j7G0ENEGrXXqDDfXeCXij45IB9dZzu3hs&aka_media_format_type=hls",
+              "date": "Wednesday 8th of April 2026 10:40:07 PM"
+            }
+          }
+        },
+        {
+          "LANGUAGE": "Tamil",
+          "LANG_CODE": "TAM",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2005444/PSG_vs_L0804/TAM/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                },
+                {
+                  "audioLanguageName": "HIN",
+                  "audioLanguageLabel": "Hindi",
+                  "audioLangIdentifier": "HIN"
+                },
+                {
+                  "audioLanguageName": "TEL",
+                  "audioLanguageLabel": "Telugu",
+                  "audioLangIdentifier": "TEL"
+                },
+                {
+                  "audioLanguageName": "TAM",
+                  "audioLanguageLabel": "Tamil",
+                  "audioLangIdentifier": "TAM"
+                },
+                {
+                  "audioLanguageName": "KAN",
+                  "audioLanguageLabel": "Kannada",
+                  "audioLangIdentifier": "KAN"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/Mg5z1zASRuCLCWPg-CXzug/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1775668210928,
+              "DOCTOR_STRANGE": 1775668208,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB",
+                "adServer": "GAM"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/PSG_vs_L0804/TAM/hdntl=exp=1775754611~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2005444,PSG_vs_L0804,TAM~hmac=ef76e3c09dfb257cc6cb6e9b87b83fd52e933d38067b2450c526bcf33ae806f4/master_200.m3u8?aka_me_session_id=AAAAAAAAAABz3ddpAAAAAIQQiB8q7PVeSAZZsKXZZytrApL102mUeiQAIIuuhKCD11EQnUy4lWszDJhJvtsCRMZMUu0UfIKg&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/PSG_vs_L0804/TAM/hdntl=exp=1775754611~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2005444,PSG_vs_L0804,TAM~hmac=ef76e3c09dfb257cc6cb6e9b87b83fd52e933d38067b2450c526bcf33ae806f4/master_400.m3u8?aka_me_session_id=AAAAAAAAAABz3ddpAAAAAIQQiB8q7PVeSAZZsKXZZytrApL102mUeiQAIIuuhKCD11EQnUy4lWszDJhJvtsCRMZMUu0UfIKg&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/PSG_vs_L0804/TAM/hdntl=exp=1775754611~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2005444,PSG_vs_L0804,TAM~hmac=ef76e3c09dfb257cc6cb6e9b87b83fd52e933d38067b2450c526bcf33ae806f4/master_500.m3u8?aka_me_session_id=AAAAAAAAAABz3ddpAAAAAIQQiB8q7PVeSAZZsKXZZytrApL102mUeiQAIIuuhKCD11EQnUy4lWszDJhJvtsCRMZMUu0UfIKg&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=935336,AVERAGE-BANDWIDTH=935336,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/PSG_vs_L0804/TAM/hdntl=exp=1775754611~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2005444,PSG_vs_L0804,TAM~hmac=ef76e3c09dfb257cc6cb6e9b87b83fd52e933d38067b2450c526bcf33ae806f4/master_600.m3u8?aka_me_session_id=AAAAAAAAAABz3ddpAAAAAIQQiB8q7PVeSAZZsKXZZytrApL102mUeiQAIIuuhKCD11EQnUy4lWszDJhJvtsCRMZMUu0UfIKg&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/PSG_vs_L0804/TAM/hdntl=exp=1775754611~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2005444,PSG_vs_L0804,TAM~hmac=ef76e3c09dfb257cc6cb6e9b87b83fd52e933d38067b2450c526bcf33ae806f4/master_1000.m3u8?aka_me_session_id=AAAAAAAAAABz3ddpAAAAAIQQiB8q7PVeSAZZsKXZZytrApL102mUeiQAIIuuhKCD11EQnUy4lWszDJhJvtsCRMZMUu0UfIKg&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/PSG_vs_L0804/TAM/hdntl=exp=1775754611~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2005444,PSG_vs_L0804,TAM~hmac=ef76e3c09dfb257cc6cb6e9b87b83fd52e933d38067b2450c526bcf33ae806f4/master_1300.m3u8?aka_me_session_id=AAAAAAAAAABz3ddpAAAAAIQQiB8q7PVeSAZZsKXZZytrApL102mUeiQAIIuuhKCD11EQnUy4lWszDJhJvtsCRMZMUu0UfIKg&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/PSG_vs_L0804/TAM/hdntl=exp=1775754611~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2005444,PSG_vs_L0804,TAM~hmac=ef76e3c09dfb257cc6cb6e9b87b83fd52e933d38067b2450c526bcf33ae806f4/master_2000.m3u8?aka_me_session_id=AAAAAAAAAABz3ddpAAAAAIQQiB8q7PVeSAZZsKXZZytrApL102mUeiQAIIuuhKCD11EQnUy4lWszDJhJvtsCRMZMUu0UfIKg&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/PSG_vs_L0804/TAM/hdntl=exp=1775754611~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2005444,PSG_vs_L0804,TAM~hmac=ef76e3c09dfb257cc6cb6e9b87b83fd52e933d38067b2450c526bcf33ae806f4/master_2200.m3u8?aka_me_session_id=AAAAAAAAAABz3ddpAAAAAIQQiB8q7PVeSAZZsKXZZytrApL102mUeiQAIIuuhKCD11EQnUy4lWszDJhJvtsCRMZMUu0UfIKg&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3591848,AVERAGE-BANDWIDTH=3591848,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/PSG_vs_L0804/TAM/hdntl=exp=1775754611~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2005444,PSG_vs_L0804,TAM~hmac=ef76e3c09dfb257cc6cb6e9b87b83fd52e933d38067b2450c526bcf33ae806f4/master_3200.m3u8?aka_me_session_id=AAAAAAAAAABz3ddpAAAAAIQQiB8q7PVeSAZZsKXZZytrApL102mUeiQAIIuuhKCD11EQnUy4lWszDJhJvtsCRMZMUu0UfIKg&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/PSG_vs_L0804/TAM/hdntl=exp=1775754611~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2005444,PSG_vs_L0804,TAM~hmac=ef76e3c09dfb257cc6cb6e9b87b83fd52e933d38067b2450c526bcf33ae806f4/master_4500.m3u8?aka_me_session_id=AAAAAAAAAABz3ddpAAAAAIQQiB8q7PVeSAZZsKXZZytrApL102mUeiQAIIuuhKCD11EQnUy4lWszDJhJvtsCRMZMUu0UfIKg&aka_media_format_type=hls",
+              "date": "Wednesday 8th of April 2026 10:40:08 PM"
+            }
+          }
+        },
+        {
+          "LANGUAGE": "Telugu",
+          "LANG_CODE": "TEL",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2005444/PSG_vs_L0804/TEL/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                },
+                {
+                  "audioLanguageName": "HIN",
+                  "audioLanguageLabel": "Hindi",
+                  "audioLangIdentifier": "HIN"
+                },
+                {
+                  "audioLanguageName": "TEL",
+                  "audioLanguageLabel": "Telugu",
+                  "audioLangIdentifier": "TEL"
+                },
+                {
+                  "audioLanguageName": "TAM",
+                  "audioLanguageLabel": "Tamil",
+                  "audioLangIdentifier": "TAM"
+                },
+                {
+                  "audioLanguageName": "KAN",
+                  "audioLanguageLabel": "Kannada",
+                  "audioLangIdentifier": "KAN"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/BGeiS6N2TkKrvT0V9rigmQ/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1775668213225,
+              "DOCTOR_STRANGE": 1775668212,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB",
+                "adServer": "GAM"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/PSG_vs_L0804/TEL/hdntl=exp=1775754614~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2005444,PSG_vs_L0804,TEL~hmac=c6a52b78cce2e81545a745f6cc87ed5f14968f6df1d3e7f5c483a33b2074afd1/master_200.m3u8?aka_me_session_id=AAAAAAAAAAB23ddpAAAAAAWSJc3rjQjBFLozDcjlS2DPUHAqcnUwdjcq9uCTv96mQTZB3w3fD8qoEvK7IUhPUDzP+VYwU5Jl&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/PSG_vs_L0804/TEL/hdntl=exp=1775754614~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2005444,PSG_vs_L0804,TEL~hmac=c6a52b78cce2e81545a745f6cc87ed5f14968f6df1d3e7f5c483a33b2074afd1/master_400.m3u8?aka_me_session_id=AAAAAAAAAAB23ddpAAAAAAWSJc3rjQjBFLozDcjlS2DPUHAqcnUwdjcq9uCTv96mQTZB3w3fD8qoEvK7IUhPUDzP+VYwU5Jl&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/PSG_vs_L0804/TEL/hdntl=exp=1775754614~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2005444,PSG_vs_L0804,TEL~hmac=c6a52b78cce2e81545a745f6cc87ed5f14968f6df1d3e7f5c483a33b2074afd1/master_500.m3u8?aka_me_session_id=AAAAAAAAAAB23ddpAAAAAAWSJc3rjQjBFLozDcjlS2DPUHAqcnUwdjcq9uCTv96mQTZB3w3fD8qoEvK7IUhPUDzP+VYwU5Jl&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=935336,AVERAGE-BANDWIDTH=935336,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/PSG_vs_L0804/TEL/hdntl=exp=1775754614~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2005444,PSG_vs_L0804,TEL~hmac=c6a52b78cce2e81545a745f6cc87ed5f14968f6df1d3e7f5c483a33b2074afd1/master_600.m3u8?aka_me_session_id=AAAAAAAAAAB23ddpAAAAAAWSJc3rjQjBFLozDcjlS2DPUHAqcnUwdjcq9uCTv96mQTZB3w3fD8qoEvK7IUhPUDzP+VYwU5Jl&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/PSG_vs_L0804/TEL/hdntl=exp=1775754614~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2005444,PSG_vs_L0804,TEL~hmac=c6a52b78cce2e81545a745f6cc87ed5f14968f6df1d3e7f5c483a33b2074afd1/master_1000.m3u8?aka_me_session_id=AAAAAAAAAAB23ddpAAAAAAWSJc3rjQjBFLozDcjlS2DPUHAqcnUwdjcq9uCTv96mQTZB3w3fD8qoEvK7IUhPUDzP+VYwU5Jl&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/PSG_vs_L0804/TEL/hdntl=exp=1775754614~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2005444,PSG_vs_L0804,TEL~hmac=c6a52b78cce2e81545a745f6cc87ed5f14968f6df1d3e7f5c483a33b2074afd1/master_1300.m3u8?aka_me_session_id=AAAAAAAAAAB23ddpAAAAAAWSJc3rjQjBFLozDcjlS2DPUHAqcnUwdjcq9uCTv96mQTZB3w3fD8qoEvK7IUhPUDzP+VYwU5Jl&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/PSG_vs_L0804/TEL/hdntl=exp=1775754614~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2005444,PSG_vs_L0804,TEL~hmac=c6a52b78cce2e81545a745f6cc87ed5f14968f6df1d3e7f5c483a33b2074afd1/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAB23ddpAAAAAAWSJc3rjQjBFLozDcjlS2DPUHAqcnUwdjcq9uCTv96mQTZB3w3fD8qoEvK7IUhPUDzP+VYwU5Jl&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/PSG_vs_L0804/TEL/hdntl=exp=1775754614~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2005444,PSG_vs_L0804,TEL~hmac=c6a52b78cce2e81545a745f6cc87ed5f14968f6df1d3e7f5c483a33b2074afd1/master_2200.m3u8?aka_me_session_id=AAAAAAAAAAB23ddpAAAAAAWSJc3rjQjBFLozDcjlS2DPUHAqcnUwdjcq9uCTv96mQTZB3w3fD8qoEvK7IUhPUDzP+VYwU5Jl&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3591848,AVERAGE-BANDWIDTH=3591848,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/PSG_vs_L0804/TEL/hdntl=exp=1775754614~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2005444,PSG_vs_L0804,TEL~hmac=c6a52b78cce2e81545a745f6cc87ed5f14968f6df1d3e7f5c483a33b2074afd1/master_3200.m3u8?aka_me_session_id=AAAAAAAAAAB23ddpAAAAAAWSJc3rjQjBFLozDcjlS2DPUHAqcnUwdjcq9uCTv96mQTZB3w3fD8qoEvK7IUhPUDzP+VYwU5Jl&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/PSG_vs_L0804/TEL/hdntl=exp=1775754614~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2005444,PSG_vs_L0804,TEL~hmac=c6a52b78cce2e81545a745f6cc87ed5f14968f6df1d3e7f5c483a33b2074afd1/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAB23ddpAAAAAAWSJc3rjQjBFLozDcjlS2DPUHAqcnUwdjcq9uCTv96mQTZB3w3fD8qoEvK7IUhPUDzP+VYwU5Jl&aka_media_format_type=hls",
+              "date": "Wednesday 8th of April 2026 10:40:12 PM"
+            }
+          }
+        },
+        {
+          "LANGUAGE": "Kannada",
+          "LANG_CODE": "KAN",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2005444/PSG_vs_L0804/KAN/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                },
+                {
+                  "audioLanguageName": "HIN",
+                  "audioLanguageLabel": "Hindi",
+                  "audioLangIdentifier": "HIN"
+                },
+                {
+                  "audioLanguageName": "TEL",
+                  "audioLanguageLabel": "Telugu",
+                  "audioLangIdentifier": "TEL"
+                },
+                {
+                  "audioLanguageName": "TAM",
+                  "audioLanguageLabel": "Tamil",
+                  "audioLangIdentifier": "TAM"
+                },
+                {
+                  "audioLanguageName": "KAN",
+                  "audioLanguageLabel": "Kannada",
+                  "audioLangIdentifier": "KAN"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/2gc_trPRQpSxZgf5I2noFQ/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1775668215654,
+              "DOCTOR_STRANGE": 1775668213,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB",
+                "adServer": "GAM"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/PSG_vs_L0804/KAN/hdntl=exp=1775754616~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2005444,PSG_vs_L0804,KAN~hmac=fae08db971064b310fe02789594693d18c8f8c657650ddb865ff58c4cc4ef358/master_200.m3u8?aka_me_session_id=AAAAAAAAAAB43ddpAAAAAKYgAS45l2QDzkZN4e4m26BBOUcXcZ9C62ZzAuJPOYDOvoQDwlhnQjbMkYqre8AbNlh89v82r+zs&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/PSG_vs_L0804/KAN/hdntl=exp=1775754616~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2005444,PSG_vs_L0804,KAN~hmac=fae08db971064b310fe02789594693d18c8f8c657650ddb865ff58c4cc4ef358/master_400.m3u8?aka_me_session_id=AAAAAAAAAAB43ddpAAAAAKYgAS45l2QDzkZN4e4m26BBOUcXcZ9C62ZzAuJPOYDOvoQDwlhnQjbMkYqre8AbNlh89v82r+zs&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/PSG_vs_L0804/KAN/hdntl=exp=1775754616~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2005444,PSG_vs_L0804,KAN~hmac=fae08db971064b310fe02789594693d18c8f8c657650ddb865ff58c4cc4ef358/master_500.m3u8?aka_me_session_id=AAAAAAAAAAB43ddpAAAAAKYgAS45l2QDzkZN4e4m26BBOUcXcZ9C62ZzAuJPOYDOvoQDwlhnQjbMkYqre8AbNlh89v82r+zs&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=837256,AVERAGE-BANDWIDTH=837256,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/PSG_vs_L0804/KAN/hdntl=exp=1775754616~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2005444,PSG_vs_L0804,KAN~hmac=fae08db971064b310fe02789594693d18c8f8c657650ddb865ff58c4cc4ef358/master_600.m3u8?aka_me_session_id=AAAAAAAAAAB43ddpAAAAAKYgAS45l2QDzkZN4e4m26BBOUcXcZ9C62ZzAuJPOYDOvoQDwlhnQjbMkYqre8AbNlh89v82r+zs&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/PSG_vs_L0804/KAN/hdntl=exp=1775754616~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2005444,PSG_vs_L0804,KAN~hmac=fae08db971064b310fe02789594693d18c8f8c657650ddb865ff58c4cc4ef358/master_1000.m3u8?aka_me_session_id=AAAAAAAAAAB43ddpAAAAAKYgAS45l2QDzkZN4e4m26BBOUcXcZ9C62ZzAuJPOYDOvoQDwlhnQjbMkYqre8AbNlh89v82r+zs&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/PSG_vs_L0804/KAN/hdntl=exp=1775754616~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2005444,PSG_vs_L0804,KAN~hmac=fae08db971064b310fe02789594693d18c8f8c657650ddb865ff58c4cc4ef358/master_1300.m3u8?aka_me_session_id=AAAAAAAAAAB43ddpAAAAAKYgAS45l2QDzkZN4e4m26BBOUcXcZ9C62ZzAuJPOYDOvoQDwlhnQjbMkYqre8AbNlh89v82r+zs&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/PSG_vs_L0804/KAN/hdntl=exp=1775754616~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2005444,PSG_vs_L0804,KAN~hmac=fae08db971064b310fe02789594693d18c8f8c657650ddb865ff58c4cc4ef358/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAB43ddpAAAAAKYgAS45l2QDzkZN4e4m26BBOUcXcZ9C62ZzAuJPOYDOvoQDwlhnQjbMkYqre8AbNlh89v82r+zs&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/PSG_vs_L0804/KAN/hdntl=exp=1775754616~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2005444,PSG_vs_L0804,KAN~hmac=fae08db971064b310fe02789594693d18c8f8c657650ddb865ff58c4cc4ef358/master_2200.m3u8?aka_me_session_id=AAAAAAAAAAB43ddpAAAAAKYgAS45l2QDzkZN4e4m26BBOUcXcZ9C62ZzAuJPOYDOvoQDwlhnQjbMkYqre8AbNlh89v82r+zs&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3591848,AVERAGE-BANDWIDTH=3591848,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/PSG_vs_L0804/KAN/hdntl=exp=1775754616~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2005444,PSG_vs_L0804,KAN~hmac=fae08db971064b310fe02789594693d18c8f8c657650ddb865ff58c4cc4ef358/master_3200.m3u8?aka_me_session_id=AAAAAAAAAAB43ddpAAAAAKYgAS45l2QDzkZN4e4m26BBOUcXcZ9C62ZzAuJPOYDOvoQDwlhnQjbMkYqre8AbNlh89v82r+zs&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/PSG_vs_L0804/KAN/hdntl=exp=1775754616~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2005444,PSG_vs_L0804,KAN~hmac=fae08db971064b310fe02789594693d18c8f8c657650ddb865ff58c4cc4ef358/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAB43ddpAAAAAKYgAS45l2QDzkZN4e4m26BBOUcXcZ9C62ZzAuJPOYDOvoQDwlhnQjbMkYqre8AbNlh89v82r+zs&aka_media_format_type=hls",
+              "date": "Wednesday 8th of April 2026 10:40:13 PM"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "contentId": 1090525204,
+      "video_info": {
+        "title": "UEFA Champions League 2025-26",
+        "shortDescription": "Barcelona’s attacking flair, led by Lamine Yamal and the experience of Robert Lewandowski, meets the dynamism of Antoine Griezmann and the shot‑stopping assurance of Jan Oblak. A high‑intensity night is expected at Camp Nou, where the hosts are still searching for their first UCL victory over Atlético Madrid. Catch all the action from UEFA Champions League 2025-26, LIVE & exclusively on Sony LIV.",
+        "longDescription": "Barcelona’s attacking flair, led by Lamine Yamal and the experience of Robert Lewandowski, meets the dynamism of Antoine Griezmann and the shot‑stopping assurance of Jan Oblak. A high‑intensity night is expected at Camp Nou, where the hosts are still searching for their first UCL victory over Atlético Madrid. Catch all the action from UEFA Champions League 2025-26, LIVE & exclusively on Sony LIV.",
+        "genres": [
+          "Football"
+        ],
+        "episodeTitle": "Barcelona  vs Atletico - Quarter-Final - Leg 1 - 8 Apr 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/XSjjwrlLR6Cfn7Whgceqxg/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 2",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          },
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          },
+          {
+            "lang_code": "TAM",
+            "lang_label": "Tamil"
+          },
+          {
+            "lang_code": "TEL",
+            "lang_label": "Telugu"
+          },
+          {
+            "lang_code": "KAN",
+            "lang_label": "Kannada"
+          }
+        ],
+        "emfAttributes__audio_languages": "HIN,TEL,KAN,TAM,ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "",
+          "promotionUrl": "",
+          "promotionRating": "",
+          "trailerRating": "",
+          "trailerContentId": "",
+          "promotionContentId": "",
+          "verticalTrailerURL": "",
+          "verticalTrailerContentId": "",
+          "verticalTrailerRating": ""
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "08 Apr 2026, 10:30 PM",
+        "contractEndDate": "09 Apr 2026, 05:30 AM",
+        "originalAirDate": "08 Apr 2026, 11:00 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016931/177536292907390_UCL26_QF_leg1_barcelona_vs_atletico_4apr_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016931/177536304662090_UCL26_QF_leg1_barcelona_vs_atletico_4apr_sp_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016883/1775286170970154_UCL25_26_Match_masthead_mobile_v2_984x1182_Barcelona_vs_Atletico_SP.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016883/1775286170420154_UCL25_26_Match_Masthead_logo_Barcelona_vs_Atletico_Madrid_Live.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016931/177536304662090_UCL26_QF_leg1_barcelona_vs_atletico_4apr_sp_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2018457/Barcelon0804/ENG/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                },
+                {
+                  "audioLanguageName": "HIN",
+                  "audioLanguageLabel": "Hindi",
+                  "audioLangIdentifier": "HIN"
+                },
+                {
+                  "audioLanguageName": "TEL",
+                  "audioLanguageLabel": "Telugu",
+                  "audioLangIdentifier": "TEL"
+                },
+                {
+                  "audioLanguageName": "TAM",
+                  "audioLanguageLabel": "Tamil",
+                  "audioLangIdentifier": "TAM"
+                },
+                {
+                  "audioLanguageName": "KAN",
+                  "audioLanguageLabel": "Kannada",
+                  "audioLangIdentifier": "KAN"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/XSjjwrlLR6Cfn7Whgceqxg/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1775668216932,
+              "DOCTOR_STRANGE": 1775668216,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB",
+                "adServer": "GAM"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/Barcelon0804/ENG/hdntl=exp=1775754618~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2018457,Barcelon0804,ENG~hmac=caf39a0d3c3fb834a44f6201e2f4370270588377e46cfdf99d7b7e853998f805/master_200.m3u8?aka_me_session_id=AAAAAAAAAAB63ddpAAAAAHWNWOWCe12CC9JAfYf4KeESQVbtq1mLvjGo9UasS1znU9NVpzUets6MoFArHAdxkHUNyq2rghwJ&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/Barcelon0804/ENG/hdntl=exp=1775754618~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2018457,Barcelon0804,ENG~hmac=caf39a0d3c3fb834a44f6201e2f4370270588377e46cfdf99d7b7e853998f805/master_400.m3u8?aka_me_session_id=AAAAAAAAAAB63ddpAAAAAHWNWOWCe12CC9JAfYf4KeESQVbtq1mLvjGo9UasS1znU9NVpzUets6MoFArHAdxkHUNyq2rghwJ&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/Barcelon0804/ENG/hdntl=exp=1775754618~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2018457,Barcelon0804,ENG~hmac=caf39a0d3c3fb834a44f6201e2f4370270588377e46cfdf99d7b7e853998f805/master_500.m3u8?aka_me_session_id=AAAAAAAAAAB63ddpAAAAAHWNWOWCe12CC9JAfYf4KeESQVbtq1mLvjGo9UasS1znU9NVpzUets6MoFArHAdxkHUNyq2rghwJ&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=837256,AVERAGE-BANDWIDTH=837256,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/Barcelon0804/ENG/hdntl=exp=1775754618~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2018457,Barcelon0804,ENG~hmac=caf39a0d3c3fb834a44f6201e2f4370270588377e46cfdf99d7b7e853998f805/master_600.m3u8?aka_me_session_id=AAAAAAAAAAB63ddpAAAAAHWNWOWCe12CC9JAfYf4KeESQVbtq1mLvjGo9UasS1znU9NVpzUets6MoFArHAdxkHUNyq2rghwJ&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/Barcelon0804/ENG/hdntl=exp=1775754618~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2018457,Barcelon0804,ENG~hmac=caf39a0d3c3fb834a44f6201e2f4370270588377e46cfdf99d7b7e853998f805/master_1000.m3u8?aka_me_session_id=AAAAAAAAAAB63ddpAAAAAHWNWOWCe12CC9JAfYf4KeESQVbtq1mLvjGo9UasS1znU9NVpzUets6MoFArHAdxkHUNyq2rghwJ&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/Barcelon0804/ENG/hdntl=exp=1775754618~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2018457,Barcelon0804,ENG~hmac=caf39a0d3c3fb834a44f6201e2f4370270588377e46cfdf99d7b7e853998f805/master_1300.m3u8?aka_me_session_id=AAAAAAAAAAB63ddpAAAAAHWNWOWCe12CC9JAfYf4KeESQVbtq1mLvjGo9UasS1znU9NVpzUets6MoFArHAdxkHUNyq2rghwJ&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/Barcelon0804/ENG/hdntl=exp=1775754618~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2018457,Barcelon0804,ENG~hmac=caf39a0d3c3fb834a44f6201e2f4370270588377e46cfdf99d7b7e853998f805/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAB63ddpAAAAAHWNWOWCe12CC9JAfYf4KeESQVbtq1mLvjGo9UasS1znU9NVpzUets6MoFArHAdxkHUNyq2rghwJ&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/Barcelon0804/ENG/hdntl=exp=1775754618~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2018457,Barcelon0804,ENG~hmac=caf39a0d3c3fb834a44f6201e2f4370270588377e46cfdf99d7b7e853998f805/master_2200.m3u8?aka_me_session_id=AAAAAAAAAAB63ddpAAAAAHWNWOWCe12CC9JAfYf4KeESQVbtq1mLvjGo9UasS1znU9NVpzUets6MoFArHAdxkHUNyq2rghwJ&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3591848,AVERAGE-BANDWIDTH=3591848,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/Barcelon0804/ENG/hdntl=exp=1775754618~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2018457,Barcelon0804,ENG~hmac=caf39a0d3c3fb834a44f6201e2f4370270588377e46cfdf99d7b7e853998f805/master_3200.m3u8?aka_me_session_id=AAAAAAAAAAB63ddpAAAAAHWNWOWCe12CC9JAfYf4KeESQVbtq1mLvjGo9UasS1znU9NVpzUets6MoFArHAdxkHUNyq2rghwJ&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/Barcelon0804/ENG/hdntl=exp=1775754618~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2018457,Barcelon0804,ENG~hmac=caf39a0d3c3fb834a44f6201e2f4370270588377e46cfdf99d7b7e853998f805/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAB63ddpAAAAAHWNWOWCe12CC9JAfYf4KeESQVbtq1mLvjGo9UasS1znU9NVpzUets6MoFArHAdxkHUNyq2rghwJ&aka_media_format_type=hls",
+              "date": "Wednesday 8th of April 2026 10:40:16 PM"
+            }
+          }
+        },
+        {
+          "LANGUAGE": "Hindi",
+          "LANG_CODE": "HIN",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2018457/Barcelon0804/HIN/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                },
+                {
+                  "audioLanguageName": "HIN",
+                  "audioLanguageLabel": "Hindi",
+                  "audioLangIdentifier": "HIN"
+                },
+                {
+                  "audioLanguageName": "TEL",
+                  "audioLanguageLabel": "Telugu",
+                  "audioLangIdentifier": "TEL"
+                },
+                {
+                  "audioLanguageName": "TAM",
+                  "audioLanguageLabel": "Tamil",
+                  "audioLangIdentifier": "TAM"
+                },
+                {
+                  "audioLanguageName": "KAN",
+                  "audioLanguageLabel": "Kannada",
+                  "audioLangIdentifier": "KAN"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/Fe-Yf9eVSKeRfjMsJNyn4g/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1775668220387,
+              "DOCTOR_STRANGE": 1775668219,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB",
+                "adServer": "GAM"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/Barcelon0804/HIN/hdntl=exp=1775754621~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2018457,Barcelon0804,HIN~hmac=bfc9d71c650a747e786839c7bcb53b819908dc6ca82c295c0d661a8695a9cab0/master_200.m3u8?aka_me_session_id=AAAAAAAAAAB93ddpAAAAADjM7DWdUwm1vWiTfpmfksdptTrnRH5yJ0AL40A9mt4HNhOHvnNYs7Q8LgC29QYqyC27F19V58US&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/Barcelon0804/HIN/hdntl=exp=1775754621~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2018457,Barcelon0804,HIN~hmac=bfc9d71c650a747e786839c7bcb53b819908dc6ca82c295c0d661a8695a9cab0/master_400.m3u8?aka_me_session_id=AAAAAAAAAAB93ddpAAAAADjM7DWdUwm1vWiTfpmfksdptTrnRH5yJ0AL40A9mt4HNhOHvnNYs7Q8LgC29QYqyC27F19V58US&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/Barcelon0804/HIN/hdntl=exp=1775754621~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2018457,Barcelon0804,HIN~hmac=bfc9d71c650a747e786839c7bcb53b819908dc6ca82c295c0d661a8695a9cab0/master_500.m3u8?aka_me_session_id=AAAAAAAAAAB93ddpAAAAADjM7DWdUwm1vWiTfpmfksdptTrnRH5yJ0AL40A9mt4HNhOHvnNYs7Q8LgC29QYqyC27F19V58US&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=837256,AVERAGE-BANDWIDTH=837256,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/Barcelon0804/HIN/hdntl=exp=1775754621~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2018457,Barcelon0804,HIN~hmac=bfc9d71c650a747e786839c7bcb53b819908dc6ca82c295c0d661a8695a9cab0/master_600.m3u8?aka_me_session_id=AAAAAAAAAAB93ddpAAAAADjM7DWdUwm1vWiTfpmfksdptTrnRH5yJ0AL40A9mt4HNhOHvnNYs7Q8LgC29QYqyC27F19V58US&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/Barcelon0804/HIN/hdntl=exp=1775754621~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2018457,Barcelon0804,HIN~hmac=bfc9d71c650a747e786839c7bcb53b819908dc6ca82c295c0d661a8695a9cab0/master_1000.m3u8?aka_me_session_id=AAAAAAAAAAB93ddpAAAAADjM7DWdUwm1vWiTfpmfksdptTrnRH5yJ0AL40A9mt4HNhOHvnNYs7Q8LgC29QYqyC27F19V58US&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/Barcelon0804/HIN/hdntl=exp=1775754621~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2018457,Barcelon0804,HIN~hmac=bfc9d71c650a747e786839c7bcb53b819908dc6ca82c295c0d661a8695a9cab0/master_1300.m3u8?aka_me_session_id=AAAAAAAAAAB93ddpAAAAADjM7DWdUwm1vWiTfpmfksdptTrnRH5yJ0AL40A9mt4HNhOHvnNYs7Q8LgC29QYqyC27F19V58US&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/Barcelon0804/HIN/hdntl=exp=1775754621~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2018457,Barcelon0804,HIN~hmac=bfc9d71c650a747e786839c7bcb53b819908dc6ca82c295c0d661a8695a9cab0/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAB93ddpAAAAADjM7DWdUwm1vWiTfpmfksdptTrnRH5yJ0AL40A9mt4HNhOHvnNYs7Q8LgC29QYqyC27F19V58US&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/Barcelon0804/HIN/hdntl=exp=1775754621~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2018457,Barcelon0804,HIN~hmac=bfc9d71c650a747e786839c7bcb53b819908dc6ca82c295c0d661a8695a9cab0/master_2200.m3u8?aka_me_session_id=AAAAAAAAAAB93ddpAAAAADjM7DWdUwm1vWiTfpmfksdptTrnRH5yJ0AL40A9mt4HNhOHvnNYs7Q8LgC29QYqyC27F19V58US&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3591848,AVERAGE-BANDWIDTH=3591848,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/Barcelon0804/HIN/hdntl=exp=1775754621~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2018457,Barcelon0804,HIN~hmac=bfc9d71c650a747e786839c7bcb53b819908dc6ca82c295c0d661a8695a9cab0/master_3200.m3u8?aka_me_session_id=AAAAAAAAAAB93ddpAAAAADjM7DWdUwm1vWiTfpmfksdptTrnRH5yJ0AL40A9mt4HNhOHvnNYs7Q8LgC29QYqyC27F19V58US&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/Barcelon0804/HIN/hdntl=exp=1775754621~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2018457,Barcelon0804,HIN~hmac=bfc9d71c650a747e786839c7bcb53b819908dc6ca82c295c0d661a8695a9cab0/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAB93ddpAAAAADjM7DWdUwm1vWiTfpmfksdptTrnRH5yJ0AL40A9mt4HNhOHvnNYs7Q8LgC29QYqyC27F19V58US&aka_media_format_type=hls",
+              "date": "Wednesday 8th of April 2026 10:40:19 PM"
+            }
+          }
+        },
+        {
+          "LANGUAGE": "Tamil",
+          "LANG_CODE": "TAM",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2018457/Barcelon0804/TAM/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                },
+                {
+                  "audioLanguageName": "HIN",
+                  "audioLanguageLabel": "Hindi",
+                  "audioLangIdentifier": "HIN"
+                },
+                {
+                  "audioLanguageName": "TEL",
+                  "audioLanguageLabel": "Telugu",
+                  "audioLangIdentifier": "TEL"
+                },
+                {
+                  "audioLanguageName": "TAM",
+                  "audioLanguageLabel": "Tamil",
+                  "audioLangIdentifier": "TAM"
+                },
+                {
+                  "audioLanguageName": "KAN",
+                  "audioLanguageLabel": "Kannada",
+                  "audioLangIdentifier": "KAN"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/301Dh58nQGa_Ty00SFDSGA/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1775668225699,
+              "DOCTOR_STRANGE": 1775668224,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB",
+                "adServer": "GAM"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/Barcelon0804/TAM/hdntl=exp=1775754626~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2018457,Barcelon0804,TAM~hmac=c68f8729df6292cab73bc1dcc94e658238cac03e66be92e66da324d3ea0bc7cf/master_200.m3u8?aka_me_session_id=AAAAAAAAAACC3ddpAAAAAH9L6XMVC74R7ozgcngAHPquI0M57cYQfDCL7AglxlPOWwZbig79gkLBWE6773K3mOZvy9MszCKw&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/Barcelon0804/TAM/hdntl=exp=1775754626~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2018457,Barcelon0804,TAM~hmac=c68f8729df6292cab73bc1dcc94e658238cac03e66be92e66da324d3ea0bc7cf/master_400.m3u8?aka_me_session_id=AAAAAAAAAACC3ddpAAAAAH9L6XMVC74R7ozgcngAHPquI0M57cYQfDCL7AglxlPOWwZbig79gkLBWE6773K3mOZvy9MszCKw&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/Barcelon0804/TAM/hdntl=exp=1775754626~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2018457,Barcelon0804,TAM~hmac=c68f8729df6292cab73bc1dcc94e658238cac03e66be92e66da324d3ea0bc7cf/master_500.m3u8?aka_me_session_id=AAAAAAAAAACC3ddpAAAAAH9L6XMVC74R7ozgcngAHPquI0M57cYQfDCL7AglxlPOWwZbig79gkLBWE6773K3mOZvy9MszCKw&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=935336,AVERAGE-BANDWIDTH=935336,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/Barcelon0804/TAM/hdntl=exp=1775754626~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2018457,Barcelon0804,TAM~hmac=c68f8729df6292cab73bc1dcc94e658238cac03e66be92e66da324d3ea0bc7cf/master_600.m3u8?aka_me_session_id=AAAAAAAAAACC3ddpAAAAAH9L6XMVC74R7ozgcngAHPquI0M57cYQfDCL7AglxlPOWwZbig79gkLBWE6773K3mOZvy9MszCKw&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/Barcelon0804/TAM/hdntl=exp=1775754626~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2018457,Barcelon0804,TAM~hmac=c68f8729df6292cab73bc1dcc94e658238cac03e66be92e66da324d3ea0bc7cf/master_1000.m3u8?aka_me_session_id=AAAAAAAAAACC3ddpAAAAAH9L6XMVC74R7ozgcngAHPquI0M57cYQfDCL7AglxlPOWwZbig79gkLBWE6773K3mOZvy9MszCKw&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/Barcelon0804/TAM/hdntl=exp=1775754626~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2018457,Barcelon0804,TAM~hmac=c68f8729df6292cab73bc1dcc94e658238cac03e66be92e66da324d3ea0bc7cf/master_1300.m3u8?aka_me_session_id=AAAAAAAAAACC3ddpAAAAAH9L6XMVC74R7ozgcngAHPquI0M57cYQfDCL7AglxlPOWwZbig79gkLBWE6773K3mOZvy9MszCKw&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/Barcelon0804/TAM/hdntl=exp=1775754626~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2018457,Barcelon0804,TAM~hmac=c68f8729df6292cab73bc1dcc94e658238cac03e66be92e66da324d3ea0bc7cf/master_2000.m3u8?aka_me_session_id=AAAAAAAAAACC3ddpAAAAAH9L6XMVC74R7ozgcngAHPquI0M57cYQfDCL7AglxlPOWwZbig79gkLBWE6773K3mOZvy9MszCKw&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/Barcelon0804/TAM/hdntl=exp=1775754626~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2018457,Barcelon0804,TAM~hmac=c68f8729df6292cab73bc1dcc94e658238cac03e66be92e66da324d3ea0bc7cf/master_2200.m3u8?aka_me_session_id=AAAAAAAAAACC3ddpAAAAAH9L6XMVC74R7ozgcngAHPquI0M57cYQfDCL7AglxlPOWwZbig79gkLBWE6773K3mOZvy9MszCKw&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3591848,AVERAGE-BANDWIDTH=3591848,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/Barcelon0804/TAM/hdntl=exp=1775754626~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2018457,Barcelon0804,TAM~hmac=c68f8729df6292cab73bc1dcc94e658238cac03e66be92e66da324d3ea0bc7cf/master_3200.m3u8?aka_me_session_id=AAAAAAAAAACC3ddpAAAAAH9L6XMVC74R7ozgcngAHPquI0M57cYQfDCL7AglxlPOWwZbig79gkLBWE6773K3mOZvy9MszCKw&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/Barcelon0804/TAM/hdntl=exp=1775754626~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2018457,Barcelon0804,TAM~hmac=c68f8729df6292cab73bc1dcc94e658238cac03e66be92e66da324d3ea0bc7cf/master_4500.m3u8?aka_me_session_id=AAAAAAAAAACC3ddpAAAAAH9L6XMVC74R7ozgcngAHPquI0M57cYQfDCL7AglxlPOWwZbig79gkLBWE6773K3mOZvy9MszCKw&aka_media_format_type=hls",
+              "date": "Wednesday 8th of April 2026 10:40:24 PM"
+            }
+          }
+        },
+        {
+          "LANGUAGE": "Telugu",
+          "LANG_CODE": "TEL",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2018457/Barcelon0804/TEL/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                },
+                {
+                  "audioLanguageName": "HIN",
+                  "audioLanguageLabel": "Hindi",
+                  "audioLangIdentifier": "HIN"
+                },
+                {
+                  "audioLanguageName": "TEL",
+                  "audioLanguageLabel": "Telugu",
+                  "audioLangIdentifier": "TEL"
+                },
+                {
+                  "audioLanguageName": "TAM",
+                  "audioLanguageLabel": "Tamil",
+                  "audioLangIdentifier": "TAM"
+                },
+                {
+                  "audioLanguageName": "KAN",
+                  "audioLanguageLabel": "Kannada",
+                  "audioLangIdentifier": "KAN"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/MteJAW66RAWpiknIUUM7GQ/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1775668228064,
+              "DOCTOR_STRANGE": 1775668226,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB",
+                "adServer": "GAM"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/Barcelon0804/TEL/hdntl=exp=1775754628~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2018457,Barcelon0804,TEL~hmac=3e690e52c86ae69b7aa62daca9e665187d3bdc7a81575474374aa6b477fae825/master_200.m3u8?aka_me_session_id=AAAAAAAAAACE3ddpAAAAAM91Vnvk9AVv6m5cHaBtwSv6ogVlLd8f7bIDQwL07DP3rSopTINwpjsWZK7vExwWuIVviYgjEV8F&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/Barcelon0804/TEL/hdntl=exp=1775754628~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2018457,Barcelon0804,TEL~hmac=3e690e52c86ae69b7aa62daca9e665187d3bdc7a81575474374aa6b477fae825/master_400.m3u8?aka_me_session_id=AAAAAAAAAACE3ddpAAAAAM91Vnvk9AVv6m5cHaBtwSv6ogVlLd8f7bIDQwL07DP3rSopTINwpjsWZK7vExwWuIVviYgjEV8F&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/Barcelon0804/TEL/hdntl=exp=1775754628~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2018457,Barcelon0804,TEL~hmac=3e690e52c86ae69b7aa62daca9e665187d3bdc7a81575474374aa6b477fae825/master_500.m3u8?aka_me_session_id=AAAAAAAAAACE3ddpAAAAAM91Vnvk9AVv6m5cHaBtwSv6ogVlLd8f7bIDQwL07DP3rSopTINwpjsWZK7vExwWuIVviYgjEV8F&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=935336,AVERAGE-BANDWIDTH=935336,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/Barcelon0804/TEL/hdntl=exp=1775754628~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2018457,Barcelon0804,TEL~hmac=3e690e52c86ae69b7aa62daca9e665187d3bdc7a81575474374aa6b477fae825/master_600.m3u8?aka_me_session_id=AAAAAAAAAACE3ddpAAAAAM91Vnvk9AVv6m5cHaBtwSv6ogVlLd8f7bIDQwL07DP3rSopTINwpjsWZK7vExwWuIVviYgjEV8F&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/Barcelon0804/TEL/hdntl=exp=1775754628~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2018457,Barcelon0804,TEL~hmac=3e690e52c86ae69b7aa62daca9e665187d3bdc7a81575474374aa6b477fae825/master_1000.m3u8?aka_me_session_id=AAAAAAAAAACE3ddpAAAAAM91Vnvk9AVv6m5cHaBtwSv6ogVlLd8f7bIDQwL07DP3rSopTINwpjsWZK7vExwWuIVviYgjEV8F&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/Barcelon0804/TEL/hdntl=exp=1775754628~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2018457,Barcelon0804,TEL~hmac=3e690e52c86ae69b7aa62daca9e665187d3bdc7a81575474374aa6b477fae825/master_1300.m3u8?aka_me_session_id=AAAAAAAAAACE3ddpAAAAAM91Vnvk9AVv6m5cHaBtwSv6ogVlLd8f7bIDQwL07DP3rSopTINwpjsWZK7vExwWuIVviYgjEV8F&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/Barcelon0804/TEL/hdntl=exp=1775754628~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2018457,Barcelon0804,TEL~hmac=3e690e52c86ae69b7aa62daca9e665187d3bdc7a81575474374aa6b477fae825/master_2000.m3u8?aka_me_session_id=AAAAAAAAAACE3ddpAAAAAM91Vnvk9AVv6m5cHaBtwSv6ogVlLd8f7bIDQwL07DP3rSopTINwpjsWZK7vExwWuIVviYgjEV8F&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/Barcelon0804/TEL/hdntl=exp=1775754628~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2018457,Barcelon0804,TEL~hmac=3e690e52c86ae69b7aa62daca9e665187d3bdc7a81575474374aa6b477fae825/master_2200.m3u8?aka_me_session_id=AAAAAAAAAACE3ddpAAAAAM91Vnvk9AVv6m5cHaBtwSv6ogVlLd8f7bIDQwL07DP3rSopTINwpjsWZK7vExwWuIVviYgjEV8F&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3591848,AVERAGE-BANDWIDTH=3591848,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/Barcelon0804/TEL/hdntl=exp=1775754628~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2018457,Barcelon0804,TEL~hmac=3e690e52c86ae69b7aa62daca9e665187d3bdc7a81575474374aa6b477fae825/master_3200.m3u8?aka_me_session_id=AAAAAAAAAACE3ddpAAAAAM91Vnvk9AVv6m5cHaBtwSv6ogVlLd8f7bIDQwL07DP3rSopTINwpjsWZK7vExwWuIVviYgjEV8F&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/Barcelon0804/TEL/hdntl=exp=1775754628~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2018457,Barcelon0804,TEL~hmac=3e690e52c86ae69b7aa62daca9e665187d3bdc7a81575474374aa6b477fae825/master_4500.m3u8?aka_me_session_id=AAAAAAAAAACE3ddpAAAAAM91Vnvk9AVv6m5cHaBtwSv6ogVlLd8f7bIDQwL07DP3rSopTINwpjsWZK7vExwWuIVviYgjEV8F&aka_media_format_type=hls",
+              "date": "Wednesday 8th of April 2026 10:40:26 PM"
+            }
+          }
+        },
+        {
+          "LANGUAGE": "Kannada",
+          "LANG_CODE": "KAN",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2018457/Barcelon0804/KAN/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                },
+                {
+                  "audioLanguageName": "HIN",
+                  "audioLanguageLabel": "Hindi",
+                  "audioLangIdentifier": "HIN"
+                },
+                {
+                  "audioLanguageName": "TEL",
+                  "audioLanguageLabel": "Telugu",
+                  "audioLangIdentifier": "TEL"
+                },
+                {
+                  "audioLanguageName": "TAM",
+                  "audioLanguageLabel": "Tamil",
+                  "audioLangIdentifier": "TAM"
+                },
+                {
+                  "audioLanguageName": "KAN",
+                  "audioLanguageLabel": "Kannada",
+                  "audioLangIdentifier": "KAN"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/LA0EX6hcTYS2k4VVDy3k2A/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1775668229950,
+              "DOCTOR_STRANGE": 1775668228,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB",
+                "adServer": "GAM"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/Barcelon0804/KAN/hdntl=exp=1775754630~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2018457,Barcelon0804,KAN~hmac=db9f61cd9fd611ec061cce9f02f8234c6ce95c834e659cea0529b072e4c355ed/master_200.m3u8?aka_me_session_id=AAAAAAAAAACG3ddpAAAAAEVFogJml1ONcVK+D+B2K%2fZrv6cNvchjuDEMykGfAOeFyWpFzhIppO2Y2JrXLLrfXhTQSunuzIaS&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/Barcelon0804/KAN/hdntl=exp=1775754630~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2018457,Barcelon0804,KAN~hmac=db9f61cd9fd611ec061cce9f02f8234c6ce95c834e659cea0529b072e4c355ed/master_400.m3u8?aka_me_session_id=AAAAAAAAAACG3ddpAAAAAEVFogJml1ONcVK+D+B2K%2fZrv6cNvchjuDEMykGfAOeFyWpFzhIppO2Y2JrXLLrfXhTQSunuzIaS&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/Barcelon0804/KAN/hdntl=exp=1775754630~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2018457,Barcelon0804,KAN~hmac=db9f61cd9fd611ec061cce9f02f8234c6ce95c834e659cea0529b072e4c355ed/master_500.m3u8?aka_me_session_id=AAAAAAAAAACG3ddpAAAAAEVFogJml1ONcVK+D+B2K%2fZrv6cNvchjuDEMykGfAOeFyWpFzhIppO2Y2JrXLLrfXhTQSunuzIaS&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=837256,AVERAGE-BANDWIDTH=837256,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/Barcelon0804/KAN/hdntl=exp=1775754630~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2018457,Barcelon0804,KAN~hmac=db9f61cd9fd611ec061cce9f02f8234c6ce95c834e659cea0529b072e4c355ed/master_600.m3u8?aka_me_session_id=AAAAAAAAAACG3ddpAAAAAEVFogJml1ONcVK+D+B2K%2fZrv6cNvchjuDEMykGfAOeFyWpFzhIppO2Y2JrXLLrfXhTQSunuzIaS&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/Barcelon0804/KAN/hdntl=exp=1775754630~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2018457,Barcelon0804,KAN~hmac=db9f61cd9fd611ec061cce9f02f8234c6ce95c834e659cea0529b072e4c355ed/master_1000.m3u8?aka_me_session_id=AAAAAAAAAACG3ddpAAAAAEVFogJml1ONcVK+D+B2K%2fZrv6cNvchjuDEMykGfAOeFyWpFzhIppO2Y2JrXLLrfXhTQSunuzIaS&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/Barcelon0804/KAN/hdntl=exp=1775754630~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2018457,Barcelon0804,KAN~hmac=db9f61cd9fd611ec061cce9f02f8234c6ce95c834e659cea0529b072e4c355ed/master_1300.m3u8?aka_me_session_id=AAAAAAAAAACG3ddpAAAAAEVFogJml1ONcVK+D+B2K%2fZrv6cNvchjuDEMykGfAOeFyWpFzhIppO2Y2JrXLLrfXhTQSunuzIaS&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/Barcelon0804/KAN/hdntl=exp=1775754630~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2018457,Barcelon0804,KAN~hmac=db9f61cd9fd611ec061cce9f02f8234c6ce95c834e659cea0529b072e4c355ed/master_2000.m3u8?aka_me_session_id=AAAAAAAAAACG3ddpAAAAAEVFogJml1ONcVK+D+B2K%2fZrv6cNvchjuDEMykGfAOeFyWpFzhIppO2Y2JrXLLrfXhTQSunuzIaS&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/Barcelon0804/KAN/hdntl=exp=1775754630~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2018457,Barcelon0804,KAN~hmac=db9f61cd9fd611ec061cce9f02f8234c6ce95c834e659cea0529b072e4c355ed/master_2200.m3u8?aka_me_session_id=AAAAAAAAAACG3ddpAAAAAEVFogJml1ONcVK+D+B2K%2fZrv6cNvchjuDEMykGfAOeFyWpFzhIppO2Y2JrXLLrfXhTQSunuzIaS&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3591848,AVERAGE-BANDWIDTH=3591848,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/Barcelon0804/KAN/hdntl=exp=1775754630~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2018457,Barcelon0804,KAN~hmac=db9f61cd9fd611ec061cce9f02f8234c6ce95c834e659cea0529b072e4c355ed/master_3200.m3u8?aka_me_session_id=AAAAAAAAAACG3ddpAAAAAEVFogJml1ONcVK+D+B2K%2fZrv6cNvchjuDEMykGfAOeFyWpFzhIppO2Y2JrXLLrfXhTQSunuzIaS&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/Barcelon0804/KAN/hdntl=exp=1775754630~acl=%2f*~id=25735998989648111760474844440275~data=hdntl,2018457,Barcelon0804,KAN~hmac=db9f61cd9fd611ec061cce9f02f8234c6ce95c834e659cea0529b072e4c355ed/master_4500.m3u8?aka_me_session_id=AAAAAAAAAACG3ddpAAAAAEVFogJml1ONcVK+D+B2K%2fZrv6cNvchjuDEMykGfAOeFyWpFzhIppO2Y2JrXLLrfXhTQSunuzIaS&aka_media_format_type=hls",
+              "date": "Wednesday 8th of April 2026 10:40:28 PM"
             }
           }
         }
@@ -222,64 +943,6 @@
     }
   ],
   "upcoming": [
-    {
-      "contentId": 1090511810,
-      "video_info": {
-        "title": "Upcoming - PSG vs Liverpool - UEFA Champions League 2025-26",
-        "shortDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
-        "longDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
-        "genres": [
-          "Football"
-        ],
-        "episodeTitle": ""
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "Sony Sports Ten 2",
-        "audio_language_list": [
-          {
-            "lang_code": "ENG",
-            "lang_label": "English"
-          }
-        ],
-        "emfAttributes__audio_languages": "ENG",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "ENG",
-              "isPreferred": true,
-              "audioLanguageLabel": "English",
-              "type": "main"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/94c4216bc1a84897ae2f92f59dfcf4e1/1775160242/baseline-std-v4/PROMO_UCL_QUARTERB_FINALS_PSG_VS_LIVERPOOL_40SEC_HOR_DATED_APP_eng_baseline-800300010.mpd",
-          "hasTrailer": true
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "03 Apr 2026, 01:00 AM",
-        "contractEndDate": "08 Apr 2026, 10:30 PM",
-        "originalAirDate": null
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016955/1775455966060946_UCL_QF_Leg1_PSG_vs_Liverpool_promo_big_portrait_thumb_tonight.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016885/1775284963766532_UCL_QF_Leg1_PSG_vs_Liverpool_promo_with_sponsors_landscape_thumb_tonight.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016883/1775286171014154_UCL25_26_Match_masthead_mobile_v2_984x1182_PSG_vs_Liverpool_SP.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016883/1775286170480154_UCL25_26_Match_Masthead_logo_PSG_vs_Liverpool_Tonight.png",
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016885/1775284963766532_UCL_QF_Leg1_PSG_vs_Liverpool_promo_with_sponsors_landscape_thumb_tonight.jpg"
-      },
-      "MULTIPLE_AUDIO_LINKS": []
-    },
     {
       "contentId": 1090511811,
       "video_info": {
