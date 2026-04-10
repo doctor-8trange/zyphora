@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "10:40:09 PM 09-04-2026",
+  "last_updated": "10-04-2026 09:20",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -16,110 +16,7 @@
     "SERVER_STATUS": "NORMAL",
     "USAGE_GUIDE": []
   },
-  "data": [
-    {
-      "contentId": 1090525220,
-      "video_info": {
-        "title": "UEFA Conference League 2025-26",
-        "shortDescription": "Tune in to catch all the action from UEFA Conference League 2025-26 Quarter-Final Leg 1 as Rayo Vallecano take on AEK Athens, LIVE on Sony LIV.",
-        "longDescription": "Tune in to catch all the action from UEFA Conference League 2025-26 Quarter-Final Leg 1 as Rayo Vallecano take on AEK Athens, LIVE on Sony LIV.",
-        "genres": [
-          "Football"
-        ],
-        "episodeTitle": "Rayo Vallecano vs AEK Athens - Quarter-Final - Leg 1 - 9 Apr 2026"
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": "https://dai.google.com/ssai/event/ny2x3upqT0C3ZqW7UEQLsQ/master.m3u8",
-        "broadcast_channel": "Sony Sports Ten 2",
-        "audio_language_list": [
-          {
-            "lang_code": "ENG",
-            "lang_label": "English"
-          }
-        ],
-        "emfAttributes__audio_languages": "ENG",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD",
-          "videoType": "FULL_HD",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "ENG",
-              "isPreferred": true,
-              "audioLanguageLabel": "English"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA"
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "09 Apr 2026, 09:40 PM",
-        "contractEndDate": "10 Apr 2026, 02:40 AM",
-        "originalAirDate": "09 Apr 2026, 10:10 PM"
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016853/1775150654421363_UECL26_QF_leg1_Rayo_Vallecano_vs_AEK_Athens_2apr_live_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016853/1775150815349363_UECL26_QF_leg1_Rayo_Vallecano_vs_AEK_Athens_2apr_landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": null,
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009146/1758606495748941_UEL25_26_GENERIC_Masthead_logo_LIVE1.png",
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016853/1775150815349363_UECL26_QF_leg1_Rayo_Vallecano_vs_AEK_Athens_2apr_landscape_thumb.jpg"
-      },
-      "MULTIPLE_AUDIO_LINKS": [
-        {
-          "LANGUAGE": "English",
-          "LANG_CODE": "ENG",
-          "DATA": {
-            "JITENDRAUNATTI": {
-              "Device_Type": "LITE",
-              "message": "success",
-              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2094588/RayoVall0904/ENG/master.m3u8",
-              "WIDEVINE": null,
-              "STREAMING_TYPE": true,
-              "audioLanguages": [
-                {
-                  "audioId": 1,
-                  "audioLanguageName": "ENG",
-                  "isPreferred": true,
-                  "audioLanguageLabel": "English"
-                }
-              ],
-              "dai_asset_key": "https://dai.google.com/ssai/event/ny2x3upqT0C3ZqW7UEQLsQ/master.m3u8",
-              "Maximum_Video_Quality": "SDR",
-              "Maximum_Resolution": "FULL_HD",
-              "trailer_url": "",
-              "systemTime": 1775751009460,
-              "DOCTOR_STRANGE": 1775751007,
-              "additionalDataJson": {
-                "enc_format": "HLS",
-                "resolution": "FULL_HD",
-                "audio_quality": "STEREO",
-                "video_quality": "SDR",
-                "fps": 25,
-                "videoCodec": "H264",
-                "audioCodec": "AAC",
-                "partners": [
-                  "ALL"
-                ],
-                "isDaiKey": false,
-                "ad_stack": "MT-SSB",
-                "adServer": "GAM"
-              },
-              "Status_code": 200,
-              "content_type": "application/json; charset=utf-8",
-              "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094588/RayoVall0904/ENG/hdntl=exp=1775837409~acl=%2f*~id=65082500957066807830884099079472~data=hdntl,2094588,RayoVall0904,ENG~hmac=a8bab6c8b11e9660bb8078ffbda8b496459a4dc44583b6128c57955f91982a61/master_200.m3u8?aka_me_session_id=AAAAAAAAAADhINlpAAAAACAK%2fk51Wpd1BnTNO6e+OJnfpLhiPde4V3y1m1RTBaHoJJvabZl03P+Scg75z37p9KUUu+jie1zX&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094588/RayoVall0904/ENG/hdntl=exp=1775837409~acl=%2f*~id=65082500957066807830884099079472~data=hdntl,2094588,RayoVall0904,ENG~hmac=a8bab6c8b11e9660bb8078ffbda8b496459a4dc44583b6128c57955f91982a61/master_400.m3u8?aka_me_session_id=AAAAAAAAAADhINlpAAAAACAK%2fk51Wpd1BnTNO6e+OJnfpLhiPde4V3y1m1RTBaHoJJvabZl03P+Scg75z37p9KUUu+jie1zX&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094588/RayoVall0904/ENG/hdntl=exp=1775837409~acl=%2f*~id=65082500957066807830884099079472~data=hdntl,2094588,RayoVall0904,ENG~hmac=a8bab6c8b11e9660bb8078ffbda8b496459a4dc44583b6128c57955f91982a61/master_500.m3u8?aka_me_session_id=AAAAAAAAAADhINlpAAAAACAK%2fk51Wpd1BnTNO6e+OJnfpLhiPde4V3y1m1RTBaHoJJvabZl03P+Scg75z37p9KUUu+jie1zX&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=837256,AVERAGE-BANDWIDTH=837256,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094588/RayoVall0904/ENG/hdntl=exp=1775837409~acl=%2f*~id=65082500957066807830884099079472~data=hdntl,2094588,RayoVall0904,ENG~hmac=a8bab6c8b11e9660bb8078ffbda8b496459a4dc44583b6128c57955f91982a61/master_600.m3u8?aka_me_session_id=AAAAAAAAAADhINlpAAAAACAK%2fk51Wpd1BnTNO6e+OJnfpLhiPde4V3y1m1RTBaHoJJvabZl03P+Scg75z37p9KUUu+jie1zX&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094588/RayoVall0904/ENG/hdntl=exp=1775837409~acl=%2f*~id=65082500957066807830884099079472~data=hdntl,2094588,RayoVall0904,ENG~hmac=a8bab6c8b11e9660bb8078ffbda8b496459a4dc44583b6128c57955f91982a61/master_1000.m3u8?aka_me_session_id=AAAAAAAAAADhINlpAAAAACAK%2fk51Wpd1BnTNO6e+OJnfpLhiPde4V3y1m1RTBaHoJJvabZl03P+Scg75z37p9KUUu+jie1zX&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094588/RayoVall0904/ENG/hdntl=exp=1775837409~acl=%2f*~id=65082500957066807830884099079472~data=hdntl,2094588,RayoVall0904,ENG~hmac=a8bab6c8b11e9660bb8078ffbda8b496459a4dc44583b6128c57955f91982a61/master_1300.m3u8?aka_me_session_id=AAAAAAAAAADhINlpAAAAACAK%2fk51Wpd1BnTNO6e+OJnfpLhiPde4V3y1m1RTBaHoJJvabZl03P+Scg75z37p9KUUu+jie1zX&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094588/RayoVall0904/ENG/hdntl=exp=1775837409~acl=%2f*~id=65082500957066807830884099079472~data=hdntl,2094588,RayoVall0904,ENG~hmac=a8bab6c8b11e9660bb8078ffbda8b496459a4dc44583b6128c57955f91982a61/master_2000.m3u8?aka_me_session_id=AAAAAAAAAADhINlpAAAAACAK%2fk51Wpd1BnTNO6e+OJnfpLhiPde4V3y1m1RTBaHoJJvabZl03P+Scg75z37p9KUUu+jie1zX&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094588/RayoVall0904/ENG/hdntl=exp=1775837409~acl=%2f*~id=65082500957066807830884099079472~data=hdntl,2094588,RayoVall0904,ENG~hmac=a8bab6c8b11e9660bb8078ffbda8b496459a4dc44583b6128c57955f91982a61/master_2200.m3u8?aka_me_session_id=AAAAAAAAAADhINlpAAAAACAK%2fk51Wpd1BnTNO6e+OJnfpLhiPde4V3y1m1RTBaHoJJvabZl03P+Scg75z37p9KUUu+jie1zX&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3591848,AVERAGE-BANDWIDTH=3591848,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094588/RayoVall0904/ENG/hdntl=exp=1775837409~acl=%2f*~id=65082500957066807830884099079472~data=hdntl,2094588,RayoVall0904,ENG~hmac=a8bab6c8b11e9660bb8078ffbda8b496459a4dc44583b6128c57955f91982a61/master_3200.m3u8?aka_me_session_id=AAAAAAAAAADhINlpAAAAACAK%2fk51Wpd1BnTNO6e+OJnfpLhiPde4V3y1m1RTBaHoJJvabZl03P+Scg75z37p9KUUu+jie1zX&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094588/RayoVall0904/ENG/hdntl=exp=1775837409~acl=%2f*~id=65082500957066807830884099079472~data=hdntl,2094588,RayoVall0904,ENG~hmac=a8bab6c8b11e9660bb8078ffbda8b496459a4dc44583b6128c57955f91982a61/master_4500.m3u8?aka_me_session_id=AAAAAAAAAADhINlpAAAAACAK%2fk51Wpd1BnTNO6e+OJnfpLhiPde4V3y1m1RTBaHoJJvabZl03P+Scg75z37p9KUUu+jie1zX&aka_media_format_type=hls",
-              "date": "Thursday 9th of April 2026 09:40:07 PM"
-            }
-          }
-        }
-      ]
-    }
-  ],
+  "data": [],
   "upcoming": [
     {
       "contentId": 1090507833,
@@ -239,124 +136,6 @@
       "MULTIPLE_AUDIO_LINKS": []
     },
     {
-      "contentId": 1090507836,
-      "video_info": {
-        "title": "A New Story Every Friday",
-        "shortDescription": "Catch a new story every Friday and make your summers brighter. Watch exclusive shows, films and sports content only on Sony LIV.",
-        "longDescription": "Catch a new story every Friday and make your summers brighter. Watch exclusive shows, films and sports content only on Sony LIV.",
-        "genres": [
-          "Entertainment",
-          "Sports"
-        ],
-        "episodeTitle": ""
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "LIV",
-        "audio_language_list": [
-          {
-            "lang_code": "HIN",
-            "lang_label": "Hindi"
-          }
-        ],
-        "emfAttributes__audio_languages": "HIN",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "HIN",
-              "isPreferred": true,
-              "audioLanguageLabel": "Hindi",
-              "type": "main"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/8cb28f1225d04b229bbfc484ca4fdeda/1773489943/baseline-std-v4/SUMMERCOMPOSITE_70SEC_HOR_WSUB_WOBUG_APP_hin_baseline-800300010.mpd",
-          "hasTrailer": true
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "14 Mar 2026, 12:00 AM",
-        "contractEndDate": "14 Mar 2121, 11:59 PM",
-        "originalAirDate": null
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016652/177463057161619_undekhi4_SS_27mar_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016189/1773494443654730_gec_combo_promo_landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016322/1773771549622875_MMV2_New_Story_Every_Friday_composite_promo_17mar_984x1182_masthead_mobile_v2.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016189/1773489924531730_GEC_combo_promo_masthead_logo.png",
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016189/1773494443654730_gec_combo_promo_landscape_thumb.jpg"
-      },
-      "MULTIPLE_AUDIO_LINKS": []
-    },
-    {
-      "contentId": 1090507838,
-      "video_info": {
-        "title": "A New Story Every Friday",
-        "shortDescription": "Catch a new story every Friday and make your summers brighter. Watch exclusive shows, films and sports content only on Sony LIV.",
-        "longDescription": "Catch a new story every Friday and make your summers brighter. Watch exclusive shows, films and sports content only on Sony LIV.",
-        "genres": [
-          "Entertainment",
-          "Sports"
-        ],
-        "episodeTitle": ""
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "LIV",
-        "audio_language_list": [
-          {
-            "lang_code": "HIN",
-            "lang_label": "Hindi"
-          }
-        ],
-        "emfAttributes__audio_languages": "HIN",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "HIN",
-              "isPreferred": true,
-              "audioLanguageLabel": "Hindi",
-              "type": "main"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/8cb28f1225d04b229bbfc484ca4fdeda/1773489943/baseline-std-v4/SUMMERCOMPOSITE_70SEC_HOR_WSUB_WOBUG_APP_hin_baseline-800300010.mpd",
-          "hasTrailer": true
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "14 Mar 2026, 12:00 AM",
-        "contractEndDate": "14 Mar 2121, 11:59 PM",
-        "originalAirDate": null
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016652/177462978406719_gullak5_SS_27mar_promo_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016189/1773494443654730_gec_combo_promo_landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016322/1773771549622875_MMV2_New_Story_Every_Friday_composite_promo_17mar_984x1182_masthead_mobile_v2.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016189/1773489924531730_GEC_combo_promo_masthead_logo.png",
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016189/1773494443654730_gec_combo_promo_landscape_thumb.jpg"
-      },
-      "MULTIPLE_AUDIO_LINKS": []
-    },
-    {
       "contentId": 1090525225,
       "video_info": {
         "title": "Tum Ho Naa",
@@ -415,14 +194,14 @@
       "MULTIPLE_AUDIO_LINKS": []
     },
     {
-      "contentId": 1090511806,
+      "contentId": 1090507840,
       "video_info": {
-        "title": "Main Woh Aur Fuji",
-        "shortDescription": "In a world where love is filtered, scored and predicted, a couple in Pune collides in a fierce, consuming romance. What begins in urgency and desire slowly fractures. Seven years later, beneath the shadow of Mount Fuji, they meet again carrying different lives, different scars, confronting a past that never truly left them. Can love survive its own history or shall it merely haunt them? Witness Lalit Prabhakar and Mrinmayee Godbole in a fresh, new-age romantic movie Main Woh Aur Fuji, streaming from 10th April, on Sony LIV.",
-        "longDescription": "In a world where love is filtered, scored and predicted, a couple in Pune collides in a fierce, consuming romance. What begins in urgency and desire slowly fractures. Seven years later, beneath the shadow of Mount Fuji, they meet again carrying different lives, different scars, confronting a past that never truly left them. Can love survive its own history or shall it merely haunt them? Witness Lalit Prabhakar and Mrinmayee Godbole in a fresh, new-age romantic movie Main Woh Aur Fuji, streaming from 10th April, on Sony LIV.",
+        "title": "A New Story Every Friday",
+        "shortDescription": "Catch a new story every Friday and make your summers brighter. Watch exclusive shows, films and sports content only on Sony LIV.",
+        "longDescription": "Catch a new story every Friday and make your summers brighter. Watch exclusive shows, films and sports content only on Sony LIV.",
         "genres": [
-          "Romance",
-          "Drama"
+          "Entertainment",
+          "Sports"
         ],
         "episodeTitle": ""
       },
@@ -432,15 +211,11 @@
         "broadcast_channel": "LIV",
         "audio_language_list": [
           {
-            "lang_code": "MAR",
-            "lang_label": "Marathi"
-          },
-          {
             "lang_code": "HIN",
             "lang_label": "Hindi"
           }
         ],
-        "emfAttributes__audio_languages": "MAR,HIN",
+        "emfAttributes__audio_languages": "HIN",
         "platformVariants": {
           "assetType": "MASTER",
           "assetName": "VOD_FULL_HD1",
@@ -456,24 +231,24 @@
           ],
           "subtitlesLanguages": [],
           "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/promo/DASH/373873ebe8564191b814946bcaaed733/1775149604/baseline-std-v4/MAIN_WOH_AUR_FUJI_TRAILER_1MIN_6_SEC_HOR_HINDI_WSUB_WOBUG_DATED_APP_IND_REV_hin_baseline-800300010.mpd",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/8cb28f1225d04b229bbfc484ca4fdeda/1773489943/baseline-std-v4/SUMMERCOMPOSITE_70SEC_HOR_WSUB_WOBUG_APP_hin_baseline-800300010.mpd",
           "hasTrailer": true
         }
       },
       "air_dates": {
-        "contractStartDate": "02 Apr 2026, 10:00 AM",
-        "contractEndDate": "10 Apr 2026, 12:00 PM",
+        "contractStartDate": "14 Mar 2026, 12:00 AM",
+        "contractEndDate": "14 Mar 2121, 11:59 PM",
         "originalAirDate": null
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016870/17752224162163_Fuzi_dated_3apr_portrait_thumb1.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1590015819/thumbnail/1775273627241_./MWF_Landscape_Thumb_Dated.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016654/1774634474955943_There_is_More_To_LIV_27mar_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016189/1773494443654730_gec_combo_promo_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1590015819/mastheadMobileV2/1775244257820_./MWF_masthead_mobile_v2_984x1182.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090511806/mastheadLogo/1775673087130_1775315336118732_MWF_1DTG_4apr_countdown_masthead_logo.png",
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016322/1773771549622875_MMV2_New_Story_Every_Friday_composite_promo_17mar_984x1182_masthead_mobile_v2.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016189/1773489924531730_GEC_combo_promo_masthead_logo.png",
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1590015819/thumbnail/1775273627241_./MWF_Landscape_Thumb_Dated.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016189/1773494443654730_gec_combo_promo_landscape_thumb.jpg"
       },
       "MULTIPLE_AUDIO_LINKS": []
     }
