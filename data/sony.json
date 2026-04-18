@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "18-04-2026 04:40",
+  "last_updated": "03:40:09 PM 18-04-2026",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -16,23 +16,22 @@
     "SERVER_STATUS": "NORMAL",
     "USAGE_GUIDE": []
   },
-  "data": [],
-  "upcoming": [
+  "data": [
     {
-      "contentId": 1090528425,
+      "contentId": 1090528268,
       "video_info": {
-        "title": "Upcoming - Emirates FA Cup - Semifinals - Manchester City vs Southampton",
-        "shortDescription": "Tune in to catch all the action from the Emirates FA Cup Semifinals, exclusively on Sony LIV.",
-        "longDescription": "Tune in to catch all the action from the Emirates FA Cup Semifinals, exclusively on Sony LIV.",
+        "title": "Indian Football League 2026",
+        "shortDescription": "Diamond Harbour FC take on Gokulam Kerala FC in an exciting clash, with both sides eager to build momentum. Expect a competitive encounter as Diamond Harbour FC look to capitalize at home, while Gokulam Kerala FC aim to secure valuable points on the road. Tune in to catch all the action from Indian Football League 2026, LIVE on Sony LIV.",
+        "longDescription": "Diamond Harbour FC take on Gokulam Kerala FC in an exciting clash, with both sides eager to build momentum. Expect a competitive encounter as Diamond Harbour FC look to capitalize at home, while Gokulam Kerala FC aim to secure valuable points on the road. Tune in to catch all the action from Indian Football League 2026, LIVE on Sony LIV.",
         "genres": [
           "Football"
         ],
-        "episodeTitle": ""
+        "episodeTitle": "Diamond Harbour FC vs Gokulam Kerala FC - 18 Apr 2026"
       },
       "stream_info": {
         "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "Sony Sports Ten 5",
+        "dai_asset_key": "https://dai.google.com/ssai/event/V1tapABJTSOCEfSvJXTwNQ/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 2",
         "audio_language_list": [
           {
             "lang_code": "ENG",
@@ -42,44 +41,90 @@
         "emfAttributes__audio_languages": "ENG",
         "platformVariants": {
           "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
           "audioLanguages": [
             {
               "audioId": 1,
               "audioLanguageName": "ENG",
               "isPreferred": true,
-              "audioLanguageLabel": "English",
-              "type": "main"
+              "audioLanguageLabel": "English"
             }
           ],
           "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/1725a06d904845409e091706191abfeb/1776438464/baseline-std-v4/1090528342_17042026_eng_baseline-800300010.mpd",
-          "hasTrailer": true
+          "videoUrl": "NA"
         }
       },
       "air_dates": {
-        "contractStartDate": "17 Apr 2026, 10:00 AM",
-        "contractEndDate": "25 Apr 2026, 09:05 PM",
-        "originalAirDate": null
+        "contractStartDate": "18 Apr 2026, 03:30 PM",
+        "contractEndDate": "18 Apr 2026, 08:30 PM",
+        "originalAirDate": "18 Apr 2026, 04:00 PM"
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017325/1776442018915101_FACup26_SemiFinal_Man_city_vs_Southampton_DDT_upcoming_on_liv_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017311/1776427343165560_FA-Cup-Semi-Final_Man-city-vs-Southampton_DDT_landscape_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016703/1774788243379263_IFC_Diamond_Harbour_FC_vs_Gokulam_Kerala_FC_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016703/1774788286763263_IFC_Diamond_Harbour_FC_vs_Gokulam_Kerala_FC_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": null,
-        "masthead_logo": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017196/1776153762381459_I_LEAGUE_masthead_mobile_v2_984x1182_Diamond_Harbour_FC_vs_Gokulam_Kerala_FC.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017196/1776153761966459_I_LEAGUE_Masthead_logo_Diamond_Harbour_FC_vs_Gokulam_Kerala_FC_LIVE.png",
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017311/1776427343165560_FA-Cup-Semi-Final_Man-city-vs-Southampton_DDT_landscape_thumb.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016703/1774788286763263_IFC_Diamond_Harbour_FC_vs_Gokulam_Kerala_FC_landscape_thumb.jpg"
       },
-      "MULTIPLE_AUDIO_LINKS": []
-    },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2005444/Diamond_1804/ENG/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioId": 1,
+                  "audioLanguageName": "ENG",
+                  "isPreferred": true,
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/V1tapABJTSOCEfSvJXTwNQ/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1776507013905,
+              "DOCTOR_STRANGE": 1776507009,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB",
+                "adServer": "GAM"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/Diamond_1804/ENG/hdntl=exp=1776593414~acl=%2f*~id=58472045948720163076608321276199~data=hdntl,2005444,Diamond_1804,ENG~hmac=fa9f3d83db40d7902c406f9461ff90a3154b93180e6bd9527adf098a1f56f300/master_200.m3u8?aka_me_session_id=AAAAAAAAAAAGquRpAAAAAMeD8YdfpiqGS3GL907Gkp26W1fsF6VDnbp8vYnIblElYpzRHlqDdZEzOdkY6IQIel56RbIJyWZe&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/Diamond_1804/ENG/hdntl=exp=1776593414~acl=%2f*~id=58472045948720163076608321276199~data=hdntl,2005444,Diamond_1804,ENG~hmac=fa9f3d83db40d7902c406f9461ff90a3154b93180e6bd9527adf098a1f56f300/master_400.m3u8?aka_me_session_id=AAAAAAAAAAAGquRpAAAAAMeD8YdfpiqGS3GL907Gkp26W1fsF6VDnbp8vYnIblElYpzRHlqDdZEzOdkY6IQIel56RbIJyWZe&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/Diamond_1804/ENG/hdntl=exp=1776593414~acl=%2f*~id=58472045948720163076608321276199~data=hdntl,2005444,Diamond_1804,ENG~hmac=fa9f3d83db40d7902c406f9461ff90a3154b93180e6bd9527adf098a1f56f300/master_500.m3u8?aka_me_session_id=AAAAAAAAAAAGquRpAAAAAMeD8YdfpiqGS3GL907Gkp26W1fsF6VDnbp8vYnIblElYpzRHlqDdZEzOdkY6IQIel56RbIJyWZe&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=837256,AVERAGE-BANDWIDTH=837256,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/Diamond_1804/ENG/hdntl=exp=1776593414~acl=%2f*~id=58472045948720163076608321276199~data=hdntl,2005444,Diamond_1804,ENG~hmac=fa9f3d83db40d7902c406f9461ff90a3154b93180e6bd9527adf098a1f56f300/master_600.m3u8?aka_me_session_id=AAAAAAAAAAAGquRpAAAAAMeD8YdfpiqGS3GL907Gkp26W1fsF6VDnbp8vYnIblElYpzRHlqDdZEzOdkY6IQIel56RbIJyWZe&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/Diamond_1804/ENG/hdntl=exp=1776593414~acl=%2f*~id=58472045948720163076608321276199~data=hdntl,2005444,Diamond_1804,ENG~hmac=fa9f3d83db40d7902c406f9461ff90a3154b93180e6bd9527adf098a1f56f300/master_1000.m3u8?aka_me_session_id=AAAAAAAAAAAGquRpAAAAAMeD8YdfpiqGS3GL907Gkp26W1fsF6VDnbp8vYnIblElYpzRHlqDdZEzOdkY6IQIel56RbIJyWZe&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/Diamond_1804/ENG/hdntl=exp=1776593414~acl=%2f*~id=58472045948720163076608321276199~data=hdntl,2005444,Diamond_1804,ENG~hmac=fa9f3d83db40d7902c406f9461ff90a3154b93180e6bd9527adf098a1f56f300/master_1300.m3u8?aka_me_session_id=AAAAAAAAAAAGquRpAAAAAMeD8YdfpiqGS3GL907Gkp26W1fsF6VDnbp8vYnIblElYpzRHlqDdZEzOdkY6IQIel56RbIJyWZe&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/Diamond_1804/ENG/hdntl=exp=1776593414~acl=%2f*~id=58472045948720163076608321276199~data=hdntl,2005444,Diamond_1804,ENG~hmac=fa9f3d83db40d7902c406f9461ff90a3154b93180e6bd9527adf098a1f56f300/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAAGquRpAAAAAMeD8YdfpiqGS3GL907Gkp26W1fsF6VDnbp8vYnIblElYpzRHlqDdZEzOdkY6IQIel56RbIJyWZe&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/Diamond_1804/ENG/hdntl=exp=1776593414~acl=%2f*~id=58472045948720163076608321276199~data=hdntl,2005444,Diamond_1804,ENG~hmac=fa9f3d83db40d7902c406f9461ff90a3154b93180e6bd9527adf098a1f56f300/master_2200.m3u8?aka_me_session_id=AAAAAAAAAAAGquRpAAAAAMeD8YdfpiqGS3GL907Gkp26W1fsF6VDnbp8vYnIblElYpzRHlqDdZEzOdkY6IQIel56RbIJyWZe&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3591848,AVERAGE-BANDWIDTH=3591848,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/Diamond_1804/ENG/hdntl=exp=1776593414~acl=%2f*~id=58472045948720163076608321276199~data=hdntl,2005444,Diamond_1804,ENG~hmac=fa9f3d83db40d7902c406f9461ff90a3154b93180e6bd9527adf098a1f56f300/master_3200.m3u8?aka_me_session_id=AAAAAAAAAAAGquRpAAAAAMeD8YdfpiqGS3GL907Gkp26W1fsF6VDnbp8vYnIblElYpzRHlqDdZEzOdkY6IQIel56RbIJyWZe&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/Diamond_1804/ENG/hdntl=exp=1776593414~acl=%2f*~id=58472045948720163076608321276199~data=hdntl,2005444,Diamond_1804,ENG~hmac=fa9f3d83db40d7902c406f9461ff90a3154b93180e6bd9527adf098a1f56f300/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAAGquRpAAAAAMeD8YdfpiqGS3GL907Gkp26W1fsF6VDnbp8vYnIblElYpzRHlqDdZEzOdkY6IQIel56RbIJyWZe&aka_media_format_type=hls",
+              "date": "Saturday 18th of April 2026 03:40:09 PM"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "upcoming": [
     {
-      "contentId": 1090528424,
+      "contentId": 1090528312,
       "video_info": {
-        "title": "Upcoming - Emirates FA Cup - Semifinals - Chelsea vs Leeds United",
+        "title": "Upcoming - Emirates FA Cup Semifinals",
         "shortDescription": "Tune in to catch all the action from the Emirates FA Cup Semifinals, exclusively on Sony LIV.",
         "longDescription": "Tune in to catch all the action from the Emirates FA Cup Semifinals, exclusively on Sony LIV.",
         "genres": [
@@ -113,24 +158,24 @@
           ],
           "subtitlesLanguages": [],
           "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/82e11d55d7a1429ab5b592502b1a0287/1776438472/baseline-std-v4/1090528341_17042026_eng_baseline-800300010.mpd",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/2b6f1e4e80b64bacb5c0e350e86cb429/1776327659/baseline-std-v4/PROMO_FACUP_SEMIFINAL_30SEC_HOR_DATED_APP_eng_baseline-800300010.mpd",
           "hasTrailer": true
         }
       },
       "air_dates": {
-        "contractStartDate": "17 Apr 2026, 10:00 AM",
+        "contractStartDate": "16 Apr 2026, 01:00 PM",
         "contractEndDate": "26 Apr 2026, 06:50 PM",
         "originalAirDate": null
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017325/1776443520868101_FACup26_SemiFinal_Chelsea_vs_Leeds_United_DDT_upcoming_on_liv_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017311/1776425034626560_FA-Cup-Semi-Final-Chelsea-vs-Leeds-United_DDT_landscape_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017298/177641131053328_FA_Cup_Semi_Finals_big_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017295/1776383756915532_FAcup26_SF_17apr_dated_rev_promo_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
         "masthead_mobile_v2": null,
         "masthead_logo": null,
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017311/1776425034626560_FA-Cup-Semi-Final-Chelsea-vs-Leeds-United_DDT_landscape_thumb.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017295/1776383756915532_FAcup26_SF_17apr_dated_rev_promo_landscape_thumb.jpg"
       },
       "MULTIPLE_AUDIO_LINKS": []
     },
@@ -193,11 +238,11 @@
       "MULTIPLE_AUDIO_LINKS": []
     },
     {
-      "contentId": 1090526851,
+      "contentId": 1090528328,
       "video_info": {
         "title": "India's Best Dancer",
-        "shortDescription": "India's Best Dancer Season 5 is coming back with Karisma Kapoor. Watch India's Best Dancer, streaming from 9th May, on Sony LIV.",
-        "longDescription": "India's Best Dancer Season 5 is coming back with Karisma Kapoor. Watch India's Best Dancer, streaming from 9th May, on Sony LIV.",
+        "shortDescription": "India's Best Dancer Season 5 is coming back with Jaaved Jaaferi. Watch India's Best Dancer, streaming from 9th May, on Sony LIV.",
+        "longDescription": "India's Best Dancer Season 5 is coming back with Jaaved Jaaferi. Watch India's Best Dancer, streaming from 9th May, on Sony LIV.",
         "genres": [
           "Reality",
           "Dance"
@@ -230,17 +275,17 @@
           ],
           "subtitlesLanguages": [],
           "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/4df31229bd164460b08ce9205452e2b8/1775915878/baseline-std-v4/IBDS5KARISMATEASER20SEC_HOR_WOSUB_WOBUG_DATED_APP_IND_hin_baseline-800300010.mpd",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/0cf69c1e88314de7a69c343eebb72f4a/1776412989/baseline-std-v4/INDIAS_BEST_DANCER_45_SEC_HOR_WOSUB_WOBUG_DATED_APP_IND_hin_baseline-800300010.mpd",
           "hasTrailer": true
         }
       },
       "air_dates": {
-        "contractStartDate": "10 Apr 2026, 12:00 AM",
+        "contractStartDate": "17 Apr 2026, 01:00 PM",
         "contractEndDate": "09 May 2026, 08:00 PM",
         "originalAirDate": null
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017131/1775853767737975_IBD_S5_dated_11apr_upcoming_on_liv_portrait_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017130/1775853498323484_IBD_S5_dated_11apr_promo_portrait_thumb.jpg",
         "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017130/1775853400635484_IBD_S5_dated_11apr_promo_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
         "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016061/1773238634930831_ibd5_11mar_masthead_mobile_v2.jpg",
