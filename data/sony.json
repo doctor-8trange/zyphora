@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "10:20:07 PM 20-04-2026",
+  "last_updated": "10:40:06 PM 20-04-2026",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -17,112 +17,6 @@
     "USAGE_GUIDE": []
   },
   "data": [
-    {
-      "contentId": 1090500468,
-      "video_info": {
-        "title": "Wheel Of Fortune",
-        "shortDescription": "Recognised by Guinness World Records as the world’s most popular TV game show, Wheel of Fortune arrives in India in spectacular fashion, hosted by Akshay Kumar. Contestants enter a thrilling word game, decoding phrases spanning Bollywood, pop culture and everyday life. Blending entertainment with edge-of-the-seat moments, every alphabet can change the game as players compete for paisa and prizes.",
-        "longDescription": "Recognised by Guinness World Records as the world’s most popular TV game show, Wheel of Fortune arrives in India in spectacular fashion, hosted by Akshay Kumar. Contestants enter a thrilling word game, decoding phrases spanning Bollywood, pop culture and everyday life. Blending entertainment with edge-of-the-seat moments, every alphabet can change the game as players compete for paisa and prizes.",
-        "genres": [
-          "Game show"
-        ],
-        "episodeTitle": "Wheel Of Fortune"
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": "https://dai.google.com/ssai/event/ywC0TYXoSbOYu7fxpFglFA/master.m3u8",
-        "broadcast_channel": "SET",
-        "audio_language_list": [
-          {
-            "lang_code": "HIN",
-            "lang_label": "Hindi"
-          }
-        ],
-        "emfAttributes__audio_languages": "HIN",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD",
-          "videoType": "FULL_HD",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "HIN",
-              "isPreferred": true,
-              "audioLanguageLabel": "Hindi"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA"
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "20 Apr 2026, 08:30 PM",
-        "contractEndDate": "20 Apr 2026, 10:26 PM",
-        "originalAirDate": "20 Apr 2026, 08:30 PM"
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016744/1774877364821375_WOF_simulcast_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016744/1774877224201375_WOF_simulcast_landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016745/177493810635271_WOF_31mar_masthead_mobile_v2.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014354/176952176347656_WOF_27jan_simulcast_masthead_logo.png",
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016744/1774877224201375_WOF_simulcast_landscape_thumb.jpg"
-      },
-      "MULTIPLE_AUDIO_LINKS": [
-        {
-          "LANGUAGE": "Hindi",
-          "LANG_CODE": "HIN",
-          "DATA": {
-            "JITENDRAUNATTI": {
-              "Device_Type": "LITE",
-              "message": "success",
-              "Playback_videoURL": "https://sonydaimenew.akamaized.net/hls/live/2022321/DAI17ME-WOF/master.m3u8",
-              "WIDEVINE": null,
-              "STREAMING_TYPE": true,
-              "audioLanguages": [
-                {
-                  "audioId": 1,
-                  "audioLanguageName": "HIN",
-                  "isPreferred": true,
-                  "audioLanguageLabel": "Hindi"
-                },
-                {
-                  "audioLanguageName": "HIN",
-                  "audioLanguageLabel": "Hindi",
-                  "audioLangIdentifier": "HIN"
-                }
-              ],
-              "dai_asset_key": "https://dai.google.com/ssai/event/ywC0TYXoSbOYu7fxpFglFA/master.m3u8",
-              "Maximum_Video_Quality": "SDR",
-              "Maximum_Resolution": "FULL_HD",
-              "trailer_url": "",
-              "systemTime": 1776699003788,
-              "DOCTOR_STRANGE": 1776699004,
-              "additionalDataJson": {
-                "ad_stack": "DAI-IMA",
-                "audioCodec": "AAC",
-                "audio_quality": "STEREO",
-                "enc_format": "HLS",
-                "fps": 50,
-                "isDaiKey": true,
-                "partners": [
-                  "ALL"
-                ],
-                "resolution": "HD",
-                "videoCodec": "H264",
-                "video_quality": "SDR"
-              },
-              "Status_code": 200,
-              "content_type": "application/json; charset=utf-8",
-              "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.4d4015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=256x144,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2022321/DAI17ME-WOF/hdntl=exp=1776785404~acl=%2f*~id=27949488007437042556228549815193~data=hdntl,2022321,DAI17ME-WOF,none~hmac=71bc65c5d3d777bcbb81187d421b7be125077fc9d59b7ae11a0a88b14efcdd30/master_200.m3u8?aka_me_session_id=AAAAAAAAAAD8l+dpAAAAAMdzObYbWZroIoqA9kn5GZZRd1d5Kmc0xYroD5Ax8ysTj8UM0oZDP%2fHqTciR3ZZgA2jAdI54j+39&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=581816,AVERAGE-BANDWIDTH=581816,CODECS=\"avc1.4d4015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2022321/DAI17ME-WOF/hdntl=exp=1776785404~acl=%2f*~id=27949488007437042556228549815193~data=hdntl,2022321,DAI17ME-WOF,none~hmac=71bc65c5d3d777bcbb81187d421b7be125077fc9d59b7ae11a0a88b14efcdd30/master_350.m3u8?aka_me_session_id=AAAAAAAAAAD8l+dpAAAAAMdzObYbWZroIoqA9kn5GZZRd1d5Kmc0xYroD5Ax8ysTj8UM0oZDP%2fHqTciR3ZZgA2jAdI54j+39&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=735080,AVERAGE-BANDWIDTH=735080,CODECS=\"avc1.64001e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2022321/DAI17ME-WOF/hdntl=exp=1776785404~acl=%2f*~id=27949488007437042556228549815193~data=hdntl,2022321,DAI17ME-WOF,none~hmac=71bc65c5d3d777bcbb81187d421b7be125077fc9d59b7ae11a0a88b14efcdd30/master_500.m3u8?aka_me_session_id=AAAAAAAAAAD8l+dpAAAAAMdzObYbWZroIoqA9kn5GZZRd1d5Kmc0xYroD5Ax8ysTj8UM0oZDP%2fHqTciR3ZZgA2jAdI54j+39&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=939432,AVERAGE-BANDWIDTH=939432,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2022321/DAI17ME-WOF/hdntl=exp=1776785404~acl=%2f*~id=27949488007437042556228549815193~data=hdntl,2022321,DAI17ME-WOF,none~hmac=71bc65c5d3d777bcbb81187d421b7be125077fc9d59b7ae11a0a88b14efcdd30/master_700.m3u8?aka_me_session_id=AAAAAAAAAAD8l+dpAAAAAMdzObYbWZroIoqA9kn5GZZRd1d5Kmc0xYroD5Ax8ysTj8UM0oZDP%2fHqTciR3ZZgA2jAdI54j+39&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2022321/DAI17ME-WOF/hdntl=exp=1776785404~acl=%2f*~id=27949488007437042556228549815193~data=hdntl,2022321,DAI17ME-WOF,none~hmac=71bc65c5d3d777bcbb81187d421b7be125077fc9d59b7ae11a0a88b14efcdd30/master_1300.m3u8?aka_me_session_id=AAAAAAAAAAD8l+dpAAAAAMdzObYbWZroIoqA9kn5GZZRd1d5Kmc0xYroD5Ax8ysTj8UM0oZDP%2fHqTciR3ZZgA2jAdI54j+39&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2267688,AVERAGE-BANDWIDTH=2267688,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2022321/DAI17ME-WOF/hdntl=exp=1776785404~acl=%2f*~id=27949488007437042556228549815193~data=hdntl,2022321,DAI17ME-WOF,none~hmac=71bc65c5d3d777bcbb81187d421b7be125077fc9d59b7ae11a0a88b14efcdd30/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAD8l+dpAAAAAMdzObYbWZroIoqA9kn5GZZRd1d5Kmc0xYroD5Ax8ysTj8UM0oZDP%2fHqTciR3ZZgA2jAdI54j+39&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2778568,AVERAGE-BANDWIDTH=2778568,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2022321/DAI17ME-WOF/hdntl=exp=1776785404~acl=%2f*~id=27949488007437042556228549815193~data=hdntl,2022321,DAI17ME-WOF,none~hmac=71bc65c5d3d777bcbb81187d421b7be125077fc9d59b7ae11a0a88b14efcdd30/master_2500.m3u8?aka_me_session_id=AAAAAAAAAAD8l+dpAAAAAMdzObYbWZroIoqA9kn5GZZRd1d5Kmc0xYroD5Ax8ysTj8UM0oZDP%2fHqTciR3ZZgA2jAdI54j+39&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3800296,AVERAGE-BANDWIDTH=3800296,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2022321/DAI17ME-WOF/hdntl=exp=1776785404~acl=%2f*~id=27949488007437042556228549815193~data=hdntl,2022321,DAI17ME-WOF,none~hmac=71bc65c5d3d777bcbb81187d421b7be125077fc9d59b7ae11a0a88b14efcdd30/master_3500.m3u8?aka_me_session_id=AAAAAAAAAAD8l+dpAAAAAMdzObYbWZroIoqA9kn5GZZRd1d5Kmc0xYroD5Ax8ysTj8UM0oZDP%2fHqTciR3ZZgA2jAdI54j+39&aka_media_format_type=hls",
-              "date": "Monday 20th of April 2026 09:00:04 PM"
-            }
-          }
-        }
-      ]
-    },
     {
       "contentId": 1090528513,
       "video_info": {
