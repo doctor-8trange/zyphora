@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "Sony Live Matches API",
-  "last_updated": "25-04-2026 15:00",
+  "last_updated": "06:00:14 PM 25-04-2026",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -16,7 +16,108 @@
     "SERVER_STATUS": "NORMAL",
     "USAGE_GUIDE": []
   },
-  "data": [],
+  "data": [
+    {
+      "contentId": 1090528761,
+      "video_info": {
+        "title": "Star Cement Indian Football League 2025-26",
+        "shortDescription": "Chanmari FC, aiming to build momentum at a crucial stage of the season, play host to the table-toppers with valuable points on the line. Tune in to catch all the action from Star Cement  Indian Football League 2025-26, LIVE on Sony LIV.",
+        "longDescription": "Chanmari FC, aiming to build momentum at a crucial stage of the season, play host to the table-toppers with valuable points on the line. Tune in to catch all the action from Star Cement  Indian Football League 2025-26, LIVE on Sony LIV.",
+        "genres": [
+          "Football"
+        ],
+        "episodeTitle": "Chanmari FC vs Diamond Harbour FC - 25 Apr 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/uAq6DxJrSHWYY9RB_OaOUw/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 2",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "25 Apr 2026, 06:00 PM",
+        "contractEndDate": "25 Apr 2026, 11:00 PM",
+        "originalAirDate": "25 Apr 2026, 06:30 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017409/1776794948201598_IFL26_ChanmariFC_vs_DiamondHarbourFC_21apr_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017409/1776795097937598_IFL26_ChanmariFC_vs_DiamondHarbourFC_21apr_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017402/177677862642960_I_LEAGUE_masthead_mobile_v2_984x1182_Chanmari_FC_vs_Diamond_Harbour_FC.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017402/177677862584160_I_LEAGUE_Masthead_logo_Chanmari_FC_vs_Diamond_Harbour_FC_Live.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017409/1776795097937598_IFL26_ChanmariFC_vs_DiamondHarbourFC_21apr_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/20000293/IFL_Chan2504/ENG/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioLanguageName": "ENG",
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/uAq6DxJrSHWYY9RB_OaOUw/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1777120212005,
+              "DOCTOR_STRANGE": 1777120214,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB",
+                "adServer": "GAM"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000293/IFL_Chan2504/ENG/hdntl=exp=1777206614~acl=%2f*~id=35417964196038390223095330015941~data=hdntl,20000293,IFL_Chan2504,ENG~hmac=f7d6ad0e0a1b510d3644fd9fd64aa8989054c70ba4963427becea276748f88c9/master_200.m3u8?aka_me_session_id=AAAAAAAAAABWBe5pAAAAAGadSI10bfFmTp+S+3TpekGCtXOCzKSkDR0z2KqwIFU4zGZHO%2f4nI9N5Z0oPsQm55rrH88yePbx6&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000293/IFL_Chan2504/ENG/hdntl=exp=1777206614~acl=%2f*~id=35417964196038390223095330015941~data=hdntl,20000293,IFL_Chan2504,ENG~hmac=f7d6ad0e0a1b510d3644fd9fd64aa8989054c70ba4963427becea276748f88c9/master_400.m3u8?aka_me_session_id=AAAAAAAAAABWBe5pAAAAAGadSI10bfFmTp+S+3TpekGCtXOCzKSkDR0z2KqwIFU4zGZHO%2f4nI9N5Z0oPsQm55rrH88yePbx6&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000293/IFL_Chan2504/ENG/hdntl=exp=1777206614~acl=%2f*~id=35417964196038390223095330015941~data=hdntl,20000293,IFL_Chan2504,ENG~hmac=f7d6ad0e0a1b510d3644fd9fd64aa8989054c70ba4963427becea276748f88c9/master_500.m3u8?aka_me_session_id=AAAAAAAAAABWBe5pAAAAAGadSI10bfFmTp+S+3TpekGCtXOCzKSkDR0z2KqwIFU4zGZHO%2f4nI9N5Z0oPsQm55rrH88yePbx6&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=837256,AVERAGE-BANDWIDTH=837256,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000293/IFL_Chan2504/ENG/hdntl=exp=1777206614~acl=%2f*~id=35417964196038390223095330015941~data=hdntl,20000293,IFL_Chan2504,ENG~hmac=f7d6ad0e0a1b510d3644fd9fd64aa8989054c70ba4963427becea276748f88c9/master_600.m3u8?aka_me_session_id=AAAAAAAAAABWBe5pAAAAAGadSI10bfFmTp+S+3TpekGCtXOCzKSkDR0z2KqwIFU4zGZHO%2f4nI9N5Z0oPsQm55rrH88yePbx6&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000293/IFL_Chan2504/ENG/hdntl=exp=1777206614~acl=%2f*~id=35417964196038390223095330015941~data=hdntl,20000293,IFL_Chan2504,ENG~hmac=f7d6ad0e0a1b510d3644fd9fd64aa8989054c70ba4963427becea276748f88c9/master_1000.m3u8?aka_me_session_id=AAAAAAAAAABWBe5pAAAAAGadSI10bfFmTp+S+3TpekGCtXOCzKSkDR0z2KqwIFU4zGZHO%2f4nI9N5Z0oPsQm55rrH88yePbx6&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000293/IFL_Chan2504/ENG/hdntl=exp=1777206614~acl=%2f*~id=35417964196038390223095330015941~data=hdntl,20000293,IFL_Chan2504,ENG~hmac=f7d6ad0e0a1b510d3644fd9fd64aa8989054c70ba4963427becea276748f88c9/master_1300.m3u8?aka_me_session_id=AAAAAAAAAABWBe5pAAAAAGadSI10bfFmTp+S+3TpekGCtXOCzKSkDR0z2KqwIFU4zGZHO%2f4nI9N5Z0oPsQm55rrH88yePbx6&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000293/IFL_Chan2504/ENG/hdntl=exp=1777206614~acl=%2f*~id=35417964196038390223095330015941~data=hdntl,20000293,IFL_Chan2504,ENG~hmac=f7d6ad0e0a1b510d3644fd9fd64aa8989054c70ba4963427becea276748f88c9/master_2000.m3u8?aka_me_session_id=AAAAAAAAAABWBe5pAAAAAGadSI10bfFmTp+S+3TpekGCtXOCzKSkDR0z2KqwIFU4zGZHO%2f4nI9N5Z0oPsQm55rrH88yePbx6&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000293/IFL_Chan2504/ENG/hdntl=exp=1777206614~acl=%2f*~id=35417964196038390223095330015941~data=hdntl,20000293,IFL_Chan2504,ENG~hmac=f7d6ad0e0a1b510d3644fd9fd64aa8989054c70ba4963427becea276748f88c9/master_2200.m3u8?aka_me_session_id=AAAAAAAAAABWBe5pAAAAAGadSI10bfFmTp+S+3TpekGCtXOCzKSkDR0z2KqwIFU4zGZHO%2f4nI9N5Z0oPsQm55rrH88yePbx6&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3591848,AVERAGE-BANDWIDTH=3591848,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000293/IFL_Chan2504/ENG/hdntl=exp=1777206614~acl=%2f*~id=35417964196038390223095330015941~data=hdntl,20000293,IFL_Chan2504,ENG~hmac=f7d6ad0e0a1b510d3644fd9fd64aa8989054c70ba4963427becea276748f88c9/master_3200.m3u8?aka_me_session_id=AAAAAAAAAABWBe5pAAAAAGadSI10bfFmTp+S+3TpekGCtXOCzKSkDR0z2KqwIFU4zGZHO%2f4nI9N5Z0oPsQm55rrH88yePbx6&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000293/IFL_Chan2504/ENG/hdntl=exp=1777206614~acl=%2f*~id=35417964196038390223095330015941~data=hdntl,20000293,IFL_Chan2504,ENG~hmac=f7d6ad0e0a1b510d3644fd9fd64aa8989054c70ba4963427becea276748f88c9/master_4500.m3u8?aka_me_session_id=AAAAAAAAAABWBe5pAAAAAGadSI10bfFmTp+S+3TpekGCtXOCzKSkDR0z2KqwIFU4zGZHO%2f4nI9N5Z0oPsQm55rrH88yePbx6&aka_media_format_type=hls",
+              "date": "Saturday 25th of April 2026 06:00:14 PM"
+            }
+          }
+        }
+      ]
+    }
+  ],
   "upcoming": [
     {
       "contentId": 1090528425,
