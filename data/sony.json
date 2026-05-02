@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Sony Live Matches API",
-  "last_updated": "06:00:19 PM 02-05-2026",
+  "last_updated": "06:21:12 PM 02-05-2026",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -18,6 +18,406 @@
     "USAGE_GUIDE": []
   },
   "data": [
+    {
+      "contentId": 1090529611,
+      "video_info": {
+        "title": "Bundesliga 2025-26",
+        "shortDescription": "Bayern Munich welcome Heidenheim in a Bundesliga clash, with the champions aiming to continue their dominant run at the top of the table. Heidenheim will look to stay disciplined and frustrate Bayern’s attacking firepower in what promises to be an intense encounter. Catch all the action from Bundesliga 2025-26, LIVE on Sony LIV.",
+        "longDescription": "Bayern Munich welcome Heidenheim in a Bundesliga clash, with the champions aiming to continue their dominant run at the top of the table. Heidenheim will look to stay disciplined and frustrate Bayern’s attacking firepower in what promises to be an intense encounter. Catch all the action from Bundesliga 2025-26, LIVE on Sony LIV.",
+        "genres": [
+          "Football"
+        ],
+        "episodeTitle": "Bayern Munich vs Heidenheim - MD 32 - 2 May 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/Myr-ILIeTBy_ZpY8gtoaRQ/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 2",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "02 May 2026, 06:20 PM",
+        "contractEndDate": "02 May 2026, 11:20 PM",
+        "originalAirDate": "02 May 2026, 06:50 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017551/1777366502008475_Bundesliga_2025-26_MD-32_Bayern-Munich-vs-Heidenheim_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017551/1777366525366475_Bundesliga_2025-26_MD-32_Bayern-Munich-vs-Heidenheim__landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017584/1777457767570151_Bundesliga2026_Match_masthead_mobile_v2_984x1182_Bayern_Munich_vs_Heidenheim.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017584/1777457767021151_Bundesliga2026_Match_Masthead_logo_Bayern_vs_Heidenheim_LIVE.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017551/1777366525366475_Bundesliga_2025-26_MD-32_Bayern-Munich-vs-Heidenheim__landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2094589/Bundesli0205/ENG/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioLanguageName": "ENG",
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/Myr-ILIeTBy_ZpY8gtoaRQ/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1777726256133,
+              "DOCTOR_STRANGE": 1777726256,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB",
+                "adServer": "GAM"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094589/Bundesli0205/ENG/hdntl=exp=1777812656~acl=%2f*~id=17190316878196270499366618849625~data=hdntl,2094589,Bundesli0205,ENG~hmac=80b5920746a1217fdaaa3f170045fa9fc7b6c9dfac3640e40126f76946ae34cf/master_200.m3u8?aka_me_session_id=AAAAAAAAAACwRPdpAAAAAOA50VFydIE+QKGyd%2frCVV6GRFw66AnXd1NoyW0bv%2fZSOoS3lAWKS2JQSqd75gRcgI8gTRcgNP4l&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094589/Bundesli0205/ENG/hdntl=exp=1777812656~acl=%2f*~id=17190316878196270499366618849625~data=hdntl,2094589,Bundesli0205,ENG~hmac=80b5920746a1217fdaaa3f170045fa9fc7b6c9dfac3640e40126f76946ae34cf/master_400.m3u8?aka_me_session_id=AAAAAAAAAACwRPdpAAAAAOA50VFydIE+QKGyd%2frCVV6GRFw66AnXd1NoyW0bv%2fZSOoS3lAWKS2JQSqd75gRcgI8gTRcgNP4l&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094589/Bundesli0205/ENG/hdntl=exp=1777812656~acl=%2f*~id=17190316878196270499366618849625~data=hdntl,2094589,Bundesli0205,ENG~hmac=80b5920746a1217fdaaa3f170045fa9fc7b6c9dfac3640e40126f76946ae34cf/master_500.m3u8?aka_me_session_id=AAAAAAAAAACwRPdpAAAAAOA50VFydIE+QKGyd%2frCVV6GRFw66AnXd1NoyW0bv%2fZSOoS3lAWKS2JQSqd75gRcgI8gTRcgNP4l&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=837256,AVERAGE-BANDWIDTH=837256,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094589/Bundesli0205/ENG/hdntl=exp=1777812656~acl=%2f*~id=17190316878196270499366618849625~data=hdntl,2094589,Bundesli0205,ENG~hmac=80b5920746a1217fdaaa3f170045fa9fc7b6c9dfac3640e40126f76946ae34cf/master_600.m3u8?aka_me_session_id=AAAAAAAAAACwRPdpAAAAAOA50VFydIE+QKGyd%2frCVV6GRFw66AnXd1NoyW0bv%2fZSOoS3lAWKS2JQSqd75gRcgI8gTRcgNP4l&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094589/Bundesli0205/ENG/hdntl=exp=1777812656~acl=%2f*~id=17190316878196270499366618849625~data=hdntl,2094589,Bundesli0205,ENG~hmac=80b5920746a1217fdaaa3f170045fa9fc7b6c9dfac3640e40126f76946ae34cf/master_1000.m3u8?aka_me_session_id=AAAAAAAAAACwRPdpAAAAAOA50VFydIE+QKGyd%2frCVV6GRFw66AnXd1NoyW0bv%2fZSOoS3lAWKS2JQSqd75gRcgI8gTRcgNP4l&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094589/Bundesli0205/ENG/hdntl=exp=1777812656~acl=%2f*~id=17190316878196270499366618849625~data=hdntl,2094589,Bundesli0205,ENG~hmac=80b5920746a1217fdaaa3f170045fa9fc7b6c9dfac3640e40126f76946ae34cf/master_1300.m3u8?aka_me_session_id=AAAAAAAAAACwRPdpAAAAAOA50VFydIE+QKGyd%2frCVV6GRFw66AnXd1NoyW0bv%2fZSOoS3lAWKS2JQSqd75gRcgI8gTRcgNP4l&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094589/Bundesli0205/ENG/hdntl=exp=1777812656~acl=%2f*~id=17190316878196270499366618849625~data=hdntl,2094589,Bundesli0205,ENG~hmac=80b5920746a1217fdaaa3f170045fa9fc7b6c9dfac3640e40126f76946ae34cf/master_2000.m3u8?aka_me_session_id=AAAAAAAAAACwRPdpAAAAAOA50VFydIE+QKGyd%2frCVV6GRFw66AnXd1NoyW0bv%2fZSOoS3lAWKS2JQSqd75gRcgI8gTRcgNP4l&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094589/Bundesli0205/ENG/hdntl=exp=1777812656~acl=%2f*~id=17190316878196270499366618849625~data=hdntl,2094589,Bundesli0205,ENG~hmac=80b5920746a1217fdaaa3f170045fa9fc7b6c9dfac3640e40126f76946ae34cf/master_2200.m3u8?aka_me_session_id=AAAAAAAAAACwRPdpAAAAAOA50VFydIE+QKGyd%2frCVV6GRFw66AnXd1NoyW0bv%2fZSOoS3lAWKS2JQSqd75gRcgI8gTRcgNP4l&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3591848,AVERAGE-BANDWIDTH=3591848,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094589/Bundesli0205/ENG/hdntl=exp=1777812656~acl=%2f*~id=17190316878196270499366618849625~data=hdntl,2094589,Bundesli0205,ENG~hmac=80b5920746a1217fdaaa3f170045fa9fc7b6c9dfac3640e40126f76946ae34cf/master_3200.m3u8?aka_me_session_id=AAAAAAAAAACwRPdpAAAAAOA50VFydIE+QKGyd%2frCVV6GRFw66AnXd1NoyW0bv%2fZSOoS3lAWKS2JQSqd75gRcgI8gTRcgNP4l&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094589/Bundesli0205/ENG/hdntl=exp=1777812656~acl=%2f*~id=17190316878196270499366618849625~data=hdntl,2094589,Bundesli0205,ENG~hmac=80b5920746a1217fdaaa3f170045fa9fc7b6c9dfac3640e40126f76946ae34cf/master_4500.m3u8?aka_me_session_id=AAAAAAAAAACwRPdpAAAAAOA50VFydIE+QKGyd%2frCVV6GRFw66AnXd1NoyW0bv%2fZSOoS3lAWKS2JQSqd75gRcgI8gTRcgNP4l&aka_media_format_type=hls",
+              "date": "Saturday 2nd of May 2026 06:20:56 PM"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "contentId": 1090529609,
+      "video_info": {
+        "title": "Bundesliga 2025-26",
+        "shortDescription": "Werder Bremen face Augsburg in a crucial Bundesliga encounter, with both teams looking to climb the standings and build momentum. Bremen will look to make the most of home advantage, while Augsburg aim to stay compact and capitalize on their chances in a tightly contested battle. Catch all the action from Bundesliga 2025-26, LIVE on Sony LIV.",
+        "longDescription": "Werder Bremen face Augsburg in a crucial Bundesliga encounter, with both teams looking to climb the standings and build momentum. Bremen will look to make the most of home advantage, while Augsburg aim to stay compact and capitalize on their chances in a tightly contested battle. Catch all the action from Bundesliga 2025-26, LIVE on Sony LIV.",
+        "genres": [
+          "Football"
+        ],
+        "episodeTitle": "Werder Bremen vs FC Augsburg - MD 32 - 2 May 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/Qj1-QMbLSuak3wfnlay8tQ/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 2",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "02 May 2026, 06:20 PM",
+        "contractEndDate": "02 May 2026, 11:20 PM",
+        "originalAirDate": "02 May 2026, 06:50 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017551/1777368834333475_Bundesliga_2025-26_MD-32_Werder-Bremen-vs-Augsburg_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017551/1777368856484475_Bundesliga_2025-26_MD-32_Werder-Bremen-vs-Augsburg_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": null,
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000507/1742306648095993_EuropeanQualifiers2025_GENERIC_Masthead_logo_LIVE.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017551/1777368856484475_Bundesliga_2025-26_MD-32_Werder-Bremen-vs-Augsburg_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2005445/BLIGA_We0205/ENG/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioLanguageName": "ENG",
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/Qj1-QMbLSuak3wfnlay8tQ/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1777726259127,
+              "DOCTOR_STRANGE": 1777726260,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB",
+                "adServer": "GAM"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005445/BLIGA_We0205/ENG/hdntl=exp=1777812660~acl=%2f*~id=17190316878196270499366618849625~data=hdntl,2005445,BLIGA_We0205,ENG~hmac=ff3b259208928177b72e4598bdaa74e33b8b25ac3edd9fb0de31a9afc69bca15/master_200.m3u8?aka_me_session_id=AAAAAAAAAAC0RPdpAAAAAHUbMPIQBWbah%2f9JvZQDNc2iX95KxSgikCrv0pDnZsKJaoOKNHWP%2fHwJ%2fzYvGvekMJX97wWOxETo&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005445/BLIGA_We0205/ENG/hdntl=exp=1777812660~acl=%2f*~id=17190316878196270499366618849625~data=hdntl,2005445,BLIGA_We0205,ENG~hmac=ff3b259208928177b72e4598bdaa74e33b8b25ac3edd9fb0de31a9afc69bca15/master_400.m3u8?aka_me_session_id=AAAAAAAAAAC0RPdpAAAAAHUbMPIQBWbah%2f9JvZQDNc2iX95KxSgikCrv0pDnZsKJaoOKNHWP%2fHwJ%2fzYvGvekMJX97wWOxETo&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005445/BLIGA_We0205/ENG/hdntl=exp=1777812660~acl=%2f*~id=17190316878196270499366618849625~data=hdntl,2005445,BLIGA_We0205,ENG~hmac=ff3b259208928177b72e4598bdaa74e33b8b25ac3edd9fb0de31a9afc69bca15/master_500.m3u8?aka_me_session_id=AAAAAAAAAAC0RPdpAAAAAHUbMPIQBWbah%2f9JvZQDNc2iX95KxSgikCrv0pDnZsKJaoOKNHWP%2fHwJ%2fzYvGvekMJX97wWOxETo&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=837256,AVERAGE-BANDWIDTH=837256,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005445/BLIGA_We0205/ENG/hdntl=exp=1777812660~acl=%2f*~id=17190316878196270499366618849625~data=hdntl,2005445,BLIGA_We0205,ENG~hmac=ff3b259208928177b72e4598bdaa74e33b8b25ac3edd9fb0de31a9afc69bca15/master_600.m3u8?aka_me_session_id=AAAAAAAAAAC0RPdpAAAAAHUbMPIQBWbah%2f9JvZQDNc2iX95KxSgikCrv0pDnZsKJaoOKNHWP%2fHwJ%2fzYvGvekMJX97wWOxETo&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005445/BLIGA_We0205/ENG/hdntl=exp=1777812660~acl=%2f*~id=17190316878196270499366618849625~data=hdntl,2005445,BLIGA_We0205,ENG~hmac=ff3b259208928177b72e4598bdaa74e33b8b25ac3edd9fb0de31a9afc69bca15/master_1000.m3u8?aka_me_session_id=AAAAAAAAAAC0RPdpAAAAAHUbMPIQBWbah%2f9JvZQDNc2iX95KxSgikCrv0pDnZsKJaoOKNHWP%2fHwJ%2fzYvGvekMJX97wWOxETo&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005445/BLIGA_We0205/ENG/hdntl=exp=1777812660~acl=%2f*~id=17190316878196270499366618849625~data=hdntl,2005445,BLIGA_We0205,ENG~hmac=ff3b259208928177b72e4598bdaa74e33b8b25ac3edd9fb0de31a9afc69bca15/master_1300.m3u8?aka_me_session_id=AAAAAAAAAAC0RPdpAAAAAHUbMPIQBWbah%2f9JvZQDNc2iX95KxSgikCrv0pDnZsKJaoOKNHWP%2fHwJ%2fzYvGvekMJX97wWOxETo&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005445/BLIGA_We0205/ENG/hdntl=exp=1777812660~acl=%2f*~id=17190316878196270499366618849625~data=hdntl,2005445,BLIGA_We0205,ENG~hmac=ff3b259208928177b72e4598bdaa74e33b8b25ac3edd9fb0de31a9afc69bca15/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAC0RPdpAAAAAHUbMPIQBWbah%2f9JvZQDNc2iX95KxSgikCrv0pDnZsKJaoOKNHWP%2fHwJ%2fzYvGvekMJX97wWOxETo&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005445/BLIGA_We0205/ENG/hdntl=exp=1777812660~acl=%2f*~id=17190316878196270499366618849625~data=hdntl,2005445,BLIGA_We0205,ENG~hmac=ff3b259208928177b72e4598bdaa74e33b8b25ac3edd9fb0de31a9afc69bca15/master_2200.m3u8?aka_me_session_id=AAAAAAAAAAC0RPdpAAAAAHUbMPIQBWbah%2f9JvZQDNc2iX95KxSgikCrv0pDnZsKJaoOKNHWP%2fHwJ%2fzYvGvekMJX97wWOxETo&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3591848,AVERAGE-BANDWIDTH=3591848,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005445/BLIGA_We0205/ENG/hdntl=exp=1777812660~acl=%2f*~id=17190316878196270499366618849625~data=hdntl,2005445,BLIGA_We0205,ENG~hmac=ff3b259208928177b72e4598bdaa74e33b8b25ac3edd9fb0de31a9afc69bca15/master_3200.m3u8?aka_me_session_id=AAAAAAAAAAC0RPdpAAAAAHUbMPIQBWbah%2f9JvZQDNc2iX95KxSgikCrv0pDnZsKJaoOKNHWP%2fHwJ%2fzYvGvekMJX97wWOxETo&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005445/BLIGA_We0205/ENG/hdntl=exp=1777812660~acl=%2f*~id=17190316878196270499366618849625~data=hdntl,2005445,BLIGA_We0205,ENG~hmac=ff3b259208928177b72e4598bdaa74e33b8b25ac3edd9fb0de31a9afc69bca15/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAC0RPdpAAAAAHUbMPIQBWbah%2f9JvZQDNc2iX95KxSgikCrv0pDnZsKJaoOKNHWP%2fHwJ%2fzYvGvekMJX97wWOxETo&aka_media_format_type=hls",
+              "date": "Saturday 2nd of May 2026 06:21:00 PM"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "contentId": 1090529608,
+      "video_info": {
+        "title": "Bundesliga 2025-26",
+        "shortDescription": "Union Berlin host FC Koln in a Bundesliga clash featuring two determined sides battling for important points. Union will look to control the tempo at home, while FC Koln aim to deliver a resilient performance and challenge their hosts throughout the match. Catch all the action from Bundesliga 2025-26, LIVE on Sony LIV.",
+        "longDescription": "Union Berlin host FC Koln in a Bundesliga clash featuring two determined sides battling for important points. Union will look to control the tempo at home, while FC Koln aim to deliver a resilient performance and challenge their hosts throughout the match. Catch all the action from Bundesliga 2025-26, LIVE on Sony LIV.",
+        "genres": [
+          "Football"
+        ],
+        "episodeTitle": "Union Berlin vs FC Koln - MD 32 - 2 May 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/VwE3AaQJTiiGLezAr_2DvQ/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 2",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "02 May 2026, 06:20 PM",
+        "contractEndDate": "02 May 2026, 11:20 PM",
+        "originalAirDate": "02 May 2026, 06:50 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017551/1777369189245475_Bundesliga_2025-26_MD-32_Union-Berlin-vs-koln_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017551/1777369269029475_Bundesliga_2025-26_MD-32_Union-Berlin-vs-koln_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": null,
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000507/1742306648095993_EuropeanQualifiers2025_GENERIC_Masthead_logo_LIVE.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017551/1777369269029475_Bundesliga_2025-26_MD-32_Union-Berlin-vs-koln_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2018457/BLIGA_Un0205/ENG/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioLanguageName": "ENG",
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/VwE3AaQJTiiGLezAr_2DvQ/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1777726266883,
+              "DOCTOR_STRANGE": 1777726267,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB",
+                "adServer": "GAM"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/BLIGA_Un0205/ENG/hdntl=exp=1777812667~acl=%2f*~id=17190316878196270499366618849625~data=hdntl,2018457,BLIGA_Un0205,ENG~hmac=5b44b77709a35f10590274c9ba1068ef667e056b2697af7719de486ecb76e6cf/master_200.m3u8?aka_me_session_id=AAAAAAAAAAC7RPdpAAAAADZc1rQDVr8ZtMboj9sPCVe1MHYf34NQey9HlJCGVkygqIWPvyr88X8TeO34+iveoA74rX0SXxdz&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/BLIGA_Un0205/ENG/hdntl=exp=1777812667~acl=%2f*~id=17190316878196270499366618849625~data=hdntl,2018457,BLIGA_Un0205,ENG~hmac=5b44b77709a35f10590274c9ba1068ef667e056b2697af7719de486ecb76e6cf/master_400.m3u8?aka_me_session_id=AAAAAAAAAAC7RPdpAAAAADZc1rQDVr8ZtMboj9sPCVe1MHYf34NQey9HlJCGVkygqIWPvyr88X8TeO34+iveoA74rX0SXxdz&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/BLIGA_Un0205/ENG/hdntl=exp=1777812667~acl=%2f*~id=17190316878196270499366618849625~data=hdntl,2018457,BLIGA_Un0205,ENG~hmac=5b44b77709a35f10590274c9ba1068ef667e056b2697af7719de486ecb76e6cf/master_500.m3u8?aka_me_session_id=AAAAAAAAAAC7RPdpAAAAADZc1rQDVr8ZtMboj9sPCVe1MHYf34NQey9HlJCGVkygqIWPvyr88X8TeO34+iveoA74rX0SXxdz&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=837256,AVERAGE-BANDWIDTH=837256,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/BLIGA_Un0205/ENG/hdntl=exp=1777812667~acl=%2f*~id=17190316878196270499366618849625~data=hdntl,2018457,BLIGA_Un0205,ENG~hmac=5b44b77709a35f10590274c9ba1068ef667e056b2697af7719de486ecb76e6cf/master_600.m3u8?aka_me_session_id=AAAAAAAAAAC7RPdpAAAAADZc1rQDVr8ZtMboj9sPCVe1MHYf34NQey9HlJCGVkygqIWPvyr88X8TeO34+iveoA74rX0SXxdz&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/BLIGA_Un0205/ENG/hdntl=exp=1777812667~acl=%2f*~id=17190316878196270499366618849625~data=hdntl,2018457,BLIGA_Un0205,ENG~hmac=5b44b77709a35f10590274c9ba1068ef667e056b2697af7719de486ecb76e6cf/master_1000.m3u8?aka_me_session_id=AAAAAAAAAAC7RPdpAAAAADZc1rQDVr8ZtMboj9sPCVe1MHYf34NQey9HlJCGVkygqIWPvyr88X8TeO34+iveoA74rX0SXxdz&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/BLIGA_Un0205/ENG/hdntl=exp=1777812667~acl=%2f*~id=17190316878196270499366618849625~data=hdntl,2018457,BLIGA_Un0205,ENG~hmac=5b44b77709a35f10590274c9ba1068ef667e056b2697af7719de486ecb76e6cf/master_1300.m3u8?aka_me_session_id=AAAAAAAAAAC7RPdpAAAAADZc1rQDVr8ZtMboj9sPCVe1MHYf34NQey9HlJCGVkygqIWPvyr88X8TeO34+iveoA74rX0SXxdz&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/BLIGA_Un0205/ENG/hdntl=exp=1777812667~acl=%2f*~id=17190316878196270499366618849625~data=hdntl,2018457,BLIGA_Un0205,ENG~hmac=5b44b77709a35f10590274c9ba1068ef667e056b2697af7719de486ecb76e6cf/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAC7RPdpAAAAADZc1rQDVr8ZtMboj9sPCVe1MHYf34NQey9HlJCGVkygqIWPvyr88X8TeO34+iveoA74rX0SXxdz&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/BLIGA_Un0205/ENG/hdntl=exp=1777812667~acl=%2f*~id=17190316878196270499366618849625~data=hdntl,2018457,BLIGA_Un0205,ENG~hmac=5b44b77709a35f10590274c9ba1068ef667e056b2697af7719de486ecb76e6cf/master_2200.m3u8?aka_me_session_id=AAAAAAAAAAC7RPdpAAAAADZc1rQDVr8ZtMboj9sPCVe1MHYf34NQey9HlJCGVkygqIWPvyr88X8TeO34+iveoA74rX0SXxdz&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3591848,AVERAGE-BANDWIDTH=3591848,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/BLIGA_Un0205/ENG/hdntl=exp=1777812667~acl=%2f*~id=17190316878196270499366618849625~data=hdntl,2018457,BLIGA_Un0205,ENG~hmac=5b44b77709a35f10590274c9ba1068ef667e056b2697af7719de486ecb76e6cf/master_3200.m3u8?aka_me_session_id=AAAAAAAAAAC7RPdpAAAAADZc1rQDVr8ZtMboj9sPCVe1MHYf34NQey9HlJCGVkygqIWPvyr88X8TeO34+iveoA74rX0SXxdz&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2018457/BLIGA_Un0205/ENG/hdntl=exp=1777812667~acl=%2f*~id=17190316878196270499366618849625~data=hdntl,2018457,BLIGA_Un0205,ENG~hmac=5b44b77709a35f10590274c9ba1068ef667e056b2697af7719de486ecb76e6cf/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAC7RPdpAAAAADZc1rQDVr8ZtMboj9sPCVe1MHYf34NQey9HlJCGVkygqIWPvyr88X8TeO34+iveoA74rX0SXxdz&aka_media_format_type=hls",
+              "date": "Saturday 2nd of May 2026 06:21:07 PM"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "contentId": 1090529607,
+      "video_info": {
+        "title": "Bundesliga 2025-26",
+        "shortDescription": "Hoffenheim take on VfB Stuttgart in an exciting Bundesliga showdown, with both sides looking to strengthen their position in the league table. Hoffenheim will aim to use home advantage to their benefit, while Stuttgart’s attacking threat could make this a fast-paced and entertaining contest. Catch all the action from Bundesliga 2025-26, LIVE on Sony LIV.",
+        "longDescription": "Hoffenheim take on VfB Stuttgart in an exciting Bundesliga showdown, with both sides looking to strengthen their position in the league table. Hoffenheim will aim to use home advantage to their benefit, while Stuttgart’s attacking threat could make this a fast-paced and entertaining contest. Catch all the action from Bundesliga 2025-26, LIVE on Sony LIV.",
+        "genres": [
+          "Football"
+        ],
+        "episodeTitle": "Hoffenheim vs VfB Stuttgart - MD 32 - 2 May 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/0rU3P9wWRxO9JMOXItU3zA/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 2",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "02 May 2026, 06:20 PM",
+        "contractEndDate": "02 May 2026, 11:20 PM",
+        "originalAirDate": "02 May 2026, 06:50 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017551/1777369648516475_Bundesliga_2025-26_MD-32_Hoffenheim-vs-VfB-Stuttgart_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017551/1777369684561475_Bundesliga_2025-26_MD-32_Hoffenheim-vs-VfB-Stuttgart_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": null,
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000507/1742306648095993_EuropeanQualifiers2025_GENERIC_Masthead_logo_LIVE.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017551/1777369684561475_Bundesliga_2025-26_MD-32_Hoffenheim-vs-VfB-Stuttgart_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2037141/BLIGA_Ho0205/ENG/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioLanguageName": "ENG",
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/0rU3P9wWRxO9JMOXItU3zA/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1777726270912,
+              "DOCTOR_STRANGE": 1777726272,
+              "additionalDataJson": {
+                "enc_format": "HLS",
+                "resolution": "FULL_HD",
+                "audio_quality": "STEREO",
+                "video_quality": "SDR",
+                "fps": 25,
+                "videoCodec": "H264",
+                "audioCodec": "AAC",
+                "partners": [
+                  "ALL"
+                ],
+                "isDaiKey": false,
+                "ad_stack": "MT-SSB",
+                "adServer": "GAM"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037141/BLIGA_Ho0205/ENG/hdntl=exp=1777812671~acl=%2f*~id=17190316878196270499366618849625~data=hdntl,2037141,BLIGA_Ho0205,ENG~hmac=7e86d5a5c311571a365cc42a32dedc3390a84f328d67fcdaed6e99bfed118219/master_200.m3u8?aka_me_session_id=AAAAAAAAAAC%2fRPdpAAAAAON9hHigwisX6UvTF%2fVqZpDfWzCebBfK8ZFjsJBgww53Nqb1cdscwdOcbyTsEPAmGrNtzfaqkfkv&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037141/BLIGA_Ho0205/ENG/hdntl=exp=1777812671~acl=%2f*~id=17190316878196270499366618849625~data=hdntl,2037141,BLIGA_Ho0205,ENG~hmac=7e86d5a5c311571a365cc42a32dedc3390a84f328d67fcdaed6e99bfed118219/master_400.m3u8?aka_me_session_id=AAAAAAAAAAC%2fRPdpAAAAAON9hHigwisX6UvTF%2fVqZpDfWzCebBfK8ZFjsJBgww53Nqb1cdscwdOcbyTsEPAmGrNtzfaqkfkv&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037141/BLIGA_Ho0205/ENG/hdntl=exp=1777812671~acl=%2f*~id=17190316878196270499366618849625~data=hdntl,2037141,BLIGA_Ho0205,ENG~hmac=7e86d5a5c311571a365cc42a32dedc3390a84f328d67fcdaed6e99bfed118219/master_500.m3u8?aka_me_session_id=AAAAAAAAAAC%2fRPdpAAAAAON9hHigwisX6UvTF%2fVqZpDfWzCebBfK8ZFjsJBgww53Nqb1cdscwdOcbyTsEPAmGrNtzfaqkfkv&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=837256,AVERAGE-BANDWIDTH=837256,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037141/BLIGA_Ho0205/ENG/hdntl=exp=1777812671~acl=%2f*~id=17190316878196270499366618849625~data=hdntl,2037141,BLIGA_Ho0205,ENG~hmac=7e86d5a5c311571a365cc42a32dedc3390a84f328d67fcdaed6e99bfed118219/master_600.m3u8?aka_me_session_id=AAAAAAAAAAC%2fRPdpAAAAAON9hHigwisX6UvTF%2fVqZpDfWzCebBfK8ZFjsJBgww53Nqb1cdscwdOcbyTsEPAmGrNtzfaqkfkv&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037141/BLIGA_Ho0205/ENG/hdntl=exp=1777812671~acl=%2f*~id=17190316878196270499366618849625~data=hdntl,2037141,BLIGA_Ho0205,ENG~hmac=7e86d5a5c311571a365cc42a32dedc3390a84f328d67fcdaed6e99bfed118219/master_1000.m3u8?aka_me_session_id=AAAAAAAAAAC%2fRPdpAAAAAON9hHigwisX6UvTF%2fVqZpDfWzCebBfK8ZFjsJBgww53Nqb1cdscwdOcbyTsEPAmGrNtzfaqkfkv&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037141/BLIGA_Ho0205/ENG/hdntl=exp=1777812671~acl=%2f*~id=17190316878196270499366618849625~data=hdntl,2037141,BLIGA_Ho0205,ENG~hmac=7e86d5a5c311571a365cc42a32dedc3390a84f328d67fcdaed6e99bfed118219/master_1300.m3u8?aka_me_session_id=AAAAAAAAAAC%2fRPdpAAAAAON9hHigwisX6UvTF%2fVqZpDfWzCebBfK8ZFjsJBgww53Nqb1cdscwdOcbyTsEPAmGrNtzfaqkfkv&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037141/BLIGA_Ho0205/ENG/hdntl=exp=1777812671~acl=%2f*~id=17190316878196270499366618849625~data=hdntl,2037141,BLIGA_Ho0205,ENG~hmac=7e86d5a5c311571a365cc42a32dedc3390a84f328d67fcdaed6e99bfed118219/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAC%2fRPdpAAAAAON9hHigwisX6UvTF%2fVqZpDfWzCebBfK8ZFjsJBgww53Nqb1cdscwdOcbyTsEPAmGrNtzfaqkfkv&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037141/BLIGA_Ho0205/ENG/hdntl=exp=1777812671~acl=%2f*~id=17190316878196270499366618849625~data=hdntl,2037141,BLIGA_Ho0205,ENG~hmac=7e86d5a5c311571a365cc42a32dedc3390a84f328d67fcdaed6e99bfed118219/master_2200.m3u8?aka_me_session_id=AAAAAAAAAAC%2fRPdpAAAAAON9hHigwisX6UvTF%2fVqZpDfWzCebBfK8ZFjsJBgww53Nqb1cdscwdOcbyTsEPAmGrNtzfaqkfkv&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3591848,AVERAGE-BANDWIDTH=3591848,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037141/BLIGA_Ho0205/ENG/hdntl=exp=1777812671~acl=%2f*~id=17190316878196270499366618849625~data=hdntl,2037141,BLIGA_Ho0205,ENG~hmac=7e86d5a5c311571a365cc42a32dedc3390a84f328d67fcdaed6e99bfed118219/master_3200.m3u8?aka_me_session_id=AAAAAAAAAAC%2fRPdpAAAAAON9hHigwisX6UvTF%2fVqZpDfWzCebBfK8ZFjsJBgww53Nqb1cdscwdOcbyTsEPAmGrNtzfaqkfkv&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2037141/BLIGA_Ho0205/ENG/hdntl=exp=1777812671~acl=%2f*~id=17190316878196270499366618849625~data=hdntl,2037141,BLIGA_Ho0205,ENG~hmac=7e86d5a5c311571a365cc42a32dedc3390a84f328d67fcdaed6e99bfed118219/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAC%2fRPdpAAAAAON9hHigwisX6UvTF%2fVqZpDfWzCebBfK8ZFjsJBgww53Nqb1cdscwdOcbyTsEPAmGrNtzfaqkfkv&aka_media_format_type=hls",
+              "date": "Saturday 2nd of May 2026 06:21:12 PM"
+            }
+          }
+        }
+      ]
+    },
     {
       "contentId": 1090529626,
       "video_info": {
