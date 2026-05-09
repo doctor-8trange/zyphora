@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Sony Live Matches API",
-  "last_updated": "09-05-2026 14:40",
+  "last_updated": "03:40:10 PM 09-05-2026",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -17,8 +17,167 @@
     "SERVER_STATUS": "NORMAL",
     "USAGE_GUIDE": []
   },
-  "data": [],
+  "data": [
+    {
+      "contentId": 1090529991,
+      "video_info": {
+        "title": "DP World Tour",
+        "shortDescription": "Watch all the action from Estrella Damm Catalunya Championship Day 3, LIVE on Sony LIV.",
+        "longDescription": "Watch all the action from Estrella Damm Catalunya Championship Day 3, LIVE on Sony LIV.",
+        "genres": [
+          "Golf"
+        ],
+        "episodeTitle": " Estrella Damm Catalunya Championship - Day 3 - 9 May 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/xq7h_HJVS7mEliIeK8sjnQ/master.m3u8",
+        "broadcast_channel": "LIV",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "09 May 2026, 03:30 PM",
+        "contractEndDate": "10 May 2026, 01:00 AM",
+        "originalAirDate": "09 May 2026, 04:00 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017689/177774694275639_DP_World_Estrella_Damm_Day3_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017689/177774700782439_DP_World_Estrella_Damm_Day3_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": null,
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000507/1742306648095993_EuropeanQualifiers2025_GENERIC_Masthead_logo_LIVE.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017689/177774700782439_DP_World_Estrella_Damm_Day3_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000292/Cataluny0905/ENG/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioLanguageName": "ENG",
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/AmQPWgDqQUWpYQBuiuFZhw/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1778321410774,
+              "DOCTOR_STRANGE": 1778321408,
+              "additionalDataJson": {
+                "adServer": "GAM",
+                "ad_stack": "DAI-IMA",
+                "audioCodec": "AAC",
+                "audio_quality": "STEREO",
+                "enc_format": "HLS",
+                "fps": 25,
+                "isDaiKey": true,
+                "partners": [
+                  "ALL"
+                ],
+                "resolution": "HD",
+                "videoCodec": "H264",
+                "video_quality": "SDR"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/20000292/Cataluny0905/ENG/hdntl=exp=1778407811~acl=%2f*~id=02696734510371025225547365393563~data=hdntl,20000292,Cataluny0905,ENG~hmac=d8004f0a88b3c1d92d775f07901b64f9b3d56457ebfbc5e7d9f58bda62d9bb4a/master_200.m3u8?aka_me_session_id=AAAAAAAAAACDWQBqAAAAABqWhdb3dWGmsMUypUX0eNv7C0W+27OAIcRCj1ITVqtY4atY0YnsssTsx3ljm3kp4mkVYEcYtBZi&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/20000292/Cataluny0905/ENG/hdntl=exp=1778407811~acl=%2f*~id=02696734510371025225547365393563~data=hdntl,20000292,Cataluny0905,ENG~hmac=d8004f0a88b3c1d92d775f07901b64f9b3d56457ebfbc5e7d9f58bda62d9bb4a/master_400.m3u8?aka_me_session_id=AAAAAAAAAACDWQBqAAAAABqWhdb3dWGmsMUypUX0eNv7C0W+27OAIcRCj1ITVqtY4atY0YnsssTsx3ljm3kp4mkVYEcYtBZi&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/20000292/Cataluny0905/ENG/hdntl=exp=1778407811~acl=%2f*~id=02696734510371025225547365393563~data=hdntl,20000292,Cataluny0905,ENG~hmac=d8004f0a88b3c1d92d775f07901b64f9b3d56457ebfbc5e7d9f58bda62d9bb4a/master_500.m3u8?aka_me_session_id=AAAAAAAAAACDWQBqAAAAABqWhdb3dWGmsMUypUX0eNv7C0W+27OAIcRCj1ITVqtY4atY0YnsssTsx3ljm3kp4mkVYEcYtBZi&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=837256,AVERAGE-BANDWIDTH=837256,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/20000292/Cataluny0905/ENG/hdntl=exp=1778407811~acl=%2f*~id=02696734510371025225547365393563~data=hdntl,20000292,Cataluny0905,ENG~hmac=d8004f0a88b3c1d92d775f07901b64f9b3d56457ebfbc5e7d9f58bda62d9bb4a/master_600.m3u8?aka_me_session_id=AAAAAAAAAACDWQBqAAAAABqWhdb3dWGmsMUypUX0eNv7C0W+27OAIcRCj1ITVqtY4atY0YnsssTsx3ljm3kp4mkVYEcYtBZi&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/20000292/Cataluny0905/ENG/hdntl=exp=1778407811~acl=%2f*~id=02696734510371025225547365393563~data=hdntl,20000292,Cataluny0905,ENG~hmac=d8004f0a88b3c1d92d775f07901b64f9b3d56457ebfbc5e7d9f58bda62d9bb4a/master_1000.m3u8?aka_me_session_id=AAAAAAAAAACDWQBqAAAAABqWhdb3dWGmsMUypUX0eNv7C0W+27OAIcRCj1ITVqtY4atY0YnsssTsx3ljm3kp4mkVYEcYtBZi&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/20000292/Cataluny0905/ENG/hdntl=exp=1778407811~acl=%2f*~id=02696734510371025225547365393563~data=hdntl,20000292,Cataluny0905,ENG~hmac=d8004f0a88b3c1d92d775f07901b64f9b3d56457ebfbc5e7d9f58bda62d9bb4a/master_1300.m3u8?aka_me_session_id=AAAAAAAAAACDWQBqAAAAABqWhdb3dWGmsMUypUX0eNv7C0W+27OAIcRCj1ITVqtY4atY0YnsssTsx3ljm3kp4mkVYEcYtBZi&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/20000292/Cataluny0905/ENG/hdntl=exp=1778407811~acl=%2f*~id=02696734510371025225547365393563~data=hdntl,20000292,Cataluny0905,ENG~hmac=d8004f0a88b3c1d92d775f07901b64f9b3d56457ebfbc5e7d9f58bda62d9bb4a/master_2000.m3u8?aka_me_session_id=AAAAAAAAAACDWQBqAAAAABqWhdb3dWGmsMUypUX0eNv7C0W+27OAIcRCj1ITVqtY4atY0YnsssTsx3ljm3kp4mkVYEcYtBZi&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/20000292/Cataluny0905/ENG/hdntl=exp=1778407811~acl=%2f*~id=02696734510371025225547365393563~data=hdntl,20000292,Cataluny0905,ENG~hmac=d8004f0a88b3c1d92d775f07901b64f9b3d56457ebfbc5e7d9f58bda62d9bb4a/master_2200.m3u8?aka_me_session_id=AAAAAAAAAACDWQBqAAAAABqWhdb3dWGmsMUypUX0eNv7C0W+27OAIcRCj1ITVqtY4atY0YnsssTsx3ljm3kp4mkVYEcYtBZi&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3591848,AVERAGE-BANDWIDTH=3591848,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/20000292/Cataluny0905/ENG/hdntl=exp=1778407811~acl=%2f*~id=02696734510371025225547365393563~data=hdntl,20000292,Cataluny0905,ENG~hmac=d8004f0a88b3c1d92d775f07901b64f9b3d56457ebfbc5e7d9f58bda62d9bb4a/master_3200.m3u8?aka_me_session_id=AAAAAAAAAACDWQBqAAAAABqWhdb3dWGmsMUypUX0eNv7C0W+27OAIcRCj1ITVqtY4atY0YnsssTsx3ljm3kp4mkVYEcYtBZi&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonydaimenew.akamaized.net/hls/live/20000292/Cataluny0905/ENG/hdntl=exp=1778407811~acl=%2f*~id=02696734510371025225547365393563~data=hdntl,20000292,Cataluny0905,ENG~hmac=d8004f0a88b3c1d92d775f07901b64f9b3d56457ebfbc5e7d9f58bda62d9bb4a/master_4500.m3u8?aka_me_session_id=AAAAAAAAAACDWQBqAAAAABqWhdb3dWGmsMUypUX0eNv7C0W+27OAIcRCj1ITVqtY4atY0YnsssTsx3ljm3kp4mkVYEcYtBZi&aka_media_format_type=hls",
+              "date": "Saturday 9th of May 2026 03:40:08 PM"
+            }
+          }
+        }
+      ]
+    }
+  ],
   "upcoming": [
+    {
+      "contentId": 1090529867,
+      "video_info": {
+        "title": "Upcoming - UFC 328 - Chimaev vs Strickland",
+        "shortDescription": "Watch all action from UFC 328 - Chimaev vs Strickland, only on Sony LIV. ",
+        "longDescription": "Watch all action from UFC 328 - Chimaev vs Strickland, only on Sony LIV. ",
+        "genres": [
+          "Fight Sports"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/a9d2173e4766474da970891005ef3087/1778094635/baseline-std-v4/PROMO_UFC_30_SEC_HOR_WOSUB_WOBUG_DATED_APP_eng_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "07 May 2026, 12:10 AM",
+        "contractEndDate": "10 May 2026, 04:00 AM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017787/1778066519490414_UFC328_chimaev_vs_strickland_big_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017782/1778062132246993_UFC328_chimaev_vs_strickland_dated_6may_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017778/1778039178000559_UFC_328_chimaev_vs_strickland_masthead_mobile_v2_984x1182.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017778/1778039178000559_UFC_328_chimaev_vs_strickland_Masthead_logo_IND.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017782/1778062132246993_UFC328_chimaev_vs_strickland_dated_6may_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": []
+    },
     {
       "contentId": 1090529981,
       "video_info": {
@@ -75,64 +234,6 @@
         "circular_image": null,
         "image_600x900_clean": null,
         "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017834/177817058069158_GULLAK5_Landscape_Thumb_Dated.jpg"
-      },
-      "MULTIPLE_AUDIO_LINKS": []
-    },
-    {
-      "contentId": 1090529867,
-      "video_info": {
-        "title": "Upcoming - UFC 328 - Chimaev vs Strickland",
-        "shortDescription": "Watch all action from UFC 328 - Chimaev vs Strickland, only on Sony LIV. ",
-        "longDescription": "Watch all action from UFC 328 - Chimaev vs Strickland, only on Sony LIV. ",
-        "genres": [
-          "Fight Sports"
-        ],
-        "episodeTitle": ""
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "Sony Sports Ten 5",
-        "audio_language_list": [
-          {
-            "lang_code": "ENG",
-            "lang_label": "English"
-          }
-        ],
-        "emfAttributes__audio_languages": "ENG",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "ENG",
-              "isPreferred": true,
-              "audioLanguageLabel": "English",
-              "type": "main"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/a9d2173e4766474da970891005ef3087/1778094635/baseline-std-v4/PROMO_UFC_30_SEC_HOR_WOSUB_WOBUG_DATED_APP_eng_baseline-800300010.mpd",
-          "hasTrailer": true
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "07 May 2026, 12:10 AM",
-        "contractEndDate": "10 May 2026, 04:00 AM",
-        "originalAirDate": null
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017787/1778066519490414_UFC328_chimaev_vs_strickland_big_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017782/1778062132246993_UFC328_chimaev_vs_strickland_dated_6may_landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017778/1778039178000559_UFC_328_chimaev_vs_strickland_masthead_mobile_v2_984x1182.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017778/1778039178000559_UFC_328_chimaev_vs_strickland_Masthead_logo_IND.png",
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017782/1778062132246993_UFC328_chimaev_vs_strickland_dated_6may_landscape_thumb.jpg"
       },
       "MULTIPLE_AUDIO_LINKS": []
     },
