@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Sony Live Matches API",
-  "last_updated": "13-05-2026 21:40",
+  "last_updated": "03:00:11 PM 16-05-2026",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -17,7 +17,108 @@
     "SERVER_STATUS": "NORMAL",
     "USAGE_GUIDE": []
   },
-  "data": [],
+  "data": [
+    {
+      "contentId": 1090530179,
+      "video_info": {
+        "title": "New Zealand Women's Tour of England 2026",
+        "shortDescription": "England Women head into the 3rd ODI with a 1–0 lead after winning the opener, while the second match was abandoned, leaving New Zealand in a must-win situation to avoid a series defeat. England will look to seal the series at home, while New Zealand must deliver a complete performance under pressure to force a share of the spoils. Tune in to catch all the action from the 3rd ODI of New Zealand Women's Tour of England 2026, LIVE only on Sony LIV.",
+        "longDescription": "England Women head into the 3rd ODI with a 1–0 lead after winning the opener, while the second match was abandoned, leaving New Zealand in a must-win situation to avoid a series defeat. England will look to seal the series at home, while New Zealand must deliver a complete performance under pressure to force a share of the spoils. Tune in to catch all the action from the 3rd ODI of New Zealand Women's Tour of England 2026, LIVE only on Sony LIV.",
+        "genres": [
+          "Cricket"
+        ],
+        "episodeTitle": "3rd ODI - 16 May 2026 "
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/seP8U3FeRPKV5OA5RUe6aA/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "16 May 2026, 03:00 PM",
+        "contractEndDate": "17 May 2026, 04:00 AM",
+        "originalAirDate": "16 May 2026, 03:30 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017872/1778244747543296_EngW_vs_NZW_3odi_8may_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017872/1778244832486296_EngW_vs_NZW_3odi_8may_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017890/177833233686386_England_Women_vs_New_Zealand_Women_2026_Match_masthead_mobile_v2_984x1182.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017890/177833233671286_England_Women_vs_New_Zealand_Women_2026_match_Masthead_logo_3rd_ODI_Live.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017872/1778244832486296_EngW_vs_NZW_3odi_8may_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000293/EngW_vs_1605/ENG/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioLanguageName": "ENG",
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/adxneMA9QhOs2WKeGJVvPQ/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1778923809331,
+              "DOCTOR_STRANGE": 1778923810,
+              "additionalDataJson": {
+                "adServer": "GAM",
+                "ad_stack": "DAI-IMA",
+                "audioCodec": "AAC",
+                "audio_quality": "STEREO",
+                "enc_format": "HLS",
+                "fps": 25,
+                "isDaiKey": true,
+                "partners": [
+                  "ALL"
+                ],
+                "resolution": "HD",
+                "videoCodec": "H264",
+                "video_quality": "SDR"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/20000293/EngW_vs_1605/ENG/hdntl=exp=1779010209~acl=%2f*~id=51904828706668742249784740195618~data=hdntl,20000293,EngW_vs_1605,ENG~hmac=839ac5851c2feff40bdec98c020a910694274d3070b34befd46f4b3913f95f2b/master_200.m3u8?aka_me_session_id=AAAAAAAAAAChiglqAAAAAPGLBF6B1b3+7na06OW6EUgmXxeEvDHQkHy8sIaTsrXXn2sWUR6wACcy63MdncrXpF7gkuSTFTBj&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/20000293/EngW_vs_1605/ENG/hdntl=exp=1779010209~acl=%2f*~id=51904828706668742249784740195618~data=hdntl,20000293,EngW_vs_1605,ENG~hmac=839ac5851c2feff40bdec98c020a910694274d3070b34befd46f4b3913f95f2b/master_400.m3u8?aka_me_session_id=AAAAAAAAAAChiglqAAAAAPGLBF6B1b3+7na06OW6EUgmXxeEvDHQkHy8sIaTsrXXn2sWUR6wACcy63MdncrXpF7gkuSTFTBj&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/20000293/EngW_vs_1605/ENG/hdntl=exp=1779010209~acl=%2f*~id=51904828706668742249784740195618~data=hdntl,20000293,EngW_vs_1605,ENG~hmac=839ac5851c2feff40bdec98c020a910694274d3070b34befd46f4b3913f95f2b/master_500.m3u8?aka_me_session_id=AAAAAAAAAAChiglqAAAAAPGLBF6B1b3+7na06OW6EUgmXxeEvDHQkHy8sIaTsrXXn2sWUR6wACcy63MdncrXpF7gkuSTFTBj&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=837256,AVERAGE-BANDWIDTH=837256,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/20000293/EngW_vs_1605/ENG/hdntl=exp=1779010209~acl=%2f*~id=51904828706668742249784740195618~data=hdntl,20000293,EngW_vs_1605,ENG~hmac=839ac5851c2feff40bdec98c020a910694274d3070b34befd46f4b3913f95f2b/master_600.m3u8?aka_me_session_id=AAAAAAAAAAChiglqAAAAAPGLBF6B1b3+7na06OW6EUgmXxeEvDHQkHy8sIaTsrXXn2sWUR6wACcy63MdncrXpF7gkuSTFTBj&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/20000293/EngW_vs_1605/ENG/hdntl=exp=1779010209~acl=%2f*~id=51904828706668742249784740195618~data=hdntl,20000293,EngW_vs_1605,ENG~hmac=839ac5851c2feff40bdec98c020a910694274d3070b34befd46f4b3913f95f2b/master_1000.m3u8?aka_me_session_id=AAAAAAAAAAChiglqAAAAAPGLBF6B1b3+7na06OW6EUgmXxeEvDHQkHy8sIaTsrXXn2sWUR6wACcy63MdncrXpF7gkuSTFTBj&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/20000293/EngW_vs_1605/ENG/hdntl=exp=1779010209~acl=%2f*~id=51904828706668742249784740195618~data=hdntl,20000293,EngW_vs_1605,ENG~hmac=839ac5851c2feff40bdec98c020a910694274d3070b34befd46f4b3913f95f2b/master_1300.m3u8?aka_me_session_id=AAAAAAAAAAChiglqAAAAAPGLBF6B1b3+7na06OW6EUgmXxeEvDHQkHy8sIaTsrXXn2sWUR6wACcy63MdncrXpF7gkuSTFTBj&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/20000293/EngW_vs_1605/ENG/hdntl=exp=1779010209~acl=%2f*~id=51904828706668742249784740195618~data=hdntl,20000293,EngW_vs_1605,ENG~hmac=839ac5851c2feff40bdec98c020a910694274d3070b34befd46f4b3913f95f2b/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAChiglqAAAAAPGLBF6B1b3+7na06OW6EUgmXxeEvDHQkHy8sIaTsrXXn2sWUR6wACcy63MdncrXpF7gkuSTFTBj&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/20000293/EngW_vs_1605/ENG/hdntl=exp=1779010209~acl=%2f*~id=51904828706668742249784740195618~data=hdntl,20000293,EngW_vs_1605,ENG~hmac=839ac5851c2feff40bdec98c020a910694274d3070b34befd46f4b3913f95f2b/master_2200.m3u8?aka_me_session_id=AAAAAAAAAAChiglqAAAAAPGLBF6B1b3+7na06OW6EUgmXxeEvDHQkHy8sIaTsrXXn2sWUR6wACcy63MdncrXpF7gkuSTFTBj&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3591848,AVERAGE-BANDWIDTH=3591848,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/20000293/EngW_vs_1605/ENG/hdntl=exp=1779010209~acl=%2f*~id=51904828706668742249784740195618~data=hdntl,20000293,EngW_vs_1605,ENG~hmac=839ac5851c2feff40bdec98c020a910694274d3070b34befd46f4b3913f95f2b/master_3200.m3u8?aka_me_session_id=AAAAAAAAAAChiglqAAAAAPGLBF6B1b3+7na06OW6EUgmXxeEvDHQkHy8sIaTsrXXn2sWUR6wACcy63MdncrXpF7gkuSTFTBj&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonydaimenew.akamaized.net/hls/live/20000293/EngW_vs_1605/ENG/hdntl=exp=1779010209~acl=%2f*~id=51904828706668742249784740195618~data=hdntl,20000293,EngW_vs_1605,ENG~hmac=839ac5851c2feff40bdec98c020a910694274d3070b34befd46f4b3913f95f2b/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAChiglqAAAAAPGLBF6B1b3+7na06OW6EUgmXxeEvDHQkHy8sIaTsrXXn2sWUR6wACcy63MdncrXpF7gkuSTFTBj&aka_media_format_type=hls",
+              "date": "Saturday 16th of May 2026 03:00:10 PM"
+            }
+          }
+        }
+      ]
+    }
+  ],
   "upcoming": [
     {
       "contentId": 1090529754,
@@ -56,7 +157,7 @@
           ],
           "subtitlesLanguages": [],
           "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/79d2112f51914a80a53770df0749a7a4/1778347438/baseline-std-v4/PROMO_ROLAND_GARROS_INTL_45_SEC_HOR_WOSUB_WOBUG_DATED_APP_eng_baseline-800300010.mpd",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/79d2112f51914a80a53770df0749a7a4/1778765310/baseline-std-v4/PROMO_ROLAND_GARROS_INTL_45_SEC_HOR_WOSUB_WOBUG_DATED_APP_eng_baseline-800300010.mpd",
           "hasTrailer": true
         }
       },
@@ -124,7 +225,7 @@
         "originalAirDate": null
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017904/1778397043966633_FACUP26_FINAL_Chelsea_vs_man_city_10MAY_DATED_big_portrait_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017907/1778399316369830_FACUP26_FINAL_Chelsea_vs_man_city_10MAY_tonight_big_portrait_thumb.jpg",
         "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017903/1778396196787448_FACUP26_FINAL_Chelsea_vs_man_city_10MAY_DATED_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
         "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017901/1778373396000205_FA_Cup_2026_Match_FINAL_masthead_mobile_v2_984x1182_Man_City_vs_Chelsea.jpg",
@@ -182,7 +283,7 @@
         "originalAirDate": null
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017721/1777894512161511_ENGvsIND_womend_dated_promo_Big_portrait_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018047/1778868138737391_Indian_Women_tour_of_England_2026_big_portrait_thumb.jpg",
         "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017721/1777893967612511_ENGvsIND_womend_dated_promo_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
         "masthead_mobile_v2": null,
@@ -371,64 +472,6 @@
       "MULTIPLE_AUDIO_LINKS": []
     },
     {
-      "contentId": 1090530190,
-      "video_info": {
-        "title": "Critics' Choice Awards",
-        "shortDescription": "The Critics' Choice Awards is India’s most prestigious film honor, celebrating excellence across feature films, web series, short films, and documentaries, while showcasing the diversity of Indian cinema. Catch the Critics' Choice Awards on 15th May, streaming exclusively on Sony LIV. ",
-        "longDescription": "The Critics' Choice Awards is India’s most prestigious film honor, celebrating excellence across feature films, web series, short films, and documentaries, while showcasing the diversity of Indian cinema. Catch the Critics' Choice Awards on 15th May, streaming exclusively on Sony LIV. ",
-        "genres": [
-          "Event"
-        ],
-        "episodeTitle": ""
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "LIV",
-        "audio_language_list": [
-          {
-            "lang_code": "HIN",
-            "lang_label": "Hindi"
-          }
-        ],
-        "emfAttributes__audio_languages": "HIN",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "HIN",
-              "isPreferred": true,
-              "audioLanguageLabel": "Hindi",
-              "type": "main"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/dc153220b7b3442a9560b3f8958c62b1/1778567860/baseline-std-v4/CRITICS_CHOICE_AWARD_2026_TEASER_02_30_SEC_HOR_WOSUB_WOBUG_DATED_APP_IND_hin_baseline-800300010.mpd",
-          "hasTrailer": true
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "12 May 2026, 10:00 AM",
-        "contractEndDate": "15 May 2026, 11:59 PM",
-        "originalAirDate": null
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017949/1778565785335315_CCA_dated_12may_big_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017950/1778547180000823_CCA_Landscape_Thumb_Dated.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017950/1778547180000823_CCA_masthead_mobile_v2_984x1182.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017950/1778547180000823_CCA_Masthead_Logo_Dated.png",
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017950/1778547180000823_CCA_Landscape_Thumb_Dated.jpg"
-      },
-      "MULTIPLE_AUDIO_LINKS": []
-    },
-    {
       "contentId": 1090507833,
       "video_info": {
         "title": "India's Best Dancer",
@@ -488,11 +531,11 @@
       "MULTIPLE_AUDIO_LINKS": []
     },
     {
-      "contentId": 1090529068,
+      "contentId": 1090530451,
       "video_info": {
         "title": "Hastinapur Ke Veer",
-        "shortDescription": "Hastinapur Ke Veer unfolds the saga of the five Pandavas brothers, who embody courage, righteousness, and sacrifice as they confront the relentless forces of ambition and injustice. Watch Hastinapur Ke Veer streaming soon, only on Sony LIV. ",
-        "longDescription": "Hastinapur Ke Veer unfolds the saga of the five Pandavas brothers, who embody courage, righteousness, and sacrifice as they confront the relentless forces of ambition and injustice. Watch Hastinapur Ke Veer streaming soon, only on Sony LIV. ",
+        "shortDescription": "Hastinapur Ke Veer unfolds the saga of the five Pandavas brothers, who embody courage, righteousness, and sacrifice as they confront the relentless forces of ambition and injustice. Watch Hastinapur Ke Veer streaming from 2nd June 2026 at 9pm, only on Sony LIV. ",
+        "longDescription": "Hastinapur Ke Veer unfolds the saga of the five Pandavas brothers, who embody courage, righteousness, and sacrifice as they confront the relentless forces of ambition and injustice. Watch Hastinapur Ke Veer streaming from 2nd June 2026 at 9pm, only on Sony LIV. ",
         "genres": [
           "Mythology"
         ],
@@ -524,24 +567,24 @@
           ],
           "subtitlesLanguages": [],
           "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/11c08ff4d4d34e049dba2b79f7bcf1a6/1777027344/baseline-std-v4/HKV_PROMO01_60SEC_HOR_WOSUB_WOBUG_CS_APP_IND_hin_baseline-800300010.mpd",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/75d21f877fa2437b93fd20649cff9ccd/1778849969/baseline-std-v4/HASTINAPURKEVEER_RAJSABHA_60SEC_HOR_WOSUB_WOBUG_DATED_APP_IND_hin_baseline-800300010.mpd",
           "hasTrailer": true
         }
       },
       "air_dates": {
-        "contractStartDate": "24 Apr 2026, 03:00 PM",
-        "contractEndDate": "23 Jun 2121, 11:59 PM",
+        "contractStartDate": "15 May 2026, 03:00 PM",
+        "contractEndDate": "02 Jun 2026, 11:59 PM",
         "originalAirDate": null
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016652/177462736009719_Hastinapur_Ke_Veer_SS_27mar_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016500/1774271039207830_Hastinapur_k_veer_23march_SS_Landscape_Thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018023/1778841268963690_Hastinapur_Ke_Veer_Big_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018024/1778840855953720_Hastinapur_Ke_Veer_Landscape_Thumb.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016500/1774271001348830_Hastinapur_k_veer_23march_masthead_mobile_v2.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016500/1774270193031830_Hastinapur_k_veer_23march_SS_masthead_logo.png",
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016500/1774271039207830_Hastinapur_k_veer_23march_SS_Landscape_Thumb.jpg"
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018024/1778840045347720_Hastinapur_Ke_Veer_masthead_mobile_v2.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018024/1778840926018720_Hastinapur_Ke_Veer_masthead_logo.png",
+        "circular_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018024/1778840593631720_Hastinapur_Ke_Veer_Circular_Image.jpg",
+        "image_600x900_clean": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018024/1778840327841720_Hastinapur_Ke_Veer_600x900_clean_Airtel_Portrait.jpg",
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018024/1778840855953720_Hastinapur_Ke_Veer_Landscape_Thumb.jpg"
       },
       "MULTIPLE_AUDIO_LINKS": []
     },
