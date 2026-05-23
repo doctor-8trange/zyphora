@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Sony Live Matches API",
-  "last_updated": "24-05-2026 03:00",
+  "last_updated": "05:00:23 AM 24-05-2026",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -17,7 +17,380 @@
     "SERVER_STATUS": "NORMAL",
     "USAGE_GUIDE": []
   },
-  "data": [],
+  "data": [
+    {
+      "contentId": 1090530615,
+      "video_info": {
+        "title": "WWE",
+        "shortDescription": "WWE Saturday Night’s Main Event blends nostalgia with modern storytelling, featuring stars from Raw and SmackDown. Tune in to catch all the action, LIVE on Sony LIV.",
+        "longDescription": "WWE Saturday Night’s Main Event blends nostalgia with modern storytelling, featuring stars from Raw and SmackDown. Tune in to catch all the action, LIVE on Sony LIV.",
+        "genres": [
+          "Sport"
+        ],
+        "episodeTitle": "Saturday Night's Main Event - 24 May 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/seP8U3FeRPKV5OA5RUe6aA/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 1",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          },
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          },
+          {
+            "lang_code": "TAM",
+            "lang_label": "Tamil"
+          },
+          {
+            "lang_code": "TEL",
+            "lang_label": "Telugu"
+          },
+          {
+            "lang_code": "KAN",
+            "lang_label": "Kannada"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG,HIN,TAM,TEL,KAN",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "24 May 2026, 05:00 AM",
+        "contractEndDate": "24 May 2026, 10:00 AM",
+        "originalAirDate": "24 May 2026, 05:30 AM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018221/1779479263405359_WWE_Saturday_Night_Main_Event_2026_eng_23may_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018221/1779480343727359_WWE_Saturday_Night_Main_Event_2026_english_23may_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018218/1779452520000359_WWE_Saturday_Night_Main_Event_2026_GOB_masthead_mobile_v2_984x1182.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018218/1779452520000359_WWE_Saturday_Night_Main_Event_2026_GOB_Masthead_logo_LIVE.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018221/1779480343727359_WWE_Saturday_Night_Main_Event_2026_english_23may_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Satu2305/ENG/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioLanguageName": "ENG",
+                  "audioLanguageLabel": "English"
+                },
+                {
+                  "audioLanguageName": "HIN",
+                  "audioLanguageLabel": "Hindi"
+                },
+                {
+                  "audioLanguageName": "TEL",
+                  "audioLanguageLabel": "Telugu"
+                },
+                {
+                  "audioLanguageName": "TAM",
+                  "audioLanguageLabel": "Tamil"
+                },
+                {
+                  "audioLanguageName": "KAN",
+                  "audioLanguageLabel": "Kannada"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/qe1rEfCFT2ut2JCUDoI8vg/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1779579007898,
+              "DOCTOR_STRANGE": 1779579008,
+              "additionalDataJson": {
+                "adServer": "GAM",
+                "ad_stack": "DAI-IMA",
+                "audioCodec": "AAC",
+                "audio_quality": "STEREO",
+                "enc_format": "HLS",
+                "fps": 25,
+                "isDaiKey": true,
+                "partners": [
+                  "ALL"
+                ],
+                "resolution": "HD",
+                "videoCodec": "H264",
+                "video_quality": "SDR"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Satu2305/ENG/hdntl=exp=1779665408~acl=%2f*~id=03268524251813393294343366997739~data=hdntl,2094588,WWE_Satu2305,ENG~hmac=47fa7172e981a4c80bb689eb5f4823beb12cc23c430c90f3d3e9e9856c30f578/master_200.m3u8?aka_me_session_id=AAAAAAAAAAAAihNqAAAAAEohIi+IwQVpOkZcWapEMSQ%2fjNIW5ea+8QrG7knKTSo6U0HsfD4HoyPFLubtcanXWG+9ZfC0dPvP&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Satu2305/ENG/hdntl=exp=1779665408~acl=%2f*~id=03268524251813393294343366997739~data=hdntl,2094588,WWE_Satu2305,ENG~hmac=47fa7172e981a4c80bb689eb5f4823beb12cc23c430c90f3d3e9e9856c30f578/master_400.m3u8?aka_me_session_id=AAAAAAAAAAAAihNqAAAAAEohIi+IwQVpOkZcWapEMSQ%2fjNIW5ea+8QrG7knKTSo6U0HsfD4HoyPFLubtcanXWG+9ZfC0dPvP&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Satu2305/ENG/hdntl=exp=1779665408~acl=%2f*~id=03268524251813393294343366997739~data=hdntl,2094588,WWE_Satu2305,ENG~hmac=47fa7172e981a4c80bb689eb5f4823beb12cc23c430c90f3d3e9e9856c30f578/master_500.m3u8?aka_me_session_id=AAAAAAAAAAAAihNqAAAAAEohIi+IwQVpOkZcWapEMSQ%2fjNIW5ea+8QrG7knKTSo6U0HsfD4HoyPFLubtcanXWG+9ZfC0dPvP&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=837256,AVERAGE-BANDWIDTH=837256,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Satu2305/ENG/hdntl=exp=1779665408~acl=%2f*~id=03268524251813393294343366997739~data=hdntl,2094588,WWE_Satu2305,ENG~hmac=47fa7172e981a4c80bb689eb5f4823beb12cc23c430c90f3d3e9e9856c30f578/master_600.m3u8?aka_me_session_id=AAAAAAAAAAAAihNqAAAAAEohIi+IwQVpOkZcWapEMSQ%2fjNIW5ea+8QrG7knKTSo6U0HsfD4HoyPFLubtcanXWG+9ZfC0dPvP&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Satu2305/ENG/hdntl=exp=1779665408~acl=%2f*~id=03268524251813393294343366997739~data=hdntl,2094588,WWE_Satu2305,ENG~hmac=47fa7172e981a4c80bb689eb5f4823beb12cc23c430c90f3d3e9e9856c30f578/master_1000.m3u8?aka_me_session_id=AAAAAAAAAAAAihNqAAAAAEohIi+IwQVpOkZcWapEMSQ%2fjNIW5ea+8QrG7knKTSo6U0HsfD4HoyPFLubtcanXWG+9ZfC0dPvP&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Satu2305/ENG/hdntl=exp=1779665408~acl=%2f*~id=03268524251813393294343366997739~data=hdntl,2094588,WWE_Satu2305,ENG~hmac=47fa7172e981a4c80bb689eb5f4823beb12cc23c430c90f3d3e9e9856c30f578/master_1300.m3u8?aka_me_session_id=AAAAAAAAAAAAihNqAAAAAEohIi+IwQVpOkZcWapEMSQ%2fjNIW5ea+8QrG7knKTSo6U0HsfD4HoyPFLubtcanXWG+9ZfC0dPvP&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Satu2305/ENG/hdntl=exp=1779665408~acl=%2f*~id=03268524251813393294343366997739~data=hdntl,2094588,WWE_Satu2305,ENG~hmac=47fa7172e981a4c80bb689eb5f4823beb12cc23c430c90f3d3e9e9856c30f578/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAAAihNqAAAAAEohIi+IwQVpOkZcWapEMSQ%2fjNIW5ea+8QrG7knKTSo6U0HsfD4HoyPFLubtcanXWG+9ZfC0dPvP&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Satu2305/ENG/hdntl=exp=1779665408~acl=%2f*~id=03268524251813393294343366997739~data=hdntl,2094588,WWE_Satu2305,ENG~hmac=47fa7172e981a4c80bb689eb5f4823beb12cc23c430c90f3d3e9e9856c30f578/master_2200.m3u8?aka_me_session_id=AAAAAAAAAAAAihNqAAAAAEohIi+IwQVpOkZcWapEMSQ%2fjNIW5ea+8QrG7knKTSo6U0HsfD4HoyPFLubtcanXWG+9ZfC0dPvP&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3591848,AVERAGE-BANDWIDTH=3591848,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Satu2305/ENG/hdntl=exp=1779665408~acl=%2f*~id=03268524251813393294343366997739~data=hdntl,2094588,WWE_Satu2305,ENG~hmac=47fa7172e981a4c80bb689eb5f4823beb12cc23c430c90f3d3e9e9856c30f578/master_3200.m3u8?aka_me_session_id=AAAAAAAAAAAAihNqAAAAAEohIi+IwQVpOkZcWapEMSQ%2fjNIW5ea+8QrG7knKTSo6U0HsfD4HoyPFLubtcanXWG+9ZfC0dPvP&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Satu2305/ENG/hdntl=exp=1779665408~acl=%2f*~id=03268524251813393294343366997739~data=hdntl,2094588,WWE_Satu2305,ENG~hmac=47fa7172e981a4c80bb689eb5f4823beb12cc23c430c90f3d3e9e9856c30f578/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAAAihNqAAAAAEohIi+IwQVpOkZcWapEMSQ%2fjNIW5ea+8QrG7knKTSo6U0HsfD4HoyPFLubtcanXWG+9ZfC0dPvP&aka_media_format_type=hls",
+              "date": "Sunday 24th of May 2026 05:00:08 AM"
+            }
+          }
+        },
+        {
+          "LANGUAGE": "Hindi",
+          "LANG_CODE": "HIN",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Satu2305/HIN/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioLanguageName": "ENG",
+                  "audioLanguageLabel": "English"
+                },
+                {
+                  "audioLanguageName": "HIN",
+                  "audioLanguageLabel": "Hindi"
+                },
+                {
+                  "audioLanguageName": "TEL",
+                  "audioLanguageLabel": "Telugu"
+                },
+                {
+                  "audioLanguageName": "TAM",
+                  "audioLanguageLabel": "Tamil"
+                },
+                {
+                  "audioLanguageName": "KAN",
+                  "audioLanguageLabel": "Kannada"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/D3XQZ4yfRkyIikYO7oyk1Q/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1779579011744,
+              "DOCTOR_STRANGE": 1779579012,
+              "additionalDataJson": {
+                "adServer": "GAM",
+                "ad_stack": "DAI-IMA",
+                "audioCodec": "AAC",
+                "audio_quality": "STEREO",
+                "enc_format": "HLS",
+                "fps": 25,
+                "isDaiKey": true,
+                "partners": [
+                  "ALL"
+                ],
+                "resolution": "HD",
+                "videoCodec": "H264",
+                "video_quality": "SDR"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Satu2305/HIN/hdntl=exp=1779665412~acl=%2f*~id=03268524251813393294343366997739~data=hdntl,2094588,WWE_Satu2305,HIN~hmac=75ed338f92535a394db898fb50016b4738ad36a6426d048393164aaba769c451/master_200.m3u8?aka_me_session_id=AAAAAAAAAAAEihNqAAAAALIT2jpBQoPmaD3XLIm3gm74WnxYDDteNTwSZ6d+DxpekjKep9IEluywgQjBotZlOf23+BWy3e+x&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Satu2305/HIN/hdntl=exp=1779665412~acl=%2f*~id=03268524251813393294343366997739~data=hdntl,2094588,WWE_Satu2305,HIN~hmac=75ed338f92535a394db898fb50016b4738ad36a6426d048393164aaba769c451/master_400.m3u8?aka_me_session_id=AAAAAAAAAAAEihNqAAAAALIT2jpBQoPmaD3XLIm3gm74WnxYDDteNTwSZ6d+DxpekjKep9IEluywgQjBotZlOf23+BWy3e+x&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Satu2305/HIN/hdntl=exp=1779665412~acl=%2f*~id=03268524251813393294343366997739~data=hdntl,2094588,WWE_Satu2305,HIN~hmac=75ed338f92535a394db898fb50016b4738ad36a6426d048393164aaba769c451/master_500.m3u8?aka_me_session_id=AAAAAAAAAAAEihNqAAAAALIT2jpBQoPmaD3XLIm3gm74WnxYDDteNTwSZ6d+DxpekjKep9IEluywgQjBotZlOf23+BWy3e+x&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=837256,AVERAGE-BANDWIDTH=837256,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Satu2305/HIN/hdntl=exp=1779665412~acl=%2f*~id=03268524251813393294343366997739~data=hdntl,2094588,WWE_Satu2305,HIN~hmac=75ed338f92535a394db898fb50016b4738ad36a6426d048393164aaba769c451/master_600.m3u8?aka_me_session_id=AAAAAAAAAAAEihNqAAAAALIT2jpBQoPmaD3XLIm3gm74WnxYDDteNTwSZ6d+DxpekjKep9IEluywgQjBotZlOf23+BWy3e+x&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Satu2305/HIN/hdntl=exp=1779665412~acl=%2f*~id=03268524251813393294343366997739~data=hdntl,2094588,WWE_Satu2305,HIN~hmac=75ed338f92535a394db898fb50016b4738ad36a6426d048393164aaba769c451/master_1000.m3u8?aka_me_session_id=AAAAAAAAAAAEihNqAAAAALIT2jpBQoPmaD3XLIm3gm74WnxYDDteNTwSZ6d+DxpekjKep9IEluywgQjBotZlOf23+BWy3e+x&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Satu2305/HIN/hdntl=exp=1779665412~acl=%2f*~id=03268524251813393294343366997739~data=hdntl,2094588,WWE_Satu2305,HIN~hmac=75ed338f92535a394db898fb50016b4738ad36a6426d048393164aaba769c451/master_1300.m3u8?aka_me_session_id=AAAAAAAAAAAEihNqAAAAALIT2jpBQoPmaD3XLIm3gm74WnxYDDteNTwSZ6d+DxpekjKep9IEluywgQjBotZlOf23+BWy3e+x&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Satu2305/HIN/hdntl=exp=1779665412~acl=%2f*~id=03268524251813393294343366997739~data=hdntl,2094588,WWE_Satu2305,HIN~hmac=75ed338f92535a394db898fb50016b4738ad36a6426d048393164aaba769c451/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAAEihNqAAAAALIT2jpBQoPmaD3XLIm3gm74WnxYDDteNTwSZ6d+DxpekjKep9IEluywgQjBotZlOf23+BWy3e+x&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Satu2305/HIN/hdntl=exp=1779665412~acl=%2f*~id=03268524251813393294343366997739~data=hdntl,2094588,WWE_Satu2305,HIN~hmac=75ed338f92535a394db898fb50016b4738ad36a6426d048393164aaba769c451/master_2200.m3u8?aka_me_session_id=AAAAAAAAAAAEihNqAAAAALIT2jpBQoPmaD3XLIm3gm74WnxYDDteNTwSZ6d+DxpekjKep9IEluywgQjBotZlOf23+BWy3e+x&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3591848,AVERAGE-BANDWIDTH=3591848,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Satu2305/HIN/hdntl=exp=1779665412~acl=%2f*~id=03268524251813393294343366997739~data=hdntl,2094588,WWE_Satu2305,HIN~hmac=75ed338f92535a394db898fb50016b4738ad36a6426d048393164aaba769c451/master_3200.m3u8?aka_me_session_id=AAAAAAAAAAAEihNqAAAAALIT2jpBQoPmaD3XLIm3gm74WnxYDDteNTwSZ6d+DxpekjKep9IEluywgQjBotZlOf23+BWy3e+x&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Satu2305/HIN/hdntl=exp=1779665412~acl=%2f*~id=03268524251813393294343366997739~data=hdntl,2094588,WWE_Satu2305,HIN~hmac=75ed338f92535a394db898fb50016b4738ad36a6426d048393164aaba769c451/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAAEihNqAAAAALIT2jpBQoPmaD3XLIm3gm74WnxYDDteNTwSZ6d+DxpekjKep9IEluywgQjBotZlOf23+BWy3e+x&aka_media_format_type=hls",
+              "date": "Sunday 24th of May 2026 05:00:12 AM"
+            }
+          }
+        },
+        {
+          "LANGUAGE": "Tamil",
+          "LANG_CODE": "TAM",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Satu2305/TAM/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioLanguageName": "ENG",
+                  "audioLanguageLabel": "English"
+                },
+                {
+                  "audioLanguageName": "HIN",
+                  "audioLanguageLabel": "Hindi"
+                },
+                {
+                  "audioLanguageName": "TEL",
+                  "audioLanguageLabel": "Telugu"
+                },
+                {
+                  "audioLanguageName": "TAM",
+                  "audioLanguageLabel": "Tamil"
+                },
+                {
+                  "audioLanguageName": "KAN",
+                  "audioLanguageLabel": "Kannada"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/o6OXEiAZTVqBjgTho6YBOw/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1779579015411,
+              "DOCTOR_STRANGE": 1779579015,
+              "additionalDataJson": {
+                "adServer": "GAM",
+                "ad_stack": "DAI-IMA",
+                "audioCodec": "AAC",
+                "audio_quality": "STEREO",
+                "enc_format": "HLS",
+                "fps": 25,
+                "isDaiKey": true,
+                "partners": [
+                  "ALL"
+                ],
+                "resolution": "HD",
+                "videoCodec": "H264",
+                "video_quality": "SDR"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Satu2305/TAM/hdntl=exp=1779665416~acl=%2f*~id=03268524251813393294343366997739~data=hdntl,2094588,WWE_Satu2305,TAM~hmac=372d793eea3c4fedc380c5492dba5e54767b020a1bf5b9e3fdd0777d22664480/master_200.m3u8?aka_me_session_id=AAAAAAAAAAAIihNqAAAAAD5bXoTIlerPYV1wMOednZi72djB9SFQm2etBgMrjS5rwEWtdDTYFC7wugTGJrc6R+OXAaBZq0zU&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Satu2305/TAM/hdntl=exp=1779665416~acl=%2f*~id=03268524251813393294343366997739~data=hdntl,2094588,WWE_Satu2305,TAM~hmac=372d793eea3c4fedc380c5492dba5e54767b020a1bf5b9e3fdd0777d22664480/master_400.m3u8?aka_me_session_id=AAAAAAAAAAAIihNqAAAAAD5bXoTIlerPYV1wMOednZi72djB9SFQm2etBgMrjS5rwEWtdDTYFC7wugTGJrc6R+OXAaBZq0zU&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Satu2305/TAM/hdntl=exp=1779665416~acl=%2f*~id=03268524251813393294343366997739~data=hdntl,2094588,WWE_Satu2305,TAM~hmac=372d793eea3c4fedc380c5492dba5e54767b020a1bf5b9e3fdd0777d22664480/master_500.m3u8?aka_me_session_id=AAAAAAAAAAAIihNqAAAAAD5bXoTIlerPYV1wMOednZi72djB9SFQm2etBgMrjS5rwEWtdDTYFC7wugTGJrc6R+OXAaBZq0zU&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=935336,AVERAGE-BANDWIDTH=935336,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Satu2305/TAM/hdntl=exp=1779665416~acl=%2f*~id=03268524251813393294343366997739~data=hdntl,2094588,WWE_Satu2305,TAM~hmac=372d793eea3c4fedc380c5492dba5e54767b020a1bf5b9e3fdd0777d22664480/master_600.m3u8?aka_me_session_id=AAAAAAAAAAAIihNqAAAAAD5bXoTIlerPYV1wMOednZi72djB9SFQm2etBgMrjS5rwEWtdDTYFC7wugTGJrc6R+OXAaBZq0zU&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Satu2305/TAM/hdntl=exp=1779665416~acl=%2f*~id=03268524251813393294343366997739~data=hdntl,2094588,WWE_Satu2305,TAM~hmac=372d793eea3c4fedc380c5492dba5e54767b020a1bf5b9e3fdd0777d22664480/master_1000.m3u8?aka_me_session_id=AAAAAAAAAAAIihNqAAAAAD5bXoTIlerPYV1wMOednZi72djB9SFQm2etBgMrjS5rwEWtdDTYFC7wugTGJrc6R+OXAaBZq0zU&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Satu2305/TAM/hdntl=exp=1779665416~acl=%2f*~id=03268524251813393294343366997739~data=hdntl,2094588,WWE_Satu2305,TAM~hmac=372d793eea3c4fedc380c5492dba5e54767b020a1bf5b9e3fdd0777d22664480/master_1300.m3u8?aka_me_session_id=AAAAAAAAAAAIihNqAAAAAD5bXoTIlerPYV1wMOednZi72djB9SFQm2etBgMrjS5rwEWtdDTYFC7wugTGJrc6R+OXAaBZq0zU&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Satu2305/TAM/hdntl=exp=1779665416~acl=%2f*~id=03268524251813393294343366997739~data=hdntl,2094588,WWE_Satu2305,TAM~hmac=372d793eea3c4fedc380c5492dba5e54767b020a1bf5b9e3fdd0777d22664480/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAAIihNqAAAAAD5bXoTIlerPYV1wMOednZi72djB9SFQm2etBgMrjS5rwEWtdDTYFC7wugTGJrc6R+OXAaBZq0zU&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Satu2305/TAM/hdntl=exp=1779665416~acl=%2f*~id=03268524251813393294343366997739~data=hdntl,2094588,WWE_Satu2305,TAM~hmac=372d793eea3c4fedc380c5492dba5e54767b020a1bf5b9e3fdd0777d22664480/master_2200.m3u8?aka_me_session_id=AAAAAAAAAAAIihNqAAAAAD5bXoTIlerPYV1wMOednZi72djB9SFQm2etBgMrjS5rwEWtdDTYFC7wugTGJrc6R+OXAaBZq0zU&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3591848,AVERAGE-BANDWIDTH=3591848,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Satu2305/TAM/hdntl=exp=1779665416~acl=%2f*~id=03268524251813393294343366997739~data=hdntl,2094588,WWE_Satu2305,TAM~hmac=372d793eea3c4fedc380c5492dba5e54767b020a1bf5b9e3fdd0777d22664480/master_3200.m3u8?aka_me_session_id=AAAAAAAAAAAIihNqAAAAAD5bXoTIlerPYV1wMOednZi72djB9SFQm2etBgMrjS5rwEWtdDTYFC7wugTGJrc6R+OXAaBZq0zU&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Satu2305/TAM/hdntl=exp=1779665416~acl=%2f*~id=03268524251813393294343366997739~data=hdntl,2094588,WWE_Satu2305,TAM~hmac=372d793eea3c4fedc380c5492dba5e54767b020a1bf5b9e3fdd0777d22664480/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAAIihNqAAAAAD5bXoTIlerPYV1wMOednZi72djB9SFQm2etBgMrjS5rwEWtdDTYFC7wugTGJrc6R+OXAaBZq0zU&aka_media_format_type=hls",
+              "date": "Sunday 24th of May 2026 05:00:15 AM"
+            }
+          }
+        },
+        {
+          "LANGUAGE": "Telugu",
+          "LANG_CODE": "TEL",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Satu2305/TEL/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioLanguageName": "ENG",
+                  "audioLanguageLabel": "English"
+                },
+                {
+                  "audioLanguageName": "HIN",
+                  "audioLanguageLabel": "Hindi"
+                },
+                {
+                  "audioLanguageName": "TEL",
+                  "audioLanguageLabel": "Telugu"
+                },
+                {
+                  "audioLanguageName": "TAM",
+                  "audioLanguageLabel": "Tamil"
+                },
+                {
+                  "audioLanguageName": "KAN",
+                  "audioLanguageLabel": "Kannada"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/o0YF9QIdRzWrk1Oe5wkCFA/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1779579018756,
+              "DOCTOR_STRANGE": 1779579017,
+              "additionalDataJson": {
+                "adServer": "GAM",
+                "ad_stack": "DAI-IMA",
+                "audioCodec": "AAC",
+                "audio_quality": "STEREO",
+                "enc_format": "HLS",
+                "fps": 25,
+                "isDaiKey": true,
+                "partners": [
+                  "ALL"
+                ],
+                "resolution": "HD",
+                "videoCodec": "H264",
+                "video_quality": "SDR"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Satu2305/TEL/hdntl=exp=1779665419~acl=%2f*~id=03268524251813393294343366997739~data=hdntl,2094588,WWE_Satu2305,TEL~hmac=bdb5da69e04b1a29c903c57abd36b8049c2add7ca709bbd7a7f1bd188ca00a18/master_200.m3u8?aka_me_session_id=AAAAAAAAAAALihNqAAAAAD0jqO4E0Q+2umfhz8fbHAhcBXBIOkbMGOZcZygGqLOEMGGfxONR68fFFHWN83s4oe472sTWzn1k&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Satu2305/TEL/hdntl=exp=1779665419~acl=%2f*~id=03268524251813393294343366997739~data=hdntl,2094588,WWE_Satu2305,TEL~hmac=bdb5da69e04b1a29c903c57abd36b8049c2add7ca709bbd7a7f1bd188ca00a18/master_400.m3u8?aka_me_session_id=AAAAAAAAAAALihNqAAAAAD0jqO4E0Q+2umfhz8fbHAhcBXBIOkbMGOZcZygGqLOEMGGfxONR68fFFHWN83s4oe472sTWzn1k&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Satu2305/TEL/hdntl=exp=1779665419~acl=%2f*~id=03268524251813393294343366997739~data=hdntl,2094588,WWE_Satu2305,TEL~hmac=bdb5da69e04b1a29c903c57abd36b8049c2add7ca709bbd7a7f1bd188ca00a18/master_500.m3u8?aka_me_session_id=AAAAAAAAAAALihNqAAAAAD0jqO4E0Q+2umfhz8fbHAhcBXBIOkbMGOZcZygGqLOEMGGfxONR68fFFHWN83s4oe472sTWzn1k&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=935336,AVERAGE-BANDWIDTH=935336,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Satu2305/TEL/hdntl=exp=1779665419~acl=%2f*~id=03268524251813393294343366997739~data=hdntl,2094588,WWE_Satu2305,TEL~hmac=bdb5da69e04b1a29c903c57abd36b8049c2add7ca709bbd7a7f1bd188ca00a18/master_600.m3u8?aka_me_session_id=AAAAAAAAAAALihNqAAAAAD0jqO4E0Q+2umfhz8fbHAhcBXBIOkbMGOZcZygGqLOEMGGfxONR68fFFHWN83s4oe472sTWzn1k&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Satu2305/TEL/hdntl=exp=1779665419~acl=%2f*~id=03268524251813393294343366997739~data=hdntl,2094588,WWE_Satu2305,TEL~hmac=bdb5da69e04b1a29c903c57abd36b8049c2add7ca709bbd7a7f1bd188ca00a18/master_1000.m3u8?aka_me_session_id=AAAAAAAAAAALihNqAAAAAD0jqO4E0Q+2umfhz8fbHAhcBXBIOkbMGOZcZygGqLOEMGGfxONR68fFFHWN83s4oe472sTWzn1k&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Satu2305/TEL/hdntl=exp=1779665419~acl=%2f*~id=03268524251813393294343366997739~data=hdntl,2094588,WWE_Satu2305,TEL~hmac=bdb5da69e04b1a29c903c57abd36b8049c2add7ca709bbd7a7f1bd188ca00a18/master_1300.m3u8?aka_me_session_id=AAAAAAAAAAALihNqAAAAAD0jqO4E0Q+2umfhz8fbHAhcBXBIOkbMGOZcZygGqLOEMGGfxONR68fFFHWN83s4oe472sTWzn1k&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Satu2305/TEL/hdntl=exp=1779665419~acl=%2f*~id=03268524251813393294343366997739~data=hdntl,2094588,WWE_Satu2305,TEL~hmac=bdb5da69e04b1a29c903c57abd36b8049c2add7ca709bbd7a7f1bd188ca00a18/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAALihNqAAAAAD0jqO4E0Q+2umfhz8fbHAhcBXBIOkbMGOZcZygGqLOEMGGfxONR68fFFHWN83s4oe472sTWzn1k&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Satu2305/TEL/hdntl=exp=1779665419~acl=%2f*~id=03268524251813393294343366997739~data=hdntl,2094588,WWE_Satu2305,TEL~hmac=bdb5da69e04b1a29c903c57abd36b8049c2add7ca709bbd7a7f1bd188ca00a18/master_2200.m3u8?aka_me_session_id=AAAAAAAAAAALihNqAAAAAD0jqO4E0Q+2umfhz8fbHAhcBXBIOkbMGOZcZygGqLOEMGGfxONR68fFFHWN83s4oe472sTWzn1k&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3591848,AVERAGE-BANDWIDTH=3591848,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Satu2305/TEL/hdntl=exp=1779665419~acl=%2f*~id=03268524251813393294343366997739~data=hdntl,2094588,WWE_Satu2305,TEL~hmac=bdb5da69e04b1a29c903c57abd36b8049c2add7ca709bbd7a7f1bd188ca00a18/master_3200.m3u8?aka_me_session_id=AAAAAAAAAAALihNqAAAAAD0jqO4E0Q+2umfhz8fbHAhcBXBIOkbMGOZcZygGqLOEMGGfxONR68fFFHWN83s4oe472sTWzn1k&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Satu2305/TEL/hdntl=exp=1779665419~acl=%2f*~id=03268524251813393294343366997739~data=hdntl,2094588,WWE_Satu2305,TEL~hmac=bdb5da69e04b1a29c903c57abd36b8049c2add7ca709bbd7a7f1bd188ca00a18/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAALihNqAAAAAD0jqO4E0Q+2umfhz8fbHAhcBXBIOkbMGOZcZygGqLOEMGGfxONR68fFFHWN83s4oe472sTWzn1k&aka_media_format_type=hls",
+              "date": "Sunday 24th of May 2026 05:00:17 AM"
+            }
+          }
+        },
+        {
+          "LANGUAGE": "Kannada",
+          "LANG_CODE": "KAN",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Satu2305/KAN/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioLanguageName": "ENG",
+                  "audioLanguageLabel": "English"
+                },
+                {
+                  "audioLanguageName": "HIN",
+                  "audioLanguageLabel": "Hindi"
+                },
+                {
+                  "audioLanguageName": "TEL",
+                  "audioLanguageLabel": "Telugu"
+                },
+                {
+                  "audioLanguageName": "TAM",
+                  "audioLanguageLabel": "Tamil"
+                },
+                {
+                  "audioLanguageName": "KAN",
+                  "audioLanguageLabel": "Kannada"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/KijWX2h2RoSltesOov7TBw/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1779579020577,
+              "DOCTOR_STRANGE": 1779579019,
+              "additionalDataJson": {
+                "adServer": "GAM",
+                "ad_stack": "DAI-IMA",
+                "audioCodec": "AAC",
+                "audio_quality": "STEREO",
+                "enc_format": "HLS",
+                "fps": 25,
+                "isDaiKey": true,
+                "partners": [
+                  "ALL"
+                ],
+                "resolution": "HD",
+                "videoCodec": "H264",
+                "video_quality": "SDR"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Satu2305/KAN/hdntl=exp=1779665421~acl=%2f*~id=03268524251813393294343366997739~data=hdntl,2094588,WWE_Satu2305,KAN~hmac=f0983c3a6d85eea1740532798e22efda4845ac315958f825e03ec1583a83a86d/master_200.m3u8?aka_me_session_id=AAAAAAAAAAANihNqAAAAAGAFoCH9ioa7WqZMW1+NxZUV94Jgn4vicIqQTqwCB+iIB0jaB00QwJ9LYsFwuIYzb2Ivf8FZU0Na&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Satu2305/KAN/hdntl=exp=1779665421~acl=%2f*~id=03268524251813393294343366997739~data=hdntl,2094588,WWE_Satu2305,KAN~hmac=f0983c3a6d85eea1740532798e22efda4845ac315958f825e03ec1583a83a86d/master_400.m3u8?aka_me_session_id=AAAAAAAAAAANihNqAAAAAGAFoCH9ioa7WqZMW1+NxZUV94Jgn4vicIqQTqwCB+iIB0jaB00QwJ9LYsFwuIYzb2Ivf8FZU0Na&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Satu2305/KAN/hdntl=exp=1779665421~acl=%2f*~id=03268524251813393294343366997739~data=hdntl,2094588,WWE_Satu2305,KAN~hmac=f0983c3a6d85eea1740532798e22efda4845ac315958f825e03ec1583a83a86d/master_500.m3u8?aka_me_session_id=AAAAAAAAAAANihNqAAAAAGAFoCH9ioa7WqZMW1+NxZUV94Jgn4vicIqQTqwCB+iIB0jaB00QwJ9LYsFwuIYzb2Ivf8FZU0Na&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=837256,AVERAGE-BANDWIDTH=837256,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Satu2305/KAN/hdntl=exp=1779665421~acl=%2f*~id=03268524251813393294343366997739~data=hdntl,2094588,WWE_Satu2305,KAN~hmac=f0983c3a6d85eea1740532798e22efda4845ac315958f825e03ec1583a83a86d/master_600.m3u8?aka_me_session_id=AAAAAAAAAAANihNqAAAAAGAFoCH9ioa7WqZMW1+NxZUV94Jgn4vicIqQTqwCB+iIB0jaB00QwJ9LYsFwuIYzb2Ivf8FZU0Na&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Satu2305/KAN/hdntl=exp=1779665421~acl=%2f*~id=03268524251813393294343366997739~data=hdntl,2094588,WWE_Satu2305,KAN~hmac=f0983c3a6d85eea1740532798e22efda4845ac315958f825e03ec1583a83a86d/master_1000.m3u8?aka_me_session_id=AAAAAAAAAAANihNqAAAAAGAFoCH9ioa7WqZMW1+NxZUV94Jgn4vicIqQTqwCB+iIB0jaB00QwJ9LYsFwuIYzb2Ivf8FZU0Na&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Satu2305/KAN/hdntl=exp=1779665421~acl=%2f*~id=03268524251813393294343366997739~data=hdntl,2094588,WWE_Satu2305,KAN~hmac=f0983c3a6d85eea1740532798e22efda4845ac315958f825e03ec1583a83a86d/master_1300.m3u8?aka_me_session_id=AAAAAAAAAAANihNqAAAAAGAFoCH9ioa7WqZMW1+NxZUV94Jgn4vicIqQTqwCB+iIB0jaB00QwJ9LYsFwuIYzb2Ivf8FZU0Na&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Satu2305/KAN/hdntl=exp=1779665421~acl=%2f*~id=03268524251813393294343366997739~data=hdntl,2094588,WWE_Satu2305,KAN~hmac=f0983c3a6d85eea1740532798e22efda4845ac315958f825e03ec1583a83a86d/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAANihNqAAAAAGAFoCH9ioa7WqZMW1+NxZUV94Jgn4vicIqQTqwCB+iIB0jaB00QwJ9LYsFwuIYzb2Ivf8FZU0Na&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Satu2305/KAN/hdntl=exp=1779665421~acl=%2f*~id=03268524251813393294343366997739~data=hdntl,2094588,WWE_Satu2305,KAN~hmac=f0983c3a6d85eea1740532798e22efda4845ac315958f825e03ec1583a83a86d/master_2200.m3u8?aka_me_session_id=AAAAAAAAAAANihNqAAAAAGAFoCH9ioa7WqZMW1+NxZUV94Jgn4vicIqQTqwCB+iIB0jaB00QwJ9LYsFwuIYzb2Ivf8FZU0Na&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3591848,AVERAGE-BANDWIDTH=3591848,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Satu2305/KAN/hdntl=exp=1779665421~acl=%2f*~id=03268524251813393294343366997739~data=hdntl,2094588,WWE_Satu2305,KAN~hmac=f0983c3a6d85eea1740532798e22efda4845ac315958f825e03ec1583a83a86d/master_3200.m3u8?aka_me_session_id=AAAAAAAAAAANihNqAAAAAGAFoCH9ioa7WqZMW1+NxZUV94Jgn4vicIqQTqwCB+iIB0jaB00QwJ9LYsFwuIYzb2Ivf8FZU0Na&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Satu2305/KAN/hdntl=exp=1779665421~acl=%2f*~id=03268524251813393294343366997739~data=hdntl,2094588,WWE_Satu2305,KAN~hmac=f0983c3a6d85eea1740532798e22efda4845ac315958f825e03ec1583a83a86d/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAANihNqAAAAAGAFoCH9ioa7WqZMW1+NxZUV94Jgn4vicIqQTqwCB+iIB0jaB00QwJ9LYsFwuIYzb2Ivf8FZU0Na&aka_media_format_type=hls",
+              "date": "Sunday 24th of May 2026 05:00:19 AM"
+            }
+          }
+        }
+      ]
+    }
+  ],
   "upcoming": [
     {
       "contentId": 1090530670,
