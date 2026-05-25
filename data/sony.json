@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Sony Live Matches API",
-  "last_updated": "25-05-2026 04:20",
+  "last_updated": "01:00:26 PM 25-05-2026",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -17,7 +17,380 @@
     "SERVER_STATUS": "NORMAL",
     "USAGE_GUIDE": []
   },
-  "data": [],
+  "data": [
+    {
+      "contentId": 1090529780,
+      "video_info": {
+        "title": "Roland-Garros 2026",
+        "shortDescription": "The world's premier clay-court championship returns to Paris, gathering the global elite to battle on the iconic red dirt where victory belongs to the most tenacious. As players push their endurance and tactical artistry to the absolute limit, they compete for ultimate glory and a historic place in Grand Slam history. Tune in to catch all the action from Roland-Garros 2026, LIVE & exclusively on Sony LIV.",
+        "longDescription": "The world's premier clay-court championship returns to Paris, gathering the global elite to battle on the iconic red dirt where victory belongs to the most tenacious. As players push their endurance and tactical artistry to the absolute limit, they compete for ultimate glory and a historic place in Grand Slam history. Tune in to catch all the action from Roland-Garros 2026, LIVE & exclusively on Sony LIV.",
+        "genres": [
+          "Tennis"
+        ],
+        "episodeTitle": "Day 2 - Round 1 - 25 May 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/RTTpbIJBQVGaU86ZLdcz8Q/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          },
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          },
+          {
+            "lang_code": "TAM",
+            "lang_label": "Tamil"
+          },
+          {
+            "lang_code": "TEL",
+            "lang_label": "Telugu"
+          },
+          {
+            "lang_code": "KAN",
+            "lang_label": "Kannada"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG,HIN,TAM,TEL,KAN",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "25 May 2026, 01:00 PM",
+        "contractEndDate": "26 May 2026, 06:00 AM",
+        "originalAirDate": "25 May 2026, 01:30 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018231/177953362417694_RG26_studio_show_23may_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018284/1779622373743240_RG26_studio_show_23may_landscape.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018284/1779622159798240_RG26_studio_show_23may_Masthead_mobile_v2.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018232/177953499047688_RG26_Round1_live_23may_masthead_logo.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018284/1779622373743240_RG26_studio_show_23may_landscape.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonydaimenew.akamaized.net/hls/live/2094588/RolandGa2505/ENG/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioLanguageName": "ENG",
+                  "audioLanguageLabel": "English"
+                },
+                {
+                  "audioLanguageName": "HIN",
+                  "audioLanguageLabel": "Hindi"
+                },
+                {
+                  "audioLanguageName": "TEL",
+                  "audioLanguageLabel": "Telugu"
+                },
+                {
+                  "audioLanguageName": "TAM",
+                  "audioLanguageLabel": "Tamil"
+                },
+                {
+                  "audioLanguageName": "KAN",
+                  "audioLanguageLabel": "Kannada"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/h-6GJBH2TweED39pQl26yg/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1779694206324,
+              "DOCTOR_STRANGE": 1779694207,
+              "additionalDataJson": {
+                "adServer": "GAM",
+                "ad_stack": "DAI-IMA",
+                "audioCodec": "AAC",
+                "audio_quality": "STEREO",
+                "enc_format": "HLS",
+                "fps": 25,
+                "isDaiKey": true,
+                "partners": [
+                  "ALL"
+                ],
+                "resolution": "HD",
+                "videoCodec": "H264",
+                "video_quality": "SDR"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/RolandGa2505/ENG/hdntl=exp=1779780608~acl=%2f*~id=68318745062867810630922275851078~data=hdntl,2094588,RolandGa2505,ENG~hmac=40ca5ac0e9d0f8af7e70c2d27f557c0d057833b9a35ff7caf377d3eab14d9c68/master_200.m3u8?aka_me_session_id=AAAAAAAAAAAATBVqAAAAAHCyJxn0OK9n0f8oUtHcByUM%2fouClO78nVmD+VTGBr2Zq+HpiW4cvhXkYWToU9H7i6DPBoDks0B2&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/RolandGa2505/ENG/hdntl=exp=1779780608~acl=%2f*~id=68318745062867810630922275851078~data=hdntl,2094588,RolandGa2505,ENG~hmac=40ca5ac0e9d0f8af7e70c2d27f557c0d057833b9a35ff7caf377d3eab14d9c68/master_400.m3u8?aka_me_session_id=AAAAAAAAAAAATBVqAAAAAHCyJxn0OK9n0f8oUtHcByUM%2fouClO78nVmD+VTGBr2Zq+HpiW4cvhXkYWToU9H7i6DPBoDks0B2&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/RolandGa2505/ENG/hdntl=exp=1779780608~acl=%2f*~id=68318745062867810630922275851078~data=hdntl,2094588,RolandGa2505,ENG~hmac=40ca5ac0e9d0f8af7e70c2d27f557c0d057833b9a35ff7caf377d3eab14d9c68/master_500.m3u8?aka_me_session_id=AAAAAAAAAAAATBVqAAAAAHCyJxn0OK9n0f8oUtHcByUM%2fouClO78nVmD+VTGBr2Zq+HpiW4cvhXkYWToU9H7i6DPBoDks0B2&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=837256,AVERAGE-BANDWIDTH=837256,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/RolandGa2505/ENG/hdntl=exp=1779780608~acl=%2f*~id=68318745062867810630922275851078~data=hdntl,2094588,RolandGa2505,ENG~hmac=40ca5ac0e9d0f8af7e70c2d27f557c0d057833b9a35ff7caf377d3eab14d9c68/master_600.m3u8?aka_me_session_id=AAAAAAAAAAAATBVqAAAAAHCyJxn0OK9n0f8oUtHcByUM%2fouClO78nVmD+VTGBr2Zq+HpiW4cvhXkYWToU9H7i6DPBoDks0B2&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/RolandGa2505/ENG/hdntl=exp=1779780608~acl=%2f*~id=68318745062867810630922275851078~data=hdntl,2094588,RolandGa2505,ENG~hmac=40ca5ac0e9d0f8af7e70c2d27f557c0d057833b9a35ff7caf377d3eab14d9c68/master_1000.m3u8?aka_me_session_id=AAAAAAAAAAAATBVqAAAAAHCyJxn0OK9n0f8oUtHcByUM%2fouClO78nVmD+VTGBr2Zq+HpiW4cvhXkYWToU9H7i6DPBoDks0B2&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/RolandGa2505/ENG/hdntl=exp=1779780608~acl=%2f*~id=68318745062867810630922275851078~data=hdntl,2094588,RolandGa2505,ENG~hmac=40ca5ac0e9d0f8af7e70c2d27f557c0d057833b9a35ff7caf377d3eab14d9c68/master_1300.m3u8?aka_me_session_id=AAAAAAAAAAAATBVqAAAAAHCyJxn0OK9n0f8oUtHcByUM%2fouClO78nVmD+VTGBr2Zq+HpiW4cvhXkYWToU9H7i6DPBoDks0B2&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/RolandGa2505/ENG/hdntl=exp=1779780608~acl=%2f*~id=68318745062867810630922275851078~data=hdntl,2094588,RolandGa2505,ENG~hmac=40ca5ac0e9d0f8af7e70c2d27f557c0d057833b9a35ff7caf377d3eab14d9c68/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAAATBVqAAAAAHCyJxn0OK9n0f8oUtHcByUM%2fouClO78nVmD+VTGBr2Zq+HpiW4cvhXkYWToU9H7i6DPBoDks0B2&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/RolandGa2505/ENG/hdntl=exp=1779780608~acl=%2f*~id=68318745062867810630922275851078~data=hdntl,2094588,RolandGa2505,ENG~hmac=40ca5ac0e9d0f8af7e70c2d27f557c0d057833b9a35ff7caf377d3eab14d9c68/master_2200.m3u8?aka_me_session_id=AAAAAAAAAAAATBVqAAAAAHCyJxn0OK9n0f8oUtHcByUM%2fouClO78nVmD+VTGBr2Zq+HpiW4cvhXkYWToU9H7i6DPBoDks0B2&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3591848,AVERAGE-BANDWIDTH=3591848,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/RolandGa2505/ENG/hdntl=exp=1779780608~acl=%2f*~id=68318745062867810630922275851078~data=hdntl,2094588,RolandGa2505,ENG~hmac=40ca5ac0e9d0f8af7e70c2d27f557c0d057833b9a35ff7caf377d3eab14d9c68/master_3200.m3u8?aka_me_session_id=AAAAAAAAAAAATBVqAAAAAHCyJxn0OK9n0f8oUtHcByUM%2fouClO78nVmD+VTGBr2Zq+HpiW4cvhXkYWToU9H7i6DPBoDks0B2&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/RolandGa2505/ENG/hdntl=exp=1779780608~acl=%2f*~id=68318745062867810630922275851078~data=hdntl,2094588,RolandGa2505,ENG~hmac=40ca5ac0e9d0f8af7e70c2d27f557c0d057833b9a35ff7caf377d3eab14d9c68/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAAATBVqAAAAAHCyJxn0OK9n0f8oUtHcByUM%2fouClO78nVmD+VTGBr2Zq+HpiW4cvhXkYWToU9H7i6DPBoDks0B2&aka_media_format_type=hls",
+              "date": "Monday 25th of May 2026 01:00:07 PM"
+            }
+          }
+        },
+        {
+          "LANGUAGE": "Hindi",
+          "LANG_CODE": "HIN",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonydaimenew.akamaized.net/hls/live/2094588/RolandGa2505/HIN/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioLanguageName": "ENG",
+                  "audioLanguageLabel": "English"
+                },
+                {
+                  "audioLanguageName": "HIN",
+                  "audioLanguageLabel": "Hindi"
+                },
+                {
+                  "audioLanguageName": "TEL",
+                  "audioLanguageLabel": "Telugu"
+                },
+                {
+                  "audioLanguageName": "TAM",
+                  "audioLanguageLabel": "Tamil"
+                },
+                {
+                  "audioLanguageName": "KAN",
+                  "audioLanguageLabel": "Kannada"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/wdO8mORMRqi8l7ztwLnBiw/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1779694211661,
+              "DOCTOR_STRANGE": 1779694209,
+              "additionalDataJson": {
+                "adServer": "GAM",
+                "ad_stack": "DAI-IMA",
+                "audioCodec": "AAC",
+                "audio_quality": "STEREO",
+                "enc_format": "HLS",
+                "fps": 25,
+                "isDaiKey": true,
+                "partners": [
+                  "ALL"
+                ],
+                "resolution": "HD",
+                "videoCodec": "H264",
+                "video_quality": "SDR"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/RolandGa2505/HIN/hdntl=exp=1779780612~acl=%2f*~id=68318745062867810630922275851078~data=hdntl,2094588,RolandGa2505,HIN~hmac=44d1458a4efff6a07fd4e67c76b76e631c8e48830054b846c392d873b1d632b7/master_200.m3u8?aka_me_session_id=AAAAAAAAAAAETBVqAAAAADxROIc5Sy9MxfphMH1ZSdDVXbgpbHbouVhijs7iRiAhmNSdNFQEDuZzjMcWtfJP2RPO%2f+PlpeK1&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/RolandGa2505/HIN/hdntl=exp=1779780612~acl=%2f*~id=68318745062867810630922275851078~data=hdntl,2094588,RolandGa2505,HIN~hmac=44d1458a4efff6a07fd4e67c76b76e631c8e48830054b846c392d873b1d632b7/master_400.m3u8?aka_me_session_id=AAAAAAAAAAAETBVqAAAAADxROIc5Sy9MxfphMH1ZSdDVXbgpbHbouVhijs7iRiAhmNSdNFQEDuZzjMcWtfJP2RPO%2f+PlpeK1&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/RolandGa2505/HIN/hdntl=exp=1779780612~acl=%2f*~id=68318745062867810630922275851078~data=hdntl,2094588,RolandGa2505,HIN~hmac=44d1458a4efff6a07fd4e67c76b76e631c8e48830054b846c392d873b1d632b7/master_500.m3u8?aka_me_session_id=AAAAAAAAAAAETBVqAAAAADxROIc5Sy9MxfphMH1ZSdDVXbgpbHbouVhijs7iRiAhmNSdNFQEDuZzjMcWtfJP2RPO%2f+PlpeK1&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=837256,AVERAGE-BANDWIDTH=837256,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/RolandGa2505/HIN/hdntl=exp=1779780612~acl=%2f*~id=68318745062867810630922275851078~data=hdntl,2094588,RolandGa2505,HIN~hmac=44d1458a4efff6a07fd4e67c76b76e631c8e48830054b846c392d873b1d632b7/master_600.m3u8?aka_me_session_id=AAAAAAAAAAAETBVqAAAAADxROIc5Sy9MxfphMH1ZSdDVXbgpbHbouVhijs7iRiAhmNSdNFQEDuZzjMcWtfJP2RPO%2f+PlpeK1&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/RolandGa2505/HIN/hdntl=exp=1779780612~acl=%2f*~id=68318745062867810630922275851078~data=hdntl,2094588,RolandGa2505,HIN~hmac=44d1458a4efff6a07fd4e67c76b76e631c8e48830054b846c392d873b1d632b7/master_1000.m3u8?aka_me_session_id=AAAAAAAAAAAETBVqAAAAADxROIc5Sy9MxfphMH1ZSdDVXbgpbHbouVhijs7iRiAhmNSdNFQEDuZzjMcWtfJP2RPO%2f+PlpeK1&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/RolandGa2505/HIN/hdntl=exp=1779780612~acl=%2f*~id=68318745062867810630922275851078~data=hdntl,2094588,RolandGa2505,HIN~hmac=44d1458a4efff6a07fd4e67c76b76e631c8e48830054b846c392d873b1d632b7/master_1300.m3u8?aka_me_session_id=AAAAAAAAAAAETBVqAAAAADxROIc5Sy9MxfphMH1ZSdDVXbgpbHbouVhijs7iRiAhmNSdNFQEDuZzjMcWtfJP2RPO%2f+PlpeK1&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/RolandGa2505/HIN/hdntl=exp=1779780612~acl=%2f*~id=68318745062867810630922275851078~data=hdntl,2094588,RolandGa2505,HIN~hmac=44d1458a4efff6a07fd4e67c76b76e631c8e48830054b846c392d873b1d632b7/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAAETBVqAAAAADxROIc5Sy9MxfphMH1ZSdDVXbgpbHbouVhijs7iRiAhmNSdNFQEDuZzjMcWtfJP2RPO%2f+PlpeK1&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/RolandGa2505/HIN/hdntl=exp=1779780612~acl=%2f*~id=68318745062867810630922275851078~data=hdntl,2094588,RolandGa2505,HIN~hmac=44d1458a4efff6a07fd4e67c76b76e631c8e48830054b846c392d873b1d632b7/master_2200.m3u8?aka_me_session_id=AAAAAAAAAAAETBVqAAAAADxROIc5Sy9MxfphMH1ZSdDVXbgpbHbouVhijs7iRiAhmNSdNFQEDuZzjMcWtfJP2RPO%2f+PlpeK1&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3591848,AVERAGE-BANDWIDTH=3591848,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/RolandGa2505/HIN/hdntl=exp=1779780612~acl=%2f*~id=68318745062867810630922275851078~data=hdntl,2094588,RolandGa2505,HIN~hmac=44d1458a4efff6a07fd4e67c76b76e631c8e48830054b846c392d873b1d632b7/master_3200.m3u8?aka_me_session_id=AAAAAAAAAAAETBVqAAAAADxROIc5Sy9MxfphMH1ZSdDVXbgpbHbouVhijs7iRiAhmNSdNFQEDuZzjMcWtfJP2RPO%2f+PlpeK1&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/RolandGa2505/HIN/hdntl=exp=1779780612~acl=%2f*~id=68318745062867810630922275851078~data=hdntl,2094588,RolandGa2505,HIN~hmac=44d1458a4efff6a07fd4e67c76b76e631c8e48830054b846c392d873b1d632b7/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAAETBVqAAAAADxROIc5Sy9MxfphMH1ZSdDVXbgpbHbouVhijs7iRiAhmNSdNFQEDuZzjMcWtfJP2RPO%2f+PlpeK1&aka_media_format_type=hls",
+              "date": "Monday 25th of May 2026 01:00:09 PM"
+            }
+          }
+        },
+        {
+          "LANGUAGE": "Tamil",
+          "LANG_CODE": "TAM",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonydaimenew.akamaized.net/hls/live/2094588/RolandGa2505/TAM/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioLanguageName": "ENG",
+                  "audioLanguageLabel": "English"
+                },
+                {
+                  "audioLanguageName": "HIN",
+                  "audioLanguageLabel": "Hindi"
+                },
+                {
+                  "audioLanguageName": "TEL",
+                  "audioLanguageLabel": "Telugu"
+                },
+                {
+                  "audioLanguageName": "TAM",
+                  "audioLanguageLabel": "Tamil"
+                },
+                {
+                  "audioLanguageName": "KAN",
+                  "audioLanguageLabel": "Kannada"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/F_H8S5gzS56WKJiNDa1z5Q/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1779694213482,
+              "DOCTOR_STRANGE": 1779694213,
+              "additionalDataJson": {
+                "adServer": "GAM",
+                "ad_stack": "DAI-IMA",
+                "audioCodec": "AAC",
+                "audio_quality": "STEREO",
+                "enc_format": "HLS",
+                "fps": 25,
+                "isDaiKey": true,
+                "partners": [
+                  "ALL"
+                ],
+                "resolution": "HD",
+                "videoCodec": "H264",
+                "video_quality": "SDR"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/RolandGa2505/TAM/hdntl=exp=1779780614~acl=%2f*~id=68318745062867810630922275851078~data=hdntl,2094588,RolandGa2505,TAM~hmac=97ee62799385609ad6f0b46de4e9c9211d424cee7bae1c57f4c31b727e3e30ad/master_200.m3u8?aka_me_session_id=AAAAAAAAAAAGTBVqAAAAAMChFzpciaWTUBgGcbSRAiNwIHiqz6MyXrb7nOzN7Ftr84YhaH7GLrvzr20CiWFe3LVX1MWuzh0J&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/RolandGa2505/TAM/hdntl=exp=1779780614~acl=%2f*~id=68318745062867810630922275851078~data=hdntl,2094588,RolandGa2505,TAM~hmac=97ee62799385609ad6f0b46de4e9c9211d424cee7bae1c57f4c31b727e3e30ad/master_400.m3u8?aka_me_session_id=AAAAAAAAAAAGTBVqAAAAAMChFzpciaWTUBgGcbSRAiNwIHiqz6MyXrb7nOzN7Ftr84YhaH7GLrvzr20CiWFe3LVX1MWuzh0J&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/RolandGa2505/TAM/hdntl=exp=1779780614~acl=%2f*~id=68318745062867810630922275851078~data=hdntl,2094588,RolandGa2505,TAM~hmac=97ee62799385609ad6f0b46de4e9c9211d424cee7bae1c57f4c31b727e3e30ad/master_500.m3u8?aka_me_session_id=AAAAAAAAAAAGTBVqAAAAAMChFzpciaWTUBgGcbSRAiNwIHiqz6MyXrb7nOzN7Ftr84YhaH7GLrvzr20CiWFe3LVX1MWuzh0J&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=935336,AVERAGE-BANDWIDTH=935336,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/RolandGa2505/TAM/hdntl=exp=1779780614~acl=%2f*~id=68318745062867810630922275851078~data=hdntl,2094588,RolandGa2505,TAM~hmac=97ee62799385609ad6f0b46de4e9c9211d424cee7bae1c57f4c31b727e3e30ad/master_600.m3u8?aka_me_session_id=AAAAAAAAAAAGTBVqAAAAAMChFzpciaWTUBgGcbSRAiNwIHiqz6MyXrb7nOzN7Ftr84YhaH7GLrvzr20CiWFe3LVX1MWuzh0J&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/RolandGa2505/TAM/hdntl=exp=1779780614~acl=%2f*~id=68318745062867810630922275851078~data=hdntl,2094588,RolandGa2505,TAM~hmac=97ee62799385609ad6f0b46de4e9c9211d424cee7bae1c57f4c31b727e3e30ad/master_1000.m3u8?aka_me_session_id=AAAAAAAAAAAGTBVqAAAAAMChFzpciaWTUBgGcbSRAiNwIHiqz6MyXrb7nOzN7Ftr84YhaH7GLrvzr20CiWFe3LVX1MWuzh0J&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/RolandGa2505/TAM/hdntl=exp=1779780614~acl=%2f*~id=68318745062867810630922275851078~data=hdntl,2094588,RolandGa2505,TAM~hmac=97ee62799385609ad6f0b46de4e9c9211d424cee7bae1c57f4c31b727e3e30ad/master_1300.m3u8?aka_me_session_id=AAAAAAAAAAAGTBVqAAAAAMChFzpciaWTUBgGcbSRAiNwIHiqz6MyXrb7nOzN7Ftr84YhaH7GLrvzr20CiWFe3LVX1MWuzh0J&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/RolandGa2505/TAM/hdntl=exp=1779780614~acl=%2f*~id=68318745062867810630922275851078~data=hdntl,2094588,RolandGa2505,TAM~hmac=97ee62799385609ad6f0b46de4e9c9211d424cee7bae1c57f4c31b727e3e30ad/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAAGTBVqAAAAAMChFzpciaWTUBgGcbSRAiNwIHiqz6MyXrb7nOzN7Ftr84YhaH7GLrvzr20CiWFe3LVX1MWuzh0J&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/RolandGa2505/TAM/hdntl=exp=1779780614~acl=%2f*~id=68318745062867810630922275851078~data=hdntl,2094588,RolandGa2505,TAM~hmac=97ee62799385609ad6f0b46de4e9c9211d424cee7bae1c57f4c31b727e3e30ad/master_2200.m3u8?aka_me_session_id=AAAAAAAAAAAGTBVqAAAAAMChFzpciaWTUBgGcbSRAiNwIHiqz6MyXrb7nOzN7Ftr84YhaH7GLrvzr20CiWFe3LVX1MWuzh0J&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3591848,AVERAGE-BANDWIDTH=3591848,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/RolandGa2505/TAM/hdntl=exp=1779780614~acl=%2f*~id=68318745062867810630922275851078~data=hdntl,2094588,RolandGa2505,TAM~hmac=97ee62799385609ad6f0b46de4e9c9211d424cee7bae1c57f4c31b727e3e30ad/master_3200.m3u8?aka_me_session_id=AAAAAAAAAAAGTBVqAAAAAMChFzpciaWTUBgGcbSRAiNwIHiqz6MyXrb7nOzN7Ftr84YhaH7GLrvzr20CiWFe3LVX1MWuzh0J&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/RolandGa2505/TAM/hdntl=exp=1779780614~acl=%2f*~id=68318745062867810630922275851078~data=hdntl,2094588,RolandGa2505,TAM~hmac=97ee62799385609ad6f0b46de4e9c9211d424cee7bae1c57f4c31b727e3e30ad/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAAGTBVqAAAAAMChFzpciaWTUBgGcbSRAiNwIHiqz6MyXrb7nOzN7Ftr84YhaH7GLrvzr20CiWFe3LVX1MWuzh0J&aka_media_format_type=hls",
+              "date": "Monday 25th of May 2026 01:00:13 PM"
+            }
+          }
+        },
+        {
+          "LANGUAGE": "Telugu",
+          "LANG_CODE": "TEL",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonydaimenew.akamaized.net/hls/live/2094588/RolandGa2505/TEL/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioLanguageName": "ENG",
+                  "audioLanguageLabel": "English"
+                },
+                {
+                  "audioLanguageName": "HIN",
+                  "audioLanguageLabel": "Hindi"
+                },
+                {
+                  "audioLanguageName": "TEL",
+                  "audioLanguageLabel": "Telugu"
+                },
+                {
+                  "audioLanguageName": "TAM",
+                  "audioLanguageLabel": "Tamil"
+                },
+                {
+                  "audioLanguageName": "KAN",
+                  "audioLanguageLabel": "Kannada"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/jawvtp-UQSSg_zM0O9NHYg/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1779694217064,
+              "DOCTOR_STRANGE": 1779694215,
+              "additionalDataJson": {
+                "adServer": "GAM",
+                "ad_stack": "DAI-IMA",
+                "audioCodec": "AAC",
+                "audio_quality": "STEREO",
+                "enc_format": "HLS",
+                "fps": 25,
+                "isDaiKey": true,
+                "partners": [
+                  "ALL"
+                ],
+                "resolution": "HD",
+                "videoCodec": "H264",
+                "video_quality": "SDR"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/RolandGa2505/TEL/hdntl=exp=1779780617~acl=%2f*~id=68318745062867810630922275851078~data=hdntl,2094588,RolandGa2505,TEL~hmac=36eae2bce518696918fe1f8e154e377878fee07e1c2b6e2ced287e9a9b3d204d/master_200.m3u8?aka_me_session_id=AAAAAAAAAAAJTBVqAAAAAFQN0l61hkmoEWrZNUmQweZELQe4Agx9ue1z%2f3u3O6mbAM9NKbQClq9mPoYyPrCd0%2fz6lGWwEpMb&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/RolandGa2505/TEL/hdntl=exp=1779780617~acl=%2f*~id=68318745062867810630922275851078~data=hdntl,2094588,RolandGa2505,TEL~hmac=36eae2bce518696918fe1f8e154e377878fee07e1c2b6e2ced287e9a9b3d204d/master_400.m3u8?aka_me_session_id=AAAAAAAAAAAJTBVqAAAAAFQN0l61hkmoEWrZNUmQweZELQe4Agx9ue1z%2f3u3O6mbAM9NKbQClq9mPoYyPrCd0%2fz6lGWwEpMb&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/RolandGa2505/TEL/hdntl=exp=1779780617~acl=%2f*~id=68318745062867810630922275851078~data=hdntl,2094588,RolandGa2505,TEL~hmac=36eae2bce518696918fe1f8e154e377878fee07e1c2b6e2ced287e9a9b3d204d/master_500.m3u8?aka_me_session_id=AAAAAAAAAAAJTBVqAAAAAFQN0l61hkmoEWrZNUmQweZELQe4Agx9ue1z%2f3u3O6mbAM9NKbQClq9mPoYyPrCd0%2fz6lGWwEpMb&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=935336,AVERAGE-BANDWIDTH=935336,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/RolandGa2505/TEL/hdntl=exp=1779780617~acl=%2f*~id=68318745062867810630922275851078~data=hdntl,2094588,RolandGa2505,TEL~hmac=36eae2bce518696918fe1f8e154e377878fee07e1c2b6e2ced287e9a9b3d204d/master_600.m3u8?aka_me_session_id=AAAAAAAAAAAJTBVqAAAAAFQN0l61hkmoEWrZNUmQweZELQe4Agx9ue1z%2f3u3O6mbAM9NKbQClq9mPoYyPrCd0%2fz6lGWwEpMb&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/RolandGa2505/TEL/hdntl=exp=1779780617~acl=%2f*~id=68318745062867810630922275851078~data=hdntl,2094588,RolandGa2505,TEL~hmac=36eae2bce518696918fe1f8e154e377878fee07e1c2b6e2ced287e9a9b3d204d/master_1000.m3u8?aka_me_session_id=AAAAAAAAAAAJTBVqAAAAAFQN0l61hkmoEWrZNUmQweZELQe4Agx9ue1z%2f3u3O6mbAM9NKbQClq9mPoYyPrCd0%2fz6lGWwEpMb&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/RolandGa2505/TEL/hdntl=exp=1779780617~acl=%2f*~id=68318745062867810630922275851078~data=hdntl,2094588,RolandGa2505,TEL~hmac=36eae2bce518696918fe1f8e154e377878fee07e1c2b6e2ced287e9a9b3d204d/master_1300.m3u8?aka_me_session_id=AAAAAAAAAAAJTBVqAAAAAFQN0l61hkmoEWrZNUmQweZELQe4Agx9ue1z%2f3u3O6mbAM9NKbQClq9mPoYyPrCd0%2fz6lGWwEpMb&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/RolandGa2505/TEL/hdntl=exp=1779780617~acl=%2f*~id=68318745062867810630922275851078~data=hdntl,2094588,RolandGa2505,TEL~hmac=36eae2bce518696918fe1f8e154e377878fee07e1c2b6e2ced287e9a9b3d204d/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAAJTBVqAAAAAFQN0l61hkmoEWrZNUmQweZELQe4Agx9ue1z%2f3u3O6mbAM9NKbQClq9mPoYyPrCd0%2fz6lGWwEpMb&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/RolandGa2505/TEL/hdntl=exp=1779780617~acl=%2f*~id=68318745062867810630922275851078~data=hdntl,2094588,RolandGa2505,TEL~hmac=36eae2bce518696918fe1f8e154e377878fee07e1c2b6e2ced287e9a9b3d204d/master_2200.m3u8?aka_me_session_id=AAAAAAAAAAAJTBVqAAAAAFQN0l61hkmoEWrZNUmQweZELQe4Agx9ue1z%2f3u3O6mbAM9NKbQClq9mPoYyPrCd0%2fz6lGWwEpMb&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3591848,AVERAGE-BANDWIDTH=3591848,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/RolandGa2505/TEL/hdntl=exp=1779780617~acl=%2f*~id=68318745062867810630922275851078~data=hdntl,2094588,RolandGa2505,TEL~hmac=36eae2bce518696918fe1f8e154e377878fee07e1c2b6e2ced287e9a9b3d204d/master_3200.m3u8?aka_me_session_id=AAAAAAAAAAAJTBVqAAAAAFQN0l61hkmoEWrZNUmQweZELQe4Agx9ue1z%2f3u3O6mbAM9NKbQClq9mPoYyPrCd0%2fz6lGWwEpMb&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/RolandGa2505/TEL/hdntl=exp=1779780617~acl=%2f*~id=68318745062867810630922275851078~data=hdntl,2094588,RolandGa2505,TEL~hmac=36eae2bce518696918fe1f8e154e377878fee07e1c2b6e2ced287e9a9b3d204d/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAAJTBVqAAAAAFQN0l61hkmoEWrZNUmQweZELQe4Agx9ue1z%2f3u3O6mbAM9NKbQClq9mPoYyPrCd0%2fz6lGWwEpMb&aka_media_format_type=hls",
+              "date": "Monday 25th of May 2026 01:00:15 PM"
+            }
+          }
+        },
+        {
+          "LANGUAGE": "Kannada",
+          "LANG_CODE": "KAN",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonydaimenew.akamaized.net/hls/live/2094588/RolandGa2505/KAN/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioLanguageName": "ENG",
+                  "audioLanguageLabel": "English"
+                },
+                {
+                  "audioLanguageName": "HIN",
+                  "audioLanguageLabel": "Hindi"
+                },
+                {
+                  "audioLanguageName": "TEL",
+                  "audioLanguageLabel": "Telugu"
+                },
+                {
+                  "audioLanguageName": "TAM",
+                  "audioLanguageLabel": "Tamil"
+                },
+                {
+                  "audioLanguageName": "KAN",
+                  "audioLanguageLabel": "Kannada"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/ny2x3upqT0C3ZqW7UEQLsQ/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1779694219683,
+              "DOCTOR_STRANGE": 1779694219,
+              "additionalDataJson": {
+                "adServer": "GAM",
+                "ad_stack": "DAI-IMA",
+                "audioCodec": "AAC",
+                "audio_quality": "STEREO",
+                "enc_format": "HLS",
+                "fps": 25,
+                "isDaiKey": true,
+                "partners": [
+                  "ALL"
+                ],
+                "resolution": "HD",
+                "videoCodec": "H264",
+                "video_quality": "SDR"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/RolandGa2505/KAN/hdntl=exp=1779780620~acl=%2f*~id=68318745062867810630922275851078~data=hdntl,2094588,RolandGa2505,KAN~hmac=bccef782a236fa7d884cde65e7934755eb9537b827de500f24b5d8e27af59aaf/master_200.m3u8?aka_me_session_id=AAAAAAAAAAAMTBVqAAAAAN6NCbS1H9R5jiiF5iusUq8OLfIJqECLpiRtF5oLmh323K+BxGFEhrRi4W31vkyVURN4SO9WAV+w&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/RolandGa2505/KAN/hdntl=exp=1779780620~acl=%2f*~id=68318745062867810630922275851078~data=hdntl,2094588,RolandGa2505,KAN~hmac=bccef782a236fa7d884cde65e7934755eb9537b827de500f24b5d8e27af59aaf/master_400.m3u8?aka_me_session_id=AAAAAAAAAAAMTBVqAAAAAN6NCbS1H9R5jiiF5iusUq8OLfIJqECLpiRtF5oLmh323K+BxGFEhrRi4W31vkyVURN4SO9WAV+w&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/RolandGa2505/KAN/hdntl=exp=1779780620~acl=%2f*~id=68318745062867810630922275851078~data=hdntl,2094588,RolandGa2505,KAN~hmac=bccef782a236fa7d884cde65e7934755eb9537b827de500f24b5d8e27af59aaf/master_500.m3u8?aka_me_session_id=AAAAAAAAAAAMTBVqAAAAAN6NCbS1H9R5jiiF5iusUq8OLfIJqECLpiRtF5oLmh323K+BxGFEhrRi4W31vkyVURN4SO9WAV+w&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=837256,AVERAGE-BANDWIDTH=837256,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/RolandGa2505/KAN/hdntl=exp=1779780620~acl=%2f*~id=68318745062867810630922275851078~data=hdntl,2094588,RolandGa2505,KAN~hmac=bccef782a236fa7d884cde65e7934755eb9537b827de500f24b5d8e27af59aaf/master_600.m3u8?aka_me_session_id=AAAAAAAAAAAMTBVqAAAAAN6NCbS1H9R5jiiF5iusUq8OLfIJqECLpiRtF5oLmh323K+BxGFEhrRi4W31vkyVURN4SO9WAV+w&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/RolandGa2505/KAN/hdntl=exp=1779780620~acl=%2f*~id=68318745062867810630922275851078~data=hdntl,2094588,RolandGa2505,KAN~hmac=bccef782a236fa7d884cde65e7934755eb9537b827de500f24b5d8e27af59aaf/master_1000.m3u8?aka_me_session_id=AAAAAAAAAAAMTBVqAAAAAN6NCbS1H9R5jiiF5iusUq8OLfIJqECLpiRtF5oLmh323K+BxGFEhrRi4W31vkyVURN4SO9WAV+w&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/RolandGa2505/KAN/hdntl=exp=1779780620~acl=%2f*~id=68318745062867810630922275851078~data=hdntl,2094588,RolandGa2505,KAN~hmac=bccef782a236fa7d884cde65e7934755eb9537b827de500f24b5d8e27af59aaf/master_1300.m3u8?aka_me_session_id=AAAAAAAAAAAMTBVqAAAAAN6NCbS1H9R5jiiF5iusUq8OLfIJqECLpiRtF5oLmh323K+BxGFEhrRi4W31vkyVURN4SO9WAV+w&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/RolandGa2505/KAN/hdntl=exp=1779780620~acl=%2f*~id=68318745062867810630922275851078~data=hdntl,2094588,RolandGa2505,KAN~hmac=bccef782a236fa7d884cde65e7934755eb9537b827de500f24b5d8e27af59aaf/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAAMTBVqAAAAAN6NCbS1H9R5jiiF5iusUq8OLfIJqECLpiRtF5oLmh323K+BxGFEhrRi4W31vkyVURN4SO9WAV+w&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/RolandGa2505/KAN/hdntl=exp=1779780620~acl=%2f*~id=68318745062867810630922275851078~data=hdntl,2094588,RolandGa2505,KAN~hmac=bccef782a236fa7d884cde65e7934755eb9537b827de500f24b5d8e27af59aaf/master_2200.m3u8?aka_me_session_id=AAAAAAAAAAAMTBVqAAAAAN6NCbS1H9R5jiiF5iusUq8OLfIJqECLpiRtF5oLmh323K+BxGFEhrRi4W31vkyVURN4SO9WAV+w&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3591848,AVERAGE-BANDWIDTH=3591848,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/RolandGa2505/KAN/hdntl=exp=1779780620~acl=%2f*~id=68318745062867810630922275851078~data=hdntl,2094588,RolandGa2505,KAN~hmac=bccef782a236fa7d884cde65e7934755eb9537b827de500f24b5d8e27af59aaf/master_3200.m3u8?aka_me_session_id=AAAAAAAAAAAMTBVqAAAAAN6NCbS1H9R5jiiF5iusUq8OLfIJqECLpiRtF5oLmh323K+BxGFEhrRi4W31vkyVURN4SO9WAV+w&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonydaimenew.akamaized.net/hls/live/2094588/RolandGa2505/KAN/hdntl=exp=1779780620~acl=%2f*~id=68318745062867810630922275851078~data=hdntl,2094588,RolandGa2505,KAN~hmac=bccef782a236fa7d884cde65e7934755eb9537b827de500f24b5d8e27af59aaf/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAAMTBVqAAAAAN6NCbS1H9R5jiiF5iusUq8OLfIJqECLpiRtF5oLmh323K+BxGFEhrRi4W31vkyVURN4SO9WAV+w&aka_media_format_type=hls",
+              "date": "Monday 25th of May 2026 01:00:19 PM"
+            }
+          }
+        }
+      ]
+    }
+  ],
   "upcoming": [
     {
       "contentId": 1090530670,
