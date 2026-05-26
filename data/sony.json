@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Sony Live Matches API",
-  "last_updated": "02:40:14 AM 27-05-2026",
+  "last_updated": "27-05-2026 03:00",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -17,117 +17,7 @@
     "SERVER_STATUS": "NORMAL",
     "USAGE_GUIDE": []
   },
-  "data": [
-    {
-      "contentId": 1090529786,
-      "video_info": {
-        "title": "Roland-Garros 2026",
-        "shortDescription": "Watch all the exclusive action from the Roland-Garros as Felix Auger-Aliassime takes on Daniel Altmaier in the Round of 128, LIVE on SonyLIV.",
-        "longDescription": "Watch all the exclusive action from the Roland-Garros as Felix Auger-Aliassime takes on Daniel Altmaier in the Round of 128, LIVE on SonyLIV.",
-        "genres": [
-          "Tennis"
-        ],
-        "episodeTitle": "Felix Auger-Aliassime vs Daniel Altmaier - Men's Singles - 26 May 2026"
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": "https://dai.google.com/ssai/event/7KhHqtvHRv-K5sWcICQjGw/master.m3u8",
-        "broadcast_channel": "Sony Sports Ten 5",
-        "audio_language_list": [
-          {
-            "lang_code": "ENG",
-            "lang_label": "English"
-          }
-        ],
-        "emfAttributes__audio_languages": "ENG",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD",
-          "videoType": "FULL_HD",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "ENG",
-              "isPreferred": true,
-              "audioLanguageLabel": "English"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "",
-          "promotionUrl": "",
-          "promotionRating": "",
-          "trailerRating": "",
-          "trailerContentId": "",
-          "promotionContentId": "",
-          "verticalTrailerURL": "",
-          "verticalTrailerContentId": "",
-          "verticalTrailerRating": ""
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "26 May 2026, 02:00 PM",
-        "contractEndDate": "27 May 2026, 07:00 AM",
-        "originalAirDate": "26 May 2026, 02:30 PM"
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018394/1779737218233796_Roland_Garros_2026_Auger-Aliassime_vs_Altmaier_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018394/1779700850000796_Roland_Garros_2026_Auger-Aliassime_vs_Altmaier_landscape_thumb_SP.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018394/1779700846000796_Roland_Garros_2026_Auger-Aliassime_vs_Altmaier_masthead_mobile_SP.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018233/177953448961832_Roland_Garros_2026_GOB_match_Masthead_logo_LIVE.png",
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018394/1779700850000796_Roland_Garros_2026_Auger-Aliassime_vs_Altmaier_landscape_thumb_SP.jpg"
-      },
-      "MULTIPLE_AUDIO_LINKS": [
-        {
-          "LANGUAGE": "English",
-          "LANG_CODE": "ENG",
-          "DATA": {
-            "JITENDRAUNATTI": {
-              "Device_Type": "LITE",
-              "message": "success",
-              "Playback_videoURL": "https://sonydaimenew.akamaized.net/hls/live/2022318/RG_SZL_22605/ENG/master.m3u8",
-              "WIDEVINE": null,
-              "STREAMING_TYPE": true,
-              "audioLanguages": [
-                {
-                  "audioLanguageName": "ENG",
-                  "audioLanguageLabel": "English"
-                }
-              ],
-              "dai_asset_key": "https://dai.google.com/ssai/event/5uT8FTtEQ8CSr75Rnh7fVQ/master.m3u8",
-              "Maximum_Video_Quality": "SDR",
-              "Maximum_Resolution": "FULL_HD",
-              "trailer_url": "",
-              "systemTime": 1779816607602,
-              "DOCTOR_STRANGE": 1779816605,
-              "additionalDataJson": {
-                "adServer": "GAM",
-                "ad_stack": "DAI-IMA",
-                "audioCodec": "AAC",
-                "audio_quality": "STEREO",
-                "enc_format": "HLS",
-                "fps": 25,
-                "isDaiKey": true,
-                "partners": [
-                  "ALL"
-                ],
-                "resolution": "HD",
-                "videoCodec": "H264",
-                "video_quality": "SDR"
-              },
-              "Status_code": 200,
-              "content_type": "application/json; charset=utf-8",
-              "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2022318/RG_SZL_22605/ENG/hdntl=exp=1779903008~acl=%2f*~id=87218741630181980629186476894925~data=hdntl,2022318,RG_SZL_22605,ENG~hmac=1ff1f0b691fe73c28ee362bafa2c54e7e28c9ef879ee55365bc84b5bdb342c49/master_200.m3u8?aka_me_session_id=AAAAAAAAAAAgKhdqAAAAAOF+krgvDlG3p3px5by9+V8MZQA1CpDo%2fddFoUBpu2AG%2f3w4U%2f2GeoN3G9UAksyO9F%2f4hobEW47m&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2022318/RG_SZL_22605/ENG/hdntl=exp=1779903008~acl=%2f*~id=87218741630181980629186476894925~data=hdntl,2022318,RG_SZL_22605,ENG~hmac=1ff1f0b691fe73c28ee362bafa2c54e7e28c9ef879ee55365bc84b5bdb342c49/master_400.m3u8?aka_me_session_id=AAAAAAAAAAAgKhdqAAAAAOF+krgvDlG3p3px5by9+V8MZQA1CpDo%2fddFoUBpu2AG%2f3w4U%2f2GeoN3G9UAksyO9F%2f4hobEW47m&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2022318/RG_SZL_22605/ENG/hdntl=exp=1779903008~acl=%2f*~id=87218741630181980629186476894925~data=hdntl,2022318,RG_SZL_22605,ENG~hmac=1ff1f0b691fe73c28ee362bafa2c54e7e28c9ef879ee55365bc84b5bdb342c49/master_500.m3u8?aka_me_session_id=AAAAAAAAAAAgKhdqAAAAAOF+krgvDlG3p3px5by9+V8MZQA1CpDo%2fddFoUBpu2AG%2f3w4U%2f2GeoN3G9UAksyO9F%2f4hobEW47m&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=837256,AVERAGE-BANDWIDTH=837256,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2022318/RG_SZL_22605/ENG/hdntl=exp=1779903008~acl=%2f*~id=87218741630181980629186476894925~data=hdntl,2022318,RG_SZL_22605,ENG~hmac=1ff1f0b691fe73c28ee362bafa2c54e7e28c9ef879ee55365bc84b5bdb342c49/master_600.m3u8?aka_me_session_id=AAAAAAAAAAAgKhdqAAAAAOF+krgvDlG3p3px5by9+V8MZQA1CpDo%2fddFoUBpu2AG%2f3w4U%2f2GeoN3G9UAksyO9F%2f4hobEW47m&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2022318/RG_SZL_22605/ENG/hdntl=exp=1779903008~acl=%2f*~id=87218741630181980629186476894925~data=hdntl,2022318,RG_SZL_22605,ENG~hmac=1ff1f0b691fe73c28ee362bafa2c54e7e28c9ef879ee55365bc84b5bdb342c49/master_1000.m3u8?aka_me_session_id=AAAAAAAAAAAgKhdqAAAAAOF+krgvDlG3p3px5by9+V8MZQA1CpDo%2fddFoUBpu2AG%2f3w4U%2f2GeoN3G9UAksyO9F%2f4hobEW47m&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2022318/RG_SZL_22605/ENG/hdntl=exp=1779903008~acl=%2f*~id=87218741630181980629186476894925~data=hdntl,2022318,RG_SZL_22605,ENG~hmac=1ff1f0b691fe73c28ee362bafa2c54e7e28c9ef879ee55365bc84b5bdb342c49/master_1300.m3u8?aka_me_session_id=AAAAAAAAAAAgKhdqAAAAAOF+krgvDlG3p3px5by9+V8MZQA1CpDo%2fddFoUBpu2AG%2f3w4U%2f2GeoN3G9UAksyO9F%2f4hobEW47m&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2022318/RG_SZL_22605/ENG/hdntl=exp=1779903008~acl=%2f*~id=87218741630181980629186476894925~data=hdntl,2022318,RG_SZL_22605,ENG~hmac=1ff1f0b691fe73c28ee362bafa2c54e7e28c9ef879ee55365bc84b5bdb342c49/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAAgKhdqAAAAAOF+krgvDlG3p3px5by9+V8MZQA1CpDo%2fddFoUBpu2AG%2f3w4U%2f2GeoN3G9UAksyO9F%2f4hobEW47m&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2022318/RG_SZL_22605/ENG/hdntl=exp=1779903008~acl=%2f*~id=87218741630181980629186476894925~data=hdntl,2022318,RG_SZL_22605,ENG~hmac=1ff1f0b691fe73c28ee362bafa2c54e7e28c9ef879ee55365bc84b5bdb342c49/master_2200.m3u8?aka_me_session_id=AAAAAAAAAAAgKhdqAAAAAOF+krgvDlG3p3px5by9+V8MZQA1CpDo%2fddFoUBpu2AG%2f3w4U%2f2GeoN3G9UAksyO9F%2f4hobEW47m&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3591848,AVERAGE-BANDWIDTH=3591848,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/2022318/RG_SZL_22605/ENG/hdntl=exp=1779903008~acl=%2f*~id=87218741630181980629186476894925~data=hdntl,2022318,RG_SZL_22605,ENG~hmac=1ff1f0b691fe73c28ee362bafa2c54e7e28c9ef879ee55365bc84b5bdb342c49/master_3200.m3u8?aka_me_session_id=AAAAAAAAAAAgKhdqAAAAAOF+krgvDlG3p3px5by9+V8MZQA1CpDo%2fddFoUBpu2AG%2f3w4U%2f2GeoN3G9UAksyO9F%2f4hobEW47m&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonydaimenew.akamaized.net/hls/live/2022318/RG_SZL_22605/ENG/hdntl=exp=1779903008~acl=%2f*~id=87218741630181980629186476894925~data=hdntl,2022318,RG_SZL_22605,ENG~hmac=1ff1f0b691fe73c28ee362bafa2c54e7e28c9ef879ee55365bc84b5bdb342c49/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAAgKhdqAAAAAOF+krgvDlG3p3px5by9+V8MZQA1CpDo%2fddFoUBpu2AG%2f3w4U%2f2GeoN3G9UAksyO9F%2f4hobEW47m&aka_media_format_type=hls",
-              "date": "Tuesday 26th of May 2026 11:00:05 PM"
-            }
-          }
-        }
-      ]
-    }
-  ],
+  "data": [],
   "upcoming": [
     {
       "contentId": 1090531649,
