@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Sony Live Matches API",
-  "last_updated": "04:00:11 PM 30-05-2026",
+  "last_updated": "05:00:13 PM 30-05-2026",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -240,12 +240,12 @@
       "contentId": 1090529787,
       "video_info": {
         "title": "Roland-Garros 2026",
-        "shortDescription": "Watch all the exclusive action from the Roland-Garros as Maria Sakkari takes on Maja Chwalinska in the Round of 32, LIVE on SonyLIV.",
-        "longDescription": "Watch all the exclusive action from the Roland-Garros as Maria Sakkari takes on Maja Chwalinska in the Round of 32, LIVE on SonyLIV.",
+        "shortDescription": "Catch all the exciting tennis action from the Roland-Garros 2026 live on Sony LIV.",
+        "longDescription": "Catch all the exciting tennis action from the Roland-Garros 2026 live on Sony LIV.",
         "genres": [
           "Tennis"
         ],
-        "episodeTitle": "Maria Sakkari vs Maja Chwalinska - Women's Singles - 30 May 2026"
+        "episodeTitle": "Simonne Mathieu - 30 May 2026"
       },
       "stream_info": {
         "Maximum_Video_Quality": "SDR",
@@ -555,6 +555,106 @@
       ]
     },
     {
+      "contentId": 1090531577,
+      "video_info": {
+        "title": "European Qualifiers For 2026 FIFA World Cup",
+        "shortDescription": "Scotland take on Curaçao in an exciting international friendly as both sides continue preparations ahead of upcoming competitive fixtures. Scotland will look to make the most of home support with a disciplined and attacking display, while Curaçao aim to test themselves against strong opposition and showcase their flair and counterattacking quality in what promises to be an entertaining encounter. Catch all the action from the International Friendlies, LIVE on Sony LIV.",
+        "longDescription": "Scotland take on Curaçao in an exciting international friendly as both sides continue preparations ahead of upcoming competitive fixtures. Scotland will look to make the most of home support with a disciplined and attacking display, while Curaçao aim to test themselves against strong opposition and showcase their flair and counterattacking quality in what promises to be an entertaining encounter. Catch all the action from the International Friendlies, LIVE on Sony LIV.",
+        "genres": [
+          "Football"
+        ],
+        "episodeTitle": "Scotland vs Curaco - 30 May 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/baS0o0i_QLiYmhye6b6_FQ/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 2",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "30 May 2026, 04:50 PM",
+        "contractEndDate": "30 May 2026, 09:50 PM",
+        "originalAirDate": "30 May 2026, 05:20 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017824/1778150008284950_INT_Friendlies26_Scotland-vs-Curaco_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017824/1778150032356950_INT_Friendlies26_Scotland-vs-Curaco_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": null,
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006849/1755855925877711_Bundesliga2025_26_Match_Masthead_logo_LIVE.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017824/1778150032356950_INT_Friendlies26_Scotland-vs-Curaco_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "LITE",
+              "message": "success",
+              "Playback_videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000296/European3005/ENG/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioLanguageName": "ENG",
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "https://dai.google.com/ssai/event/5zyXm84aQ4yRY4Ne5VIkvg/master.m3u8",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1780140610118,
+              "DOCTOR_STRANGE": 1780140606,
+              "additionalDataJson": {
+                "adServer": "GAM",
+                "ad_stack": "DAI-IMA",
+                "audioCodec": "AAC",
+                "audio_quality": "STEREO",
+                "enc_format": "HLS",
+                "fps": 25,
+                "isDaiKey": true,
+                "partners": [
+                  "ALL"
+                ],
+                "resolution": "HD",
+                "videoCodec": "H264",
+                "video_quality": "SDR"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/20000296/European3005/ENG/hdntl=exp=1780227010~acl=%2f*~id=aa21c32ca8bb2a4b400bcb50fbe2dffd-1780138200107~data=hdntl,20000296,European3005,ENG~hmac=6cc26a808b711b7651f01399d4f6fff1a121cf47f95e2cb079c26fde143171bf/master_200.m3u8?aka_me_session_id=AAAAAAAAAADCGxxqAAAAAOtf84lsUz79%2fH9sOcNbzFQMzdTDYM2edTgvAlLDyj1j5FecQND1JZoeerBHZU8tqXGeAU3jWTrT&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/20000296/European3005/ENG/hdntl=exp=1780227010~acl=%2f*~id=aa21c32ca8bb2a4b400bcb50fbe2dffd-1780138200107~data=hdntl,20000296,European3005,ENG~hmac=6cc26a808b711b7651f01399d4f6fff1a121cf47f95e2cb079c26fde143171bf/master_400.m3u8?aka_me_session_id=AAAAAAAAAADCGxxqAAAAAOtf84lsUz79%2fH9sOcNbzFQMzdTDYM2edTgvAlLDyj1j5FecQND1JZoeerBHZU8tqXGeAU3jWTrT&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/20000296/European3005/ENG/hdntl=exp=1780227010~acl=%2f*~id=aa21c32ca8bb2a4b400bcb50fbe2dffd-1780138200107~data=hdntl,20000296,European3005,ENG~hmac=6cc26a808b711b7651f01399d4f6fff1a121cf47f95e2cb079c26fde143171bf/master_500.m3u8?aka_me_session_id=AAAAAAAAAADCGxxqAAAAAOtf84lsUz79%2fH9sOcNbzFQMzdTDYM2edTgvAlLDyj1j5FecQND1JZoeerBHZU8tqXGeAU3jWTrT&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=837256,AVERAGE-BANDWIDTH=837256,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/20000296/European3005/ENG/hdntl=exp=1780227010~acl=%2f*~id=aa21c32ca8bb2a4b400bcb50fbe2dffd-1780138200107~data=hdntl,20000296,European3005,ENG~hmac=6cc26a808b711b7651f01399d4f6fff1a121cf47f95e2cb079c26fde143171bf/master_600.m3u8?aka_me_session_id=AAAAAAAAAADCGxxqAAAAAOtf84lsUz79%2fH9sOcNbzFQMzdTDYM2edTgvAlLDyj1j5FecQND1JZoeerBHZU8tqXGeAU3jWTrT&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/20000296/European3005/ENG/hdntl=exp=1780227010~acl=%2f*~id=aa21c32ca8bb2a4b400bcb50fbe2dffd-1780138200107~data=hdntl,20000296,European3005,ENG~hmac=6cc26a808b711b7651f01399d4f6fff1a121cf47f95e2cb079c26fde143171bf/master_1000.m3u8?aka_me_session_id=AAAAAAAAAADCGxxqAAAAAOtf84lsUz79%2fH9sOcNbzFQMzdTDYM2edTgvAlLDyj1j5FecQND1JZoeerBHZU8tqXGeAU3jWTrT&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/20000296/European3005/ENG/hdntl=exp=1780227010~acl=%2f*~id=aa21c32ca8bb2a4b400bcb50fbe2dffd-1780138200107~data=hdntl,20000296,European3005,ENG~hmac=6cc26a808b711b7651f01399d4f6fff1a121cf47f95e2cb079c26fde143171bf/master_1300.m3u8?aka_me_session_id=AAAAAAAAAADCGxxqAAAAAOtf84lsUz79%2fH9sOcNbzFQMzdTDYM2edTgvAlLDyj1j5FecQND1JZoeerBHZU8tqXGeAU3jWTrT&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/20000296/European3005/ENG/hdntl=exp=1780227010~acl=%2f*~id=aa21c32ca8bb2a4b400bcb50fbe2dffd-1780138200107~data=hdntl,20000296,European3005,ENG~hmac=6cc26a808b711b7651f01399d4f6fff1a121cf47f95e2cb079c26fde143171bf/master_2000.m3u8?aka_me_session_id=AAAAAAAAAADCGxxqAAAAAOtf84lsUz79%2fH9sOcNbzFQMzdTDYM2edTgvAlLDyj1j5FecQND1JZoeerBHZU8tqXGeAU3jWTrT&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/20000296/European3005/ENG/hdntl=exp=1780227010~acl=%2f*~id=aa21c32ca8bb2a4b400bcb50fbe2dffd-1780138200107~data=hdntl,20000296,European3005,ENG~hmac=6cc26a808b711b7651f01399d4f6fff1a121cf47f95e2cb079c26fde143171bf/master_2200.m3u8?aka_me_session_id=AAAAAAAAAADCGxxqAAAAAOtf84lsUz79%2fH9sOcNbzFQMzdTDYM2edTgvAlLDyj1j5FecQND1JZoeerBHZU8tqXGeAU3jWTrT&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3591848,AVERAGE-BANDWIDTH=3591848,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonydaimenew.akamaized.net/hls/live/20000296/European3005/ENG/hdntl=exp=1780227010~acl=%2f*~id=aa21c32ca8bb2a4b400bcb50fbe2dffd-1780138200107~data=hdntl,20000296,European3005,ENG~hmac=6cc26a808b711b7651f01399d4f6fff1a121cf47f95e2cb079c26fde143171bf/master_3200.m3u8?aka_me_session_id=AAAAAAAAAADCGxxqAAAAAOtf84lsUz79%2fH9sOcNbzFQMzdTDYM2edTgvAlLDyj1j5FecQND1JZoeerBHZU8tqXGeAU3jWTrT&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonydaimenew.akamaized.net/hls/live/20000296/European3005/ENG/hdntl=exp=1780227010~acl=%2f*~id=aa21c32ca8bb2a4b400bcb50fbe2dffd-1780138200107~data=hdntl,20000296,European3005,ENG~hmac=6cc26a808b711b7651f01399d4f6fff1a121cf47f95e2cb079c26fde143171bf/master_4500.m3u8?aka_me_session_id=AAAAAAAAAADCGxxqAAAAAOtf84lsUz79%2fH9sOcNbzFQMzdTDYM2edTgvAlLDyj1j5FecQND1JZoeerBHZU8tqXGeAU3jWTrT&aka_media_format_type=hls",
+              "date": "Saturday 30th of May 2026 05:00:06 PM"
+            }
+          }
+        }
+      ]
+    },
+    {
       "contentId": 1090531489,
       "video_info": {
         "title": "DP World Tour",
@@ -706,7 +806,7 @@
         "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018355/1779702502336753_UCL26_final_PSG_vs_Arsenal_19may_tonight_portrait_thumb.jpg",
         "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018752/1780079225448581_UCL26_final_PSG_vs_Arsenal_25may_tonight_rev_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018738/1780069013828665_UCL25_26_Match_masthead_mobile_v2_984x1182_FINAL_SP.jpg",
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018816/1780139340759737_UCL_2026_FINAL_PSG_vs_Arsenal_Match_masthead_mobile_v2_984x1182_SP_1.jpg",
         "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018363/1779710094482398_UCL25_26_Match_Masthead_logo_PSG_vs_Arsenal_Tonight.png",
         "circular_image": null,
         "image_600x900_clean": null,
