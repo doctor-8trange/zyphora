@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Sony Live Matches API",
-  "last_updated": "08:20:14 PM 31-05-2026",
+  "last_updated": "09:00:08 PM 31-05-2026",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -386,15 +386,123 @@
       ]
     },
     {
-      "contentId": 1090529786,
+      "contentId": 1090529787,
       "video_info": {
         "title": "Roland-Garros 2026",
-        "shortDescription": "Watch all the exclusive action from the Roland-Garros as Rafael Jodar takes on Pablo Carreno Busta in the Round of 16, LIVE on SonyLIV.",
-        "longDescription": "Watch all the exclusive action from the Roland-Garros as Rafael Jodar takes on Pablo Carreno Busta in the Round of 16, LIVE on SonyLIV.",
+        "shortDescription": "Watch all the exclusive action from the Roland-Garros as Skupski N / Krawczyk D takes on Bhambri Y / Panova A in the Round of 16, LIVE on SonyLIV.",
+        "longDescription": "Watch all the exclusive action from the Roland-Garros as Skupski N / Krawczyk D takes on Bhambri Y / Panova A in the Round of 16, LIVE on SonyLIV.",
         "genres": [
           "Tennis"
         ],
-        "episodeTitle": "Rafael Jodar vs Pablo Carreno Busta - Men's Singles - 31 May 2026"
+        "episodeTitle": "Skupski N / Krawczyk D vs Bhambri Y / Panova A - Mixed Doubles - 31 May 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/GM2o9EimTAuZCQoFKDv08Q/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "",
+          "promotionUrl": "",
+          "promotionRating": "",
+          "trailerRating": "",
+          "trailerContentId": "",
+          "promotionContentId": "",
+          "verticalTrailerURL": "",
+          "verticalTrailerContentId": "",
+          "verticalTrailerRating": ""
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "31 May 2026, 02:00 PM",
+        "contractEndDate": "01 Jun 2026, 07:00 AM",
+        "originalAirDate": "31 May 2026, 02:30 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018852/1780160777007637_RG26_RD2_Mixed_Doubles_Krawczyk_Skupski_vs_Panova_Bhambri_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018852/1780160873561637_RG26_RD2_Mixed_Doubles_Krawczyk_Skupski_vs_Panova_Bhambri_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018852/1780161089805637_RG26_RD2_Mixed_Doubles_Krawczyk_Skupski_vs_Panova_Bhambri_masthead_mobile_v2.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018233/177953448961832_Roland_Garros_2026_GOB_match_Masthead_logo_LIVE.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018852/1780160873561637_RG26_RD2_Mixed_Doubles_Krawczyk_Skupski_vs_Panova_Bhambri_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "SONY_PRO_MAX",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2022315/RG_SM_Da3105/ENG/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioLanguageName": "ENG",
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "unavailable",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1780231824759,
+              "additionalDataJson": {
+                "adServer": "GAM",
+                "ad_stack": "MT-SSB",
+                "audioCodec": "AAC",
+                "audio_quality": "STEREO",
+                "enc_format": "HLS",
+                "fps": 50,
+                "isDaiKey": false,
+                "partners": [
+                  "ALL"
+                ],
+                "resolution": "FULL_HD",
+                "videoCodec": "H264",
+                "video_quality": "SDR"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022315/RG_SM_Da3105/ENG/hdntl=exp=1780318226~acl=%2f*~id=ff37e586aca0932f161a244b29dc5b11-1780230600108~data=hdntl,2022315,RG_SM_Da3105,ENG~hmac=085332c8341697fc6f62d8a131dc7ca662fa67a5801ae7a3c3741a12358a4b58/master_200.m3u8?aka_me_session_id=AAAAAAAAAAASgB1qAAAAACnZDzoEmr03ZynvsJFIsxtBUzdC4Os9gtQnPJqjDKdK+ouCwxXro3MCDElOySZmu6HxBSpAEGvm&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022315/RG_SM_Da3105/ENG/hdntl=exp=1780318226~acl=%2f*~id=ff37e586aca0932f161a244b29dc5b11-1780230600108~data=hdntl,2022315,RG_SM_Da3105,ENG~hmac=085332c8341697fc6f62d8a131dc7ca662fa67a5801ae7a3c3741a12358a4b58/master_400.m3u8?aka_me_session_id=AAAAAAAAAAASgB1qAAAAACnZDzoEmr03ZynvsJFIsxtBUzdC4Os9gtQnPJqjDKdK+ouCwxXro3MCDElOySZmu6HxBSpAEGvm&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022315/RG_SM_Da3105/ENG/hdntl=exp=1780318226~acl=%2f*~id=ff37e586aca0932f161a244b29dc5b11-1780230600108~data=hdntl,2022315,RG_SM_Da3105,ENG~hmac=085332c8341697fc6f62d8a131dc7ca662fa67a5801ae7a3c3741a12358a4b58/master_500.m3u8?aka_me_session_id=AAAAAAAAAAASgB1qAAAAACnZDzoEmr03ZynvsJFIsxtBUzdC4Os9gtQnPJqjDKdK+ouCwxXro3MCDElOySZmu6HxBSpAEGvm&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=837256,AVERAGE-BANDWIDTH=837256,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022315/RG_SM_Da3105/ENG/hdntl=exp=1780318226~acl=%2f*~id=ff37e586aca0932f161a244b29dc5b11-1780230600108~data=hdntl,2022315,RG_SM_Da3105,ENG~hmac=085332c8341697fc6f62d8a131dc7ca662fa67a5801ae7a3c3741a12358a4b58/master_600.m3u8?aka_me_session_id=AAAAAAAAAAASgB1qAAAAACnZDzoEmr03ZynvsJFIsxtBUzdC4Os9gtQnPJqjDKdK+ouCwxXro3MCDElOySZmu6HxBSpAEGvm&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022315/RG_SM_Da3105/ENG/hdntl=exp=1780318226~acl=%2f*~id=ff37e586aca0932f161a244b29dc5b11-1780230600108~data=hdntl,2022315,RG_SM_Da3105,ENG~hmac=085332c8341697fc6f62d8a131dc7ca662fa67a5801ae7a3c3741a12358a4b58/master_1000.m3u8?aka_me_session_id=AAAAAAAAAAASgB1qAAAAACnZDzoEmr03ZynvsJFIsxtBUzdC4Os9gtQnPJqjDKdK+ouCwxXro3MCDElOySZmu6HxBSpAEGvm&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022315/RG_SM_Da3105/ENG/hdntl=exp=1780318226~acl=%2f*~id=ff37e586aca0932f161a244b29dc5b11-1780230600108~data=hdntl,2022315,RG_SM_Da3105,ENG~hmac=085332c8341697fc6f62d8a131dc7ca662fa67a5801ae7a3c3741a12358a4b58/master_1300.m3u8?aka_me_session_id=AAAAAAAAAAASgB1qAAAAACnZDzoEmr03ZynvsJFIsxtBUzdC4Os9gtQnPJqjDKdK+ouCwxXro3MCDElOySZmu6HxBSpAEGvm&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022315/RG_SM_Da3105/ENG/hdntl=exp=1780318226~acl=%2f*~id=ff37e586aca0932f161a244b29dc5b11-1780230600108~data=hdntl,2022315,RG_SM_Da3105,ENG~hmac=085332c8341697fc6f62d8a131dc7ca662fa67a5801ae7a3c3741a12358a4b58/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAASgB1qAAAAACnZDzoEmr03ZynvsJFIsxtBUzdC4Os9gtQnPJqjDKdK+ouCwxXro3MCDElOySZmu6HxBSpAEGvm&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022315/RG_SM_Da3105/ENG/hdntl=exp=1780318226~acl=%2f*~id=ff37e586aca0932f161a244b29dc5b11-1780230600108~data=hdntl,2022315,RG_SM_Da3105,ENG~hmac=085332c8341697fc6f62d8a131dc7ca662fa67a5801ae7a3c3741a12358a4b58/master_2200.m3u8?aka_me_session_id=AAAAAAAAAAASgB1qAAAAACnZDzoEmr03ZynvsJFIsxtBUzdC4Os9gtQnPJqjDKdK+ouCwxXro3MCDElOySZmu6HxBSpAEGvm&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3591848,AVERAGE-BANDWIDTH=3591848,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022315/RG_SM_Da3105/ENG/hdntl=exp=1780318226~acl=%2f*~id=ff37e586aca0932f161a244b29dc5b11-1780230600108~data=hdntl,2022315,RG_SM_Da3105,ENG~hmac=085332c8341697fc6f62d8a131dc7ca662fa67a5801ae7a3c3741a12358a4b58/master_3200.m3u8?aka_me_session_id=AAAAAAAAAAASgB1qAAAAACnZDzoEmr03ZynvsJFIsxtBUzdC4Os9gtQnPJqjDKdK+ouCwxXro3MCDElOySZmu6HxBSpAEGvm&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022315/RG_SM_Da3105/ENG/hdntl=exp=1780318226~acl=%2f*~id=ff37e586aca0932f161a244b29dc5b11-1780230600108~data=hdntl,2022315,RG_SM_Da3105,ENG~hmac=085332c8341697fc6f62d8a131dc7ca662fa67a5801ae7a3c3741a12358a4b58/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAASgB1qAAAAACnZDzoEmr03ZynvsJFIsxtBUzdC4Os9gtQnPJqjDKdK+ouCwxXro3MCDElOySZmu6HxBSpAEGvm&aka_media_format_type=hls",
+              "Date": "Sunday 31st of May 2026 06:20:22 PM"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "contentId": 1090529786,
+      "video_info": {
+        "title": "Roland-Garros 2026",
+        "shortDescription": "Catch all the exciting tennis action from the Roland-Garros 2026 live on Sony LIV.",
+        "longDescription": "Catch all the exciting tennis action from the Roland-Garros 2026 live on Sony LIV.",
+        "genres": [
+          "Tennis"
+        ],
+        "episodeTitle": "Court Suzanne Lenglen - 31 May 2026"
       },
       "stream_info": {
         "Maximum_Video_Quality": "SDR",
@@ -438,14 +546,14 @@
         "originalAirDate": "31 May 2026, 02:30 PM"
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018870/1780127842000872_RG26_Jodar_V_Carreno_Busta_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018870/1780127844000872_RG26_Jodar_V_Carreno_Busta_landscape_thumb_SP.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018856/178012785000015_RG26_Andreeva_V_Teichmann_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018856/178012785200015_RG26_Andreeva_V_Teichmann_landscape_thumb_SP.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018870/1780127842000872_Roland_Garros_2026_Jodar_V_Carreno_Busta_masthead_mobile_SP.jpg",
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018856/178012785000015_Roland_Garros_2026_Andreeva_V_Teichmann_masthead_mobile_SP.jpg",
         "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018233/177953448961832_Roland_Garros_2026_GOB_match_Masthead_logo_LIVE.png",
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018870/1780127844000872_RG26_Jodar_V_Carreno_Busta_landscape_thumb_SP.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018856/178012785200015_RG26_Andreeva_V_Teichmann_landscape_thumb_SP.jpg"
       },
       "MULTIPLE_AUDIO_LINKS": [
         {
@@ -593,123 +701,15 @@
       ]
     },
     {
-      "contentId": 1090529787,
-      "video_info": {
-        "title": "Roland-Garros 2026",
-        "shortDescription": "Catch all the exciting tennis action from the Roland-Garros 2026 live on Sony LIV.",
-        "longDescription": "Catch all the exciting tennis action from the Roland-Garros 2026 live on Sony LIV.",
-        "genres": [
-          "Tennis"
-        ],
-        "episodeTitle": "Simonne Mathieu - 31 May 2026"
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": "https://dai.google.com/ssai/event/GM2o9EimTAuZCQoFKDv08Q/master.m3u8",
-        "broadcast_channel": "Sony Sports Ten 5",
-        "audio_language_list": [
-          {
-            "lang_code": "ENG",
-            "lang_label": "English"
-          }
-        ],
-        "emfAttributes__audio_languages": "ENG",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD",
-          "videoType": "FULL_HD",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "ENG",
-              "isPreferred": true,
-              "audioLanguageLabel": "English"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "",
-          "promotionUrl": "",
-          "promotionRating": "",
-          "trailerRating": "",
-          "trailerContentId": "",
-          "promotionContentId": "",
-          "verticalTrailerURL": "",
-          "verticalTrailerContentId": "",
-          "verticalTrailerRating": ""
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "31 May 2026, 02:00 PM",
-        "contractEndDate": "01 Jun 2026, 07:00 AM",
-        "originalAirDate": "31 May 2026, 02:30 PM"
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018754/1780077695262296_RG26_Round4_Simonne_Mathieu_Court_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018754/1780078579355296_RG26_Round4_Simonne_Mathieu_Court_landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018696/178003382824983_Roland_Garros_2026_GOB_masthead_mobile_v2_984x1182_ROUND_4_SP.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018233/177953448961832_Roland_Garros_2026_GOB_match_Masthead_logo_LIVE.png",
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018754/1780078579355296_RG26_Round4_Simonne_Mathieu_Court_landscape_thumb.jpg"
-      },
-      "MULTIPLE_AUDIO_LINKS": [
-        {
-          "LANGUAGE": "English",
-          "LANG_CODE": "ENG",
-          "DATA": {
-            "JITENDRAUNATTI": {
-              "Device_Type": "SONY_PRO_MAX",
-              "message": "success",
-              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2022315/RG_SM_Da3105/ENG/master.m3u8",
-              "WIDEVINE": null,
-              "STREAMING_TYPE": true,
-              "audioLanguages": [
-                {
-                  "audioLanguageName": "ENG",
-                  "audioLanguageLabel": "English"
-                }
-              ],
-              "dai_asset_key": "unavailable",
-              "Maximum_Video_Quality": "SDR",
-              "Maximum_Resolution": "FULL_HD",
-              "trailer_url": "",
-              "systemTime": 1780231824759,
-              "additionalDataJson": {
-                "adServer": "GAM",
-                "ad_stack": "MT-SSB",
-                "audioCodec": "AAC",
-                "audio_quality": "STEREO",
-                "enc_format": "HLS",
-                "fps": 50,
-                "isDaiKey": false,
-                "partners": [
-                  "ALL"
-                ],
-                "resolution": "FULL_HD",
-                "videoCodec": "H264",
-                "video_quality": "SDR"
-              },
-              "Status_code": 200,
-              "content_type": "application/json; charset=utf-8",
-              "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022315/RG_SM_Da3105/ENG/hdntl=exp=1780318226~acl=%2f*~id=ff37e586aca0932f161a244b29dc5b11-1780230600108~data=hdntl,2022315,RG_SM_Da3105,ENG~hmac=085332c8341697fc6f62d8a131dc7ca662fa67a5801ae7a3c3741a12358a4b58/master_200.m3u8?aka_me_session_id=AAAAAAAAAAASgB1qAAAAACnZDzoEmr03ZynvsJFIsxtBUzdC4Os9gtQnPJqjDKdK+ouCwxXro3MCDElOySZmu6HxBSpAEGvm&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022315/RG_SM_Da3105/ENG/hdntl=exp=1780318226~acl=%2f*~id=ff37e586aca0932f161a244b29dc5b11-1780230600108~data=hdntl,2022315,RG_SM_Da3105,ENG~hmac=085332c8341697fc6f62d8a131dc7ca662fa67a5801ae7a3c3741a12358a4b58/master_400.m3u8?aka_me_session_id=AAAAAAAAAAASgB1qAAAAACnZDzoEmr03ZynvsJFIsxtBUzdC4Os9gtQnPJqjDKdK+ouCwxXro3MCDElOySZmu6HxBSpAEGvm&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022315/RG_SM_Da3105/ENG/hdntl=exp=1780318226~acl=%2f*~id=ff37e586aca0932f161a244b29dc5b11-1780230600108~data=hdntl,2022315,RG_SM_Da3105,ENG~hmac=085332c8341697fc6f62d8a131dc7ca662fa67a5801ae7a3c3741a12358a4b58/master_500.m3u8?aka_me_session_id=AAAAAAAAAAASgB1qAAAAACnZDzoEmr03ZynvsJFIsxtBUzdC4Os9gtQnPJqjDKdK+ouCwxXro3MCDElOySZmu6HxBSpAEGvm&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=837256,AVERAGE-BANDWIDTH=837256,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022315/RG_SM_Da3105/ENG/hdntl=exp=1780318226~acl=%2f*~id=ff37e586aca0932f161a244b29dc5b11-1780230600108~data=hdntl,2022315,RG_SM_Da3105,ENG~hmac=085332c8341697fc6f62d8a131dc7ca662fa67a5801ae7a3c3741a12358a4b58/master_600.m3u8?aka_me_session_id=AAAAAAAAAAASgB1qAAAAACnZDzoEmr03ZynvsJFIsxtBUzdC4Os9gtQnPJqjDKdK+ouCwxXro3MCDElOySZmu6HxBSpAEGvm&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022315/RG_SM_Da3105/ENG/hdntl=exp=1780318226~acl=%2f*~id=ff37e586aca0932f161a244b29dc5b11-1780230600108~data=hdntl,2022315,RG_SM_Da3105,ENG~hmac=085332c8341697fc6f62d8a131dc7ca662fa67a5801ae7a3c3741a12358a4b58/master_1000.m3u8?aka_me_session_id=AAAAAAAAAAASgB1qAAAAACnZDzoEmr03ZynvsJFIsxtBUzdC4Os9gtQnPJqjDKdK+ouCwxXro3MCDElOySZmu6HxBSpAEGvm&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022315/RG_SM_Da3105/ENG/hdntl=exp=1780318226~acl=%2f*~id=ff37e586aca0932f161a244b29dc5b11-1780230600108~data=hdntl,2022315,RG_SM_Da3105,ENG~hmac=085332c8341697fc6f62d8a131dc7ca662fa67a5801ae7a3c3741a12358a4b58/master_1300.m3u8?aka_me_session_id=AAAAAAAAAAASgB1qAAAAACnZDzoEmr03ZynvsJFIsxtBUzdC4Os9gtQnPJqjDKdK+ouCwxXro3MCDElOySZmu6HxBSpAEGvm&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022315/RG_SM_Da3105/ENG/hdntl=exp=1780318226~acl=%2f*~id=ff37e586aca0932f161a244b29dc5b11-1780230600108~data=hdntl,2022315,RG_SM_Da3105,ENG~hmac=085332c8341697fc6f62d8a131dc7ca662fa67a5801ae7a3c3741a12358a4b58/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAASgB1qAAAAACnZDzoEmr03ZynvsJFIsxtBUzdC4Os9gtQnPJqjDKdK+ouCwxXro3MCDElOySZmu6HxBSpAEGvm&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022315/RG_SM_Da3105/ENG/hdntl=exp=1780318226~acl=%2f*~id=ff37e586aca0932f161a244b29dc5b11-1780230600108~data=hdntl,2022315,RG_SM_Da3105,ENG~hmac=085332c8341697fc6f62d8a131dc7ca662fa67a5801ae7a3c3741a12358a4b58/master_2200.m3u8?aka_me_session_id=AAAAAAAAAAASgB1qAAAAACnZDzoEmr03ZynvsJFIsxtBUzdC4Os9gtQnPJqjDKdK+ouCwxXro3MCDElOySZmu6HxBSpAEGvm&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3591848,AVERAGE-BANDWIDTH=3591848,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022315/RG_SM_Da3105/ENG/hdntl=exp=1780318226~acl=%2f*~id=ff37e586aca0932f161a244b29dc5b11-1780230600108~data=hdntl,2022315,RG_SM_Da3105,ENG~hmac=085332c8341697fc6f62d8a131dc7ca662fa67a5801ae7a3c3741a12358a4b58/master_3200.m3u8?aka_me_session_id=AAAAAAAAAAASgB1qAAAAACnZDzoEmr03ZynvsJFIsxtBUzdC4Os9gtQnPJqjDKdK+ouCwxXro3MCDElOySZmu6HxBSpAEGvm&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022315/RG_SM_Da3105/ENG/hdntl=exp=1780318226~acl=%2f*~id=ff37e586aca0932f161a244b29dc5b11-1780230600108~data=hdntl,2022315,RG_SM_Da3105,ENG~hmac=085332c8341697fc6f62d8a131dc7ca662fa67a5801ae7a3c3741a12358a4b58/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAASgB1qAAAAACnZDzoEmr03ZynvsJFIsxtBUzdC4Os9gtQnPJqjDKdK+ouCwxXro3MCDElOySZmu6HxBSpAEGvm&aka_media_format_type=hls",
-              "Date": "Sunday 31st of May 2026 06:20:22 PM"
-            }
-          }
-        }
-      ]
-    },
-    {
       "contentId": 1090529788,
       "video_info": {
         "title": "Roland-Garros 2026",
-        "shortDescription": "Watch all the exclusive action from the Roland-Garros as Angel/Tabilo takes on Reymond/Sanchez in the Round of 32, LIVE on SonyLIV.",
-        "longDescription": "Watch all the exclusive action from the Roland-Garros as Angel/Tabilo takes on Reymond/Sanchez in the Round of 32, LIVE on SonyLIV.",
+        "shortDescription": "Watch all the exclusive action from the Roland-Garros as Guinard M / Mladenovic K takes on Roger-Vasselin E / Siegemund L in the Round of 16, LIVE on SonyLIV.",
+        "longDescription": "Watch all the exclusive action from the Roland-Garros as Guinard M / Mladenovic K takes on Roger-Vasselin E / Siegemund L in the Round of 16, LIVE on SonyLIV.",
         "genres": [
           "Tennis"
         ],
-        "episodeTitle": "Angel/Tabilo vs Reymond/Sanchez - Men's Doubles - 31 May 2026"
+        "episodeTitle": "Guinard M / Mladenovic K vs Roger-Vasselin E / Siegemund L - Mixed Doubles - 31 May 2026"
       },
       "stream_info": {
         "Maximum_Video_Quality": "SDR",
@@ -902,105 +902,6 @@
               "content_type": "application/json; charset=utf-8",
               "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000291/EuroFrei3105/ENG/hdntl=exp=1780325413~acl=%2f*~id=47f24f0e5d4a4e7272408da1d72567d3-1780237800176~data=hdntl,20000291,EuroFrei3105,ENG~hmac=b4e9ea5f0223e0d113da8a363a731f86aa961ce3814245c9805a171c8de3714c/master_200.m3u8?aka_me_session_id=AAAAAAAAAAAlnB1qAAAAACGwtSP%2foCj+TZtTAkvBavHwLmFqFOsyYhKsY5MDkVefa41BXSh7srSWVa7m56qM953HHNu5B6Gu&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000291/EuroFrei3105/ENG/hdntl=exp=1780325413~acl=%2f*~id=47f24f0e5d4a4e7272408da1d72567d3-1780237800176~data=hdntl,20000291,EuroFrei3105,ENG~hmac=b4e9ea5f0223e0d113da8a363a731f86aa961ce3814245c9805a171c8de3714c/master_400.m3u8?aka_me_session_id=AAAAAAAAAAAlnB1qAAAAACGwtSP%2foCj+TZtTAkvBavHwLmFqFOsyYhKsY5MDkVefa41BXSh7srSWVa7m56qM953HHNu5B6Gu&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000291/EuroFrei3105/ENG/hdntl=exp=1780325413~acl=%2f*~id=47f24f0e5d4a4e7272408da1d72567d3-1780237800176~data=hdntl,20000291,EuroFrei3105,ENG~hmac=b4e9ea5f0223e0d113da8a363a731f86aa961ce3814245c9805a171c8de3714c/master_500.m3u8?aka_me_session_id=AAAAAAAAAAAlnB1qAAAAACGwtSP%2foCj+TZtTAkvBavHwLmFqFOsyYhKsY5MDkVefa41BXSh7srSWVa7m56qM953HHNu5B6Gu&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=837256,AVERAGE-BANDWIDTH=837256,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000291/EuroFrei3105/ENG/hdntl=exp=1780325413~acl=%2f*~id=47f24f0e5d4a4e7272408da1d72567d3-1780237800176~data=hdntl,20000291,EuroFrei3105,ENG~hmac=b4e9ea5f0223e0d113da8a363a731f86aa961ce3814245c9805a171c8de3714c/master_600.m3u8?aka_me_session_id=AAAAAAAAAAAlnB1qAAAAACGwtSP%2foCj+TZtTAkvBavHwLmFqFOsyYhKsY5MDkVefa41BXSh7srSWVa7m56qM953HHNu5B6Gu&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000291/EuroFrei3105/ENG/hdntl=exp=1780325413~acl=%2f*~id=47f24f0e5d4a4e7272408da1d72567d3-1780237800176~data=hdntl,20000291,EuroFrei3105,ENG~hmac=b4e9ea5f0223e0d113da8a363a731f86aa961ce3814245c9805a171c8de3714c/master_1000.m3u8?aka_me_session_id=AAAAAAAAAAAlnB1qAAAAACGwtSP%2foCj+TZtTAkvBavHwLmFqFOsyYhKsY5MDkVefa41BXSh7srSWVa7m56qM953HHNu5B6Gu&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000291/EuroFrei3105/ENG/hdntl=exp=1780325413~acl=%2f*~id=47f24f0e5d4a4e7272408da1d72567d3-1780237800176~data=hdntl,20000291,EuroFrei3105,ENG~hmac=b4e9ea5f0223e0d113da8a363a731f86aa961ce3814245c9805a171c8de3714c/master_1300.m3u8?aka_me_session_id=AAAAAAAAAAAlnB1qAAAAACGwtSP%2foCj+TZtTAkvBavHwLmFqFOsyYhKsY5MDkVefa41BXSh7srSWVa7m56qM953HHNu5B6Gu&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000291/EuroFrei3105/ENG/hdntl=exp=1780325413~acl=%2f*~id=47f24f0e5d4a4e7272408da1d72567d3-1780237800176~data=hdntl,20000291,EuroFrei3105,ENG~hmac=b4e9ea5f0223e0d113da8a363a731f86aa961ce3814245c9805a171c8de3714c/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAAlnB1qAAAAACGwtSP%2foCj+TZtTAkvBavHwLmFqFOsyYhKsY5MDkVefa41BXSh7srSWVa7m56qM953HHNu5B6Gu&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000291/EuroFrei3105/ENG/hdntl=exp=1780325413~acl=%2f*~id=47f24f0e5d4a4e7272408da1d72567d3-1780237800176~data=hdntl,20000291,EuroFrei3105,ENG~hmac=b4e9ea5f0223e0d113da8a363a731f86aa961ce3814245c9805a171c8de3714c/master_2200.m3u8?aka_me_session_id=AAAAAAAAAAAlnB1qAAAAACGwtSP%2foCj+TZtTAkvBavHwLmFqFOsyYhKsY5MDkVefa41BXSh7srSWVa7m56qM953HHNu5B6Gu&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3591848,AVERAGE-BANDWIDTH=3591848,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000291/EuroFrei3105/ENG/hdntl=exp=1780325413~acl=%2f*~id=47f24f0e5d4a4e7272408da1d72567d3-1780237800176~data=hdntl,20000291,EuroFrei3105,ENG~hmac=b4e9ea5f0223e0d113da8a363a731f86aa961ce3814245c9805a171c8de3714c/master_3200.m3u8?aka_me_session_id=AAAAAAAAAAAlnB1qAAAAACGwtSP%2foCj+TZtTAkvBavHwLmFqFOsyYhKsY5MDkVefa41BXSh7srSWVa7m56qM953HHNu5B6Gu&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000291/EuroFrei3105/ENG/hdntl=exp=1780325413~acl=%2f*~id=47f24f0e5d4a4e7272408da1d72567d3-1780237800176~data=hdntl,20000291,EuroFrei3105,ENG~hmac=b4e9ea5f0223e0d113da8a363a731f86aa961ce3814245c9805a171c8de3714c/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAAlnB1qAAAAACGwtSP%2foCj+TZtTAkvBavHwLmFqFOsyYhKsY5MDkVefa41BXSh7srSWVa7m56qM953HHNu5B6Gu&aka_media_format_type=hls",
               "Date": "Sunday 31st of May 2026 08:20:09 PM"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "contentId": 1090531578,
-      "video_info": {
-        "title": "UEFA International Friendlies",
-        "shortDescription": "Switzerland face Jordan in an engaging international friendly as both teams continue to prepare for upcoming competitions and assess their squad combinations. Switzerland will aim to use their structured style and attacking depth to control the contest, while Jordan look to deliver a disciplined performance and challenge their opponents with quick transitions and organized defending. Catch all the action from the International Friendlies, LIVE on Sony LIV.",
-        "longDescription": "Switzerland face Jordan in an engaging international friendly as both teams continue to prepare for upcoming competitions and assess their squad combinations. Switzerland will aim to use their structured style and attacking depth to control the contest, while Jordan look to deliver a disciplined performance and challenge their opponents with quick transitions and organized defending. Catch all the action from the International Friendlies, LIVE on Sony LIV.",
-        "genres": [
-          "Football"
-        ],
-        "episodeTitle": "Switzerland vs Jordan - 31 May 2026"
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": "https://dai.google.com/ssai/event/XmqwVn_hSLSfcYpIY4_oxQ/master.m3u8",
-        "broadcast_channel": "Sony Sports Ten 2",
-        "audio_language_list": [
-          {
-            "lang_code": "ENG",
-            "lang_label": "English"
-          }
-        ],
-        "emfAttributes__audio_languages": "ENG",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD",
-          "videoType": "FULL_HD",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "ENG",
-              "isPreferred": true,
-              "audioLanguageLabel": "English"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA"
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "31 May 2026, 05:50 PM",
-        "contractEndDate": "31 May 2026, 10:50 PM",
-        "originalAirDate": "31 May 2026, 06:20 PM"
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017824/1778148585876950_INT_Friendlies26_Switzerland-vs-Jordan_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017824/1778149084981950_INT_Friendlies26_Switzerland-vs-Jordan_landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": null,
-        "masthead_logo": null,
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017824/1778149084981950_INT_Friendlies26_Switzerland-vs-Jordan_landscape_thumb.jpg"
-      },
-      "MULTIPLE_AUDIO_LINKS": [
-        {
-          "LANGUAGE": "English",
-          "LANG_CODE": "ENG",
-          "DATA": {
-            "JITENDRAUNATTI": {
-              "Device_Type": "SONY_PRO_MAX",
-              "message": "success",
-              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/20000297/European3105/ENG/master.m3u8",
-              "WIDEVINE": null,
-              "STREAMING_TYPE": true,
-              "audioLanguages": [
-                {
-                  "audioLanguageName": "ENG",
-                  "audioLanguageLabel": "English"
-                }
-              ],
-              "dai_asset_key": "unavailable",
-              "Maximum_Video_Quality": "SDR",
-              "Maximum_Resolution": "FULL_HD",
-              "trailer_url": "",
-              "systemTime": 1780230609051,
-              "additionalDataJson": {
-                "adServer": "GAM",
-                "ad_stack": "MT-SSB",
-                "audioCodec": "AAC",
-                "audio_quality": "STEREO",
-                "enc_format": "HLS",
-                "fps": 50,
-                "isDaiKey": false,
-                "partners": [
-                  "ALL"
-                ],
-                "resolution": "FULL_HD",
-                "videoCodec": "H264",
-                "video_quality": "SDR"
-              },
-              "Status_code": 200,
-              "content_type": "application/json; charset=utf-8",
-              "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000297/European3105/ENG/hdntl=exp=1780317014~acl=%2f*~id=b1c50a1c660db9531755169f4e57b2c3-1780224600103~data=hdntl,20000297,European3105,ENG~hmac=a853bbf343d2895dc4ec3b591eac138ef38cb37ed215562250d2f470b5f45d4f/master_200.m3u8?aka_me_session_id=AAAAAAAAAABWex1qAAAAAHT03XkcDJpPhRxeypxrFrfTjsSzSmobX6%2fqw+d3MdZlRg8vKmUsNFNRY9WSAv%2f04IztBZ4oCZvL&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000297/European3105/ENG/hdntl=exp=1780317014~acl=%2f*~id=b1c50a1c660db9531755169f4e57b2c3-1780224600103~data=hdntl,20000297,European3105,ENG~hmac=a853bbf343d2895dc4ec3b591eac138ef38cb37ed215562250d2f470b5f45d4f/master_400.m3u8?aka_me_session_id=AAAAAAAAAABWex1qAAAAAHT03XkcDJpPhRxeypxrFrfTjsSzSmobX6%2fqw+d3MdZlRg8vKmUsNFNRY9WSAv%2f04IztBZ4oCZvL&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000297/European3105/ENG/hdntl=exp=1780317014~acl=%2f*~id=b1c50a1c660db9531755169f4e57b2c3-1780224600103~data=hdntl,20000297,European3105,ENG~hmac=a853bbf343d2895dc4ec3b591eac138ef38cb37ed215562250d2f470b5f45d4f/master_500.m3u8?aka_me_session_id=AAAAAAAAAABWex1qAAAAAHT03XkcDJpPhRxeypxrFrfTjsSzSmobX6%2fqw+d3MdZlRg8vKmUsNFNRY9WSAv%2f04IztBZ4oCZvL&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=837256,AVERAGE-BANDWIDTH=837256,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000297/European3105/ENG/hdntl=exp=1780317014~acl=%2f*~id=b1c50a1c660db9531755169f4e57b2c3-1780224600103~data=hdntl,20000297,European3105,ENG~hmac=a853bbf343d2895dc4ec3b591eac138ef38cb37ed215562250d2f470b5f45d4f/master_600.m3u8?aka_me_session_id=AAAAAAAAAABWex1qAAAAAHT03XkcDJpPhRxeypxrFrfTjsSzSmobX6%2fqw+d3MdZlRg8vKmUsNFNRY9WSAv%2f04IztBZ4oCZvL&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000297/European3105/ENG/hdntl=exp=1780317014~acl=%2f*~id=b1c50a1c660db9531755169f4e57b2c3-1780224600103~data=hdntl,20000297,European3105,ENG~hmac=a853bbf343d2895dc4ec3b591eac138ef38cb37ed215562250d2f470b5f45d4f/master_1000.m3u8?aka_me_session_id=AAAAAAAAAABWex1qAAAAAHT03XkcDJpPhRxeypxrFrfTjsSzSmobX6%2fqw+d3MdZlRg8vKmUsNFNRY9WSAv%2f04IztBZ4oCZvL&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000297/European3105/ENG/hdntl=exp=1780317014~acl=%2f*~id=b1c50a1c660db9531755169f4e57b2c3-1780224600103~data=hdntl,20000297,European3105,ENG~hmac=a853bbf343d2895dc4ec3b591eac138ef38cb37ed215562250d2f470b5f45d4f/master_1300.m3u8?aka_me_session_id=AAAAAAAAAABWex1qAAAAAHT03XkcDJpPhRxeypxrFrfTjsSzSmobX6%2fqw+d3MdZlRg8vKmUsNFNRY9WSAv%2f04IztBZ4oCZvL&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000297/European3105/ENG/hdntl=exp=1780317014~acl=%2f*~id=b1c50a1c660db9531755169f4e57b2c3-1780224600103~data=hdntl,20000297,European3105,ENG~hmac=a853bbf343d2895dc4ec3b591eac138ef38cb37ed215562250d2f470b5f45d4f/master_2000.m3u8?aka_me_session_id=AAAAAAAAAABWex1qAAAAAHT03XkcDJpPhRxeypxrFrfTjsSzSmobX6%2fqw+d3MdZlRg8vKmUsNFNRY9WSAv%2f04IztBZ4oCZvL&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000297/European3105/ENG/hdntl=exp=1780317014~acl=%2f*~id=b1c50a1c660db9531755169f4e57b2c3-1780224600103~data=hdntl,20000297,European3105,ENG~hmac=a853bbf343d2895dc4ec3b591eac138ef38cb37ed215562250d2f470b5f45d4f/master_2200.m3u8?aka_me_session_id=AAAAAAAAAABWex1qAAAAAHT03XkcDJpPhRxeypxrFrfTjsSzSmobX6%2fqw+d3MdZlRg8vKmUsNFNRY9WSAv%2f04IztBZ4oCZvL&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3591848,AVERAGE-BANDWIDTH=3591848,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000297/European3105/ENG/hdntl=exp=1780317014~acl=%2f*~id=b1c50a1c660db9531755169f4e57b2c3-1780224600103~data=hdntl,20000297,European3105,ENG~hmac=a853bbf343d2895dc4ec3b591eac138ef38cb37ed215562250d2f470b5f45d4f/master_3200.m3u8?aka_me_session_id=AAAAAAAAAABWex1qAAAAAHT03XkcDJpPhRxeypxrFrfTjsSzSmobX6%2fqw+d3MdZlRg8vKmUsNFNRY9WSAv%2f04IztBZ4oCZvL&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000297/European3105/ENG/hdntl=exp=1780317014~acl=%2f*~id=b1c50a1c660db9531755169f4e57b2c3-1780224600103~data=hdntl,20000297,European3105,ENG~hmac=a853bbf343d2895dc4ec3b591eac138ef38cb37ed215562250d2f470b5f45d4f/master_4500.m3u8?aka_me_session_id=AAAAAAAAAABWex1qAAAAAHT03XkcDJpPhRxeypxrFrfTjsSzSmobX6%2fqw+d3MdZlRg8vKmUsNFNRY9WSAv%2f04IztBZ4oCZvL&aka_media_format_type=hls",
-              "Date": "Sunday 31st of May 2026 06:00:10 PM"
             }
           }
         }
