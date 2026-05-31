@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Sony Live Matches API",
-  "last_updated": "03:20:07 PM 31-05-2026",
+  "last_updated": "04:40:10 PM 31-05-2026",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -19,6 +19,114 @@
   },
   "data": [
     {
+      "contentId": 1090529785,
+      "video_info": {
+        "title": "Roland-Garros 2026",
+        "shortDescription": "Catch all the exciting tennis action from the Roland-Garros 2026 live on Sony LIV.",
+        "longDescription": "Catch all the exciting tennis action from the Roland-Garros 2026 live on Sony LIV.",
+        "genres": [
+          "Tennis"
+        ],
+        "episodeTitle": "Philippe Chatrier - 31 May 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/VnUGwhe5Sq26Vxhuk96Fkw/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "",
+          "promotionUrl": "",
+          "promotionRating": "",
+          "trailerRating": "",
+          "trailerContentId": "",
+          "promotionContentId": "",
+          "verticalTrailerURL": "",
+          "verticalTrailerContentId": "",
+          "verticalTrailerRating": ""
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "31 May 2026, 02:00 PM",
+        "contractEndDate": "01 Jun 2026, 07:00 AM",
+        "originalAirDate": "31 May 2026, 02:30 PM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018872/1780127830000498_RG26_Svitolina_vs_Bencic_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018872/1780127832000498_RG26_Svitolina_vs_Bencic_landscape_thumb_SP.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018872/1780127834000498_Roland_Garros_2026_Svitolina_vs_Bencic_masthead_mobile_SP.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018233/177953448961832_Roland_Garros_2026_GOB_match_Masthead_logo_LIVE.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018872/1780127832000498_RG26_Svitolina_vs_Bencic_landscape_thumb_SP.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "SONY_PRO_MAX",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2094589/RG_DAY8_3105/ENG/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioLanguageName": "ENG",
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "unavailable",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1780216209026,
+              "additionalDataJson": {
+                "adServer": "GAM",
+                "ad_stack": "MT-SSB",
+                "audioCodec": "AAC",
+                "audio_quality": "STEREO",
+                "enc_format": "HLS",
+                "fps": 50,
+                "isDaiKey": false,
+                "partners": [
+                  "ALL"
+                ],
+                "resolution": "FULL_HD",
+                "videoCodec": "H264",
+                "video_quality": "SDR"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094589/RG_DAY8_3105/ENG/hdntl=exp=1780302610~acl=%2f*~id=be2867b0e0fc7661e1956e006d0751c7-1780209000243~data=hdntl,2094589,RG_DAY8_3105,ENG~hmac=6f4e053d779e9b765814042fb7dc663734549a0259829da186df47977d8fb5b1/master_200.m3u8?aka_me_session_id=AAAAAAAAAAASQx1qAAAAAJAAgn7XBNnaqRfe+HBAxh95NbwQm9t5tV6a8DdCJjFLyMl70X5i+F7lQ26ri4r08D6%2f7SMquCfk&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094589/RG_DAY8_3105/ENG/hdntl=exp=1780302610~acl=%2f*~id=be2867b0e0fc7661e1956e006d0751c7-1780209000243~data=hdntl,2094589,RG_DAY8_3105,ENG~hmac=6f4e053d779e9b765814042fb7dc663734549a0259829da186df47977d8fb5b1/master_400.m3u8?aka_me_session_id=AAAAAAAAAAASQx1qAAAAAJAAgn7XBNnaqRfe+HBAxh95NbwQm9t5tV6a8DdCJjFLyMl70X5i+F7lQ26ri4r08D6%2f7SMquCfk&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094589/RG_DAY8_3105/ENG/hdntl=exp=1780302610~acl=%2f*~id=be2867b0e0fc7661e1956e006d0751c7-1780209000243~data=hdntl,2094589,RG_DAY8_3105,ENG~hmac=6f4e053d779e9b765814042fb7dc663734549a0259829da186df47977d8fb5b1/master_500.m3u8?aka_me_session_id=AAAAAAAAAAASQx1qAAAAAJAAgn7XBNnaqRfe+HBAxh95NbwQm9t5tV6a8DdCJjFLyMl70X5i+F7lQ26ri4r08D6%2f7SMquCfk&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=837256,AVERAGE-BANDWIDTH=837256,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094589/RG_DAY8_3105/ENG/hdntl=exp=1780302610~acl=%2f*~id=be2867b0e0fc7661e1956e006d0751c7-1780209000243~data=hdntl,2094589,RG_DAY8_3105,ENG~hmac=6f4e053d779e9b765814042fb7dc663734549a0259829da186df47977d8fb5b1/master_600.m3u8?aka_me_session_id=AAAAAAAAAAASQx1qAAAAAJAAgn7XBNnaqRfe+HBAxh95NbwQm9t5tV6a8DdCJjFLyMl70X5i+F7lQ26ri4r08D6%2f7SMquCfk&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094589/RG_DAY8_3105/ENG/hdntl=exp=1780302610~acl=%2f*~id=be2867b0e0fc7661e1956e006d0751c7-1780209000243~data=hdntl,2094589,RG_DAY8_3105,ENG~hmac=6f4e053d779e9b765814042fb7dc663734549a0259829da186df47977d8fb5b1/master_1000.m3u8?aka_me_session_id=AAAAAAAAAAASQx1qAAAAAJAAgn7XBNnaqRfe+HBAxh95NbwQm9t5tV6a8DdCJjFLyMl70X5i+F7lQ26ri4r08D6%2f7SMquCfk&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094589/RG_DAY8_3105/ENG/hdntl=exp=1780302610~acl=%2f*~id=be2867b0e0fc7661e1956e006d0751c7-1780209000243~data=hdntl,2094589,RG_DAY8_3105,ENG~hmac=6f4e053d779e9b765814042fb7dc663734549a0259829da186df47977d8fb5b1/master_1300.m3u8?aka_me_session_id=AAAAAAAAAAASQx1qAAAAAJAAgn7XBNnaqRfe+HBAxh95NbwQm9t5tV6a8DdCJjFLyMl70X5i+F7lQ26ri4r08D6%2f7SMquCfk&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094589/RG_DAY8_3105/ENG/hdntl=exp=1780302610~acl=%2f*~id=be2867b0e0fc7661e1956e006d0751c7-1780209000243~data=hdntl,2094589,RG_DAY8_3105,ENG~hmac=6f4e053d779e9b765814042fb7dc663734549a0259829da186df47977d8fb5b1/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAASQx1qAAAAAJAAgn7XBNnaqRfe+HBAxh95NbwQm9t5tV6a8DdCJjFLyMl70X5i+F7lQ26ri4r08D6%2f7SMquCfk&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094589/RG_DAY8_3105/ENG/hdntl=exp=1780302610~acl=%2f*~id=be2867b0e0fc7661e1956e006d0751c7-1780209000243~data=hdntl,2094589,RG_DAY8_3105,ENG~hmac=6f4e053d779e9b765814042fb7dc663734549a0259829da186df47977d8fb5b1/master_2200.m3u8?aka_me_session_id=AAAAAAAAAAASQx1qAAAAAJAAgn7XBNnaqRfe+HBAxh95NbwQm9t5tV6a8DdCJjFLyMl70X5i+F7lQ26ri4r08D6%2f7SMquCfk&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3591848,AVERAGE-BANDWIDTH=3591848,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094589/RG_DAY8_3105/ENG/hdntl=exp=1780302610~acl=%2f*~id=be2867b0e0fc7661e1956e006d0751c7-1780209000243~data=hdntl,2094589,RG_DAY8_3105,ENG~hmac=6f4e053d779e9b765814042fb7dc663734549a0259829da186df47977d8fb5b1/master_3200.m3u8?aka_me_session_id=AAAAAAAAAAASQx1qAAAAAJAAgn7XBNnaqRfe+HBAxh95NbwQm9t5tV6a8DdCJjFLyMl70X5i+F7lQ26ri4r08D6%2f7SMquCfk&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094589/RG_DAY8_3105/ENG/hdntl=exp=1780302610~acl=%2f*~id=be2867b0e0fc7661e1956e006d0751c7-1780209000243~data=hdntl,2094589,RG_DAY8_3105,ENG~hmac=6f4e053d779e9b765814042fb7dc663734549a0259829da186df47977d8fb5b1/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAASQx1qAAAAAJAAgn7XBNnaqRfe+HBAxh95NbwQm9t5tV6a8DdCJjFLyMl70X5i+F7lQ26ri4r08D6%2f7SMquCfk&aka_media_format_type=hls",
+              "Date": "Sunday 31st of May 2026 02:00:06 PM"
+            }
+          }
+        }
+      ]
+    },
+    {
       "contentId": 1090529780,
       "video_info": {
         "title": "Roland-Garros 2026",
@@ -27,7 +135,7 @@
         "genres": [
           "Tennis"
         ],
-        "episodeTitle": "Marta Kostyuk vs Iga Swiatek - Round 4 - 31 May 2026"
+        "episodeTitle": "Elina Svitolina vs Belinda Bencic - Round 4 - 31 May 2026"
       },
       "stream_info": {
         "Maximum_Video_Quality": "SDR",
@@ -78,14 +186,14 @@
         "originalAirDate": "31 May 2026, 01:30 PM"
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018871/1780127828000390_RG26_Kostyuk_vs_Swiatek_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018871/1780127830000390_RG26_Kostyuk_vs_Swiatek_landscape_thumb_SP.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018872/1780127830000498_RG26_Svitolina_vs_Bencic_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018872/1780127832000498_RG26_Svitolina_vs_Bencic_landscape_thumb_SP.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018871/1780127826000390_Roland_Garros_2026_Kostyuk_vs_Swiatek_masthead_mobile_SP.jpg",
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018872/1780127834000498_Roland_Garros_2026_Svitolina_vs_Bencic_masthead_mobile_SP.jpg",
         "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018233/177953448961832_Roland_Garros_2026_GOB_match_Masthead_logo_LIVE.png",
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018871/1780127830000390_RG26_Kostyuk_vs_Swiatek_landscape_thumb_SP.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018872/1780127832000498_RG26_Svitolina_vs_Bencic_landscape_thumb_SP.jpg"
       },
       "MULTIPLE_AUDIO_LINKS": [
         {
@@ -389,12 +497,12 @@
       "contentId": 1090529786,
       "video_info": {
         "title": "Roland-Garros 2026",
-        "shortDescription": "Watch all the exclusive action from the Roland-Garros as Sorana Cirstea takes on Xiyu Wang in the Round of 16, LIVE on SonyLIV.",
-        "longDescription": "Watch all the exclusive action from the Roland-Garros as Sorana Cirstea takes on Xiyu Wang in the Round of 16, LIVE on SonyLIV.",
+        "shortDescription": "Catch all the exciting tennis action from the Roland-Garros 2026 live on Sony LIV.",
+        "longDescription": "Catch all the exciting tennis action from the Roland-Garros 2026 live on Sony LIV.",
         "genres": [
           "Tennis"
         ],
-        "episodeTitle": "Sorana Cirstea vs Xiyu Wang - Women's Singles - 31 May 2026"
+        "episodeTitle": "Court Suzanne Lenglen - 31 May 2026"
       },
       "stream_info": {
         "Maximum_Video_Quality": "SDR",
@@ -497,12 +605,12 @@
       "contentId": 1090529787,
       "video_info": {
         "title": "Roland-Garros 2026",
-        "shortDescription": "Watch all the exclusive action from the Roland-Garros as Pavlasek/Rikl takes on Nouza/Oberleitner in the Round of 16, LIVE on SonyLIV.",
-        "longDescription": "Watch all the exclusive action from the Roland-Garros as Pavlasek/Rikl takes on Nouza/Oberleitner in the Round of 16, LIVE on SonyLIV.",
+        "shortDescription": "Catch all the exciting tennis action from the Roland-Garros 2026 live on Sony LIV.",
+        "longDescription": "Catch all the exciting tennis action from the Roland-Garros 2026 live on Sony LIV.",
         "genres": [
           "Tennis"
         ],
-        "episodeTitle": "Pavlasek/Rikl vs Nouza/Oberleitner - Men's Doubles - 31 May 2026"
+        "episodeTitle": "Simonne Mathieu - 31 May 2026"
       },
       "stream_info": {
         "Maximum_Video_Quality": "SDR",
@@ -605,12 +713,12 @@
       "contentId": 1090529788,
       "video_info": {
         "title": "Roland-Garros 2026",
-        "shortDescription": "Watch all the exclusive action from the Roland-Garros as Krawietz/Puetz takes on Andres/Agustin in the Round of 32, LIVE on SonyLIV.",
-        "longDescription": "Watch all the exclusive action from the Roland-Garros as Krawietz/Puetz takes on Andres/Agustin in the Round of 32, LIVE on SonyLIV.",
+        "shortDescription": "Catch all the exciting tennis action from the Roland-Garros 2026 live on Sony LIV.",
+        "longDescription": "Catch all the exciting tennis action from the Roland-Garros 2026 live on Sony LIV.",
         "genres": [
           "Tennis"
         ],
-        "episodeTitle": "Krawietz/Puetz vs Andres/Agustin - Men's Doubles - 31 May 2026"
+        "episodeTitle": "Court 14 - 31 May 2026"
       },
       "stream_info": {
         "Maximum_Video_Quality": "SDR",
@@ -783,7 +891,7 @@
               "Maximum_Video_Quality": "SDR",
               "Maximum_Resolution": "FULL_HD",
               "trailer_url": "",
-              "systemTime": 1780207810587,
+              "systemTime": 1780223410761,
               "additionalDataJson": {
                 "adServer": "GAM",
                 "ad_stack": "MT-SSB",
@@ -801,8 +909,8 @@
               },
               "Status_code": 200,
               "content_type": "application/json; charset=utf-8",
-              "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000293/Austrian3105/ENG/hdntl=exp=1780294211~acl=%2f*~id=67e20fefee70256625672409c063a38a-1780203000118~data=hdntl,20000293,Austrian3105,ENG~hmac=b18843ec85ac95e7ad6dd50aa96e267c352a2cb1649e64480efc3e3d083efbe8/master_200.m3u8?aka_me_session_id=AAAAAAAAAABDIh1qAAAAALwx2ovw6JxeELTKhdEVFQIkPEgGJPUZpIvFwb3380GRgPnjnPFa7wmSndTH5+Tz%2fhOD2T8nA+jR&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000293/Austrian3105/ENG/hdntl=exp=1780294211~acl=%2f*~id=67e20fefee70256625672409c063a38a-1780203000118~data=hdntl,20000293,Austrian3105,ENG~hmac=b18843ec85ac95e7ad6dd50aa96e267c352a2cb1649e64480efc3e3d083efbe8/master_400.m3u8?aka_me_session_id=AAAAAAAAAABDIh1qAAAAALwx2ovw6JxeELTKhdEVFQIkPEgGJPUZpIvFwb3380GRgPnjnPFa7wmSndTH5+Tz%2fhOD2T8nA+jR&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000293/Austrian3105/ENG/hdntl=exp=1780294211~acl=%2f*~id=67e20fefee70256625672409c063a38a-1780203000118~data=hdntl,20000293,Austrian3105,ENG~hmac=b18843ec85ac95e7ad6dd50aa96e267c352a2cb1649e64480efc3e3d083efbe8/master_500.m3u8?aka_me_session_id=AAAAAAAAAABDIh1qAAAAALwx2ovw6JxeELTKhdEVFQIkPEgGJPUZpIvFwb3380GRgPnjnPFa7wmSndTH5+Tz%2fhOD2T8nA+jR&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=837256,AVERAGE-BANDWIDTH=837256,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000293/Austrian3105/ENG/hdntl=exp=1780294211~acl=%2f*~id=67e20fefee70256625672409c063a38a-1780203000118~data=hdntl,20000293,Austrian3105,ENG~hmac=b18843ec85ac95e7ad6dd50aa96e267c352a2cb1649e64480efc3e3d083efbe8/master_600.m3u8?aka_me_session_id=AAAAAAAAAABDIh1qAAAAALwx2ovw6JxeELTKhdEVFQIkPEgGJPUZpIvFwb3380GRgPnjnPFa7wmSndTH5+Tz%2fhOD2T8nA+jR&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000293/Austrian3105/ENG/hdntl=exp=1780294211~acl=%2f*~id=67e20fefee70256625672409c063a38a-1780203000118~data=hdntl,20000293,Austrian3105,ENG~hmac=b18843ec85ac95e7ad6dd50aa96e267c352a2cb1649e64480efc3e3d083efbe8/master_1000.m3u8?aka_me_session_id=AAAAAAAAAABDIh1qAAAAALwx2ovw6JxeELTKhdEVFQIkPEgGJPUZpIvFwb3380GRgPnjnPFa7wmSndTH5+Tz%2fhOD2T8nA+jR&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000293/Austrian3105/ENG/hdntl=exp=1780294211~acl=%2f*~id=67e20fefee70256625672409c063a38a-1780203000118~data=hdntl,20000293,Austrian3105,ENG~hmac=b18843ec85ac95e7ad6dd50aa96e267c352a2cb1649e64480efc3e3d083efbe8/master_1300.m3u8?aka_me_session_id=AAAAAAAAAABDIh1qAAAAALwx2ovw6JxeELTKhdEVFQIkPEgGJPUZpIvFwb3380GRgPnjnPFa7wmSndTH5+Tz%2fhOD2T8nA+jR&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000293/Austrian3105/ENG/hdntl=exp=1780294211~acl=%2f*~id=67e20fefee70256625672409c063a38a-1780203000118~data=hdntl,20000293,Austrian3105,ENG~hmac=b18843ec85ac95e7ad6dd50aa96e267c352a2cb1649e64480efc3e3d083efbe8/master_2000.m3u8?aka_me_session_id=AAAAAAAAAABDIh1qAAAAALwx2ovw6JxeELTKhdEVFQIkPEgGJPUZpIvFwb3380GRgPnjnPFa7wmSndTH5+Tz%2fhOD2T8nA+jR&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000293/Austrian3105/ENG/hdntl=exp=1780294211~acl=%2f*~id=67e20fefee70256625672409c063a38a-1780203000118~data=hdntl,20000293,Austrian3105,ENG~hmac=b18843ec85ac95e7ad6dd50aa96e267c352a2cb1649e64480efc3e3d083efbe8/master_2200.m3u8?aka_me_session_id=AAAAAAAAAABDIh1qAAAAALwx2ovw6JxeELTKhdEVFQIkPEgGJPUZpIvFwb3380GRgPnjnPFa7wmSndTH5+Tz%2fhOD2T8nA+jR&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3591848,AVERAGE-BANDWIDTH=3591848,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000293/Austrian3105/ENG/hdntl=exp=1780294211~acl=%2f*~id=67e20fefee70256625672409c063a38a-1780203000118~data=hdntl,20000293,Austrian3105,ENG~hmac=b18843ec85ac95e7ad6dd50aa96e267c352a2cb1649e64480efc3e3d083efbe8/master_3200.m3u8?aka_me_session_id=AAAAAAAAAABDIh1qAAAAALwx2ovw6JxeELTKhdEVFQIkPEgGJPUZpIvFwb3380GRgPnjnPFa7wmSndTH5+Tz%2fhOD2T8nA+jR&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000293/Austrian3105/ENG/hdntl=exp=1780294211~acl=%2f*~id=67e20fefee70256625672409c063a38a-1780203000118~data=hdntl,20000293,Austrian3105,ENG~hmac=b18843ec85ac95e7ad6dd50aa96e267c352a2cb1649e64480efc3e3d083efbe8/master_4500.m3u8?aka_me_session_id=AAAAAAAAAABDIh1qAAAAALwx2ovw6JxeELTKhdEVFQIkPEgGJPUZpIvFwb3380GRgPnjnPFa7wmSndTH5+Tz%2fhOD2T8nA+jR&aka_media_format_type=hls",
-              "Date": "Sunday 31st of May 2026 11:40:06 AM"
+              "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000293/Austrian3105/ENG/hdntl=exp=1780309811~acl=%2f*~id=ff2a5fb3c8a470f9a9ec93409908f6da-1780216200180~data=hdntl,20000293,Austrian3105,ENG~hmac=72c78a58c26ac4baeff4678963d0729a05407e15b8ab04512e1e44803d0b4786/master_200.m3u8?aka_me_session_id=AAAAAAAAAAAzXx1qAAAAAEsHDegwvspEVCsvSNkssHCwhmcAE1jInbU7GznuFP80aF8Ga60%2fuf493pNrm6puDTt%2fDUYqT8J0&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000293/Austrian3105/ENG/hdntl=exp=1780309811~acl=%2f*~id=ff2a5fb3c8a470f9a9ec93409908f6da-1780216200180~data=hdntl,20000293,Austrian3105,ENG~hmac=72c78a58c26ac4baeff4678963d0729a05407e15b8ab04512e1e44803d0b4786/master_400.m3u8?aka_me_session_id=AAAAAAAAAAAzXx1qAAAAAEsHDegwvspEVCsvSNkssHCwhmcAE1jInbU7GznuFP80aF8Ga60%2fuf493pNrm6puDTt%2fDUYqT8J0&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000293/Austrian3105/ENG/hdntl=exp=1780309811~acl=%2f*~id=ff2a5fb3c8a470f9a9ec93409908f6da-1780216200180~data=hdntl,20000293,Austrian3105,ENG~hmac=72c78a58c26ac4baeff4678963d0729a05407e15b8ab04512e1e44803d0b4786/master_500.m3u8?aka_me_session_id=AAAAAAAAAAAzXx1qAAAAAEsHDegwvspEVCsvSNkssHCwhmcAE1jInbU7GznuFP80aF8Ga60%2fuf493pNrm6puDTt%2fDUYqT8J0&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=837256,AVERAGE-BANDWIDTH=837256,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000293/Austrian3105/ENG/hdntl=exp=1780309811~acl=%2f*~id=ff2a5fb3c8a470f9a9ec93409908f6da-1780216200180~data=hdntl,20000293,Austrian3105,ENG~hmac=72c78a58c26ac4baeff4678963d0729a05407e15b8ab04512e1e44803d0b4786/master_600.m3u8?aka_me_session_id=AAAAAAAAAAAzXx1qAAAAAEsHDegwvspEVCsvSNkssHCwhmcAE1jInbU7GznuFP80aF8Ga60%2fuf493pNrm6puDTt%2fDUYqT8J0&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000293/Austrian3105/ENG/hdntl=exp=1780309811~acl=%2f*~id=ff2a5fb3c8a470f9a9ec93409908f6da-1780216200180~data=hdntl,20000293,Austrian3105,ENG~hmac=72c78a58c26ac4baeff4678963d0729a05407e15b8ab04512e1e44803d0b4786/master_1000.m3u8?aka_me_session_id=AAAAAAAAAAAzXx1qAAAAAEsHDegwvspEVCsvSNkssHCwhmcAE1jInbU7GznuFP80aF8Ga60%2fuf493pNrm6puDTt%2fDUYqT8J0&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000293/Austrian3105/ENG/hdntl=exp=1780309811~acl=%2f*~id=ff2a5fb3c8a470f9a9ec93409908f6da-1780216200180~data=hdntl,20000293,Austrian3105,ENG~hmac=72c78a58c26ac4baeff4678963d0729a05407e15b8ab04512e1e44803d0b4786/master_1300.m3u8?aka_me_session_id=AAAAAAAAAAAzXx1qAAAAAEsHDegwvspEVCsvSNkssHCwhmcAE1jInbU7GznuFP80aF8Ga60%2fuf493pNrm6puDTt%2fDUYqT8J0&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000293/Austrian3105/ENG/hdntl=exp=1780309811~acl=%2f*~id=ff2a5fb3c8a470f9a9ec93409908f6da-1780216200180~data=hdntl,20000293,Austrian3105,ENG~hmac=72c78a58c26ac4baeff4678963d0729a05407e15b8ab04512e1e44803d0b4786/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAAzXx1qAAAAAEsHDegwvspEVCsvSNkssHCwhmcAE1jInbU7GznuFP80aF8Ga60%2fuf493pNrm6puDTt%2fDUYqT8J0&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000293/Austrian3105/ENG/hdntl=exp=1780309811~acl=%2f*~id=ff2a5fb3c8a470f9a9ec93409908f6da-1780216200180~data=hdntl,20000293,Austrian3105,ENG~hmac=72c78a58c26ac4baeff4678963d0729a05407e15b8ab04512e1e44803d0b4786/master_2200.m3u8?aka_me_session_id=AAAAAAAAAAAzXx1qAAAAAEsHDegwvspEVCsvSNkssHCwhmcAE1jInbU7GznuFP80aF8Ga60%2fuf493pNrm6puDTt%2fDUYqT8J0&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3591848,AVERAGE-BANDWIDTH=3591848,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000293/Austrian3105/ENG/hdntl=exp=1780309811~acl=%2f*~id=ff2a5fb3c8a470f9a9ec93409908f6da-1780216200180~data=hdntl,20000293,Austrian3105,ENG~hmac=72c78a58c26ac4baeff4678963d0729a05407e15b8ab04512e1e44803d0b4786/master_3200.m3u8?aka_me_session_id=AAAAAAAAAAAzXx1qAAAAAEsHDegwvspEVCsvSNkssHCwhmcAE1jInbU7GznuFP80aF8Ga60%2fuf493pNrm6puDTt%2fDUYqT8J0&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000293/Austrian3105/ENG/hdntl=exp=1780309811~acl=%2f*~id=ff2a5fb3c8a470f9a9ec93409908f6da-1780216200180~data=hdntl,20000293,Austrian3105,ENG~hmac=72c78a58c26ac4baeff4678963d0729a05407e15b8ab04512e1e44803d0b4786/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAAzXx1qAAAAAEsHDegwvspEVCsvSNkssHCwhmcAE1jInbU7GznuFP80aF8Ga60%2fuf493pNrm6puDTt%2fDUYqT8J0&aka_media_format_type=hls",
+              "Date": "Sunday 31st of May 2026 04:00:07 PM"
             }
           }
         }
