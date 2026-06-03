@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Sony Live Matches API",
-  "last_updated": "08:20:14 PM 03-06-2026",
+  "last_updated": "09:20:09 PM 03-06-2026",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -402,11 +402,15 @@
         "broadcast_channel": "Sony Sports Ten 3",
         "audio_language_list": [
           {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          },
+          {
             "lang_code": "ENG",
             "lang_label": "English"
           }
         ],
-        "emfAttributes__audio_languages": "ENG",
+        "emfAttributes__audio_languages": "HIN,ENG",
         "platformVariants": {
           "assetType": "MASTER",
           "assetName": "VOD_FULL_HD",
@@ -439,6 +443,49 @@
         "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019122/1780494015232339_CCPL_2026_Raipur_Rhinos_vs_Rajnandgaon_Panthers_Match_landscape_thumb.jpg"
       },
       "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "Hindi",
+          "LANG_CODE": "HIN",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "SONY_PRO_MAX",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/20000299/criclive0306/ENG/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioLanguageName": "ENG",
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "unavailable",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1780501804623,
+              "additionalDataJson": {
+                "adServer": "GAM",
+                "ad_stack": "MT-SSB",
+                "audioCodec": "AAC",
+                "audio_quality": "STEREO",
+                "enc_format": "HLS",
+                "fps": 50,
+                "isDaiKey": false,
+                "partners": [
+                  "ALL"
+                ],
+                "resolution": "FULL_HD",
+                "videoCodec": "H264",
+                "video_quality": "SDR"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000299/criclive0306/ENG/hdntl=exp=1780588205~acl=%2f*~id=0e3b6d503bb465ffac63b256c63d985f-1780497000210~data=hdntl,20000299,criclive0306,ENG~hmac=1ff72aabeba8e10c2f8c49aac0e82a6b1880ef79da2580cfb57a901e33ce05a4/master_200.m3u8?aka_me_session_id=AAAAAAAAAACtniFqAAAAAAm+gTtmv1LY%2fQ5%2f6IP23rFgunusAy%2fnCscszwFkuSDK8KwXqFOWWsd%2fjPThQ8oPfyyYz6AfpMnr&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000299/criclive0306/ENG/hdntl=exp=1780588205~acl=%2f*~id=0e3b6d503bb465ffac63b256c63d985f-1780497000210~data=hdntl,20000299,criclive0306,ENG~hmac=1ff72aabeba8e10c2f8c49aac0e82a6b1880ef79da2580cfb57a901e33ce05a4/master_400.m3u8?aka_me_session_id=AAAAAAAAAACtniFqAAAAAAm+gTtmv1LY%2fQ5%2f6IP23rFgunusAy%2fnCscszwFkuSDK8KwXqFOWWsd%2fjPThQ8oPfyyYz6AfpMnr&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000299/criclive0306/ENG/hdntl=exp=1780588205~acl=%2f*~id=0e3b6d503bb465ffac63b256c63d985f-1780497000210~data=hdntl,20000299,criclive0306,ENG~hmac=1ff72aabeba8e10c2f8c49aac0e82a6b1880ef79da2580cfb57a901e33ce05a4/master_500.m3u8?aka_me_session_id=AAAAAAAAAACtniFqAAAAAAm+gTtmv1LY%2fQ5%2f6IP23rFgunusAy%2fnCscszwFkuSDK8KwXqFOWWsd%2fjPThQ8oPfyyYz6AfpMnr&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=837256,AVERAGE-BANDWIDTH=837256,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000299/criclive0306/ENG/hdntl=exp=1780588205~acl=%2f*~id=0e3b6d503bb465ffac63b256c63d985f-1780497000210~data=hdntl,20000299,criclive0306,ENG~hmac=1ff72aabeba8e10c2f8c49aac0e82a6b1880ef79da2580cfb57a901e33ce05a4/master_600.m3u8?aka_me_session_id=AAAAAAAAAACtniFqAAAAAAm+gTtmv1LY%2fQ5%2f6IP23rFgunusAy%2fnCscszwFkuSDK8KwXqFOWWsd%2fjPThQ8oPfyyYz6AfpMnr&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000299/criclive0306/ENG/hdntl=exp=1780588205~acl=%2f*~id=0e3b6d503bb465ffac63b256c63d985f-1780497000210~data=hdntl,20000299,criclive0306,ENG~hmac=1ff72aabeba8e10c2f8c49aac0e82a6b1880ef79da2580cfb57a901e33ce05a4/master_1000.m3u8?aka_me_session_id=AAAAAAAAAACtniFqAAAAAAm+gTtmv1LY%2fQ5%2f6IP23rFgunusAy%2fnCscszwFkuSDK8KwXqFOWWsd%2fjPThQ8oPfyyYz6AfpMnr&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000299/criclive0306/ENG/hdntl=exp=1780588205~acl=%2f*~id=0e3b6d503bb465ffac63b256c63d985f-1780497000210~data=hdntl,20000299,criclive0306,ENG~hmac=1ff72aabeba8e10c2f8c49aac0e82a6b1880ef79da2580cfb57a901e33ce05a4/master_1300.m3u8?aka_me_session_id=AAAAAAAAAACtniFqAAAAAAm+gTtmv1LY%2fQ5%2f6IP23rFgunusAy%2fnCscszwFkuSDK8KwXqFOWWsd%2fjPThQ8oPfyyYz6AfpMnr&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000299/criclive0306/ENG/hdntl=exp=1780588205~acl=%2f*~id=0e3b6d503bb465ffac63b256c63d985f-1780497000210~data=hdntl,20000299,criclive0306,ENG~hmac=1ff72aabeba8e10c2f8c49aac0e82a6b1880ef79da2580cfb57a901e33ce05a4/master_2000.m3u8?aka_me_session_id=AAAAAAAAAACtniFqAAAAAAm+gTtmv1LY%2fQ5%2f6IP23rFgunusAy%2fnCscszwFkuSDK8KwXqFOWWsd%2fjPThQ8oPfyyYz6AfpMnr&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000299/criclive0306/ENG/hdntl=exp=1780588205~acl=%2f*~id=0e3b6d503bb465ffac63b256c63d985f-1780497000210~data=hdntl,20000299,criclive0306,ENG~hmac=1ff72aabeba8e10c2f8c49aac0e82a6b1880ef79da2580cfb57a901e33ce05a4/master_2200.m3u8?aka_me_session_id=AAAAAAAAAACtniFqAAAAAAm+gTtmv1LY%2fQ5%2f6IP23rFgunusAy%2fnCscszwFkuSDK8KwXqFOWWsd%2fjPThQ8oPfyyYz6AfpMnr&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3591848,AVERAGE-BANDWIDTH=3591848,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000299/criclive0306/ENG/hdntl=exp=1780588205~acl=%2f*~id=0e3b6d503bb465ffac63b256c63d985f-1780497000210~data=hdntl,20000299,criclive0306,ENG~hmac=1ff72aabeba8e10c2f8c49aac0e82a6b1880ef79da2580cfb57a901e33ce05a4/master_3200.m3u8?aka_me_session_id=AAAAAAAAAACtniFqAAAAAAm+gTtmv1LY%2fQ5%2f6IP23rFgunusAy%2fnCscszwFkuSDK8KwXqFOWWsd%2fjPThQ8oPfyyYz6AfpMnr&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000299/criclive0306/ENG/hdntl=exp=1780588205~acl=%2f*~id=0e3b6d503bb465ffac63b256c63d985f-1780497000210~data=hdntl,20000299,criclive0306,ENG~hmac=1ff72aabeba8e10c2f8c49aac0e82a6b1880ef79da2580cfb57a901e33ce05a4/master_4500.m3u8?aka_me_session_id=AAAAAAAAAACtniFqAAAAAAm+gTtmv1LY%2fQ5%2f6IP23rFgunusAy%2fnCscszwFkuSDK8KwXqFOWWsd%2fjPThQ8oPfyyYz6AfpMnr&aka_media_format_type=hls",
+              "Date": "Wednesday 3rd of June 2026 09:20:05 PM"
+            }
+          }
+        },
         {
           "LANGUAGE": "English",
           "LANG_CODE": "ENG",
@@ -488,12 +535,12 @@
       "contentId": 1090529786,
       "video_info": {
         "title": "Roland-Garros 2026",
-        "shortDescription": "Watch all the exclusive action from the Roland-Garros as Vavassori A / Errani S takes on Roger-Vasselin E / Siegemund L in the Semi Final, LIVE on SonyLIV.",
-        "longDescription": "Watch all the exclusive action from the Roland-Garros as Vavassori A / Errani S takes on Roger-Vasselin E / Siegemund L in the Semi Final, LIVE on SonyLIV.",
+        "shortDescription": "Catch all the exciting tennis action from the Roland-Garros 2026 live on Sony LIV.",
+        "longDescription": "Catch all the exciting tennis action from the Roland-Garros 2026 live on Sony LIV.",
         "genres": [
           "Tennis"
         ],
-        "episodeTitle": "Vavassori A / Errani S vs Roger-Vasselin E / Siegemund L - Mixed Doubles - 03 Jun 2026"
+        "episodeTitle": "Court Suzanne Lenglen - 03 Jun 2026"
       },
       "stream_info": {
         "Maximum_Video_Quality": "SDR",
