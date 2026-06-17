@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Sony Live Matches API",
-  "last_updated": "09:20:18 AM 17-06-2026",
+  "last_updated": "03:00:09 PM 17-06-2026",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -384,23 +384,21 @@
           }
         }
       ]
-    }
-  ],
-  "upcoming": [
+    },
     {
-      "contentId": 1090534867,
+      "contentId": 1090534885,
       "video_info": {
-        "title": "Upcoming - New Zealand Tour of England",
-        "shortDescription": "Catch all the action from New Zealand Tour of England, only on Sony LIV.",
-        "longDescription": "Catch all the action from New Zealand Tour of England, only on Sony LIV.",
+        "title": "New Zealand Tour of England 2026",
+        "shortDescription": "The second Test between England and New Zealand at The Oval marks a major transition for both sides, with Joe Root returning as England's captain due to Ben Stokes' absence, and New Zealand entering a new era following Kane Williamson's retirement. Catch all the action from the New Zealand Tour of England 2026, LIVE on Sony LIV.",
+        "longDescription": "The second Test between England and New Zealand at The Oval marks a major transition for both sides, with Joe Root returning as England's captain due to Ben Stokes' absence, and New Zealand entering a new era following Kane Williamson's retirement. Catch all the action from the New Zealand Tour of England 2026, LIVE on Sony LIV.",
         "genres": [
           "Cricket"
         ],
-        "episodeTitle": ""
+        "episodeTitle": "2nd Test - Day 1 - 17 Jun 2026 "
       },
       "stream_info": {
         "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
+        "dai_asset_key": "https://dai.google.com/ssai/event/HmOHAZlJRby5Ipkfo5Wx1g/master.m3u8",
         "broadcast_channel": "Sony Sports Ten 5",
         "audio_language_list": [
           {
@@ -411,40 +409,83 @@
         "emfAttributes__audio_languages": "ENG",
         "platformVariants": {
           "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
           "audioLanguages": [
             {
               "audioId": 1,
               "audioLanguageName": "ENG",
               "isPreferred": true,
-              "audioLanguageLabel": "English",
-              "type": "main"
+              "audioLanguageLabel": "English"
             }
           ],
           "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/fd6b514e66fa439888bdca662e0683b9/1781596025/baseline-std-v4/1090534867_16062026_eng_baseline-800300010.mpd",
-          "hasTrailer": true
+          "videoUrl": "NA"
         }
       },
       "air_dates": {
-        "contractStartDate": "16 Jun 2026, 10:00 AM",
-        "contractEndDate": "21 Jun 2026, 03:00 PM",
-        "originalAirDate": null
+        "contractStartDate": "17 Jun 2026, 03:00 PM",
+        "contractEndDate": "18 Jun 2026, 03:00 AM",
+        "originalAirDate": "17 Jun 2026, 03:30 PM"
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019564/1781258813676422_ENGvsNZ_2nd_test_day1_today_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019564/1781258948723422_ENGvsNZ_2nd_test_day1_today_landscape_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019569/1781260098503832_ENGvsNZ_2nd_test_day1_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019569/1781260901751832_ENGvsNZ_2nd_test_day1_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019626/1781529105886622_England_vs_New_Zealand_2026_Match_masthead_mobile_v2_984x1182_2nd_Test.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019626/1781529105891622_England_vs_New_Zealand_2026_match_Masthead_logo_2ND_test_Dated.png",
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019657/1781672949573660_England_vs_New_Zealand_2026_Match_masthead_mobile_v2_984x1182_2nd_Test.png",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019626/1781529105614622_England_vs_New_Zealand_2026_match_Masthead_logo_2ND_test_live.png",
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019564/1781258948723422_ENGvsNZ_2nd_test_day1_today_landscape_thumb.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019569/1781260901751832_ENGvsNZ_2nd_test_day1_landscape_thumb.jpg"
       },
-      "MULTIPLE_AUDIO_LINKS": []
-    },
+      "MULTIPLE_AUDIO_LINKS": [
+        {
+          "LANGUAGE": "English",
+          "LANG_CODE": "ENG",
+          "DATA": {
+            "JITENDRAUNATTI": {
+              "Device_Type": "SONY_PRO_MAX",
+              "message": "success",
+              "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/20000291/England_1706/ENG/master.m3u8",
+              "WIDEVINE": null,
+              "STREAMING_TYPE": true,
+              "audioLanguages": [
+                {
+                  "audioLanguageName": "ENG",
+                  "audioLanguageLabel": "English"
+                }
+              ],
+              "dai_asset_key": "unavailable",
+              "Maximum_Video_Quality": "SDR",
+              "Maximum_Resolution": "FULL_HD",
+              "trailer_url": "",
+              "systemTime": 1781688609626,
+              "additionalDataJson": {
+                "adServer": "GAM",
+                "ad_stack": "MT-SSB",
+                "audioCodec": "AAC",
+                "audio_quality": "STEREO",
+                "enc_format": "HLS",
+                "fps": 50,
+                "isDaiKey": false,
+                "partners": [
+                  "ALL"
+                ],
+                "resolution": "FULL_HD",
+                "videoCodec": "H264",
+                "video_quality": "SDR"
+              },
+              "Status_code": 200,
+              "content_type": "application/json; charset=utf-8",
+              "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000291/England_1706/ENG/hdntl=exp=1781775010~acl=%2f*~id=a151f10de68d15face3894f3d85ed1e2-1781685000166~data=hdntl,20000291,England_1706,ENG~hmac=240e5ae5805aca53839bb0e857cfce639936723b0ed644cf90f3900f252216da/master_200.m3u8?aka_me_session_id=AAAAAAAAAACiujNqAAAAABg%2f+oOIiqThi81rjxJOxfbx%2f9D%2fUs1n8ue2IBiKAtBiZWfYqj9hQ3w0j2MNAHzchBnLlHYUWDCX&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000291/England_1706/ENG/hdntl=exp=1781775010~acl=%2f*~id=a151f10de68d15face3894f3d85ed1e2-1781685000166~data=hdntl,20000291,England_1706,ENG~hmac=240e5ae5805aca53839bb0e857cfce639936723b0ed644cf90f3900f252216da/master_400.m3u8?aka_me_session_id=AAAAAAAAAACiujNqAAAAABg%2f+oOIiqThi81rjxJOxfbx%2f9D%2fUs1n8ue2IBiKAtBiZWfYqj9hQ3w0j2MNAHzchBnLlHYUWDCX&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000291/England_1706/ENG/hdntl=exp=1781775010~acl=%2f*~id=a151f10de68d15face3894f3d85ed1e2-1781685000166~data=hdntl,20000291,England_1706,ENG~hmac=240e5ae5805aca53839bb0e857cfce639936723b0ed644cf90f3900f252216da/master_500.m3u8?aka_me_session_id=AAAAAAAAAACiujNqAAAAABg%2f+oOIiqThi81rjxJOxfbx%2f9D%2fUs1n8ue2IBiKAtBiZWfYqj9hQ3w0j2MNAHzchBnLlHYUWDCX&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=837256,AVERAGE-BANDWIDTH=837256,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000291/England_1706/ENG/hdntl=exp=1781775010~acl=%2f*~id=a151f10de68d15face3894f3d85ed1e2-1781685000166~data=hdntl,20000291,England_1706,ENG~hmac=240e5ae5805aca53839bb0e857cfce639936723b0ed644cf90f3900f252216da/master_600.m3u8?aka_me_session_id=AAAAAAAAAACiujNqAAAAABg%2f+oOIiqThi81rjxJOxfbx%2f9D%2fUs1n8ue2IBiKAtBiZWfYqj9hQ3w0j2MNAHzchBnLlHYUWDCX&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000291/England_1706/ENG/hdntl=exp=1781775010~acl=%2f*~id=a151f10de68d15face3894f3d85ed1e2-1781685000166~data=hdntl,20000291,England_1706,ENG~hmac=240e5ae5805aca53839bb0e857cfce639936723b0ed644cf90f3900f252216da/master_1000.m3u8?aka_me_session_id=AAAAAAAAAACiujNqAAAAABg%2f+oOIiqThi81rjxJOxfbx%2f9D%2fUs1n8ue2IBiKAtBiZWfYqj9hQ3w0j2MNAHzchBnLlHYUWDCX&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000291/England_1706/ENG/hdntl=exp=1781775010~acl=%2f*~id=a151f10de68d15face3894f3d85ed1e2-1781685000166~data=hdntl,20000291,England_1706,ENG~hmac=240e5ae5805aca53839bb0e857cfce639936723b0ed644cf90f3900f252216da/master_1300.m3u8?aka_me_session_id=AAAAAAAAAACiujNqAAAAABg%2f+oOIiqThi81rjxJOxfbx%2f9D%2fUs1n8ue2IBiKAtBiZWfYqj9hQ3w0j2MNAHzchBnLlHYUWDCX&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000291/England_1706/ENG/hdntl=exp=1781775010~acl=%2f*~id=a151f10de68d15face3894f3d85ed1e2-1781685000166~data=hdntl,20000291,England_1706,ENG~hmac=240e5ae5805aca53839bb0e857cfce639936723b0ed644cf90f3900f252216da/master_2000.m3u8?aka_me_session_id=AAAAAAAAAACiujNqAAAAABg%2f+oOIiqThi81rjxJOxfbx%2f9D%2fUs1n8ue2IBiKAtBiZWfYqj9hQ3w0j2MNAHzchBnLlHYUWDCX&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000291/England_1706/ENG/hdntl=exp=1781775010~acl=%2f*~id=a151f10de68d15face3894f3d85ed1e2-1781685000166~data=hdntl,20000291,England_1706,ENG~hmac=240e5ae5805aca53839bb0e857cfce639936723b0ed644cf90f3900f252216da/master_2200.m3u8?aka_me_session_id=AAAAAAAAAACiujNqAAAAABg%2f+oOIiqThi81rjxJOxfbx%2f9D%2fUs1n8ue2IBiKAtBiZWfYqj9hQ3w0j2MNAHzchBnLlHYUWDCX&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3591848,AVERAGE-BANDWIDTH=3591848,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000291/England_1706/ENG/hdntl=exp=1781775010~acl=%2f*~id=a151f10de68d15face3894f3d85ed1e2-1781685000166~data=hdntl,20000291,England_1706,ENG~hmac=240e5ae5805aca53839bb0e857cfce639936723b0ed644cf90f3900f252216da/master_3200.m3u8?aka_me_session_id=AAAAAAAAAACiujNqAAAAABg%2f+oOIiqThi81rjxJOxfbx%2f9D%2fUs1n8ue2IBiKAtBiZWfYqj9hQ3w0j2MNAHzchBnLlHYUWDCX&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/20000291/England_1706/ENG/hdntl=exp=1781775010~acl=%2f*~id=a151f10de68d15face3894f3d85ed1e2-1781685000166~data=hdntl,20000291,England_1706,ENG~hmac=240e5ae5805aca53839bb0e857cfce639936723b0ed644cf90f3900f252216da/master_4500.m3u8?aka_me_session_id=AAAAAAAAAACiujNqAAAAABg%2f+oOIiqThi81rjxJOxfbx%2f9D%2fUs1n8ue2IBiKAtBiZWfYqj9hQ3w0j2MNAHzchBnLlHYUWDCX&aka_media_format_type=hls",
+              "Date": "Wednesday 17th of June 2026 03:00:06 PM"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "upcoming": [
     {
       "contentId": 1090534440,
       "video_info": {
