@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Sony Live Matches API",
-  "last_updated": "06-09-2026 03:40",
+  "last_updated": "06-09-2026 04:00",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -17,124 +17,7 @@
     "SERVER_STATUS": "NORMAL",
     "USAGE_GUIDE": []
   },
-  "data": [
-    {
-      "contentId": 1090541574,
-      "video_info": {
-        "title": "UFC Fight Night - Hooker vs Parnasse",
-        "shortDescription": "UFC Fight Night: Hooker vs Parnasse features a highly anticipated lightweight clash as seasoned UFC veteran Dan Hooker takes on former two-division KSW champion Salahdine Parnasse in his UFC debut. Catch all the action from UFC Fight Night, LIVE on Sony LIV.",
-        "longDescription": "UFC Fight Night: Hooker vs Parnasse features a highly anticipated lightweight clash as seasoned UFC veteran Dan Hooker takes on former two-division KSW champion Salahdine Parnasse in his UFC debut. Catch all the action from UFC Fight Night, LIVE on Sony LIV.",
-        "genres": [
-          "Fight Sports"
-        ],
-        "episodeTitle": "UFC Fight Night - Hooker vs Parnasse - 6 Sep 2026"
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": "https://dai.google.com/ssai/event/qiEqpINWRruT9Ascofrw9g/master.m3u8",
-        "broadcast_channel": "Sony Sports Ten 2",
-        "audio_language_list": [
-          {
-            "lang_code": "ENG",
-            "lang_label": "English"
-          },
-          {
-            "lang_code": "HIN",
-            "lang_label": "Hindi"
-          },
-          {
-            "lang_code": "TAM",
-            "lang_label": "Tamil"
-          },
-          {
-            "lang_code": "TEL",
-            "lang_label": "Telugu"
-          },
-          {
-            "lang_code": "KAN",
-            "lang_label": "Kannada"
-          }
-        ],
-        "emfAttributes__audio_languages": "ENG,HIN,TAM,TEL,KAN",
-        "platformVariants": null
-      },
-      "air_dates": {
-        "contractStartDate": "06 Sep 2026, 12:00 AM",
-        "contractEndDate": "06 Sep 2026, 06:00 AM",
-        "originalAirDate": "06 Sep 2026, 12:30 AM"
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023513/1788550772988237_UFC_Fight_Night_Hooker_vs_Parnasse_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023513/1788550821133237_UFC_Fight_Night_Hooker_vs_Parnasse_landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023506/1788547433910362_UFC_HOOKER_VS_PARNASSE_masthead_mobile_v2_984x1182.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023506/1788547433687362_UFC_HOOKER_VS_PARNASSE_Masthead_Logo_LIVE.png",
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023513/1788550821133237_UFC_Fight_Night_Hooker_vs_Parnasse_landscape_thumb.jpg"
-      },
-      "multiple_audio_links": [
-        {
-          "language": "English",
-          "lang_code": "ENG",
-          "data": {
-            "Device_Type": "SONY_PRO_MAX",
-            "message": "success",
-            "X-Served-By": "JARVIS",
-            "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2022317/UFC_UFC_0509/ENG/master.m3u8",
-            "WIDEVINE": null,
-            "STREAMING_TYPE": true,
-            "audioLanguages": [
-              {
-                "audioLanguageName": "ENG",
-                "audioLanguageLabel": "English"
-              },
-              {
-                "audioLanguageName": "HIN",
-                "audioLanguageLabel": "Hindi"
-              },
-              {
-                "audioLanguageName": "TEL",
-                "audioLanguageLabel": "Telugu"
-              },
-              {
-                "audioLanguageName": "TAM",
-                "audioLanguageLabel": "Tamil"
-              },
-              {
-                "audioLanguageName": "KAN",
-                "audioLanguageLabel": "Kannada"
-              }
-            ],
-            "dai_asset_key": "unavailable",
-            "Maximum_Video_Quality": "SDR",
-            "Maximum_Resolution": "FULL_HD",
-            "trailer_url": "",
-            "systemTime": 1788633007218,
-            "additionalDataJson": {
-              "adServer": "GAM",
-              "ad_stack": "MT-SSB",
-              "audioCodec": "AAC",
-              "audio_quality": "STEREO",
-              "enc_format": "HLS",
-              "fps": 50,
-              "isDaiKey": false,
-              "partners": [
-                "ALL"
-              ],
-              "resolution": "FULL_HD",
-              "videoCodec": "H264",
-              "video_quality": "SDR"
-            },
-            "Status_code": 200,
-            "content_type": "application/json; charset=utf-8",
-            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022317/UFC_UFC_0509/ENG/hdntl=exp=1788719408~acl=%2f*~id=077c21e1d91cd8c14007cd1e9cfd1519-1788628204350~data=hdntl,2022317,UFC_UFC_0509,ENG~hmac=1592abc02e264a880aa11dabf44cc39e3f28ceede814880bf2c75cd8d3d7ce1c/master_200.m3u8?aka_me_session_id=AAAAAAAAAAAwsZ1qAAAAAD0XQg7hrPtI8kKuMsyX7PtE%2fELpw6vWFyYU%2f4d%2fm5Z7jXCVg4RjlnYSDyjBSEnLrIeDcGEYXVyG&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022317/UFC_UFC_0509/ENG/hdntl=exp=1788719408~acl=%2f*~id=077c21e1d91cd8c14007cd1e9cfd1519-1788628204350~data=hdntl,2022317,UFC_UFC_0509,ENG~hmac=1592abc02e264a880aa11dabf44cc39e3f28ceede814880bf2c75cd8d3d7ce1c/master_400.m3u8?aka_me_session_id=AAAAAAAAAAAwsZ1qAAAAAD0XQg7hrPtI8kKuMsyX7PtE%2fELpw6vWFyYU%2f4d%2fm5Z7jXCVg4RjlnYSDyjBSEnLrIeDcGEYXVyG&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022317/UFC_UFC_0509/ENG/hdntl=exp=1788719408~acl=%2f*~id=077c21e1d91cd8c14007cd1e9cfd1519-1788628204350~data=hdntl,2022317,UFC_UFC_0509,ENG~hmac=1592abc02e264a880aa11dabf44cc39e3f28ceede814880bf2c75cd8d3d7ce1c/master_500.m3u8?aka_me_session_id=AAAAAAAAAAAwsZ1qAAAAAD0XQg7hrPtI8kKuMsyX7PtE%2fELpw6vWFyYU%2f4d%2fm5Z7jXCVg4RjlnYSDyjBSEnLrIeDcGEYXVyG&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=837256,AVERAGE-BANDWIDTH=837256,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022317/UFC_UFC_0509/ENG/hdntl=exp=1788719408~acl=%2f*~id=077c21e1d91cd8c14007cd1e9cfd1519-1788628204350~data=hdntl,2022317,UFC_UFC_0509,ENG~hmac=1592abc02e264a880aa11dabf44cc39e3f28ceede814880bf2c75cd8d3d7ce1c/master_600.m3u8?aka_me_session_id=AAAAAAAAAAAwsZ1qAAAAAD0XQg7hrPtI8kKuMsyX7PtE%2fELpw6vWFyYU%2f4d%2fm5Z7jXCVg4RjlnYSDyjBSEnLrIeDcGEYXVyG&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022317/UFC_UFC_0509/ENG/hdntl=exp=1788719408~acl=%2f*~id=077c21e1d91cd8c14007cd1e9cfd1519-1788628204350~data=hdntl,2022317,UFC_UFC_0509,ENG~hmac=1592abc02e264a880aa11dabf44cc39e3f28ceede814880bf2c75cd8d3d7ce1c/master_1000.m3u8?aka_me_session_id=AAAAAAAAAAAwsZ1qAAAAAD0XQg7hrPtI8kKuMsyX7PtE%2fELpw6vWFyYU%2f4d%2fm5Z7jXCVg4RjlnYSDyjBSEnLrIeDcGEYXVyG&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022317/UFC_UFC_0509/ENG/hdntl=exp=1788719408~acl=%2f*~id=077c21e1d91cd8c14007cd1e9cfd1519-1788628204350~data=hdntl,2022317,UFC_UFC_0509,ENG~hmac=1592abc02e264a880aa11dabf44cc39e3f28ceede814880bf2c75cd8d3d7ce1c/master_1300.m3u8?aka_me_session_id=AAAAAAAAAAAwsZ1qAAAAAD0XQg7hrPtI8kKuMsyX7PtE%2fELpw6vWFyYU%2f4d%2fm5Z7jXCVg4RjlnYSDyjBSEnLrIeDcGEYXVyG&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022317/UFC_UFC_0509/ENG/hdntl=exp=1788719408~acl=%2f*~id=077c21e1d91cd8c14007cd1e9cfd1519-1788628204350~data=hdntl,2022317,UFC_UFC_0509,ENG~hmac=1592abc02e264a880aa11dabf44cc39e3f28ceede814880bf2c75cd8d3d7ce1c/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAAwsZ1qAAAAAD0XQg7hrPtI8kKuMsyX7PtE%2fELpw6vWFyYU%2f4d%2fm5Z7jXCVg4RjlnYSDyjBSEnLrIeDcGEYXVyG&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022317/UFC_UFC_0509/ENG/hdntl=exp=1788719408~acl=%2f*~id=077c21e1d91cd8c14007cd1e9cfd1519-1788628204350~data=hdntl,2022317,UFC_UFC_0509,ENG~hmac=1592abc02e264a880aa11dabf44cc39e3f28ceede814880bf2c75cd8d3d7ce1c/master_2200.m3u8?aka_me_session_id=AAAAAAAAAAAwsZ1qAAAAAD0XQg7hrPtI8kKuMsyX7PtE%2fELpw6vWFyYU%2f4d%2fm5Z7jXCVg4RjlnYSDyjBSEnLrIeDcGEYXVyG&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4204904,AVERAGE-BANDWIDTH=4204904,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022317/UFC_UFC_0509/ENG/hdntl=exp=1788719408~acl=%2f*~id=077c21e1d91cd8c14007cd1e9cfd1519-1788628204350~data=hdntl,2022317,UFC_UFC_0509,ENG~hmac=1592abc02e264a880aa11dabf44cc39e3f28ceede814880bf2c75cd8d3d7ce1c/master_3800.m3u8?aka_me_session_id=AAAAAAAAAAAwsZ1qAAAAAD0XQg7hrPtI8kKuMsyX7PtE%2fELpw6vWFyYU%2f4d%2fm5Z7jXCVg4RjlnYSDyjBSEnLrIeDcGEYXVyG&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022317/UFC_UFC_0509/ENG/hdntl=exp=1788719408~acl=%2f*~id=077c21e1d91cd8c14007cd1e9cfd1519-1788628204350~data=hdntl,2022317,UFC_UFC_0509,ENG~hmac=1592abc02e264a880aa11dabf44cc39e3f28ceede814880bf2c75cd8d3d7ce1c/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAAwsZ1qAAAAAD0XQg7hrPtI8kKuMsyX7PtE%2fELpw6vWFyYU%2f4d%2fm5Z7jXCVg4RjlnYSDyjBSEnLrIeDcGEYXVyG&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3387496,AVERAGE-BANDWIDTH=3387496,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2022317/UFC_UFC_0509/ENG/hdntl=exp=1788719408~acl=%2f*~id=077c21e1d91cd8c14007cd1e9cfd1519-1788628204350~data=hdntl,2022317,UFC_UFC_0509,ENG~hmac=1592abc02e264a880aa11dabf44cc39e3f28ceede814880bf2c75cd8d3d7ce1c/master_3000.m3u8?aka_me_session_id=AAAAAAAAAAAwsZ1qAAAAAD0XQg7hrPtI8kKuMsyX7PtE%2fELpw6vWFyYU%2f4d%2fm5Z7jXCVg4RjlnYSDyjBSEnLrIeDcGEYXVyG&aka_media_format_type=hls",
-            "Date": "Sunday 6th of September 2026 12:00:09 AM"
-          }
-        }
-      ]
-    }
-  ],
+  "data": [],
   "upcoming": [
     {
       "contentId": 1090540064,
