@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Sony Live Matches API",
-  "last_updated": "20-09-2026 00:00",
+  "last_updated": "20-09-2026 04:00",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -17,7 +17,106 @@
     "SERVER_STATUS": "NORMAL",
     "USAGE_GUIDE": []
   },
-  "data": [],
+  "data": [
+    {
+      "contentId": 1090542963,
+      "video_info": {
+        "title": "UFC 331 - Van vs Pantoja 2",
+        "shortDescription": "Joshua Van takes on Alexandre Pantoja in a blockbuster rematch for the UFC flyweight title at UFC 331. Catch all the action LIVE, only on Sony LIV.",
+        "longDescription": "Joshua Van takes on Alexandre Pantoja in a blockbuster rematch for the UFC flyweight title at UFC 331. Catch all the action LIVE, only on Sony LIV.",
+        "genres": [
+          "Fight Sports"
+        ],
+        "episodeTitle": "UFC 331 - Van vs Pantoja 2 - 20 Sep 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/shkqoON_T6OVwAhCb9YdoA/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 2",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "20 Sep 2026, 04:00 AM",
+        "contractEndDate": "20 Sep 2026, 01:00 PM",
+        "originalAirDate": "20 Sep 2026, 04:30 AM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024182/178977549935944_UFC_Van_vs_Pantoja_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024182/178977556799144_UFC_Van_vs_Pantoja_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024144/1789718252000342_UFC_Van_vs_Pantoja_mobile_detail_coverbg_V2.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024144/1789718252000342_UFC_Van_vs_Pantoja_Masthead_Logo_LIVE.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024182/178977556799144_UFC_Van_vs_Pantoja_landscape_thumb.jpg"
+      },
+      "multiple_audio_links": [
+        {
+          "language": "English",
+          "lang_code": "ENG",
+          "data": {
+            "Device_Type": "SONY_PRO_MAX",
+            "message": "success",
+            "X-Served-By": "JARVIS",
+            "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2120305/UFC_331_1909/ENG/master.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "ENG",
+                "audioLanguageLabel": "English"
+              }
+            ],
+            "dai_asset_key": "unavailable",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1789857007757,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "MT-SSB",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 50,
+              "isDaiKey": false,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120305/UFC_331_1909/ENG/hdntl=exp=1789943413~acl=%2f*~id=78a17bbdca1ac23f8e22a28ab02d4ddc-1789857002013~data=hdntl,2120305,UFC_331_1909,ENG~hmac=b782e8be0893527f1984f72b88bd98ad90d6e0d4a36d5f1d30c80ca087739333/master_200.m3u8?aka_me_session_id=AAAAAAAAAAB1XrBqAAAAABSf1mv7peLY%2fIR2g0E3wck3jEtTGSBQZ+AJbw3mcQlLwJHUcCocs9uPz4rEmDPaNPF72xxHbYHF&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120305/UFC_331_1909/ENG/hdntl=exp=1789943413~acl=%2f*~id=78a17bbdca1ac23f8e22a28ab02d4ddc-1789857002013~data=hdntl,2120305,UFC_331_1909,ENG~hmac=b782e8be0893527f1984f72b88bd98ad90d6e0d4a36d5f1d30c80ca087739333/master_400.m3u8?aka_me_session_id=AAAAAAAAAAB1XrBqAAAAABSf1mv7peLY%2fIR2g0E3wck3jEtTGSBQZ+AJbw3mcQlLwJHUcCocs9uPz4rEmDPaNPF72xxHbYHF&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120305/UFC_331_1909/ENG/hdntl=exp=1789943413~acl=%2f*~id=78a17bbdca1ac23f8e22a28ab02d4ddc-1789857002013~data=hdntl,2120305,UFC_331_1909,ENG~hmac=b782e8be0893527f1984f72b88bd98ad90d6e0d4a36d5f1d30c80ca087739333/master_500.m3u8?aka_me_session_id=AAAAAAAAAAB1XrBqAAAAABSf1mv7peLY%2fIR2g0E3wck3jEtTGSBQZ+AJbw3mcQlLwJHUcCocs9uPz4rEmDPaNPF72xxHbYHF&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=837256,AVERAGE-BANDWIDTH=837256,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120305/UFC_331_1909/ENG/hdntl=exp=1789943413~acl=%2f*~id=78a17bbdca1ac23f8e22a28ab02d4ddc-1789857002013~data=hdntl,2120305,UFC_331_1909,ENG~hmac=b782e8be0893527f1984f72b88bd98ad90d6e0d4a36d5f1d30c80ca087739333/master_600.m3u8?aka_me_session_id=AAAAAAAAAAB1XrBqAAAAABSf1mv7peLY%2fIR2g0E3wck3jEtTGSBQZ+AJbw3mcQlLwJHUcCocs9uPz4rEmDPaNPF72xxHbYHF&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120305/UFC_331_1909/ENG/hdntl=exp=1789943413~acl=%2f*~id=78a17bbdca1ac23f8e22a28ab02d4ddc-1789857002013~data=hdntl,2120305,UFC_331_1909,ENG~hmac=b782e8be0893527f1984f72b88bd98ad90d6e0d4a36d5f1d30c80ca087739333/master_1000.m3u8?aka_me_session_id=AAAAAAAAAAB1XrBqAAAAABSf1mv7peLY%2fIR2g0E3wck3jEtTGSBQZ+AJbw3mcQlLwJHUcCocs9uPz4rEmDPaNPF72xxHbYHF&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120305/UFC_331_1909/ENG/hdntl=exp=1789943413~acl=%2f*~id=78a17bbdca1ac23f8e22a28ab02d4ddc-1789857002013~data=hdntl,2120305,UFC_331_1909,ENG~hmac=b782e8be0893527f1984f72b88bd98ad90d6e0d4a36d5f1d30c80ca087739333/master_1300.m3u8?aka_me_session_id=AAAAAAAAAAB1XrBqAAAAABSf1mv7peLY%2fIR2g0E3wck3jEtTGSBQZ+AJbw3mcQlLwJHUcCocs9uPz4rEmDPaNPF72xxHbYHF&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120305/UFC_331_1909/ENG/hdntl=exp=1789943413~acl=%2f*~id=78a17bbdca1ac23f8e22a28ab02d4ddc-1789857002013~data=hdntl,2120305,UFC_331_1909,ENG~hmac=b782e8be0893527f1984f72b88bd98ad90d6e0d4a36d5f1d30c80ca087739333/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAB1XrBqAAAAABSf1mv7peLY%2fIR2g0E3wck3jEtTGSBQZ+AJbw3mcQlLwJHUcCocs9uPz4rEmDPaNPF72xxHbYHF&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120305/UFC_331_1909/ENG/hdntl=exp=1789943413~acl=%2f*~id=78a17bbdca1ac23f8e22a28ab02d4ddc-1789857002013~data=hdntl,2120305,UFC_331_1909,ENG~hmac=b782e8be0893527f1984f72b88bd98ad90d6e0d4a36d5f1d30c80ca087739333/master_2200.m3u8?aka_me_session_id=AAAAAAAAAAB1XrBqAAAAABSf1mv7peLY%2fIR2g0E3wck3jEtTGSBQZ+AJbw3mcQlLwJHUcCocs9uPz4rEmDPaNPF72xxHbYHF&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4204904,AVERAGE-BANDWIDTH=4204904,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120305/UFC_331_1909/ENG/hdntl=exp=1789943413~acl=%2f*~id=78a17bbdca1ac23f8e22a28ab02d4ddc-1789857002013~data=hdntl,2120305,UFC_331_1909,ENG~hmac=b782e8be0893527f1984f72b88bd98ad90d6e0d4a36d5f1d30c80ca087739333/master_3800.m3u8?aka_me_session_id=AAAAAAAAAAB1XrBqAAAAABSf1mv7peLY%2fIR2g0E3wck3jEtTGSBQZ+AJbw3mcQlLwJHUcCocs9uPz4rEmDPaNPF72xxHbYHF&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120305/UFC_331_1909/ENG/hdntl=exp=1789943413~acl=%2f*~id=78a17bbdca1ac23f8e22a28ab02d4ddc-1789857002013~data=hdntl,2120305,UFC_331_1909,ENG~hmac=b782e8be0893527f1984f72b88bd98ad90d6e0d4a36d5f1d30c80ca087739333/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAB1XrBqAAAAABSf1mv7peLY%2fIR2g0E3wck3jEtTGSBQZ+AJbw3mcQlLwJHUcCocs9uPz4rEmDPaNPF72xxHbYHF&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3387496,AVERAGE-BANDWIDTH=3387496,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120305/UFC_331_1909/ENG/hdntl=exp=1789943413~acl=%2f*~id=78a17bbdca1ac23f8e22a28ab02d4ddc-1789857002013~data=hdntl,2120305,UFC_331_1909,ENG~hmac=b782e8be0893527f1984f72b88bd98ad90d6e0d4a36d5f1d30c80ca087739333/master_3000.m3u8?aka_me_session_id=AAAAAAAAAAB1XrBqAAAAABSf1mv7peLY%2fIR2g0E3wck3jEtTGSBQZ+AJbw3mcQlLwJHUcCocs9uPz4rEmDPaNPF72xxHbYHF&aka_media_format_type=hls",
+            "Date": "Sunday 20th of September 2026 04:00:13 AM"
+          }
+        }
+      ]
+    }
+  ],
   "upcoming": [
     {
       "contentId": 1090542973,
@@ -66,14 +165,14 @@
         "originalAirDate": null
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024176/1789768903645343_AG26_womens_SF_india_vs_bangladesh_dated_Portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024214/1789824440669995_AG26_womens_SF_india_vs_bangladesh_dated_landscape_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024176/1789768954245343_AG26_womens_SF_india_vs_bangladesh_today_Portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024176/1789769649728343_AG26_womens_SF_india_vs_bangladesh_today_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
         "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024219/1789837009554974_Ag_promo_masthead_mobile_v2.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023974/1789458783163232_ASIAN_GAME_2026_GOB_Masthead_logo.png",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024232/1789844610129359_AG26_Generic_masthead_logo_today.png",
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024214/1789824440669995_AG26_womens_SF_india_vs_bangladesh_dated_landscape_thumb.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024176/1789769649728343_AG26_womens_SF_india_vs_bangladesh_today_landscape_thumb.jpg"
       },
       "multiple_audio_links": []
     },
@@ -422,64 +521,6 @@
         "circular_image": null,
         "image_600x900_clean": null,
         "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023939/1789325459946480_IND_vs_NZ_landsacpe_thumb.jpg"
-      },
-      "multiple_audio_links": []
-    },
-    {
-      "contentId": 1090542974,
-      "video_info": {
-        "title": "Upcoming - UFC 331 - Prelims & Van vs Pantoja 2",
-        "shortDescription": "Tune in to catch all the action from UFC 331 - Prelims & Van vs Pantoja 2, only on Sony LIV. ",
-        "longDescription": "Tune in to catch all the action from UFC 331 - Prelims & Van vs Pantoja 2, only on Sony LIV. ",
-        "genres": [
-          "Fight Sports"
-        ],
-        "episodeTitle": ""
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "Sony Sports Ten 5",
-        "audio_language_list": [
-          {
-            "lang_code": "ENG",
-            "lang_label": "English"
-          }
-        ],
-        "emfAttributes__audio_languages": "ENG",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "ENG",
-              "isPreferred": true,
-              "audioLanguageLabel": "English",
-              "type": "main"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/0c14db4e23b9488598b0dd887f6ab4e0/1789759132/baseline-std-v4/UFC_331_30_SEC_HOR_WOBUG_DATED_APP_19092026_eng_baseline-800300010.mpd",
-          "hasTrailer": true
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "19 Sep 2026, 12:00 AM",
-        "contractEndDate": "20 Sep 2026, 04:00 AM",
-        "originalAirDate": null
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024183/1789775269043936_UFC_Van_vs_Pantoja_dated_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024183/1789775874130936_UFC_Van_vs_Pantoja_dated_landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024144/1789718252000342_UFC_Van_vs_Pantoja_masthead_mobile_v2_984x1182.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024144/1789718252000342_UFC_Van_vs_Pantoja_Masthead_logo_IND.png",
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024183/1789775874130936_UFC_Van_vs_Pantoja_dated_landscape_thumb.jpg"
       },
       "multiple_audio_links": []
     },
@@ -886,6 +927,64 @@
         "circular_image": null,
         "image_600x900_clean": null,
         "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024128/1789719294270711_ag_hockey_promo_dated_landscape_Thum.jpg"
+      },
+      "multiple_audio_links": []
+    },
+    {
+      "contentId": 1090542859,
+      "video_info": {
+        "title": "Upcoming - Boxing - 20th Asian Games Aichi-Nagoya 2026",
+        "shortDescription": "Watch all the action from the 20th Asian Games Aichi-Nagoya 2026, only on Sony LIV. ",
+        "longDescription": "Watch all the action from the 20th Asian Games Aichi-Nagoya 2026, only on Sony LIV. ",
+        "genres": [
+          "Boxing"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/c958fdfdd59548c6a693f92d71e48321/1789781271/baseline-std-v4/1090542859_17092026_eng_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "17 Sep 2026, 09:00 PM",
+        "contractEndDate": "02 Oct 2026, 11:59 PM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024098/1789669587416908_AG26_boxing_dated_promo_Portrait_Thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024098/1789669712480908_AG26_boxing_dated_promo_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": null,
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024164/178975341756432_AG26_masthead_logo.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024098/1789669712480908_AG26_boxing_dated_promo_landscape_thumb.jpg"
       },
       "multiple_audio_links": []
     }
