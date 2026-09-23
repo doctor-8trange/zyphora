@@ -2,13 +2,13 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Sony Live Matches API",
-  "last_updated": "22-09-2026 19:00",
+  "last_updated": "23-09-2026 07:20",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
     "MULTI_CDN": "OFF",
     "Debugging": "OFF",
-    "SUB_TYPE": "PREMIUM",
+    "SUB_TYPE": "FREEMIUM",
     "RECIVER": "OFF",
     "REALTIME": "OFF",
     "REPLACEMENT": "OFF",
@@ -25,13 +25,13 @@
         "shortDescription": "Watch all the action from the 20th Asian Games Aichi-Nagoya 2026, LIVE on Sony LIV.",
         "longDescription": "Watch all the action from the 20th Asian Games Aichi-Nagoya 2026, LIVE on Sony LIV.",
         "genres": [
-          "Kabaddi"
+          "Sports"
         ],
-        "episodeTitle": "Day 4 - 22 Sep 2026"
+        "episodeTitle": "India vs Phillippines - Men's Team Regu - Sepaktakraw - 23 Sep 2026"
       },
       "stream_info": {
         "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": "https://dai.google.com/ssai/event/SXGI53qCTm6LYdjpY6aEAw/master.m3u8",
+        "dai_asset_key": "https://dai.google.com/ssai/event/HO3Ytbq9QKmX1Fj7BoBH4A/master.m3u8",
         "broadcast_channel": "Sony Sports Ten 5",
         "audio_language_list": [
           {
@@ -69,253 +69,91 @@
         }
       },
       "air_dates": {
-        "contractStartDate": "22 Sep 2026, 05:30 AM",
-        "contractEndDate": "22 Sep 2026, 11:30 PM",
-        "originalAirDate": "22 Sep 2026, 06:00 AM"
+        "contractStartDate": "23 Sep 2026, 04:55 AM",
+        "contractEndDate": "23 Sep 2026, 10:55 PM",
+        "originalAirDate": "23 Sep 2026, 05:25 AM"
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024234/1789851859644646_AG26_Stream1_generic_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024234/1789852034881646_AG26_Stream1_generic_landscape_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024498/1790104289001206_AG26_23Sep_Sepaktakraw_Mens_Regu_India_vs_Phillippines_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024498/1790104513620206_AG26_23Sep_Sepaktakraw_Mens_Regu_India_vs_Phillippines_live_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024211/1789819059991100_AG_generic_masthead_mobile_v2.jpg",
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024498/1790104675913206_AG26_23Sep_Sepaktakraw_Mens_Regu_India_vs_Phillippines_live_masthead_mobile_v2.jpg",
         "masthead_logo": null,
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024234/1789852034881646_AG26_Stream1_generic_landscape_thumb.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024498/1790104513620206_AG26_23Sep_Sepaktakraw_Mens_Regu_India_vs_Phillippines_live_landscape_thumb.jpg"
       },
-      "multiple_audio_links": [
-        {
-          "language": "English",
-          "lang_code": "ENG",
-          "data": {
-            "Device_Type": "SONY_PRO_MAX",
-            "message": "success",
-            "X-Served-By": "JARVIS",
-            "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2005445/AG_Strea2109/ENG/master.m3u8",
-            "WIDEVINE": null,
-            "STREAMING_TYPE": true,
-            "audioLanguages": [
-              {
-                "audioLanguageName": "ENG",
-                "audioLanguageLabel": "English"
-              },
-              {
-                "audioLanguageName": "TEL",
-                "audioLanguageLabel": "Telugu"
-              },
-              {
-                "audioLanguageName": "TAM",
-                "audioLanguageLabel": "Tamil"
-              },
-              {
-                "audioLanguageName": "KAN",
-                "audioLanguageLabel": "Kannada"
-              }
-            ],
-            "dai_asset_key": "unavailable",
-            "Maximum_Video_Quality": "SDR",
-            "Maximum_Resolution": "FULL_HD",
-            "trailer_url": "",
-            "systemTime": 1790079023658,
-            "additionalDataJson": {
-              "adServer": "GAM",
-              "ad_stack": "MT-SSB",
-              "audioCodec": "AAC",
-              "audio_quality": "STEREO",
-              "enc_format": "HLS",
-              "fps": 50,
-              "isDaiKey": false,
-              "partners": [
-                "ALL"
-              ],
-              "resolution": "FULL_HD",
-              "videoCodec": "H264",
-              "video_quality": "SDR"
-            },
-            "Status_code": 200,
-            "content_type": "application/json; charset=utf-8",
-            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005445/AG_Strea2109/ENG/hdntl=exp=1790165425~acl=%2f*~id=4972b8a1cb9a45f91f52742d0dfd34f2-1790075401409~data=hdntl,2005445,AG_Strea2109,ENG~hmac=6d761b72f283e9fb4dccf15dc830d4d0c4dfdfb828a07f92ed6941714e7b723d/master_200.m3u8?aka_me_session_id=AAAAAAAAAACxwbNqAAAAABpj5jnxoVU+y+xtqV+2O38LYU6tLheICNdcAwBfNDIaDXDHQkme2cUuGjHbikp%2f4wwoRPweULOM&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005445/AG_Strea2109/ENG/hdntl=exp=1790165425~acl=%2f*~id=4972b8a1cb9a45f91f52742d0dfd34f2-1790075401409~data=hdntl,2005445,AG_Strea2109,ENG~hmac=6d761b72f283e9fb4dccf15dc830d4d0c4dfdfb828a07f92ed6941714e7b723d/master_400.m3u8?aka_me_session_id=AAAAAAAAAACxwbNqAAAAABpj5jnxoVU+y+xtqV+2O38LYU6tLheICNdcAwBfNDIaDXDHQkme2cUuGjHbikp%2f4wwoRPweULOM&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005445/AG_Strea2109/ENG/hdntl=exp=1790165425~acl=%2f*~id=4972b8a1cb9a45f91f52742d0dfd34f2-1790075401409~data=hdntl,2005445,AG_Strea2109,ENG~hmac=6d761b72f283e9fb4dccf15dc830d4d0c4dfdfb828a07f92ed6941714e7b723d/master_500.m3u8?aka_me_session_id=AAAAAAAAAACxwbNqAAAAABpj5jnxoVU+y+xtqV+2O38LYU6tLheICNdcAwBfNDIaDXDHQkme2cUuGjHbikp%2f4wwoRPweULOM&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=837256,AVERAGE-BANDWIDTH=837256,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005445/AG_Strea2109/ENG/hdntl=exp=1790165425~acl=%2f*~id=4972b8a1cb9a45f91f52742d0dfd34f2-1790075401409~data=hdntl,2005445,AG_Strea2109,ENG~hmac=6d761b72f283e9fb4dccf15dc830d4d0c4dfdfb828a07f92ed6941714e7b723d/master_600.m3u8?aka_me_session_id=AAAAAAAAAACxwbNqAAAAABpj5jnxoVU+y+xtqV+2O38LYU6tLheICNdcAwBfNDIaDXDHQkme2cUuGjHbikp%2f4wwoRPweULOM&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005445/AG_Strea2109/ENG/hdntl=exp=1790165425~acl=%2f*~id=4972b8a1cb9a45f91f52742d0dfd34f2-1790075401409~data=hdntl,2005445,AG_Strea2109,ENG~hmac=6d761b72f283e9fb4dccf15dc830d4d0c4dfdfb828a07f92ed6941714e7b723d/master_1000.m3u8?aka_me_session_id=AAAAAAAAAACxwbNqAAAAABpj5jnxoVU+y+xtqV+2O38LYU6tLheICNdcAwBfNDIaDXDHQkme2cUuGjHbikp%2f4wwoRPweULOM&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005445/AG_Strea2109/ENG/hdntl=exp=1790165425~acl=%2f*~id=4972b8a1cb9a45f91f52742d0dfd34f2-1790075401409~data=hdntl,2005445,AG_Strea2109,ENG~hmac=6d761b72f283e9fb4dccf15dc830d4d0c4dfdfb828a07f92ed6941714e7b723d/master_1300.m3u8?aka_me_session_id=AAAAAAAAAACxwbNqAAAAABpj5jnxoVU+y+xtqV+2O38LYU6tLheICNdcAwBfNDIaDXDHQkme2cUuGjHbikp%2f4wwoRPweULOM&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005445/AG_Strea2109/ENG/hdntl=exp=1790165425~acl=%2f*~id=4972b8a1cb9a45f91f52742d0dfd34f2-1790075401409~data=hdntl,2005445,AG_Strea2109,ENG~hmac=6d761b72f283e9fb4dccf15dc830d4d0c4dfdfb828a07f92ed6941714e7b723d/master_2000.m3u8?aka_me_session_id=AAAAAAAAAACxwbNqAAAAABpj5jnxoVU+y+xtqV+2O38LYU6tLheICNdcAwBfNDIaDXDHQkme2cUuGjHbikp%2f4wwoRPweULOM&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005445/AG_Strea2109/ENG/hdntl=exp=1790165425~acl=%2f*~id=4972b8a1cb9a45f91f52742d0dfd34f2-1790075401409~data=hdntl,2005445,AG_Strea2109,ENG~hmac=6d761b72f283e9fb4dccf15dc830d4d0c4dfdfb828a07f92ed6941714e7b723d/master_2200.m3u8?aka_me_session_id=AAAAAAAAAACxwbNqAAAAABpj5jnxoVU+y+xtqV+2O38LYU6tLheICNdcAwBfNDIaDXDHQkme2cUuGjHbikp%2f4wwoRPweULOM&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4204904,AVERAGE-BANDWIDTH=4204904,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005445/AG_Strea2109/ENG/hdntl=exp=1790165425~acl=%2f*~id=4972b8a1cb9a45f91f52742d0dfd34f2-1790075401409~data=hdntl,2005445,AG_Strea2109,ENG~hmac=6d761b72f283e9fb4dccf15dc830d4d0c4dfdfb828a07f92ed6941714e7b723d/master_3800.m3u8?aka_me_session_id=AAAAAAAAAACxwbNqAAAAABpj5jnxoVU+y+xtqV+2O38LYU6tLheICNdcAwBfNDIaDXDHQkme2cUuGjHbikp%2f4wwoRPweULOM&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005445/AG_Strea2109/ENG/hdntl=exp=1790165425~acl=%2f*~id=4972b8a1cb9a45f91f52742d0dfd34f2-1790075401409~data=hdntl,2005445,AG_Strea2109,ENG~hmac=6d761b72f283e9fb4dccf15dc830d4d0c4dfdfb828a07f92ed6941714e7b723d/master_4500.m3u8?aka_me_session_id=AAAAAAAAAACxwbNqAAAAABpj5jnxoVU+y+xtqV+2O38LYU6tLheICNdcAwBfNDIaDXDHQkme2cUuGjHbikp%2f4wwoRPweULOM&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3387496,AVERAGE-BANDWIDTH=3387496,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005445/AG_Strea2109/ENG/hdntl=exp=1790165425~acl=%2f*~id=4972b8a1cb9a45f91f52742d0dfd34f2-1790075401409~data=hdntl,2005445,AG_Strea2109,ENG~hmac=6d761b72f283e9fb4dccf15dc830d4d0c4dfdfb828a07f92ed6941714e7b723d/master_3000.m3u8?aka_me_session_id=AAAAAAAAAACxwbNqAAAAABpj5jnxoVU+y+xtqV+2O38LYU6tLheICNdcAwBfNDIaDXDHQkme2cUuGjHbikp%2f4wwoRPweULOM&aka_media_format_type=hls",
-            "Date": "Tuesday 22nd of September 2026 05:40:25 PM"
-          }
-        },
-        {
-          "language": "Tamil",
-          "lang_code": "TAM",
-          "data": {
-            "Device_Type": "SONY_PRO_MAX",
-            "message": "success",
-            "X-Served-By": "JARVIS",
-            "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2005444/AG_Strea2109/TAM/master.m3u8",
-            "WIDEVINE": null,
-            "STREAMING_TYPE": true,
-            "audioLanguages": [
-              {
-                "audioLanguageName": "ENG",
-                "audioLanguageLabel": "English"
-              },
-              {
-                "audioLanguageName": "TEL",
-                "audioLanguageLabel": "Telugu"
-              },
-              {
-                "audioLanguageName": "TAM",
-                "audioLanguageLabel": "Tamil"
-              },
-              {
-                "audioLanguageName": "KAN",
-                "audioLanguageLabel": "Kannada"
-              }
-            ],
-            "dai_asset_key": "unavailable",
-            "Maximum_Video_Quality": "SDR",
-            "Maximum_Resolution": "FULL_HD",
-            "trailer_url": "",
-            "systemTime": 1790080218672,
-            "additionalDataJson": {
-              "adServer": "GAM",
-              "ad_stack": "MT-SSB",
-              "audioCodec": "AAC",
-              "audio_quality": "STEREO",
-              "enc_format": "HLS",
-              "fps": 50,
-              "isDaiKey": false,
-              "partners": [
-                "ALL"
-              ],
-              "resolution": "FULL_HD",
-              "videoCodec": "H264",
-              "video_quality": "SDR"
-            },
-            "Status_code": 200,
-            "content_type": "application/json; charset=utf-8",
-            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/AG_Strea2109/TAM/hdntl=exp=1790166620~acl=%2f*~id=4972b8a1cb9a45f91f52742d0dfd34f2-1790075401409~data=hdntl,2005444,AG_Strea2109,TAM~hmac=27240acd105b1943e5c70546acd92b0a84051cafa794461e25905305f883f338/master_200.m3u8?aka_me_session_id=AAAAAAAAAABcxrNqAAAAAG9uGsuxmqqYN2nPOJVZMyjhewv0CKd2jfKXb3Qlp+1TwCWZwA2FB3WMwXlJZXV28fB748m06NlG&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/AG_Strea2109/TAM/hdntl=exp=1790166620~acl=%2f*~id=4972b8a1cb9a45f91f52742d0dfd34f2-1790075401409~data=hdntl,2005444,AG_Strea2109,TAM~hmac=27240acd105b1943e5c70546acd92b0a84051cafa794461e25905305f883f338/master_400.m3u8?aka_me_session_id=AAAAAAAAAABcxrNqAAAAAG9uGsuxmqqYN2nPOJVZMyjhewv0CKd2jfKXb3Qlp+1TwCWZwA2FB3WMwXlJZXV28fB748m06NlG&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/AG_Strea2109/TAM/hdntl=exp=1790166620~acl=%2f*~id=4972b8a1cb9a45f91f52742d0dfd34f2-1790075401409~data=hdntl,2005444,AG_Strea2109,TAM~hmac=27240acd105b1943e5c70546acd92b0a84051cafa794461e25905305f883f338/master_500.m3u8?aka_me_session_id=AAAAAAAAAABcxrNqAAAAAG9uGsuxmqqYN2nPOJVZMyjhewv0CKd2jfKXb3Qlp+1TwCWZwA2FB3WMwXlJZXV28fB748m06NlG&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=935336,AVERAGE-BANDWIDTH=935336,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/AG_Strea2109/TAM/hdntl=exp=1790166620~acl=%2f*~id=4972b8a1cb9a45f91f52742d0dfd34f2-1790075401409~data=hdntl,2005444,AG_Strea2109,TAM~hmac=27240acd105b1943e5c70546acd92b0a84051cafa794461e25905305f883f338/master_600.m3u8?aka_me_session_id=AAAAAAAAAABcxrNqAAAAAG9uGsuxmqqYN2nPOJVZMyjhewv0CKd2jfKXb3Qlp+1TwCWZwA2FB3WMwXlJZXV28fB748m06NlG&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/AG_Strea2109/TAM/hdntl=exp=1790166620~acl=%2f*~id=4972b8a1cb9a45f91f52742d0dfd34f2-1790075401409~data=hdntl,2005444,AG_Strea2109,TAM~hmac=27240acd105b1943e5c70546acd92b0a84051cafa794461e25905305f883f338/master_1000.m3u8?aka_me_session_id=AAAAAAAAAABcxrNqAAAAAG9uGsuxmqqYN2nPOJVZMyjhewv0CKd2jfKXb3Qlp+1TwCWZwA2FB3WMwXlJZXV28fB748m06NlG&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/AG_Strea2109/TAM/hdntl=exp=1790166620~acl=%2f*~id=4972b8a1cb9a45f91f52742d0dfd34f2-1790075401409~data=hdntl,2005444,AG_Strea2109,TAM~hmac=27240acd105b1943e5c70546acd92b0a84051cafa794461e25905305f883f338/master_1300.m3u8?aka_me_session_id=AAAAAAAAAABcxrNqAAAAAG9uGsuxmqqYN2nPOJVZMyjhewv0CKd2jfKXb3Qlp+1TwCWZwA2FB3WMwXlJZXV28fB748m06NlG&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/AG_Strea2109/TAM/hdntl=exp=1790166620~acl=%2f*~id=4972b8a1cb9a45f91f52742d0dfd34f2-1790075401409~data=hdntl,2005444,AG_Strea2109,TAM~hmac=27240acd105b1943e5c70546acd92b0a84051cafa794461e25905305f883f338/master_2000.m3u8?aka_me_session_id=AAAAAAAAAABcxrNqAAAAAG9uGsuxmqqYN2nPOJVZMyjhewv0CKd2jfKXb3Qlp+1TwCWZwA2FB3WMwXlJZXV28fB748m06NlG&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/AG_Strea2109/TAM/hdntl=exp=1790166620~acl=%2f*~id=4972b8a1cb9a45f91f52742d0dfd34f2-1790075401409~data=hdntl,2005444,AG_Strea2109,TAM~hmac=27240acd105b1943e5c70546acd92b0a84051cafa794461e25905305f883f338/master_2200.m3u8?aka_me_session_id=AAAAAAAAAABcxrNqAAAAAG9uGsuxmqqYN2nPOJVZMyjhewv0CKd2jfKXb3Qlp+1TwCWZwA2FB3WMwXlJZXV28fB748m06NlG&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4204904,AVERAGE-BANDWIDTH=4204904,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/AG_Strea2109/TAM/hdntl=exp=1790166620~acl=%2f*~id=4972b8a1cb9a45f91f52742d0dfd34f2-1790075401409~data=hdntl,2005444,AG_Strea2109,TAM~hmac=27240acd105b1943e5c70546acd92b0a84051cafa794461e25905305f883f338/master_3800.m3u8?aka_me_session_id=AAAAAAAAAABcxrNqAAAAAG9uGsuxmqqYN2nPOJVZMyjhewv0CKd2jfKXb3Qlp+1TwCWZwA2FB3WMwXlJZXV28fB748m06NlG&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/AG_Strea2109/TAM/hdntl=exp=1790166620~acl=%2f*~id=4972b8a1cb9a45f91f52742d0dfd34f2-1790075401409~data=hdntl,2005444,AG_Strea2109,TAM~hmac=27240acd105b1943e5c70546acd92b0a84051cafa794461e25905305f883f338/master_4500.m3u8?aka_me_session_id=AAAAAAAAAABcxrNqAAAAAG9uGsuxmqqYN2nPOJVZMyjhewv0CKd2jfKXb3Qlp+1TwCWZwA2FB3WMwXlJZXV28fB748m06NlG&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3387496,AVERAGE-BANDWIDTH=3387496,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2005444/AG_Strea2109/TAM/hdntl=exp=1790166620~acl=%2f*~id=4972b8a1cb9a45f91f52742d0dfd34f2-1790075401409~data=hdntl,2005444,AG_Strea2109,TAM~hmac=27240acd105b1943e5c70546acd92b0a84051cafa794461e25905305f883f338/master_3000.m3u8?aka_me_session_id=AAAAAAAAAABcxrNqAAAAAG9uGsuxmqqYN2nPOJVZMyjhewv0CKd2jfKXb3Qlp+1TwCWZwA2FB3WMwXlJZXV28fB748m06NlG&aka_media_format_type=hls",
-            "Date": "Tuesday 22nd of September 2026 06:00:20 PM"
-          }
-        },
-        {
-          "language": "Telugu",
-          "lang_code": "TEL",
-          "data": {
-            "Device_Type": "SONY_PRO_MAX",
-            "message": "success",
-            "X-Served-By": "JARVIS",
-            "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2120307/AG_Strea2109/TEL/master.m3u8",
-            "WIDEVINE": null,
-            "STREAMING_TYPE": true,
-            "audioLanguages": [
-              {
-                "audioLanguageName": "ENG",
-                "audioLanguageLabel": "English"
-              },
-              {
-                "audioLanguageName": "TEL",
-                "audioLanguageLabel": "Telugu"
-              },
-              {
-                "audioLanguageName": "TAM",
-                "audioLanguageLabel": "Tamil"
-              },
-              {
-                "audioLanguageName": "KAN",
-                "audioLanguageLabel": "Kannada"
-              }
-            ],
-            "dai_asset_key": "unavailable",
-            "Maximum_Video_Quality": "SDR",
-            "Maximum_Resolution": "FULL_HD",
-            "trailer_url": "",
-            "systemTime": 1790080222728,
-            "additionalDataJson": {
-              "adServer": "GAM",
-              "ad_stack": "MT-SSB",
-              "audioCodec": "AAC",
-              "audio_quality": "STEREO",
-              "enc_format": "HLS",
-              "fps": 50,
-              "isDaiKey": false,
-              "partners": [
-                "ALL"
-              ],
-              "resolution": "FULL_HD",
-              "videoCodec": "H264",
-              "video_quality": "SDR"
-            },
-            "Status_code": 200,
-            "content_type": "application/json; charset=utf-8",
-            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120307/AG_Strea2109/TEL/hdntl=exp=1790166625~acl=%2f*~id=4972b8a1cb9a45f91f52742d0dfd34f2-1790075401409~data=hdntl,2120307,AG_Strea2109,TEL~hmac=52bbcdf998961e0348f9d13ca6d345de9ecfcb9d662dcf47e6180cf878cfc7be/master_200.m3u8?aka_me_session_id=AAAAAAAAAABhxrNqAAAAAM7vswAweJL5zcb4yJ%2f+DEm+obPr8+ltJS8xumfhtf9jnLNxH1KGxFEND1b43YodQZ1j6jHjCDva&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120307/AG_Strea2109/TEL/hdntl=exp=1790166625~acl=%2f*~id=4972b8a1cb9a45f91f52742d0dfd34f2-1790075401409~data=hdntl,2120307,AG_Strea2109,TEL~hmac=52bbcdf998961e0348f9d13ca6d345de9ecfcb9d662dcf47e6180cf878cfc7be/master_400.m3u8?aka_me_session_id=AAAAAAAAAABhxrNqAAAAAM7vswAweJL5zcb4yJ%2f+DEm+obPr8+ltJS8xumfhtf9jnLNxH1KGxFEND1b43YodQZ1j6jHjCDva&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120307/AG_Strea2109/TEL/hdntl=exp=1790166625~acl=%2f*~id=4972b8a1cb9a45f91f52742d0dfd34f2-1790075401409~data=hdntl,2120307,AG_Strea2109,TEL~hmac=52bbcdf998961e0348f9d13ca6d345de9ecfcb9d662dcf47e6180cf878cfc7be/master_500.m3u8?aka_me_session_id=AAAAAAAAAABhxrNqAAAAAM7vswAweJL5zcb4yJ%2f+DEm+obPr8+ltJS8xumfhtf9jnLNxH1KGxFEND1b43YodQZ1j6jHjCDva&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=935336,AVERAGE-BANDWIDTH=935336,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120307/AG_Strea2109/TEL/hdntl=exp=1790166625~acl=%2f*~id=4972b8a1cb9a45f91f52742d0dfd34f2-1790075401409~data=hdntl,2120307,AG_Strea2109,TEL~hmac=52bbcdf998961e0348f9d13ca6d345de9ecfcb9d662dcf47e6180cf878cfc7be/master_600.m3u8?aka_me_session_id=AAAAAAAAAABhxrNqAAAAAM7vswAweJL5zcb4yJ%2f+DEm+obPr8+ltJS8xumfhtf9jnLNxH1KGxFEND1b43YodQZ1j6jHjCDva&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120307/AG_Strea2109/TEL/hdntl=exp=1790166625~acl=%2f*~id=4972b8a1cb9a45f91f52742d0dfd34f2-1790075401409~data=hdntl,2120307,AG_Strea2109,TEL~hmac=52bbcdf998961e0348f9d13ca6d345de9ecfcb9d662dcf47e6180cf878cfc7be/master_1000.m3u8?aka_me_session_id=AAAAAAAAAABhxrNqAAAAAM7vswAweJL5zcb4yJ%2f+DEm+obPr8+ltJS8xumfhtf9jnLNxH1KGxFEND1b43YodQZ1j6jHjCDva&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120307/AG_Strea2109/TEL/hdntl=exp=1790166625~acl=%2f*~id=4972b8a1cb9a45f91f52742d0dfd34f2-1790075401409~data=hdntl,2120307,AG_Strea2109,TEL~hmac=52bbcdf998961e0348f9d13ca6d345de9ecfcb9d662dcf47e6180cf878cfc7be/master_1300.m3u8?aka_me_session_id=AAAAAAAAAABhxrNqAAAAAM7vswAweJL5zcb4yJ%2f+DEm+obPr8+ltJS8xumfhtf9jnLNxH1KGxFEND1b43YodQZ1j6jHjCDva&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120307/AG_Strea2109/TEL/hdntl=exp=1790166625~acl=%2f*~id=4972b8a1cb9a45f91f52742d0dfd34f2-1790075401409~data=hdntl,2120307,AG_Strea2109,TEL~hmac=52bbcdf998961e0348f9d13ca6d345de9ecfcb9d662dcf47e6180cf878cfc7be/master_2000.m3u8?aka_me_session_id=AAAAAAAAAABhxrNqAAAAAM7vswAweJL5zcb4yJ%2f+DEm+obPr8+ltJS8xumfhtf9jnLNxH1KGxFEND1b43YodQZ1j6jHjCDva&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120307/AG_Strea2109/TEL/hdntl=exp=1790166625~acl=%2f*~id=4972b8a1cb9a45f91f52742d0dfd34f2-1790075401409~data=hdntl,2120307,AG_Strea2109,TEL~hmac=52bbcdf998961e0348f9d13ca6d345de9ecfcb9d662dcf47e6180cf878cfc7be/master_2200.m3u8?aka_me_session_id=AAAAAAAAAABhxrNqAAAAAM7vswAweJL5zcb4yJ%2f+DEm+obPr8+ltJS8xumfhtf9jnLNxH1KGxFEND1b43YodQZ1j6jHjCDva&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4204904,AVERAGE-BANDWIDTH=4204904,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120307/AG_Strea2109/TEL/hdntl=exp=1790166625~acl=%2f*~id=4972b8a1cb9a45f91f52742d0dfd34f2-1790075401409~data=hdntl,2120307,AG_Strea2109,TEL~hmac=52bbcdf998961e0348f9d13ca6d345de9ecfcb9d662dcf47e6180cf878cfc7be/master_3800.m3u8?aka_me_session_id=AAAAAAAAAABhxrNqAAAAAM7vswAweJL5zcb4yJ%2f+DEm+obPr8+ltJS8xumfhtf9jnLNxH1KGxFEND1b43YodQZ1j6jHjCDva&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120307/AG_Strea2109/TEL/hdntl=exp=1790166625~acl=%2f*~id=4972b8a1cb9a45f91f52742d0dfd34f2-1790075401409~data=hdntl,2120307,AG_Strea2109,TEL~hmac=52bbcdf998961e0348f9d13ca6d345de9ecfcb9d662dcf47e6180cf878cfc7be/master_4500.m3u8?aka_me_session_id=AAAAAAAAAABhxrNqAAAAAM7vswAweJL5zcb4yJ%2f+DEm+obPr8+ltJS8xumfhtf9jnLNxH1KGxFEND1b43YodQZ1j6jHjCDva&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3387496,AVERAGE-BANDWIDTH=3387496,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120307/AG_Strea2109/TEL/hdntl=exp=1790166625~acl=%2f*~id=4972b8a1cb9a45f91f52742d0dfd34f2-1790075401409~data=hdntl,2120307,AG_Strea2109,TEL~hmac=52bbcdf998961e0348f9d13ca6d345de9ecfcb9d662dcf47e6180cf878cfc7be/master_3000.m3u8?aka_me_session_id=AAAAAAAAAABhxrNqAAAAAM7vswAweJL5zcb4yJ%2f+DEm+obPr8+ltJS8xumfhtf9jnLNxH1KGxFEND1b43YodQZ1j6jHjCDva&aka_media_format_type=hls",
-            "Date": "Tuesday 22nd of September 2026 06:00:26 PM"
-          }
-        },
-        {
-          "language": "Kannada",
-          "lang_code": "KAN",
-          "data": {
-            "Device_Type": "SONY_PRO_MAX",
-            "message": "success",
-            "X-Served-By": "JARVIS",
-            "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2094588/AG_Strea2109/KAN/master.m3u8",
-            "WIDEVINE": null,
-            "STREAMING_TYPE": true,
-            "audioLanguages": [
-              {
-                "audioLanguageName": "ENG",
-                "audioLanguageLabel": "English"
-              },
-              {
-                "audioLanguageName": "TEL",
-                "audioLanguageLabel": "Telugu"
-              },
-              {
-                "audioLanguageName": "TAM",
-                "audioLanguageLabel": "Tamil"
-              },
-              {
-                "audioLanguageName": "KAN",
-                "audioLanguageLabel": "Kannada"
-              }
-            ],
-            "dai_asset_key": "unavailable",
-            "Maximum_Video_Quality": "SDR",
-            "Maximum_Resolution": "FULL_HD",
-            "trailer_url": "",
-            "systemTime": 1790080227597,
-            "additionalDataJson": {
-              "adServer": "GAM",
-              "ad_stack": "MT-SSB",
-              "audioCodec": "AAC",
-              "audio_quality": "STEREO",
-              "enc_format": "HLS",
-              "fps": 50,
-              "isDaiKey": false,
-              "partners": [
-                "ALL"
-              ],
-              "resolution": "FULL_HD",
-              "videoCodec": "H264",
-              "video_quality": "SDR"
-            },
-            "Status_code": 200,
-            "content_type": "application/json; charset=utf-8",
-            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094588/AG_Strea2109/KAN/hdntl=exp=1790166629~acl=%2f*~id=4972b8a1cb9a45f91f52742d0dfd34f2-1790075401409~data=hdntl,2094588,AG_Strea2109,KAN~hmac=1d48d16f7cd184eff7349c6f63b24eb01e31b4b0533b35b36a6eb38f88ecaefb/master_200.m3u8?aka_me_session_id=AAAAAAAAAABlxrNqAAAAAPh7etwTHe7PIwuAKhhxF1xWPBW1cUzryMfutFB+mhqTKHaa0Vqd1dnVB2VFe7ssjLmboWJEbwWb&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094588/AG_Strea2109/KAN/hdntl=exp=1790166629~acl=%2f*~id=4972b8a1cb9a45f91f52742d0dfd34f2-1790075401409~data=hdntl,2094588,AG_Strea2109,KAN~hmac=1d48d16f7cd184eff7349c6f63b24eb01e31b4b0533b35b36a6eb38f88ecaefb/master_400.m3u8?aka_me_session_id=AAAAAAAAAABlxrNqAAAAAPh7etwTHe7PIwuAKhhxF1xWPBW1cUzryMfutFB+mhqTKHaa0Vqd1dnVB2VFe7ssjLmboWJEbwWb&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094588/AG_Strea2109/KAN/hdntl=exp=1790166629~acl=%2f*~id=4972b8a1cb9a45f91f52742d0dfd34f2-1790075401409~data=hdntl,2094588,AG_Strea2109,KAN~hmac=1d48d16f7cd184eff7349c6f63b24eb01e31b4b0533b35b36a6eb38f88ecaefb/master_500.m3u8?aka_me_session_id=AAAAAAAAAABlxrNqAAAAAPh7etwTHe7PIwuAKhhxF1xWPBW1cUzryMfutFB+mhqTKHaa0Vqd1dnVB2VFe7ssjLmboWJEbwWb&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=837256,AVERAGE-BANDWIDTH=837256,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094588/AG_Strea2109/KAN/hdntl=exp=1790166629~acl=%2f*~id=4972b8a1cb9a45f91f52742d0dfd34f2-1790075401409~data=hdntl,2094588,AG_Strea2109,KAN~hmac=1d48d16f7cd184eff7349c6f63b24eb01e31b4b0533b35b36a6eb38f88ecaefb/master_600.m3u8?aka_me_session_id=AAAAAAAAAABlxrNqAAAAAPh7etwTHe7PIwuAKhhxF1xWPBW1cUzryMfutFB+mhqTKHaa0Vqd1dnVB2VFe7ssjLmboWJEbwWb&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094588/AG_Strea2109/KAN/hdntl=exp=1790166629~acl=%2f*~id=4972b8a1cb9a45f91f52742d0dfd34f2-1790075401409~data=hdntl,2094588,AG_Strea2109,KAN~hmac=1d48d16f7cd184eff7349c6f63b24eb01e31b4b0533b35b36a6eb38f88ecaefb/master_1000.m3u8?aka_me_session_id=AAAAAAAAAABlxrNqAAAAAPh7etwTHe7PIwuAKhhxF1xWPBW1cUzryMfutFB+mhqTKHaa0Vqd1dnVB2VFe7ssjLmboWJEbwWb&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094588/AG_Strea2109/KAN/hdntl=exp=1790166629~acl=%2f*~id=4972b8a1cb9a45f91f52742d0dfd34f2-1790075401409~data=hdntl,2094588,AG_Strea2109,KAN~hmac=1d48d16f7cd184eff7349c6f63b24eb01e31b4b0533b35b36a6eb38f88ecaefb/master_1300.m3u8?aka_me_session_id=AAAAAAAAAABlxrNqAAAAAPh7etwTHe7PIwuAKhhxF1xWPBW1cUzryMfutFB+mhqTKHaa0Vqd1dnVB2VFe7ssjLmboWJEbwWb&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094588/AG_Strea2109/KAN/hdntl=exp=1790166629~acl=%2f*~id=4972b8a1cb9a45f91f52742d0dfd34f2-1790075401409~data=hdntl,2094588,AG_Strea2109,KAN~hmac=1d48d16f7cd184eff7349c6f63b24eb01e31b4b0533b35b36a6eb38f88ecaefb/master_2000.m3u8?aka_me_session_id=AAAAAAAAAABlxrNqAAAAAPh7etwTHe7PIwuAKhhxF1xWPBW1cUzryMfutFB+mhqTKHaa0Vqd1dnVB2VFe7ssjLmboWJEbwWb&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094588/AG_Strea2109/KAN/hdntl=exp=1790166629~acl=%2f*~id=4972b8a1cb9a45f91f52742d0dfd34f2-1790075401409~data=hdntl,2094588,AG_Strea2109,KAN~hmac=1d48d16f7cd184eff7349c6f63b24eb01e31b4b0533b35b36a6eb38f88ecaefb/master_2200.m3u8?aka_me_session_id=AAAAAAAAAABlxrNqAAAAAPh7etwTHe7PIwuAKhhxF1xWPBW1cUzryMfutFB+mhqTKHaa0Vqd1dnVB2VFe7ssjLmboWJEbwWb&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4204904,AVERAGE-BANDWIDTH=4204904,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094588/AG_Strea2109/KAN/hdntl=exp=1790166629~acl=%2f*~id=4972b8a1cb9a45f91f52742d0dfd34f2-1790075401409~data=hdntl,2094588,AG_Strea2109,KAN~hmac=1d48d16f7cd184eff7349c6f63b24eb01e31b4b0533b35b36a6eb38f88ecaefb/master_3800.m3u8?aka_me_session_id=AAAAAAAAAABlxrNqAAAAAPh7etwTHe7PIwuAKhhxF1xWPBW1cUzryMfutFB+mhqTKHaa0Vqd1dnVB2VFe7ssjLmboWJEbwWb&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094588/AG_Strea2109/KAN/hdntl=exp=1790166629~acl=%2f*~id=4972b8a1cb9a45f91f52742d0dfd34f2-1790075401409~data=hdntl,2094588,AG_Strea2109,KAN~hmac=1d48d16f7cd184eff7349c6f63b24eb01e31b4b0533b35b36a6eb38f88ecaefb/master_4500.m3u8?aka_me_session_id=AAAAAAAAAABlxrNqAAAAAPh7etwTHe7PIwuAKhhxF1xWPBW1cUzryMfutFB+mhqTKHaa0Vqd1dnVB2VFe7ssjLmboWJEbwWb&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3387496,AVERAGE-BANDWIDTH=3387496,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094588/AG_Strea2109/KAN/hdntl=exp=1790166629~acl=%2f*~id=4972b8a1cb9a45f91f52742d0dfd34f2-1790075401409~data=hdntl,2094588,AG_Strea2109,KAN~hmac=1d48d16f7cd184eff7349c6f63b24eb01e31b4b0533b35b36a6eb38f88ecaefb/master_3000.m3u8?aka_me_session_id=AAAAAAAAAABlxrNqAAAAAPh7etwTHe7PIwuAKhhxF1xWPBW1cUzryMfutFB+mhqTKHaa0Vqd1dnVB2VFe7ssjLmboWJEbwWb&aka_media_format_type=hls",
-            "Date": "Tuesday 22nd of September 2026 06:00:30 PM"
-          }
-        }
-      ]
+      "MULTIPLE_AUDIO_LINKS": []
     },
     {
-      "contentId": 1090543392,
+      "contentId": 1090541385,
       "video_info": {
-        "title": "Sri Lanka Tour of England 2026",
-        "shortDescription": "England will look to begin the ODI series on a strong note in the 1st ODI against Sri Lanka. With a fresh challenge ahead, they will aim to take control early and put together a commanding performance. Watch all the action LIVE, only on Sony LIV.",
-        "longDescription": "England will look to begin the ODI series on a strong note in the 1st ODI against Sri Lanka. With a fresh challenge ahead, they will aim to take control early and put together a commanding performance. Watch all the action LIVE, only on Sony LIV.",
+        "title": "20th Asian Games Aichi-Nagoya 2026",
+        "shortDescription": "Watch all the exclusive action from the 20th Asian Games Aichi-Nagoya 2026, LIVE on Sony LIV.",
+        "longDescription": "Watch all the exclusive action from the 20th Asian Games Aichi-Nagoya 2026, LIVE on Sony LIV.",
         "genres": [
-          "Cricket"
+          "Sports"
         ],
-        "episodeTitle": "1st ODI - 22 Sep 2026"
+        "episodeTitle": "India vs Phillippines - Men's Team Regu - Sepaktakraw - 23 Sep 2026 (Hindi)"
       },
       "stream_info": {
         "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": "https://dai.google.com/ssai/event/mcRw3aKwRNOCgMah1cjM1w/master.m3u8",
+        "dai_asset_key": "https://dai.google.com/ssai/event/e61Mck-wSqyKTkxN6ln8dA/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          }
+        ],
+        "emfAttributes__audio_languages": "HIN",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "HIN",
+              "isPreferred": true,
+              "audioLanguageLabel": "Hindi"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "23 Sep 2026, 04:55 AM",
+        "contractEndDate": "23 Sep 2026, 10:55 PM",
+        "originalAirDate": "23 Sep 2026, 05:25 AM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024498/1790104314241206_AG26_23Sep_Sepaktakraw_Mens_Regu_India_vs_Phillippines_live_portrait_thumb_hindi.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024498/1790104535211206_AG26_23Sep_Sepaktakraw_Mens_Regu_India_vs_Phillippines_live_landscape_thumb_hindi.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024498/1790104675913206_AG26_23Sep_Sepaktakraw_Mens_Regu_India_vs_Phillippines_live_masthead_mobile_v2.jpg",
+        "masthead_logo": null,
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024498/1790104535211206_AG26_23Sep_Sepaktakraw_Mens_Regu_India_vs_Phillippines_live_landscape_thumb_hindi.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": []
+    },
+    {
+      "contentId": 1090541386,
+      "video_info": {
+        "title": "20th Asian Games Aichi-Nagoya 2026",
+        "shortDescription": "Watch all the action from the 20th Asian Games Aichi-Nagoya 2026, LIVE on Sony LIV.",
+        "longDescription": "Watch all the action from the 20th Asian Games Aichi-Nagoya 2026, LIVE on Sony LIV.",
+        "genres": [
+          "Table Tennis"
+        ],
+        "episodeTitle": "Men's, Women's & Mixed Team Semifinals - Table Tennis - 23 Sep 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/uAq6DxJrSHWYY9RB_OaOUw/master.m3u8",
         "broadcast_channel": "Sony Sports Ten 5",
         "audio_language_list": [
           {
@@ -341,64 +179,626 @@
         }
       },
       "air_dates": {
-        "contractStartDate": "22 Sep 2026, 04:30 PM",
-        "contractEndDate": "23 Sep 2026, 05:30 AM",
-        "originalAirDate": "22 Sep 2026, 05:00 PM"
+        "contractStartDate": "23 Sep 2026, 05:55 AM",
+        "contractEndDate": "23 Sep 2026, 11:55 PM",
+        "originalAirDate": "23 Sep 2026, 06:25 AM"
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024408/1790022398960512_ENGvsSL26_1odi_live_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024408/1790022758022512_ENGvsSL26_1odi_landscape_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789300813428741_AG26_Table_Tennis_pictogram_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789300835115741_AG26_Table_Tennis_pictogram_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024467/179007420607790_ENGvsSL26_odi_masthead_mobile_v2.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024372/1789994187081444_ENG_VS_-SL-2026_Match_Masthead_logo-LIVE.png",
+        "masthead_mobile_v2": null,
+        "masthead_logo": null,
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024408/1790022758022512_ENGvsSL26_1odi_landscape_thumb.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789300835115741_AG26_Table_Tennis_pictogram_landscape_thumb.jpg"
       },
-      "multiple_audio_links": [
-        {
-          "language": "English",
-          "lang_code": "ENG",
-          "data": {
-            "Device_Type": "SONY_PRO_MAX",
-            "message": "success",
-            "X-Served-By": "JARVIS",
-            "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2120299/criclive2209/ENG/master.m3u8",
-            "WIDEVINE": null,
-            "STREAMING_TYPE": true,
-            "audioLanguages": [
-              {
-                "audioLanguageName": "ENG",
-                "audioLanguageLabel": "English"
-              }
-            ],
-            "dai_asset_key": "unavailable",
-            "Maximum_Video_Quality": "SDR",
-            "Maximum_Resolution": "FULL_HD",
-            "trailer_url": "",
-            "systemTime": 1790075422942,
-            "additionalDataJson": {
-              "adServer": "GAM",
-              "ad_stack": "MT-SSB",
-              "audioCodec": "AAC",
-              "audio_quality": "STEREO",
-              "enc_format": "HLS",
-              "fps": 50,
-              "isDaiKey": false,
-              "partners": [
-                "ALL"
-              ],
-              "resolution": "FULL_HD",
-              "videoCodec": "H264",
-              "video_quality": "SDR"
-            },
-            "Status_code": 200,
-            "content_type": "application/json; charset=utf-8",
-            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=428552,AVERAGE-BANDWIDTH=428552,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120299/criclive2209/ENG/hdntl=exp=1790161828~acl=%2f*~id=4972b8a1cb9a45f91f52742d0dfd34f2-1790075401409~data=hdntl,2120299,criclive2209,ENG~hmac=fc6664a2a225ddd445d3b849b5b0c980754b287ba6348dada1e66dd5cbee2dee/master_200.m3u8?aka_me_session_id=AAAAAAAAAACks7NqAAAAAJyJ2r70HP0YXkZeqB74q7D14z3qYPXSP%2flXkkCIdrHB8moKk3y%2fOi5G1UB56tLRYZj591EY1a5%2f&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=632904,AVERAGE-BANDWIDTH=632904,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120299/criclive2209/ENG/hdntl=exp=1790161828~acl=%2f*~id=4972b8a1cb9a45f91f52742d0dfd34f2-1790075401409~data=hdntl,2120299,criclive2209,ENG~hmac=fc6664a2a225ddd445d3b849b5b0c980754b287ba6348dada1e66dd5cbee2dee/master_400.m3u8?aka_me_session_id=AAAAAAAAAACks7NqAAAAAJyJ2r70HP0YXkZeqB74q7D14z3qYPXSP%2flXkkCIdrHB8moKk3y%2fOi5G1UB56tLRYZj591EY1a5%2f&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120299/criclive2209/ENG/hdntl=exp=1790161828~acl=%2f*~id=4972b8a1cb9a45f91f52742d0dfd34f2-1790075401409~data=hdntl,2120299,criclive2209,ENG~hmac=fc6664a2a225ddd445d3b849b5b0c980754b287ba6348dada1e66dd5cbee2dee/master_500.m3u8?aka_me_session_id=AAAAAAAAAACks7NqAAAAAJyJ2r70HP0YXkZeqB74q7D14z3qYPXSP%2flXkkCIdrHB8moKk3y%2fOi5G1UB56tLRYZj591EY1a5%2f&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=837256,AVERAGE-BANDWIDTH=837256,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120299/criclive2209/ENG/hdntl=exp=1790161828~acl=%2f*~id=4972b8a1cb9a45f91f52742d0dfd34f2-1790075401409~data=hdntl,2120299,criclive2209,ENG~hmac=fc6664a2a225ddd445d3b849b5b0c980754b287ba6348dada1e66dd5cbee2dee/master_600.m3u8?aka_me_session_id=AAAAAAAAAACks7NqAAAAAJyJ2r70HP0YXkZeqB74q7D14z3qYPXSP%2flXkkCIdrHB8moKk3y%2fOi5G1UB56tLRYZj591EY1a5%2f&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120299/criclive2209/ENG/hdntl=exp=1790161828~acl=%2f*~id=4972b8a1cb9a45f91f52742d0dfd34f2-1790075401409~data=hdntl,2120299,criclive2209,ENG~hmac=fc6664a2a225ddd445d3b849b5b0c980754b287ba6348dada1e66dd5cbee2dee/master_1000.m3u8?aka_me_session_id=AAAAAAAAAACks7NqAAAAAJyJ2r70HP0YXkZeqB74q7D14z3qYPXSP%2flXkkCIdrHB8moKk3y%2fOi5G1UB56tLRYZj591EY1a5%2f&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1552456,AVERAGE-BANDWIDTH=1552456,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120299/criclive2209/ENG/hdntl=exp=1790161828~acl=%2f*~id=4972b8a1cb9a45f91f52742d0dfd34f2-1790075401409~data=hdntl,2120299,criclive2209,ENG~hmac=fc6664a2a225ddd445d3b849b5b0c980754b287ba6348dada1e66dd5cbee2dee/master_1300.m3u8?aka_me_session_id=AAAAAAAAAACks7NqAAAAAJyJ2r70HP0YXkZeqB74q7D14z3qYPXSP%2flXkkCIdrHB8moKk3y%2fOi5G1UB56tLRYZj591EY1a5%2f&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120299/criclive2209/ENG/hdntl=exp=1790161828~acl=%2f*~id=4972b8a1cb9a45f91f52742d0dfd34f2-1790075401409~data=hdntl,2120299,criclive2209,ENG~hmac=fc6664a2a225ddd445d3b849b5b0c980754b287ba6348dada1e66dd5cbee2dee/master_2000.m3u8?aka_me_session_id=AAAAAAAAAACks7NqAAAAAJyJ2r70HP0YXkZeqB74q7D14z3qYPXSP%2flXkkCIdrHB8moKk3y%2fOi5G1UB56tLRYZj591EY1a5%2f&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120299/criclive2209/ENG/hdntl=exp=1790161828~acl=%2f*~id=4972b8a1cb9a45f91f52742d0dfd34f2-1790075401409~data=hdntl,2120299,criclive2209,ENG~hmac=fc6664a2a225ddd445d3b849b5b0c980754b287ba6348dada1e66dd5cbee2dee/master_2200.m3u8?aka_me_session_id=AAAAAAAAAACks7NqAAAAAJyJ2r70HP0YXkZeqB74q7D14z3qYPXSP%2flXkkCIdrHB8moKk3y%2fOi5G1UB56tLRYZj591EY1a5%2f&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4204904,AVERAGE-BANDWIDTH=4204904,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120299/criclive2209/ENG/hdntl=exp=1790161828~acl=%2f*~id=4972b8a1cb9a45f91f52742d0dfd34f2-1790075401409~data=hdntl,2120299,criclive2209,ENG~hmac=fc6664a2a225ddd445d3b849b5b0c980754b287ba6348dada1e66dd5cbee2dee/master_3800.m3u8?aka_me_session_id=AAAAAAAAAACks7NqAAAAAJyJ2r70HP0YXkZeqB74q7D14z3qYPXSP%2flXkkCIdrHB8moKk3y%2fOi5G1UB56tLRYZj591EY1a5%2f&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120299/criclive2209/ENG/hdntl=exp=1790161828~acl=%2f*~id=4972b8a1cb9a45f91f52742d0dfd34f2-1790075401409~data=hdntl,2120299,criclive2209,ENG~hmac=fc6664a2a225ddd445d3b849b5b0c980754b287ba6348dada1e66dd5cbee2dee/master_4500.m3u8?aka_me_session_id=AAAAAAAAAACks7NqAAAAAJyJ2r70HP0YXkZeqB74q7D14z3qYPXSP%2flXkkCIdrHB8moKk3y%2fOi5G1UB56tLRYZj591EY1a5%2f&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3387496,AVERAGE-BANDWIDTH=3387496,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2120299/criclive2209/ENG/hdntl=exp=1790161828~acl=%2f*~id=4972b8a1cb9a45f91f52742d0dfd34f2-1790075401409~data=hdntl,2120299,criclive2209,ENG~hmac=fc6664a2a225ddd445d3b849b5b0c980754b287ba6348dada1e66dd5cbee2dee/master_3000.m3u8?aka_me_session_id=AAAAAAAAAACks7NqAAAAAJyJ2r70HP0YXkZeqB74q7D14z3qYPXSP%2flXkkCIdrHB8moKk3y%2fOi5G1UB56tLRYZj591EY1a5%2f&aka_media_format_type=hls",
-            "Date": "Tuesday 22nd of September 2026 04:40:28 PM"
+      "MULTIPLE_AUDIO_LINKS": []
+    },
+    {
+      "contentId": 1090541377,
+      "video_info": {
+        "title": "20th Asian Games Aichi-Nagoya 2026",
+        "shortDescription": "Watch all the action from the 20th Asian Games Aichi-Nagoya 2026, LIVE on Sony LIV.",
+        "longDescription": "Watch all the action from the 20th Asian Games Aichi-Nagoya 2026, LIVE on Sony LIV.",
+        "genres": [
+          "Swimming"
+        ],
+        "episodeTitle": "Swimming - 23 Sep 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/x0nJ0EK_TfWG4Rr87u7eiw/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
           }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
         }
-      ]
+      },
+      "air_dates": {
+        "contractStartDate": "23 Sep 2026, 05:55 AM",
+        "contractEndDate": "23 Sep 2026, 11:55 PM",
+        "originalAirDate": "23 Sep 2026, 06:25 AM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789284169869741_AG26_Swimming_pictogram_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789285629023741_AG26_Swimming_pictogram_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": null,
+        "masthead_logo": null,
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789285629023741_AG26_Swimming_pictogram_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": []
+    },
+    {
+      "contentId": 1090541853,
+      "video_info": {
+        "title": "20th Asian Games Aichi-Nagoya 2026",
+        "shortDescription": "Watch all the action from the 20th Asian Games Aichi-Nagoya 2026, LIVE on Sony LIV.",
+        "longDescription": "Watch all the action from the 20th Asian Games Aichi-Nagoya 2026, LIVE on Sony LIV.",
+        "genres": [
+          "Weightlifting"
+        ],
+        "episodeTitle": "Women's Final - Weightlifting - 23 Sep 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/xTyrNh5rRnySHACfgNBXrw/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "23 Sep 2026, 05:55 AM",
+        "contractEndDate": "23 Sep 2026, 11:55 AM",
+        "originalAirDate": "23 Sep 2026, 06:25 AM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301790968741_AG26_Weightlifting_pictogram_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301796678741_AG26_Weightlifting_pictogram_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": null,
+        "masthead_logo": null,
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301796678741_AG26_Weightlifting_pictogram_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": []
+    },
+    {
+      "contentId": 1090541380,
+      "video_info": {
+        "title": "20th Asian Games Aichi-Nagoya 2026",
+        "shortDescription": "Watch all the exclusive action from the Badminton in the Women's Team, LIVE on Sony LIV.",
+        "longDescription": "Watch all the exclusive action from the Badminton in the Women's Team, LIVE on Sony LIV.",
+        "genres": [
+          "Badminton"
+        ],
+        "episodeTitle": "Republic of Korea vs Japan - Women's Team - Badminton - 23 Sep 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/lJS_OXxuQzuAqyu_oGTjDg/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "23 Sep 2026, 05:25 AM",
+        "contractEndDate": "23 Sep 2026, 11:25 PM",
+        "originalAirDate": "23 Sep 2026, 05:55 AM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541380/portraitThumb/1790123418139_1789292972423348_AG26_Badminton_pictogram_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541380/thumbnail/1790123418318_1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": null,
+        "masthead_logo": null,
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541380/landscapeThumb/1790123418246_1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": []
+    },
+    {
+      "contentId": 1090541854,
+      "video_info": {
+        "title": "20th Asian Games Aichi-Nagoya 2026",
+        "shortDescription": "Watch all the action from the 20th Asian Games Aichi-Nagoya 2026, LIVE on Sony LIV.",
+        "longDescription": "Watch all the action from the 20th Asian Games Aichi-Nagoya 2026, LIVE on Sony LIV.",
+        "genres": [
+          "Badminton"
+        ],
+        "episodeTitle": "Men's and Women's Semifinals - Badminton - 23 Sep 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/oEokuXzzQWyShZplHcTisw/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "23 Sep 2026, 05:55 AM",
+        "contractEndDate": "23 Sep 2026, 11:55 PM",
+        "originalAirDate": "23 Sep 2026, 06:25 AM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292972423348_AG26_Badminton_pictogram_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024211/1789819059991100_AG_generic_masthead_mobile_v2.jpg",
+        "masthead_logo": null,
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": []
+    },
+    {
+      "contentId": 1090541376,
+      "video_info": {
+        "title": "20th Asian Games Aichi-Nagoya 2026",
+        "shortDescription": "Watch all the exclusive action from the Kabaddi in the Men's Team, LIVE on Sony LIV.",
+        "longDescription": "Watch all the exclusive action from the Kabaddi in the Men's Team, LIVE on Sony LIV.",
+        "genres": [
+          "Kabaddi"
+        ],
+        "episodeTitle": "Malaysia vs IR Iran - Men's Team - Kabaddi - 23 Sep 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/Fe-Yf9eVSKeRfjMsJNyn4g/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "23 Sep 2026, 05:25 AM",
+        "contractEndDate": "23 Sep 2026, 11:25 PM",
+        "originalAirDate": "23 Sep 2026, 05:55 AM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541376/portraitThumb/1790127985969_1789299294368348_AG26_Kabaddi_pictogram_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541376/thumbnail/1790127986191_1789299301145348_AG26_Kabaddi_pictogram_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": null,
+        "masthead_logo": null,
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541376/landscapeThumb/1790127986098_1789299301145348_AG26_Kabaddi_pictogram_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": []
+    },
+    {
+      "contentId": 1090541378,
+      "video_info": {
+        "title": "20th Asian Games Aichi-Nagoya 2026",
+        "shortDescription": "Watch all the action from the 20th Asian Games Aichi-Nagoya 2026, LIVE on Sony LIV.",
+        "longDescription": "Watch all the action from the 20th Asian Games Aichi-Nagoya 2026, LIVE on Sony LIV.",
+        "genres": [
+          "Sports"
+        ],
+        "episodeTitle": "Korea vs Japan - Women's Team Semifinal - Badminton - 23 Sep 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/RW16dPdwQkaWLEnliVIIrw/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "23 Sep 2026, 05:25 AM",
+        "contractEndDate": "23 Sep 2026, 11:25 PM",
+        "originalAirDate": "23 Sep 2026, 05:55 AM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292972423348_AG26_Badminton_pictogram_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": null,
+        "masthead_logo": null,
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": []
+    },
+    {
+      "contentId": 1090541387,
+      "video_info": {
+        "title": "20th Asian Games Aichi-Nagoya 2026",
+        "shortDescription": "Watch all the action from the 20th Asian Games Aichi-Nagoya 2026, LIVE on Sony LIV.",
+        "longDescription": "Watch all the action from the 20th Asian Games Aichi-Nagoya 2026, LIVE on Sony LIV.",
+        "genres": [
+          "Swimming"
+        ],
+        "episodeTitle": "Swimming - 23 Sep 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/kMOvGsCwS-2ESy3NzIgWsg/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "23 Sep 2026, 06:05 AM",
+        "contractEndDate": "24 Sep 2026, 12:05 AM",
+        "originalAirDate": "23 Sep 2026, 06:35 AM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789284169869741_AG26_Swimming_pictogram_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789285629023741_AG26_Swimming_pictogram_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": null,
+        "masthead_logo": null,
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789285629023741_AG26_Swimming_pictogram_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": []
+    },
+    {
+      "contentId": 1090541369,
+      "video_info": {
+        "title": "20th Asian Games Aichi-Nagoya 2026",
+        "shortDescription": "Watch all the action from the 20th Asian Games Aichi-Nagoya 2026, LIVE on Sony LIV.",
+        "longDescription": "Watch all the action from the 20th Asian Games Aichi-Nagoya 2026, LIVE on Sony LIV.",
+        "genres": [
+          "Beach Volleyball"
+        ],
+        "episodeTitle": "Bangladesh vs Kazakhstan - Beach Volleyball - 23 Sep 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/zSttkIYeTby1o7CTnOXcCQ/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "23 Sep 2026, 04:55 AM",
+        "contractEndDate": "23 Sep 2026, 10:55 PM",
+        "originalAirDate": "23 Sep 2026, 05:25 AM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789301712144348_AG26_Beach_Volleyball_pictogram_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789301718758348_AG26_Beach_Volleyball_pictogram_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": null,
+        "masthead_logo": null,
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789301718758348_AG26_Beach_Volleyball_pictogram_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": []
+    },
+    {
+      "contentId": 1090541370,
+      "video_info": {
+        "title": "20th Asian Games Aichi-Nagoya 2026",
+        "shortDescription": "Watch all the action from the 20th Asian Games Aichi-Nagoya 2026, LIVE on Sony LIV.",
+        "longDescription": "Watch all the action from the 20th Asian Games Aichi-Nagoya 2026, LIVE on Sony LIV.",
+        "genres": [
+          "Kabaddi"
+        ],
+        "episodeTitle": "Kabaddi - 23 Sep 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/8KzbKHyBTtWJxsU8Fw3dXg/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "23 Sep 2026, 03:25 AM",
+        "contractEndDate": "23 Sep 2026, 09:25 PM",
+        "originalAirDate": "23 Sep 2026, 03:55 AM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789299294368348_AG26_Kabaddi_pictogram_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789299301145348_AG26_Kabaddi_pictogram_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": null,
+        "masthead_logo": null,
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789299301145348_AG26_Kabaddi_pictogram_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": []
+    },
+    {
+      "contentId": 1090541379,
+      "video_info": {
+        "title": "20th Asian Games Aichi-Nagoya 2026",
+        "shortDescription": "Watch all the exclusive action from the Hockey in the Women, LIVE on Sony LIV.",
+        "longDescription": "Watch all the exclusive action from the Hockey in the Women, LIVE on Sony LIV.",
+        "genres": [
+          "Hockey"
+        ],
+        "episodeTitle": "Bangladesh vs Republic of Korea - Women - Hockey - 23 Sep 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "23 Sep 2026, 04:55 AM",
+        "contractEndDate": "23 Sep 2026, 10:55 PM",
+        "originalAirDate": "23 Sep 2026, 05:25 AM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541379/portraitThumb/1790121222544_1789299132323348_AG26_Hockey_pictogram_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541379/thumbnail/1790121222712_1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": null,
+        "masthead_logo": null,
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541379/landscapeThumb/1790121222640_1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": []
+    },
+    {
+      "contentId": 1090541855,
+      "video_info": {
+        "title": "20th Asian Games Aichi-Nagoya 2026",
+        "shortDescription": "Watch all the action from the 20th Asian Games Aichi-Nagoya 2026, LIVE on Sony LIV.",
+        "longDescription": "Watch all the action from the 20th Asian Games Aichi-Nagoya 2026, LIVE on Sony LIV.",
+        "genres": [
+          "Badminton"
+        ],
+        "episodeTitle": "Korea vs Japan - Women's Team Semifinal - Badminton - 23 Sep 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/4CO8p1OmQhKwNcYCQpmFXw/master.m3u8",
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "23 Sep 2026, 05:25 AM",
+        "contractEndDate": "23 Sep 2026, 11:25 PM",
+        "originalAirDate": "23 Sep 2026, 05:55 AM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292972423348_AG26_Badminton_pictogram_live_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": null,
+        "masthead_logo": null,
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": []
     }
   ],
   "upcoming": [
@@ -449,23 +849,23 @@
         "originalAirDate": null
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024414/1790028993226986_IFL_promo_landscape_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024414/1790028993226986_IFL_promo_landscape_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024482/1790087750209617_IND_PAN_DDT_Promo_Portrait_Thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024482/1790087785944617_IND_PAN_DDT_Promo_landscape_Thumb.jpg",
         "masthead_mobile_v1": null,
         "masthead_mobile_v2": null,
         "masthead_logo": null,
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024414/1790028993226986_IFL_promo_landscape_thumb.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024482/1790087785944617_IND_PAN_DDT_Promo_landscape_Thumb.jpg"
       },
-      "multiple_audio_links": []
+      "MULTIPLE_AUDIO_LINKS": []
     },
     {
-      "contentId": 1090542429,
+      "contentId": 1090543727,
       "video_info": {
-        "title": "Upcoming - India vs Brazil",
-        "shortDescription": "Watch an epic football encounter as India faces Brazil, only on Sony LIV.",
-        "longDescription": "Watch an epic football encounter as India faces Brazil, only on Sony LIV.",
+        "title": "Upcoming - India vs Brazil -India's International Friendlies ",
+        "shortDescription": "Watch an epic football encounter as India faces Panama, Brazil and Uruguay, only on Sony LIV.",
+        "longDescription": "Watch an epic football encounter as India faces Panama, Brazil and Uruguay, only on Sony LIV.",
         "genres": [
           "Football"
         ],
@@ -497,142 +897,26 @@
           ],
           "subtitlesLanguages": [],
           "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/605bf045e7c74f8c9a076611896ceb57/1789228545/baseline-std-v4/INDIA_VS_BRAZIL_TEASER_20_SEC_HOR_WOBUG_DATED_APP_New_hin_baseline-800300010.mpd",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/c0736e04036545b693741aa6b48af63e/1790092918/baseline-std-v4/PANKAJ_TRIPATHI_FAN_FILM_IND_VS_BRAZIL_PROMO_55_SEC_HOR_WOBUG_DATED_APP_22092026_hin_baseline-800300010.mpd",
           "hasTrailer": true
         }
       },
       "air_dates": {
-        "contractStartDate": "10 Sep 2026, 12:00 AM",
-        "contractEndDate": "03 Oct 2026, 07:00 PM",
+        "contractStartDate": "22 Sep 2026, 09:00 PM",
+        "contractEndDate": "03 Oct 2026, 06:30 PM",
         "originalAirDate": null
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023792/1789061347287434_IND_vs_BRA_Promo_DDT_Portrait.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023792/1789061342397434_IND_vs_BRA_Promo_DDT_landscape.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024504/1790110633879701_FIFA_international_friendlies_india_vs_brazil_dated_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024504/1790111246357701_FIFA_international_friendlies_india_vs_brazil_dated_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
         "masthead_mobile_v2": null,
         "masthead_logo": null,
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023792/1789061342397434_IND_vs_BRA_Promo_DDT_landscape.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024504/1790111246357701_FIFA_international_friendlies_india_vs_brazil_dated_landscape_thumb.jpg"
       },
-      "multiple_audio_links": []
-    },
-    {
-      "contentId": 1090541822,
-      "video_info": {
-        "title": "Upcoming - Sri Lanka Tour of England 2026",
-        "shortDescription": "Watch all the action from the upcoming Sri Lanka Tour of England 2026, only on Sony LIV.",
-        "longDescription": "Watch all the action from the upcoming Sri Lanka Tour of England 2026, only on Sony LIV.",
-        "genres": [
-          "Cricket"
-        ],
-        "episodeTitle": ""
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "Sony Sports Ten 5",
-        "audio_language_list": [
-          {
-            "lang_code": "ENG",
-            "lang_label": "English"
-          }
-        ],
-        "emfAttributes__audio_languages": "ENG",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "ENG",
-              "isPreferred": true,
-              "audioLanguageLabel": "English",
-              "type": "main"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/0c2e619734b7437480ddccc183960a86/1788848380/baseline-std-v4/PROMO_ENG_VS_SRI_30_SEC_HOR_WOBUG_DATED_APP_eng_baseline-800300010.mpd",
-          "hasTrailer": true
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "08 Sep 2026, 11:00 AM",
-        "contractEndDate": "27 Sep 2026, 02:30 PM",
-        "originalAirDate": null
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024091/1789657390883285_ENGvsSL26_3t20i_tonight_promo_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023836/1789134369325903_ENGvsSL26_dated_landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": null,
-        "masthead_logo": null,
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023836/1789134369325903_ENGvsSL26_dated_landscape_thumb.jpg"
-      },
-      "multiple_audio_links": []
-    },
-    {
-      "contentId": 1090539555,
-      "video_info": {
-        "title": "Upcoming - 20th Asian Games Aichi-Nagoya 2026",
-        "shortDescription": "Watch all the action from the 20th Asian Games Aichi-Nagoya 2026, only on Sony LIV.",
-        "longDescription": "Watch all the action from the 20th Asian Games Aichi-Nagoya 2026, only on Sony LIV.",
-        "genres": [
-          "Sports"
-        ],
-        "episodeTitle": ""
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "Sony Sports Ten 5",
-        "audio_language_list": [
-          {
-            "lang_code": "HIN",
-            "lang_label": "Hindi"
-          }
-        ],
-        "emfAttributes__audio_languages": "HIN",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "HIN",
-              "isPreferred": true,
-              "audioLanguageLabel": "Hindi",
-              "type": "main"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/150b6423042440ef8ed984eda83161cc/1789918477/baseline-std-v4/AG_JOHN_IND_VS_PAK_60_SEC_HOR_WOBUG_DATED_APP_hin_baseline-800300010.mpd",
-          "hasTrailer": true
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "17 Aug 2026, 07:00 PM",
-        "contractEndDate": "04 Oct 2026, 11:59 PM",
-        "originalAirDate": null
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022689/1787385090640643_AsianGame26_IND_vs_PAK_QF_Promo_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024191/1789810621694132_AWC_IND_vs_PAK_Promo_landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023977/1789466196707872_India_Cricket_at_Asian_Games_IND_vs_PAK_with_SP_masthead_mobile_v2_984x1182.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023474/178850275052945_India_Cricket_at_Asian_Games_IND_vs_PAK_Match_Masthead_logo_Dated.png",
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024191/1789810621694132_AWC_IND_vs_PAK_Promo_landscape_thumb.jpg"
-      },
-      "multiple_audio_links": []
+      "MULTIPLE_AUDIO_LINKS": []
     },
     {
       "contentId": 1090538916,
@@ -690,7 +974,123 @@
         "image_600x900_clean": null,
         "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022033/1786433246787561_NZ_vs_IND_DDT_Promo_landscape.jpg"
       },
-      "multiple_audio_links": []
+      "MULTIPLE_AUDIO_LINKS": []
+    },
+    {
+      "contentId": 1090541822,
+      "video_info": {
+        "title": "Upcoming - Sri Lanka Tour of England 2026",
+        "shortDescription": "Watch all the action from the upcoming Sri Lanka Tour of England 2026, only on Sony LIV.",
+        "longDescription": "Watch all the action from the upcoming Sri Lanka Tour of England 2026, only on Sony LIV.",
+        "genres": [
+          "Cricket"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/0c2e619734b7437480ddccc183960a86/1788848380/baseline-std-v4/PROMO_ENG_VS_SRI_30_SEC_HOR_WOBUG_DATED_APP_eng_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "08 Sep 2026, 11:00 AM",
+        "contractEndDate": "27 Sep 2026, 02:30 PM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024091/1789657390883285_ENGvsSL26_3t20i_tonight_promo_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023836/1789134369325903_ENGvsSL26_dated_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": null,
+        "masthead_logo": null,
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023836/1789134369325903_ENGvsSL26_dated_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": []
+    },
+    {
+      "contentId": 1090539555,
+      "video_info": {
+        "title": "Upcoming - 20th Asian Games Aichi-Nagoya 2026",
+        "shortDescription": "Watch all the action from the 20th Asian Games Aichi-Nagoya 2026, only on Sony LIV.",
+        "longDescription": "Watch all the action from the 20th Asian Games Aichi-Nagoya 2026, only on Sony LIV.",
+        "genres": [
+          "Sports"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          }
+        ],
+        "emfAttributes__audio_languages": "HIN",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "HIN",
+              "isPreferred": true,
+              "audioLanguageLabel": "Hindi",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/150b6423042440ef8ed984eda83161cc/1789918477/baseline-std-v4/AG_JOHN_IND_VS_PAK_60_SEC_HOR_WOBUG_DATED_APP_hin_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "17 Aug 2026, 07:00 PM",
+        "contractEndDate": "04 Oct 2026, 11:59 PM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022689/1787385090640643_AsianGame26_IND_vs_PAK_QF_Promo_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024191/1789810621694132_AWC_IND_vs_PAK_Promo_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023977/1789466196707872_India_Cricket_at_Asian_Games_IND_vs_PAK_with_SP_masthead_mobile_v2_984x1182.jpg",
+        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023474/178850275052945_India_Cricket_at_Asian_Games_IND_vs_PAK_Match_Masthead_logo_Dated.png",
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024191/1789810621694132_AWC_IND_vs_PAK_Promo_landscape_thumb.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": []
     },
     {
       "contentId": 1090540014,
@@ -748,7 +1148,7 @@
         "image_600x900_clean": null,
         "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024191/1789810486957132_ASIAN_GAME_2026_GOB_Landscape_Thumb.jpg"
       },
-      "multiple_audio_links": []
+      "MULTIPLE_AUDIO_LINKS": []
     },
     {
       "contentId": 1090542506,
@@ -806,7 +1206,7 @@
         "image_600x900_clean": null,
         "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023939/1789325459946480_IND_vs_NZ_landsacpe_thumb.jpg"
       },
-      "multiple_audio_links": []
+      "MULTIPLE_AUDIO_LINKS": []
     },
     {
       "contentId": 1090539080,
@@ -864,7 +1264,7 @@
         "image_600x900_clean": null,
         "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022077/1786464482593563_AG26_promo_landscape_thumb.jpg"
       },
-      "multiple_audio_links": []
+      "MULTIPLE_AUDIO_LINKS": []
     },
     {
       "contentId": 1090541319,
@@ -922,7 +1322,7 @@
         "image_600x900_clean": null,
         "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023378/178835793245835_AWC_Promo_landscape_thumb.jpg"
       },
-      "multiple_audio_links": []
+      "MULTIPLE_AUDIO_LINKS": []
     },
     {
       "contentId": 1090541320,
@@ -980,7 +1380,7 @@
         "image_600x900_clean": null,
         "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023378/178835785489135_Sunil_grover_landscape_thumb.jpg"
       },
-      "multiple_audio_links": []
+      "MULTIPLE_AUDIO_LINKS": []
     },
     {
       "contentId": 1090541821,
@@ -1038,7 +1438,65 @@
         "image_600x900_clean": null,
         "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023648/178884796612122_Asian_game_landscpae.jpg"
       },
-      "multiple_audio_links": []
+      "MULTIPLE_AUDIO_LINKS": []
+    },
+    {
+      "contentId": 1090542429,
+      "video_info": {
+        "title": "Upcoming - India vs Brazil",
+        "shortDescription": "Watch an epic football encounter as India faces Brazil, only on Sony LIV.",
+        "longDescription": "Watch an epic football encounter as India faces Brazil, only on Sony LIV.",
+        "genres": [
+          "Football"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "LIV",
+        "audio_language_list": [
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          }
+        ],
+        "emfAttributes__audio_languages": "HIN",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "HIN",
+              "isPreferred": true,
+              "audioLanguageLabel": "Hindi",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/605bf045e7c74f8c9a076611896ceb57/1789228545/baseline-std-v4/INDIA_VS_BRAZIL_TEASER_20_SEC_HOR_WOBUG_DATED_APP_New_hin_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "10 Sep 2026, 12:00 AM",
+        "contractEndDate": "03 Oct 2026, 07:00 PM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023792/1789061347287434_IND_vs_BRA_Promo_DDT_Portrait.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023792/1789061342397434_IND_vs_BRA_Promo_DDT_landscape.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": null,
+        "masthead_logo": null,
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023792/1789061342397434_IND_vs_BRA_Promo_DDT_landscape.jpg"
+      },
+      "MULTIPLE_AUDIO_LINKS": []
     },
     {
       "contentId": 1090543661,
@@ -1096,7 +1554,7 @@
         "image_600x900_clean": null,
         "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024470/1790075181873558_Football-Indias-International-Friendlies-Teaser-Thumbs-4_landscape.jpg"
       },
-      "multiple_audio_links": []
+      "MULTIPLE_AUDIO_LINKS": []
     },
     {
       "contentId": 1090543662,
@@ -1154,7 +1612,7 @@
         "image_600x900_clean": null,
         "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024470/1790075161009558_Football-Indias-International-Friendlies-Teaser-Thumbs-3_landscape.jpg"
       },
-      "multiple_audio_links": []
+      "MULTIPLE_AUDIO_LINKS": []
     },
     {
       "contentId": 1090543663,
@@ -1212,65 +1670,7 @@
         "image_600x900_clean": null,
         "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024470/1790075124349558_Football-Indias-International-Friendlies-Teaser-Thumbs-2_landscape.jpg"
       },
-      "multiple_audio_links": []
-    },
-    {
-      "contentId": 1090543664,
-      "video_info": {
-        "title": "Upcoming - India vs Brazil - Teaser 4",
-        "shortDescription": "Watch an epic football encounter as India faces Brazil, only on Sony LIV.",
-        "longDescription": "Watch an epic football encounter as India faces Brazil, only on Sony LIV.",
-        "genres": [
-          "Football"
-        ],
-        "episodeTitle": ""
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "LIV",
-        "audio_language_list": [
-          {
-            "lang_code": "ENG",
-            "lang_label": "English"
-          }
-        ],
-        "emfAttributes__audio_languages": "ENG",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "ENG",
-              "isPreferred": true,
-              "audioLanguageLabel": "English",
-              "type": "main"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/ec1c3e18d2804ed0877bfe7c9b8a9cef/1790075628/baseline-std-v4/PANKAJ_TRIPATHI_TEASER_4_FIFA_15_SEC_eng_baseline-800300010.mpd",
-          "hasTrailer": true
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "22 Sep 2026, 04:00 PM",
-        "contractEndDate": "03 Oct 2026, 07:00 PM",
-        "originalAirDate": null
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024470/1790075081123558_Football-Indias-International-Friendlies-Teaser-Thumbs-1_landscape.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024470/1790075081123558_Football-Indias-International-Friendlies-Teaser-Thumbs-1_landscape.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": null,
-        "masthead_logo": null,
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024470/1790075081123558_Football-Indias-International-Friendlies-Teaser-Thumbs-1_landscape.jpg"
-      },
-      "multiple_audio_links": []
+      "MULTIPLE_AUDIO_LINKS": []
     }
   ]
 }
